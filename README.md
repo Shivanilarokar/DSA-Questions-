@@ -8,19 +8,19 @@
 You can install the project using pip:
 
 ```bash
-pip install project-title
+pip install your_project_name
 ```
 
 ## Usage
 
-### New Functionality
-
-Here are some new usage examples for the updated functionalities:
-
 #### Example of New Function Usage
 
+Here's how to use the new function:
+
 ```python
-result = new_function(arg1, arg2)
+from your_module import new_function
+
+result = new_function(arg1='value1', arg2='value2')
 print(result)
 ```
 
@@ -29,12 +29,6 @@ print(result)
 - Updated installation instructions for clarity.
 - Added new function examples in the usage section.
 - Deprecated and removed `some_function` from the API documentation.
-
-## Contribution
-
-For any inquiries or feedback, feel free to reach out at [your email or contact link].
-
-Thank you for checking out *Project Title*! Happy coding!
 
 ## API Documentation
 
@@ -49,4 +43,12 @@ new_function(arg1: type, arg2: type) -> return_type
 ### Deprecated Functions
 
 - `some_function` - This function has been removed from the API and should not be used.
+
+## Contributing
+
+We welcome contributions from the community! Please read our contributing guidelines for more details.
+
+## Contact
+
+For any inquiries, please reach out at [your email/contact info].
 ```
