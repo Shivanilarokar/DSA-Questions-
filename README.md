@@ -3,15 +3,9 @@
 
 Welcome to Your Project Name! This project is designed to [brief project description].
 
-## Installation
+## What's New
 
-To install the project, simply run:
-
-```bash
-pip install your_project_name
-```
-
-## Usage
+- Introduced a new function `new_function` that allows you to handle specific tasks more efficiently.
 
 ### Example of New Function Usage
 
@@ -22,19 +16,15 @@ result = new_function("example_arg1", "example_arg2")
 print(result)
 ```
 
-### API Documentation
+## API Documentation
 
 - **new_function(arg1: str, arg2: str) -> ReturnType**: A brief description of what `new_function` does. Replace `ReturnType` with the actual return type.
 
-### What's New
+## Deprecated Functions
 
-- **New Functionality:** The new function `new_function` has been added.
-- Updated function signatures and examples reflecting the most recent changes.
+Please note that the following functions/classes have been removed in this version:
 
-### Deprecated Functions/Classes
-
-The following functions/classes have been removed and are considered deprecated:
-- [List any deprecated functions/classes if applicable]
+- [DeprecatedFunctionName] - Description of what the function did (if applicable).
 
 Thank you for checking out *Your Project Name*! Happy coding!
 ```
