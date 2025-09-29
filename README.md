@@ -4,7 +4,7 @@
 
 ## Installation
 
-You can install the project using pip:
+To install the project, use pip:
 
 ```bash
 pip install your_project_name
@@ -19,10 +19,6 @@ result = advanced_function('value1', 'value2')
 print(result)  # This will output the result of the complex operation
 ```
 
-### Deprecated Functions
-
-- **Removed**: Deprecated functions that were previously part of the API documentation, including `some_function`.
-
 ## API Documentation
 
 ### Advanced Function
@@ -36,6 +32,10 @@ advanced_function(param1: str, param2: str) -> Any
   - `param1`: A string parameter that represents...
   - `param2`: Another string parameter that...
 
+### Deprecated Functions
+
+- **Removed**: Deprecated functions that were previously part of the API documentation, including `some_function`.
+
 ## What's New
 
 - **New Feature**: Introduced `advanced_function` for enhanced functionality.
@@ -43,8 +43,10 @@ advanced_function(param1: str, param2: str) -> Any
 
 ## Contributing
 
-We welcome contributions! Please read our [CONTRIBUTING.md](./CONTRIBUTING.md) for guidelines on how to contribute to this project.
+We welcome contributions from the community! Please read our contributing guidelines for more details.
 
 ## Contact
 
-For any inquiries or feedback, feel free to reach out at [your email or contact link].
+For any inquiries or feedback, feel free to reach out at [your email or contact link]. 
+
+Thank you for checking out *Project Title*! Happy coding!
