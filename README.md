@@ -1,5 +1,4 @@
-```markdown
-# Your Project Name
+# Project Title
 
 This project is designed to provide a set of tools for developers to streamline their workflows, including functionalities for data processing, API interaction, and more.
 
@@ -8,47 +7,48 @@ This project is designed to provide a set of tools for developers to streamline 
 - Introduced `new_function` which replaces the deprecated `old_function` with enhanced capabilities.
 - Added detailed usage examples for the new functions.
 
-## API Documentation
-
-### New Function
-
-#### `new_function(param1: type1, param2: type2) -> return_type`
-- **Description**: This function replaces `old_function` and provides improved functionality.
-- **Parameters**:
-  - `param1`: Description of the parameter.
-  - `param2`: Description of the parameter.
-- **Returns**: Description of the return value.
-
-### Deprecated Function
-
-#### `old_function(param1: type1) -> return_type`
-- **Description**: **Deprecated**. This function has been removed. Please use `new_function` instead.
-
 ## Usage Examples
 
-### Example of `new_function`
-```python
-result = new_function(value1, value2)
-print(result)
-
-# You can also check other samples for output format:
-output = new_function(other_value1, other_value2)
-print(output)
-```
-
 ### Example 1: Using `new_function`
+
 ```python
 # Example usage of the new function
 result = new_function(new_parameters)
 ```
 
 ### Example 2: Using `your_function`
+
 ```python
 # Example usage of existing function
 output = your_function(parameters)
 ```
 
+## Installation
+
+To install the package, use the following command:
+
+```bash
+pip install your-package-name
+```
+
+## API Documentation
+
+- **new_function**(new_parameters): Replaces `old_function` providing enhanced capabilities for data processing.
+  - **Parameters**: `new_parameters` — parameters required for the new functionality.
+  - **Returns**: results from processing the new parameters.
+
+- **your_function**(parameters): Performs an existing function with specified parameters.
+  - **Parameters**: `parameters` — a set of input parameters.
+  - **Returns**: the output based on the input parameters.
+
 ## Contributing
 
 [Instructions on how to contribute to the project]
-```
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
+
+## Deprecated Functions
+
+- `old_function`: This function has been deprecated and replaced by `new_function`. Please update your code accordingly to utilize the newer functionality.
