@@ -1,12 +1,10 @@
+```markdown
 # Project Title
 
-## Overview
-This project provides a set of tools for developers to streamline their workflows. It includes functions for data processing, API interaction, and more.
-
-- **Deprecated**: The function `new_function` has been removed from the project. Please refer to the documentation for alternative solutions.
-
-### What's New
-- Added new functionalities to enhance performance and usability.
+## What's New
+- Added new features including the `process_data` and `fetch_data` functions.
+- Updated API documentation for function signatures.
+- Removed deprecated functions.
 
 ## Installation
 To install this project, use the following command:
@@ -15,6 +13,7 @@ pip install project-title
 ```
 
 ## Usage Examples
+
 ### Using `process_data`
 Here is an example of how to use the `process_data` function:
 ```python
@@ -30,41 +29,12 @@ print(data)
 ```
 
 ## API Documentation
+- `process_data(input_list: List[int]) -> int`: Processes a list of integers and returns a single integer result.
+- `fetch_data(url: str) -> dict`: Fetches JSON data from the specified URL and returns it as a dictionary.
 
-### Functions
+### Deprecated Functions
+- The following functions have been removed and should no longer be used:
+  - `old_function`: This function was replaced by `process_data`.
 
-#### `process_data(data: list) -> dict`
-Processes a given list of data and returns a dictionary with the results.
-
-**Parameters:**
-- `data`: A list of data items to be processed.
-
-**Returns:**
-- A dictionary containing processed data.
-
-**Usage Example:**
-```python
-result = process_data([1, 2, 3])
-print(result)
-```
-
-#### `fetch_data(endpoint: str) -> dict`
-Fetches data from the specified API endpoint and returns it as a dictionary.
-
-**Parameters:**
-- `endpoint`: The API endpoint to fetch the data from.
-
-**Returns:**
-- A dictionary containing the fetched data.
-
-**Usage Example:**
-```python
-data = fetch_data('https://api.example.com/data')
-print(data)
-```
-
-## Contributing
-We welcome contributions! Please refer to our contribution guidelines for more details.
-
-## License
 This project is licensed under the MIT License. See the LICENSE file for details.
+```
