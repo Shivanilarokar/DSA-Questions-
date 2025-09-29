@@ -31,23 +31,19 @@ Fetches JSON data from a given URL and returns it as a dictionary.
 ## Usage Examples
 
 ### Example of `process_data`
-
 ```python
 result = process_data([1, 2, 3, 4, 5])
 print(result)  # Output: 15 (assuming it sums the integers)
 ```
 
 ### Example of `fetch_data`
-
 ```python
 data = fetch_data("https://api.example.com/data")
 print(data)  # Output: { "key": "value", ...}
 ```
 
 ## Contributing
-
 We welcome contributions! Please refer to our contribution guidelines for more details.
 
 ## License
-
 [Insert license information here]
