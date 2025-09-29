@@ -1,7 +1,9 @@
-# Project Name
+# Your Project Name
 
 ## Description
 [Provide a brief description of your project here. Explain its purpose, benefits, and any relevant features.]
+
+This project is designed to provide a set of tools for developers to streamline their workflows, including functionalities for data processing, API interaction, and more. 
 
 ## What's New
 - Introduced a new function, `new_function`, which enhances functionality and improves performance.
@@ -13,38 +15,33 @@ To install the package, use the following command:
 pip install your-package-name
 ```
 
-## Usage Examples
-Here are some basic examples of how to use the project:
-
-### Example 1: Using `new_function`
-```python
-# Example usage of the new function
-result = new_function(new_parameters)
-```
-
-### Example 2: Using `your_function`
-```python
-# Example usage of existing function
-output = your_function(parameters)
-```
-
-## Deprecated Functions
-- The function `old_function(parameters)` has been officially deprecated and removed. Please use `new_function(new_parameters)` instead.
-
 ## API Documentation
 
-### `new_function(new_parameters)`
-- **Description**: [Add function description here]
-- **Parameters**: `[List of parameters with descriptions]`
-- **Returns**: `[Description of return type]`
+### New Function
+#### `new_function(param1: type1, param2: type2) -> return_type`
+- **Description**: This function replaces `old_function` and provides improved functionality.
+- **Parameters**:
+  - `param1`: Description of the parameter.
+  - `param2`: Description of the parameter.
+- **Returns**: Description of the return value.
 
-### `your_function(parameters)`
-- **Description**: [Add description for your_function here]
-- **Parameters**: `[List of parameters with descriptions]`
-- **Returns**: `[Description of return type]`
+### Deprecated Function
+#### `old_function(param1: type1) -> return_type`
+- **Description**: **Deprecated**. This function has been removed. Please use `new_function` instead.
 
-## Contributing
-[Instructions on how to contribute to the project]
+## Usage Examples
+
+### Example of `new_function`
+```python
+result = new_function(value1, value2)
+print(result)
+```
+
+You can also check other samples for output format:
+```python
+output = new_function(other_value1, other_value2)
+print(output)
+```
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
