@@ -6,26 +6,15 @@ Project Name is a brief description of what your project does and its intended g
 ## What's New
 
 - **Added**: New function `advanced_function` for handling multiple parameters, enhancing the flexibility of operations.
-- **Removed**: Deprecated functions that were previously part of the API documentation.
+- **Removed**: Deprecated functions that were previously part of the API documentation, including `some_function`.
 - **Updated**: Ensured API documentation reflects the latest changes with revised function signatures.
 
 ## Installation
 
-To install the project, run:
+You can install the project using pip:
 
 ```bash
 pip install your-module
-```
-
-### Advanced Function Usage
-
-To utilize the new `advanced_function`, follow this example:
-
-```python
-from your_module import advanced_function
-
-result = advanced_function(param1_value, param2_value)
-print(result)
 ```
 
 ## API Documentation
@@ -38,6 +27,15 @@ print(result)
 
 - **some_function(params)**: This function has been removed from the API as it is no longer supported. Please use `advanced_function` for enhanced capabilities.
 
+## Usage Examples
+
+Here are some example usages of the new function:
+
+```python
+result = advanced_function('value1', 'value2')
+print(result)  # This will output the result of the complex operation
+```
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
@@ -45,6 +43,10 @@ This project is licensed under the MIT License - see the [LICENSE](./LICENSE) fi
 ## Acknowledgments
 
 Thanks to all contributors and the open-source community for their support and inspiration.
+
+We welcome contributions! Please read our [CONTRIBUTING.md](./CONTRIBUTING.md) for guidelines on how to contribute to this project.
+
+For any inquiries or feedback, feel free to reach out at [your email or contact link].
 
 Thank you for checking out *Project Name*! Happy coding!
 ```
