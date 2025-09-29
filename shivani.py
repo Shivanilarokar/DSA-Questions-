@@ -14,6 +14,5 @@ class Book:
 class User:
     def __init__(self, name):
         self.name = name
-        self.borrowed_books = []
-        print(f"User {self.name} created.")     
+         
 
