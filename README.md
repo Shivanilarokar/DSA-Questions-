@@ -5,11 +5,9 @@
 
 Project Name is a brief description of what your project does and its intended goals. This project aims to solve specific problems and provide useful solutions to developers.
 
-## What's New
-
 - **New File Added**: A comprehensive `README.md` has been introduced to provide clarity and guidance on how to use and contribute to the project.
 
-## Installation
+### Installation
 
 To install Project Name, use the following command:
 
@@ -17,7 +15,14 @@ To install Project Name, use the following command:
 pip install project-name
 ```
 
-## Usage
+## What's New
+
+- Removed the `__init__` method from classes, including `NewFeatureClass`.
+- Class `NewFeatureClass` has been removed meaning that its initialization and functionalities are no longer available.
+- The `Utilities` class has been removed entirely.
+- New function `advanced_function(param1: Type1, param2: Type2) -> ReturnType` added to enhance functionality by accepting multiple parameters for more complex operations.
+
+## Usage Examples
 
 ### Example 1: Basic Usage
 
@@ -52,18 +57,31 @@ print(advanced_result)
   This function takes a parameter and performs an operation.
 
 - `advanced_function(param1: Type1, param2: Type2) -> ReturnType`
-
+  
   New function added to enhance functionality by accepting multiple parameters for more complex operations.
 
-## Contributing
+## Deprecated
+
+- **Removed Classes**:
+  - `NewFeatureClass`: This class has been removed entirely.
+  - `Utilities`: This class has been removed entirely.
+
+- **Removed Function**:
+  - `__init__(self, parameter1: Type1, parameter2: Type2)`: This function has been removed along with its class.
+
+## Contribution
 
 We welcome contributions! Please read our [CONTRIBUTING.md](./CONTRIBUTING.md) for guidelines on how to contribute to this project.
-
-## License
 
 This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
 
 ## Acknowledgments
 
 Thanks to all contributors and the open-source community for their support and inspiration.
+
+## Contact
+
+For any inquiries or feedback, feel free to reach out at [your email or contact link].
+
+Thank you for checking out *Project Name*! Happy coding!
 ```
