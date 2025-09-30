@@ -19,7 +19,7 @@ Project Title is a brief description of what your project does and how it can be
 ## What's New
 
 - The `new_function(new_parameters)` has been **removed**. Please refer to the alternatives in the current functionality.
-- The `old_function(parameters)` has also been **removed**. Users are encouraged to utilize the new functionality available.
+- The `old_function(parameters)` has also been **removed**. Users are encouraged to utilize the new functionalities available.
 
 ## Installation
 
@@ -53,8 +53,8 @@ print(result)
 
 - **Description**: This function does something awesome based on the input parameters.
 - **Parameters**:
-    - `param1` (str): A string parameter for input.
-    - `param2` (int): An integer parameter for input.
+  - `param1` (str): A string parameter for input.
+  - `param2` (int): An integer parameter for input.
 - **Returns**: A string with the awesome result.
 
 ## Deprecated Functions
@@ -65,7 +65,22 @@ print(result)
 
 Users are encouraged to utilize other available functionalities for improved performance and ease of use.
 
+## API Documentation
+
+You can find the API documentation below:
+
+### `do_something_awesome(param1: str, param2: int) -> str`
+
+```python
+def do_something_awesome(param1: str, param2: int) -> str:
+    # Your function implementation
+```
+
+## Contributing
+
 We welcome contributions! Please see the [CONTRIBUTING.md](CONTRIBUTING.md) file for guidelines on how to contribute to this project.
+
+## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
