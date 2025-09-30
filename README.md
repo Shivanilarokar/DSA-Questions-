@@ -1,6 +1,6 @@
 # Project Title
 
-[![Version](https://img.shields.io/badge/version-1.0.0-brightgreen.svg)](https://github.com/username/project/releases)  
+[![Version](https://img.shields.io/badge/version-1.0.0-brightgreen.svg)](https://github.com/username/project/releases)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 ## Overview
@@ -8,10 +8,12 @@
 Project Title is a brief description of what your project does and how it can be used. This project aims to provide useful features and functionalities that can help users achieve specific goals.
 
 ## What's New
+
 - The `new_function(new_parameters)` has been **removed**. Please refer to the alternatives in the current functionality.
 - The `old_function(parameters)` has also been **removed**. Users are encouraged to utilize the new functionalities available.
 
 ## Table of Contents
+
 - [What's New](#whats-new)
 - [Installation](#installation)
 - [Usage](#usage)
@@ -37,17 +39,17 @@ pip install .
 
 ## Usage
 
-Here are some examples of how to use the features of this project.
+Here are some examples of how to use the features of this project:
 
 ```python
 import project
 
 # Example of using a core function
 result = project.do_something_awesome(param1="value", param2=42)
-print(result)  # Output: [Expected output]
 ```
 
 ### `do_something_awesome(param1: str, param2: int) -> str`
+
 - **Description**: This function does something awesome based on the input parameters.
 - **Parameters**:
   - `param1` (str): A string parameter for input.
@@ -57,19 +59,16 @@ print(result)  # Output: [Expected output]
 ## Deprecated Functions
 
 The following functions have been removed and are no longer available:
+
 - `new_function(new_parameters)`
 - `old_function(parameters)`
 
 Users are encouraged to utilize other available functionalities for improved performance and ease of use.
 
-## API Documentation
+### Removed Function Signatures
 
-### `do_something_awesome(param1: str, param2: int) -> str`
-
-```python
-def do_something_awesome(param1: str, param2: int) -> str:
-    # Your function implementation
-```
+1. **`new_function(new_parameters)`** - **removed**
+2. **`old_function(parameters)`** - **removed**
 
 ## Contributing
 
