@@ -18,9 +18,9 @@ Project Title is a brief description of what your project does and how it can be
 
 ## What's New
 
-- Introduction of `NewClass` which offers improved functionality and better performance through its methods.
-- Deprecation of `old_function` in favor of more efficient alternatives.
-- `new_function` has been removed as it no longer fits the project direction.
+- **Introduction of `NewClass`**: This new class offers improved functionality and better performance through its methods.
+- **Deprecation of `old_function`**: This function has been deprecated in favor of more efficient alternatives.
+- **Removal of `new_function`**: This function has been removed as it no longer fits the project direction.
 
 ## Installation
 
@@ -40,7 +40,7 @@ pip install .
 
 ## Usage
 
-Here are some examples of how to use the features of this project.
+Here are some examples of how to use the features of this project:
 
 ```python
 import project
@@ -63,7 +63,9 @@ result = example_instance.method1(param="test")
 print(result)  # Output will depend on the implementation of method1
 ```
 
-### `do_something_awesome(param1: str, param2: int) -> str`
+### API Documentation
+
+#### `do_something_awesome(param1: str, param2: int) -> str`
 
 - **Description**: This function does something awesome based on the input parameters.
 - **Parameters**:
@@ -76,7 +78,7 @@ print(result)  # Output will depend on the implementation of method1
 - The function `old_function(parameters)` has been marked as deprecated. Users are encouraged to utilize other available functionality for improved performance and ease of use.
 - The function `new_function(new_parameters)` has been removed. It no longer fits the project direction.
 
-## API Documentation
+### NewClass API
 
 - `__init__(param1: str)`: Initializes the NewClass with the given parameter.
 - `method1(param: str) -> Any`: A method that performs an action based on the input parameter and returns a result.
