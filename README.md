@@ -65,6 +65,8 @@ result = example_instance.method1(param="test")
 print(result)  # Output will depend on the implementation of method1
 ```
 
+## API Documentation
+
 ### `do_something_awesome(param1: str, param2: int) -> str`
 
 - **Description**: This function does something awesome based on the input parameters.
@@ -73,14 +75,14 @@ print(result)  # Output will depend on the implementation of method1
   - `param2` (int): An integer parameter for input.
 - **Returns**: A string with the awesome result.
 
-### Deprecated Functions
-
-- The function `old_function(parameters)` has been removed. Users are encouraged to utilize other available functionality for improved performance and ease of use.
-
-## API Documentation
+### NewClass
 
 - `__init__(param1: str)`: Initializes the `NewClass` with the given parameter.
 - `method1(param: str) -> Any`: A method that performs an action based on the input parameter and returns a result.
+
+### Deprecated Functions
+
+- The function `old_function(parameters)` has been removed. Users are encouraged to utilize other available functionality for improved performance and ease of use.
 
 ## Contributing
 
