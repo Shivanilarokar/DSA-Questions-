@@ -1,0 +1,15 @@
+import random
+import time
+
+# Emoji list to use for art
+emojis = ["✨", "🌸", "🔥", "💎", "⚡", "🎮", "🦋", "🌙", "🍀", "💥"]
+
+def random_art(width=30, height=10, delay=0.2):
+    for _ in range(height):
+        row = "".join(random.choice(emojis) for _ in range(width))
+        print(row)
+        time.sleep(delay)
+
+if __name__ == "__main__":
+    print("🎨 Welcome to Random Emoji Art 🎨\n")
+    random_art()
