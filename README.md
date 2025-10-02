@@ -1,89 +1,65 @@
 ```markdown
-# Project Title
+# Webhook Processor
 
-Welcome to the **Project Title** repository! This project is designed to [briefly describe what your project does]. 
+## Overview
+The Webhook Processor is a FastAPI-based application designed to handle webhook events from GitHub, allowing for efficient integration and automation in development workflows. The application listens for push and pull request events, logging relevant information for further processing.
 
-## Table of Contents
-- [Installation](#installation)
-- [Usage](#usage)
-- [API Documentation](#api-documentation)
-- [What's New](#whats-new)
-- [Contributing](#contributing)
-- [License](#license)
+## What's New
+- **Added**: Enhanced logging functionality to capture incoming webhook data.
+- **Added**: An endpoint to handle webhook events with improved request handling.
+- **Updated**: API documentation to reflect changes in function signatures and workflows.
 
-## Installation
+## Getting Started
+To get started, you'll need to clone the repository and install the required packages. Ensure you have Python 3.7+ and FastAPI installed.
 
-To get started with **Project Title**, please follow these steps:
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/project-title.git
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd project-title
-   ```
-3. Install the required dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-## Usage
-
-Here are some examples on how to use the main features of **Project Title**:
-
-### Example of Functionality 1
-```python
-from project_module import functionality1
-
-result = functionality1(parameters)
-print(result)
+```bash
+git clone https://github.com/yourusername/webhook-processor.git
+cd webhook-processor
+pip install fastapi uvicorn
 ```
 
-### Example of Functionality 2
-```python
-from project_module import functionality2
+### Running the Application
+To run the FastAPI application, execute:
 
-data = ["data1", "data2"]
-result = functionality2(data)
-print(result)
+```bash
+uvicorn main:app --host 0.0.0.0 --port 8000 --reload
 ```
+
+### Webhook Endpoint
+The webhook endpoint is now defined as:
+
+```python
+async def webhook(request: Request, x_hub_signature_256: Optional[str] = Header(None), x_github_event: Optional[str] = Header(None)):
+    # Process the incoming webhook event here
+```
+
+### Example Usage
+Here is how to send a test webhook event to the webhook URL:
+
+```bash
+curl -X POST "http://localhost:8000/webhook" \
+-H "Content-Type: application/json" \
+-H "X-Hub-Signature-256: your_signature" \
+-H "X-Github-Event: push" \
+-d '{"pusher": {"name": "user"}, "action": "created"}'
+```
+
+### Logging
+The application now includes a logging setup to track incoming requests and processes efficiently, logging at the INFO level.
 
 ## API Documentation
 
-### functionality1(parameters)
-- **Parameters**: 
-  - `parameters` (Type): [Description]
-- **Returns**: 
-  - (Type): [Description]
-  
-### functionality2(data)
-- **Parameters**: 
-  - `data` (List): A list of data entries.
-- **Returns**: 
-  - (Type): Processed output data.
+### `webhook(request: Request, x_hub_signature_256: Optional[str] = Header(None), x_github_event: Optional[str] = Header(None))`
+- **Parameters**:
+  - `request`: The HTTP request object containing the payload.
+  - `x_hub_signature_256`: Optional signature for validating the request.
+  - `x_github_event`: The type of GitHub event (e.g., push, pull_request).
 
-## What's New
+## Deprecated Functions
+- None at the moment. All functionality has been revised and updated.
 
-- **New Features**:
-  - Introduced `functionality1` for [short description of the purpose of functionality1].
-  - Added `functionality2` which allows [short description of what functionality2 does].
-  
-- **Improvements**:
-  - Enhanced performance of existing modules.
-  
-- **Deprecated**:
-  - `old_functionality()` has been removed. Use `functionality1()` instead for improved features.
-
-## Contributing
-
-We welcome contributions! Please read our [CONTRIBUTING.md](CONTRIBUTING.md) file for guidelines on how to contribute.
-
-## License
+## Contribution
+Contributions are welcome! Please create a pull request or raise an issue if you find bugs or have suggestions. 
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Thank you for using **Project Title**! If you have any questions or feedback, feel free to open an issue or contribute to the project.
 ```
