@@ -1,65 +1,39 @@
-# Project Title
+```markdown
+# Webhook Processor
 
-A brief description of what this project does and who it's for.
+## Overview
 
-## Table of Contents
+The Webhook Processor is a FastAPI-based application designed to handle webhook events from GitHub, allowing for efficient integration and automation in development workflows. The application listens for push and pull request events, logging relevant information for further processing.
 
-- [Installation](#installation)
-- [Usage](#usage)
-- [API Documentation](#api-documentation)
-- [What's New](#whats-new)
-- [Contributing](#contributing)
-- [License](#license)
+## What's New
+
+- **Added**: Enhanced logging functionality to capture incoming webhook data.
+- **Added**: An endpoint to handle webhook events with improved request handling.
+- **Updated**: API documentation to reflect changes in function signatures and workflows.
 
 ## Installation
 
-To get started with this project, you must first install the required dependencies. You can do this using pip:
+To get started, you'll need to clone the repository and install the required packages. Ensure you have Python 3.7+ and FastAPI installed.
 
 ```bash
-pip install -r requirements.txt
+git clone https://github.com/yourusername/webhook-processor.git
+cd webhook-processor
+pip install fastapi uvicorn
 ```
 
 ## Usage
 
-Here are examples of how to use the newly introduced function within the FastAPI application component:
+### Running the Application
 
-### FastAPI Webhook
+To run the FastAPI application, execute:
 
-This function sets up a webhook that listens for GitHub events such as push events and pull requests.
-
-```python
-from fastapi import FastAPI, Request, Header
-import logging
-import sys
-from typing import Optional
-
-# Setup logger
-logger = logging.getLogger("FastAPIWebhook")
-handler = logging.StreamHandler(sys.stdout)
-formatter = logging.Formatter("%(asctime)s [%(levelname)s] %(name)s: %(message)s")
-handler.setFormatter(formatter)
-logger.addHandler(handler)
-logger.setLevel(logging.INFO)
-
-# Initialize FastAPI
-app = FastAPI()
-
-@app.post("/webhook")
-async def webhook(
-    request: Request,
-    x_hub_signature_256: Optional[str] = Header(None),
-    x_github_event: Optional[str] = Header(None),
-):
-    body = await request.body()
-    payload = await request.json()
-    logger.info("📬 Received %s event", x_github_event)
-
-    # Implementation of event handling can go here
+```bash
+uvicorn quote:app --host 0.0.0.0 --port 8000 --reload
 ```
 
-### Sample Event Handling
+### Webhook Endpoint
 
-This sample demonstrates how to process different GitHub webhook events:
+The webhook endpoint is now defined as:
 
 ```python
 @app.post("/webhook")
@@ -68,35 +42,52 @@ async def webhook(
     x_hub_signature_256: Optional[str] = Header(None),
     x_github_event: Optional[str] = Header(None),
 ):
-    ...
-    if x_github_event == "push":
-        bot_user = payload.get("pusher", {}).get("name")
-    elif x_github_event == "pull_request":
-        bot_user = payload.get("sender", {}).get("login")
-    # Process webhook event
-    logger.info("📬 Processing webhook event from bot: %s", bot_user)
+    # Process the incoming webhook event here
 ```
+
+### Example Usage
+
+Here is how to send a test webhook event to the webhook URL:
+
+```bash
+curl -X POST "http://localhost:8000/webhook" \
+-H "Content-Type: application/json" \
+-H "X-Hub-Signature-256: your_signature" \
+-H "X-Github-Event: push" \
+-d '{"pusher": {"name": "user"}, "action": "created"}'
+```
+
+### Logging
+
+The application now includes a logging setup to track incoming requests and processes efficiently, logging at the INFO level.
 
 ## API Documentation
 
-### `webhook(request: Request, x_hub_signature_256: Optional[str] = Header(None), x_github_event: Optional[str] = Header(None))`
+### webhook
 
-- **Description**: This endpoint processes incoming GitHub webhook events.
-- **Parameters**:
-  - `request`: The incoming HTTP request.
-  - `x_hub_signature_256`: Optional header containing the signature of the webhook.
-  - `x_github_event`: Optional header containing the type of the GitHub event.
-- **Returns**: None
+```python
+async def webhook(
+    request: Request,
+    x_hub_signature_256: Optional[str] = Header(None),
+    x_github_event: Optional[str] = Header(None),
+)
+```
 
-## What's New
+#### Parameters
 
-- Introduced a new FastAPI based webhook listener for GitHub events, enabling better integration and automation based on push and pull request events.
-- Improved logging throughout the webhook process to assist in debugging and event tracking.
+- `request`: The HTTP request object containing the payload.
+- `x_hub_signature_256`: Optional signature for validating the request.
+- `x_github_event`: The type of GitHub event (e.g., push, pull_request).
 
-## Contributing
+## Deprecated Functions
 
-We welcome contributions to this project! Please fork the repository and submit a pull request.
+- None at the moment. All functionality has been revised and updated.
+
+## Contribution
+
+Contributions are welcome! Please create a pull request or raise an issue if you find bugs or have suggestions.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+```
