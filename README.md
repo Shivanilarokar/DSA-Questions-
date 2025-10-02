@@ -1,44 +1,30 @@
-# Movie Analyzer
+# Movie Analyzer README
 
 ## Overview
 
-The Movie Analyzer is a Python application that helps users fetch, analyze, and store information about movies. Users can retrieve movie data from an API, evaluate ratings, and categorize their collection based on various criteria.
+Movie Analyzer is a Python application designed for managing and analyzing a collection of movies. It allows users to fetch movie data from an API, store it, and perform various analyses like calculating average ratings and filtering by genre. This latest version introduces new features and classes for improved functionality.
 
 ## What's New
 
-- **Added Classes**:
-  - `Movie`: Represents a movie with attributes like `title`, `year`, `rating`, and `genre`.
-  - `MovieFetcher`: Fetches movie data using an external API.
-  - `MovieAnalyzer`: Analyzes the fetched movie data, calculates average ratings, and allows saving/loading movie data.
+- **New Classes**:
+  - `Movie`: Represents a movie with attributes like title, year, rating, and genre.
+  - `MovieFetcher`: A utility class to fetch movie details from an external API.
+  - `MovieAnalyzer`: Handles a collection of movies and provides analysis functionalities.
 
-- **Added Functions**:
-  - `__init__(self, title: str, year: int, rating: float, genre: str)` for `Movie`: Initializes a new movie instance.
-  - `__repr__(self)`: Provides a string representation of the movie.
+- **New Functions**:
+  - `__init__(self, title: str, year: int, rating: float, genre: str)`: Initializes a `Movie` instance.
+  - `__repr__(self)`: Returns a user-friendly string representation of the `Movie`.
   - `add_movie(self, movie: Movie)`: Adds a movie to the analyzer.
-  - `save_to_file(self, filename="movies.json")`: Saves the movie list to a JSON file.
-  - `load_from_file(self, filename="movies.json")`: Loads movie data from a JSON file.
-  - `main()`: The main entry point of the application.
-
-- **Deprecated**:
-  - The function `add(a, b)` has been removed from the application.
+  - `save_to_file(self, filename="movies.json")`: Saves the current movie list to a JSON file.
+  - `load_from_file(self, filename="movies.json")`: Loads movies from a JSON file.
+  - `main()`: Entry point to run the Movie Analyzer application.
+  
+- **Deprecated Functions**:
+  - Function `add(a, b)` removed.
 
 ## Installation
 
-Make sure you have Python installed on your machine. Use the following command to clone the repository:
-
-```bash
-git clone https://github.com/yourusername/movie-analyzer.git
-```
-
-Navigate to the project directory:
-
-```bash
-cd movie-analyzer
-```
-
-## Dependencies
-
-Before running the application, ensure that you have the required dependencies installed. You can install them using:
+To install the required dependencies, ensure you have Python 3.x installed and run:
 
 ```bash
 pip install requests
@@ -46,115 +32,96 @@ pip install requests
 
 ## Usage
 
-Run the application using the command:
+### Adding a Movie
 
-```bash
-python baby.py
-```
-
-### Example Usage
-
-Below are examples demonstrating how to utilize the new functionality:
+To add a movie to the analyzer, you can use the `add_movie` method:
 
 ```python
-# Create a movie instance
-movie = Movie(title="Inception", year=2010, rating=8.8, genre="Sci-Fi")
-print(movie)
+from baby import Movie, MovieAnalyzer
 
-# Create a MovieAnalyzer and add movies
 analyzer = MovieAnalyzer()
-analyzer.add_movie(movie)
+new_movie = Movie(title="Inception", year=2010, rating=8.8, genre="Sci-Fi")
+analyzer.add_movie(new_movie)
+```
 
-# Save movies to a file
-analyzer.save_to_file()
+### Saving and Loading Movies
 
-# Load movies from a file
-analyzer.load_from_file()
+Movies can be saved to and loaded from a file using:
 
-# Fetch movies using MovieFetcher
-fetched_data = MovieFetcher.fetch_movie("The Matrix")
-if fetched_data:
-    matrix_movie = Movie(
-        title=fetched_data["Title"],
-        year=int(fetched_data["Year"].split("–")[0]),
-        rating=float(fetched_data["imdbRating"]),
-        genre=fetched_data["Genre"].split(",")[0]
-    )
-    analyzer.add_movie(matrix_movie)
+```python
+# Save movies to file
+analyzer.save_to_file("my_movies.json")
 
-# Calculate average rating
-average = analyzer.average_rating()
-print(f"Average Rating: {average}")
+# Load movies from file
+analyzer.load_from_file("my_movies.json")
+```
 
-# Get top-rated movies
-top_movies = analyzer.top_rated(3)
-print("Top 3 Rated Movies:")
-for top_movie in top_movies:
-    print(top_movie)
+### Running the Application
 
-# List Sci-Fi movies
-sci_fi_movies = analyzer.by_genre("Sci-Fi")
-print("Sci-Fi Movies:")
-for sci_fi_movie in sci_fi_movies:
-    print(sci_fi_movie)
+To run the Movie Analyzer, you can simply call the `main()` function:
+
+```python
+from baby import main
+
+if __name__ == "__main__":
+    main()
+```
+
+### Example of Fetching a Movie
+
+Here's how to fetch a movie using the `MovieFetcher` class:
+
+```python
+from baby import MovieFetcher
+
+movie_data = MovieFetcher.fetch_movie("Inception")
+print(movie_data)
 ```
 
 ## API Documentation
 
-### Movie Class
+### Classes
 
-- **`class Movie`**  
-  Represents a movie.
-  
-  - **`__init__(self, title: str, year: int, rating: float, genre: str)`**
-    Initializes a new instance of `Movie`.
+#### Movie
 
-  - **`__repr__(self)`**
-    Returns a string representation of the movie.
+```python
+class Movie:
+    def __init__(self, title: str, year: int, rating: float, genre: str)
+    def __repr__(self)
+```
 
-### MovieFetcher Class
+#### MovieFetcher
 
-- **`class MovieFetcher`**  
-  Fetches movie data from an external API.
+```python
+class MovieFetcher:
+    API_URL = "https://www.omdbapi.com/"
+    API_KEY = "demo"
+    
+    @classmethod
+    def fetch_movie(cls, title: str) -> Dict[str, Any]
+```
 
-  - **`fetch_movie(cls, title: str) -> Dict[str, Any]`**
-    Fetches movie information based on the title.
+#### MovieAnalyzer
 
-### MovieAnalyzer Class
+```python
+class MovieAnalyzer:
+    def __init__(self)
+    def add_movie(self, movie: Movie)
+    def average_rating(self) -> float
+    def top_rated(self, n=3) -> List[Movie]
+    def by_genre(self, genre: str) -> List[Movie]
+    def save_to_file(self, filename="movies.json")
+    def load_from_file(self, filename="movies.json")
+```
 
-- **`class MovieAnalyzer`**  
-  Analyzes and manages a collection of movies.
-  
-  - **`__init__(self)`**
-    Initializes a list to hold movies.
+### Functions
 
-  - **`add_movie(self, movie: Movie)`**
-    Adds a movie to the collection.
-
-  - **`average_rating(self) -> float`**
-    Returns the average rating of the movies in the collection.
-
-  - **`top_rated(self, n=3) -> List[Movie]`**
-    Returns the top `n` rated movies.
-
-  - **`by_genre(self, genre: str) -> List[Movie]`**
-    Returns a list of movies filtered by the specified genre.
-
-  - **`save_to_file(self, filename="movies.json")`**
-    Saves the movie collection to a JSON file.
-
-  - **`load_from_file(self, filename="movies.json")`**
-    Loads movies from a JSON file into the collection.
-
-## Contributing
-
-We welcome contributions to the Movie Analyzer! Please create an issue or submit a pull request to propose changes or enhancements.
+```python
+def main()
+```
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details. 
+This project is licensed under the MIT License - see the LICENSE file for details. 
 
-## Acknowledgements
-
-- Thanks to the OMDb API for providing movie data.
-- Logging is managed using Python's in-built logging library.
+For any queries or contributions, please feel free to create an issue or pull request.
