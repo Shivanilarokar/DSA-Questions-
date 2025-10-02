@@ -14,21 +14,18 @@ Welcome to the Movie Analyzer project! This Python application allows users to m
   - `save_to_file`: Saves the current movie collection to a JSON file.
   - `load_from_file`: Loads movies from a JSON file into the collection.
   - `main`: Main function to execute the application.
-  - Enhanced `__init__` and `__repr__` methods for the `Movie` class.
 
 - **Removed Functionality:**
   - The function `add(a, b)` has been **deprecated** and removed from the codebase.
 
-## Installation
+## Clone the Repository
 Clone the repository:
-
 ```bash
 git clone https://github.com/yourusername/movie-analyzer.git
 cd movie-analyzer
 ```
 
 Install the required packages:
-
 ```bash
 pip install requests
 ```
@@ -82,12 +79,18 @@ def main():
 ```
 
 ### Class and Function Definitions
-#### Class: Movie
-#### Class: MovieFetcher
-```python
-def fetch_movie(cls, title: str) -> Dict[str, Any]  # Fetch movie data from OMDb
-```
-#### Class: MovieAnalyzer
+#### Class: `Movie`
+- Represents a movie object with attributes for title, year, rating, and genre.
+
+#### Class: `MovieFetcher`
+- Responsible for fetching movies from the OMDb API.
+
+    ```python
+    def fetch_movie(cls, title: str) -> Dict[str, Any]
+    ```
+
+#### Class: `MovieAnalyzer`
+- Manages a collection of movies for analysis.
 
 ### Deprecated Functions
 - The function `def add(a, b):` has been removed from the codebase.
@@ -97,5 +100,5 @@ The Movie Analyzer uses logging to provide insights into operations. The log dat
 
 Feel free to fork the repository, make changes, and submit pull requests. We always welcome contributors!
 
-This project is licensed under the MIT License.
+This project is licensed under the MIT License - see the LICENSE file for details.
 ```
