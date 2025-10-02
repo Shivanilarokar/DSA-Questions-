@@ -1,64 +1,61 @@
 ```markdown
-# Webhook Processor
+# Project Title
 
 ## Overview
-The Webhook Processor is a FastAPI-based application designed to handle webhook events from GitHub, allowing for efficient integration and automation in development workflows. The application listens for push and pull request events, logging relevant information for further processing.
+Brief description of the project, its purpose, and functionalities.
 
 ## What's New
-- **Added**: Enhanced logging functionality to capture incoming webhook data.
-- **Added**: An endpoint to handle webhook events with improved request handling.
-- **Updated**: API documentation to reflect changes in function signatures and workflows.
+- **Added** a new async webhook function to handle incoming GitHub webhooks.
+- **Updated** the API documentation to reflect new parameter signatures.
+- **Deprecated** any existing synchronous methods related to webhook handling.
 
 ## Getting Started
-To get started, you'll need to clone the repository and install the required packages. Ensure you have Python 3.7+ and FastAPI installed.
+To get started with this project, follow the instructions below.
 
-```bash
-git clone https://github.com/yourusername/webhook-processor.git
-cd webhook-processor
-pip install fastapi uvicorn
-```
+### Installation
+1. Clone the repository.
+   ```bash
+   git clone https://github.com/username/repo.git
+   ```
+2. Navigate to the project directory.
+   ```bash
+   cd repo
+   ```
+3. Install necessary dependencies.
+   ```bash
+   pip install -r requirements.txt
+   ```
 
-### Running the Application
-To run the FastAPI application, execute:
-
-```bash
-uvicorn quote:app --host 0.0.0.0 --port 8000 --reload
-```
-
-### Webhook Endpoint
-The webhook endpoint is now defined as:
+## Usage
+### Webhook Handler
+The new webhook function can be utilized to handle incoming requests from GitHub. Below is an example of how to use the latest `webhook` function.
 
 ```python
-@app.post("/webhook")
-async def webhook(request: Request, x_hub_signature_256: Optional[str] = Header(None), x_github_event: Optional[str] = Header(None)):
-    # Process the incoming webhook event here
+from fastapi import FastAPI, Request, Header
+from your_module import webhook
+
+app = FastAPI()
+
+@app.post("/webhook/")
+async def handle_webhook(request: Request, x_hub_signature_256: Optional[str] = Header(None), x_github_event: Optional[str] = Header(None)):
+    response = await webhook(request, x_hub_signature_256, x_github_event)
+    return response
 ```
-
-### Example Usage
-Here is how to send a test webhook event to the webhook URL:
-
-```bash
-curl -X POST "http://localhost:8000/webhook" \
--H "Content-Type: application/json" \
--H "X-Hub-Signature-256: your_signature" \
--H "X-Github-Event: push" \
--d '{"pusher": {"name": "user"}, "action": "created"}'
-```
-
-### Logging
-The application now includes a logging setup to track incoming requests and processes efficiently, logging at the INFO level.
 
 ## API Documentation
-### webhook
-#### Parameters
-- `request`: The HTTP request object containing the payload.
-- `x_hub_signature_256`: Optional signature for validating the request.
-- `x_github_event`: The type of GitHub event (e.g., push, pull_request).
+### `async def webhook(request: Request, x_hub_signature_256: Optional[str] = Header(None), x_github_event: Optional[str] = Header(None))`
+This asynchronous function processes incoming webhook requests from GitHub.
 
-## Deprecated Functions
-- None at the moment. All functionality has been revised and updated.
+- **Parameters:**
+  - `request` (Request): The incoming HTTP request object.
+  - `x_hub_signature_256` (Optional[str]): The signature for validating the request. Default is None.
+  - `x_github_event` (Optional[str]): The GitHub event type of the webhook. Default is None.
 
-## Contribution
-Contributions are welcome! Please create a pull request or raise an issue if you find bugs or have suggestions.
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+### Deprecated Functions
+- Any previously used synchronous webhook handling methods have been deprecated and should be removed from your codebase to ensure compatibility with the latest updates.
+
+## License
+Specify the license under which the project is released.
 ```
+
+This README summarizes the updates made to the project, providing new usage examples, updated API documentation, and clear indications of deprecated functions.
