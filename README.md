@@ -1,6 +1,6 @@
-# Movie Analyzer
+# Movie Analyzer Documentation
 
-A simple movie analysis tool that allows users to fetch movie data, analyze ratings, and manage movie collections.
+Welcome to the **Movie Analyzer** project! This Python application allows users to manage a collection of movies, fetch movie data from the OMDb API, analyze ratings, and save/load movie records from a file.
 
 ## What's New
 - **Added** new `Movie`, `MovieFetcher`, and `MovieAnalyzer` classes to handle movie objects, fetching movie data from the OMDb API, and analyzing a collection of movies.
@@ -12,40 +12,41 @@ A simple movie analysis tool that allows users to fetch movie data, analyze rati
 
 ### Prerequisites
 Make sure you have Python 3.x installed. You can check your Python version by running:
-
 ```bash
 python --version
 ```
 
 ### Installation
 Clone the repository:
-
 ```bash
 git clone https://github.com/yourusername/repo.git
 cd repo
 ```
+Then, install the required dependencies:
+```bash
+pip install -r requirements.txt
+```
 
 ### Usage
 To run the Movie Analyzer, simply execute the `baby.py` script:
-
 ```bash
 python baby.py
 ```
 
-### API Documentation
+## API Documentation
 
-#### Movie Class
+### Movie Class
 - **`class Movie`**
   - A class representing a Movie object.
   
   **Methods**
-  - **`__init__(self, title: str, year: int, rating: float, genre: str)`**  
+  - **`__init__(self, title: str, year: int, rating: float, genre: str)`**
     Initializes the Movie object with the specified attributes.
     
-  - **`__repr__(self)`**  
+  - **`__repr__(self)`**
     Returns a string representation of the Movie object.
 
-#### MovieFetcher Class
+### MovieFetcher Class
 - **`class MovieFetcher`**
   - A class responsible for fetching movie data from the OMDb API.
   
@@ -54,41 +55,42 @@ python baby.py
   - `API_KEY`: Key for accessing the OMDb API.
   
   **Methods**
-  - **`fetch_movie(cls, title: str) -> Dict[str, Any]`**  
+  - **`fetch_movie(cls, title: str) -> Dict[str, Any]`**
     Fetches movie data from the OMDb API for the given title. Returns a dictionary with movie data if found; otherwise, logs a warning and returns an empty dictionary.
 
-#### MovieAnalyzer Class
+### MovieAnalyzer Class
 - **`class MovieAnalyzer`**
   - A class for analyzing a collection of Movie objects.
   
   **Methods**
-  - **`__init__(self)`**  
+  - **`__init__(self)`**
     Initializes a new MovieAnalyzer with an empty movie list.
     
-  - **`add_movie(self, movie: Movie)`**  
+  - **`add_movie(self, movie: Movie)`**
     Adds a Movie object to the analyzer's collection and logs the action.
-  
-  - **`average_rating(self) -> float`**  
+    
+  - **`average_rating(self) -> float`**
     Returns the average rating of the movies in the collection.
-  
-  - **`top_rated(self, n=3) -> List[Movie]`**  
+    
+  - **`top_rated(self, n=3) -> List[Movie]`**
     Returns the top `n` rated movies from the collection.
-  
-  - **`by_genre(self, genre: str) -> List[Movie]`**  
+    
+  - **`by_genre(self, genre: str) -> List[Movie]`**
     Returns a list of movies that match the specified genre.
-  
-  - **`save_to_file(self, filename="movies.json")`**  
+    
+  - **`save_to_file(self, filename="movies.json")`**
     Saves the current movie collection to a specified JSON file.
-  
-  - **`load_from_file(self, filename="movies.json")`**  
+    
+  - **`load_from_file(self, filename="movies.json")`**
     Loads movie data from a specified JSON file into the analyzer's collection.
 
-#### Main Function
-- **`main()`**  
+### Main Function
+- **`main()`**
   The main function to run the Movie Analyzer. It loads existing movie data, fetches new movie data, and displays results.
 
 ## Usage Examples
-Here are some basic usage examples to illustrate how to working with the new classes.
+
+Here are some basic usage examples to illustrate how to work with the new classes.
 
 ### Adding Movies
 ```python
