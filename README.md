@@ -1,129 +1,105 @@
 ```markdown
-# MovieAnalyzer
+# Movie Analyzer
 
-MovieAnalyzer is a Python application for managing and analyzing movies. It fetches movie data using the OMDb API, allows you to add movies, and provides functionalities for analyzing the added movie data including rating averages and genre-based filtering.
+Welcome to the Movie Analyzer project! This Python application allows users to manage a collection of movies, fetch movie data from the OMDb API, analyze ratings, and save/load movie records from a file.
 
 ## What's New
-
-- **New Classes**:
-  - `Movie`: Represents a movie object with attributes for title, year, rating, and genre.
-  - `MovieFetcher`: Handles fetching movies from the OMDb API.
-  - `MovieAnalyzer`: Manages a collection of movies for analysis.
+- **Added New Classes:**
+  - `Movie`: Represents a movie with attributes such as title, year, rating, and genre.
+  - `MovieFetcher`: Responsible for fetching movie data from the OMDb API.
+  - `MovieAnalyzer`: Core class for managing a collection of movies, analyzing ratings, and handling file operations.
   
-- **New Methods in `MovieAnalyzer`**:
-  - `add_movie(self, movie: Movie)`: Add a movie to the analyzer.
-  - `save_to_file(self, filename="movies.json")`: Save all movies to a JSON file.
-  - `load_from_file(self, filename="movies.json")`: Load movies from a JSON file.
-  - `average_rating(self) -> float`: Calculate the average rating of all movies.
-  - `top_rated(self, n=3)`: Return the top n rated movies.
-  - `by_genre(self, genre: str)`: Filter movies by genre.
+- **New Methods:**
+  - `add_movie`: Adds a movie to the collection.
+  - `save_to_file`: Saves the current movie collection to a JSON file.
+  - `load_from_file`: Loads movies from a JSON file into the collection.
+  - `main`: Main function to execute the application.
+  - Enhanced `__init__` and `__repr__` methods for the `Movie` class.
 
-- **New Functions**:
-  - `main()`: The main function to run the analyzer.
-
-- **Deprecated Function**:
-  - The function `add(a, b)` has been removed. This functionality is no longer part of this package.
-
+- **Removed Functionality:**
+  - The function `add(a, b)` has been **deprecated** and removed from the codebase.
+  
 ## Installation
-
-To use MovieAnalyzer, clone the repository and install the required dependencies:
-
+Clone the repository:
 ```bash
 git clone https://github.com/yourusername/movie-analyzer.git
 cd movie-analyzer
-pip install -r requirements.txt
+```
+
+Install the required packages:
+```bash
+pip install requests
 ```
 
 ## Usage
 
-Below are examples of how to use the new functionality in MovieAnalyzer.
-
-### Creating a Movie Instance
-
-```python
-from baby import Movie
-
-# Create a new Movie instance
-movie = Movie(title="Inception", year=2010, rating=8.8, genre="Sci-Fi")
-print(movie)  # Output will be in the format: Inception (2010) ⭐8.8 [Sci-Fi]
-```
-
-### Fetching Movies with MovieFetcher
+### Fetch and Analyze Movies
+You can utilize the `MovieAnalyzer` class to fetch and analyze movies. Here is an example of how to use the new features in this project:
 
 ```python
-from baby import MovieFetcher
+from baby import MovieAnalyzer, Movie, MovieFetcher
 
-# Fetch movie data
-movie_data = MovieFetcher.fetch_movie("Inception")
-print(movie_data)  # Returns a dictionary with movie details
-```
+def main():
+    # Create an instance of MovieAnalyzer
+    analyzer = MovieAnalyzer()
+    
+    # Load existing movies
+    analyzer.load_from_file()
+    
+    # Example to fetch and add movies
+    titles = ["Inception", "The Matrix", "The Dark Knight", "Interstellar", "Fight Club"]
+    for title in titles:
+        data = MovieFetcher.fetch_movie(title)
+        if data:  # Only add if movie data is found
+            try:
+                movie = Movie(
+                    title=data["Title"],
+                    year=int(data["Year"].split("–")[0]),
+                    rating=float(data["imdbRating"]),
+                    genre=data["Genre"].split(",")[0]
+                )
+                analyzer.add_movie(movie)
+            except Exception as e:
+                print(f"Error processing movie {title}: {e}")
 
-### Analyzing Movies
+    # Print all movies and average rating
+    print("All Movies:")
+    for m in analyzer.movies:
+        print(m)
 
-```python
-from baby import MovieAnalyzer, Movie
+    print(f"Average Rating: {analyzer.average_rating()}")
+    print("Top 3 Rated:")
+    for m in analyzer.top_rated(3):
+        print(m)
 
-# Initialize the movie analyzer
-analyzer = MovieAnalyzer()
-
-# Add movie instances
-analyzer.add_movie(movie)
-
-# Calculate average rating
-average = analyzer.average_rating()
-print(f"Average Rating: {average}")
-
-# Get top rated movies
-top_movies = analyzer.top_rated(3)
-print(f"Top Rated: {top_movies}")
-
-# Filter movies by genre
-sci_fi_movies = analyzer.by_genre("Sci-Fi")
-print(f"Sci-Fi Movies: {sci_fi_movies}")
-
-# Save movies to file
-analyzer.save_to_file() 
-
-# Load movies from file
-analyzer.load_from_file()
-```
-
-### Main Function
-
-To run the complete movie analysis workflow, including fetching and displaying movies:
-
-```python
-from baby import main
+    print("Sci-Fi Movies:")
+    for m in analyzer.by_genre("Sci-Fi"):
+        print(m)
+    
+    # Save the results
+    analyzer.save_to_file()
 
 if __name__ == "__main__":
     main()
 ```
 
-## API Documentation
+### Class and Function Definitions
 
-### Classes
-
-#### `Movie`
-
+#### Class: Movie
 ```python
 class Movie:
     def __init__(self, title: str, year: int, rating: float, genre: str)
     def __repr__(self)
 ```
 
-#### `MovieFetcher`
-
+#### Class: MovieFetcher
 ```python
 class MovieFetcher:
-    API_URL = "https://www.omdbapi.com/"
-    API_KEY = "demo"
-
     @classmethod
-    def fetch_movie(cls, title: str) -> Dict[str, Any]
+    def fetch_movie(cls, title: str) -> Dict[str, Any]  # Fetch movie data from OMDb
 ```
 
-#### `MovieAnalyzer`
-
+#### Class: MovieAnalyzer
 ```python
 class MovieAnalyzer:
     def __init__(self)
@@ -135,17 +111,15 @@ class MovieAnalyzer:
     def load_from_file(self, filename="movies.json")
 ```
 
-### Functions
+### Deprecated Functions
+- The function `def add(a, b):` has been removed from the codebase.
 
-```python
-def main()
-```
+## Logging
+The Movie Analyzer uses logging to provide insights into operations. The log data will be saved to `movie_analyzer.log`.
 
 ## Contributing
-
-Contributions are welcome! Please submit a pull request with your proposed changes.
+Feel free to fork the repository, make changes, and submit pull requests. We always welcome contributors!
 
 ## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License.
 ```
