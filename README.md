@@ -31,7 +31,10 @@ The webhook endpoint is now defined as:
 ```python
 @app.post("/webhook")
 async def webhook(request: Request, x_hub_signature_256: Optional[str] = Header(None), x_github_event: Optional[str] = Header(None)):
-    # Process the incoming webhook event here
+    body = await request.body()
+    payload = await request.json()
+    logger.info("📬 Received %s event", x_github_event)
+    # Implementation of event handling can go here
 ```
 
 ### Example Usage
@@ -49,6 +52,7 @@ curl -X POST "http://localhost:8000/webhook" \
 The application now includes a logging setup to track incoming requests and processes efficiently, logging at the INFO level.
 
 ## API Documentation
+
 ### webhook
 #### Parameters
 - `request`: The HTTP request object containing the payload.
@@ -60,5 +64,6 @@ The application now includes a logging setup to track incoming requests and proc
 
 ## Contribution
 Contributions are welcome! Please create a pull request or raise an issue if you find bugs or have suggestions.
+
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 ```
