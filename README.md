@@ -1,4 +1,5 @@
-# Your Project
+```markdown
+# Your Project Name
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -17,9 +18,9 @@ This project aims to provide a robust solution for [briefly describe the purpose
 - **Deprecation Notices**: Some functions or classes have been marked as deprecated and are scheduled for removal in future releases.
 
 ## What's New
-- Introduction of `new_function` to streamline [describe its use case].
-- Addition of the `NewClass` which offers [describe main purpose].
-- Deprecation of `old_function`, recommending users to switch to `new_function`.
+- Introduced `new_function` for [briefly describe purpose].
+- Added `NewClass` with enhanced capabilities.
+- Deprecated `old_function`. Please use `new_function` instead for improved performance.
 
 ## Installation
 You can install the project using pip:
@@ -55,12 +56,11 @@ print(output)  # This will return the desired output from the new class.
 
 ### `NewClass`
 - **Constructor**:
-    ```python
-    NewClass(parameters)
-    ```
-
+```python
+NewClass(parameters)
+```
 - **Methods**:
-    - `method_name(self, params)` - [Describe what the method does].
+  - `method_name(self, params)` - [Describe what the method does].
 
 #### Deprecated Functions & Classes
 - **`old_function`**: This function has been deprecated. Please use `new_function` instead for enhanced performance and better results.
@@ -72,3 +72,4 @@ We welcome contributions from the community. Please read our [CONTRIBUTING.md](l
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 Feel free to reach out through issues if you encounter any bugs or want to suggest improvements!
+```
