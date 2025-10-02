@@ -11,32 +11,21 @@ To get started with **Project Title**, please follow these steps:
    ```bash
    git clone https://github.com/yourusername/project-title.git
    ```
-   
 2. Navigate to the project directory:
    ```bash
    cd project-title
    ```
-
 3. Install the required dependencies:
    ```bash
    pip install -r requirements.txt
    ```
 
-## What's New
-- **New Features**:
-  - Introduced `functionality1` for [short description of the purpose of functionality1].
-  - Added `functionality2` which allows [short description of what functionality2 does].
-  
-- **Improvements**:
-  - Enhanced performance of existing modules.
-
-- **Deprecated**:
-  - `old_functionality()` has been removed. Use `functionality1()` instead for improved features.
-
 ## Usage Examples
+
 Here are some examples on how to use the main features of **Project Title**:
 
 ### Example of Functionality 1
+
 ```python
 from project_module import functionality1
 
@@ -45,6 +34,7 @@ print(result)
 ```
 
 ### Example of Functionality 2
+
 ```python
 from project_module import functionality2
 
@@ -67,7 +57,20 @@ print(result)
 - **Returns**:
   - (Type): Processed output data.
 
+## What's New
+
+- **New Features**:
+  - Introduced `functionality1` for [short description of the purpose of functionality1].
+  - Added `functionality2` which allows [short description of what functionality2 does].
+  
+- **Improvements**:
+  - Enhanced performance of existing modules.
+
+- **Deprecated:**
+  - `old_functionality()` has been removed. Use `functionality1()` instead for improved features.
+
 ## Contribution
+
 We welcome contributions! Please read our [CONTRIBUTING.md](CONTRIBUTING.md) file for guidelines on how to contribute.
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
