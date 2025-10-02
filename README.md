@@ -22,7 +22,7 @@ pip install fastapi uvicorn
 To run the FastAPI application, execute:
 
 ```bash
-uvicorn main:app --host 0.0.0.0 --port 8000 --reload
+uvicorn app:app --host 0.0.0.0 --port 8000 --reload
 ```
 
 ### Webhook Endpoint
@@ -48,18 +48,15 @@ curl -X POST "http://localhost:8000/webhook" \
 The application now includes a logging setup to track incoming requests and processes efficiently, logging at the INFO level.
 
 ## API Documentation
-
-### `webhook(request: Request, x_hub_signature_256: Optional[str] = Header(None), x_github_event: Optional[str] = Header(None))`
-- **Parameters**:
-  - `request`: The HTTP request object containing the payload.
-  - `x_hub_signature_256`: Optional signature for validating the request.
-  - `x_github_event`: The type of GitHub event (e.g., push, pull_request).
+### webhook
+#### Parameters
+- `request`: The HTTP request object containing the payload.
+- `x_hub_signature_256`: Optional signature for validating the request.
+- `x_github_event`: The type of GitHub event (e.g., push, pull_request).
 
 ## Deprecated Functions
 - None at the moment. All functionality has been revised and updated.
 
 ## Contribution
-Contributions are welcome! Please create a pull request or raise an issue if you find bugs or have suggestions. 
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+Contributions are welcome! Please create a pull request or raise an issue if you find bugs or have suggestions. This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 ```
