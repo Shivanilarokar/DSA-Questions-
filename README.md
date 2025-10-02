@@ -1,75 +1,128 @@
-# Your Project
+```markdown
+# Movie Analyzer
 
-## Table of Contents
-- [Introduction](#introduction)
-- [What's New](#whats-new)
-- [Installation](#installation)
-- [Usage](#usage)
-- [API Documentation](#api-documentation)
-- [Contributing](#contributing)
-- [License](#license)
-
-## Introduction
-This project aims to provide a robust solution for [briefly describe the purpose of the project]. With a clean, modular design, it is perfect for developers who need reliable tools for [describe the main functionalities briefly].
-
-- **New Functionalities**: We've introduced several new functions and classes to enhance the core functionalities of the project.
-- **Updated Documentation**: Significant updates and improvements have been made to the README file with usage examples and API documentation.
-- **Deprecation Notices**: Some functions or classes have been marked as deprecated and are scheduled for removal in future releases.
+Welcome to the Movie Analyzer project! This Python application allows users to manage a collection of movies, fetch movie data from the OMDb API, analyze ratings, and save/load movie records from a file.
 
 ## What's New
-- Introduction of `new_function` to streamline [describe its use case].
-- Addition of the `NewClass` which offers [describe main purpose].
-- **Deprecation of `old_function`**: This function has been deprecated. Please use `new_function` instead for enhanced performance and better results.
+
+- **Added New Classes and Methods:**
+  - `main`: The main function to execute the application.
+  - Enhanced `__init__` and `__repr__` methods for the `Movie` class.
+  - Methods for handling movie data:
+    - `add_movie`: Adds a movie to the collection.
+    - `save_to_file`: Saves the current movie collection to a JSON file.
+    - `load_from_file`: Loads movies from a JSON file into the collection.
+    
+- **Removed Functionality:**
+  - The classes `Movie`, `MovieFetcher`, and `MovieAnalyzer` have been **deprecated** and removed from the codebase.
+  - The function `add(a, b)` has been **deprecated** and removed.
 
 ## Installation
-You can install the project using pip:
+
+To use the Movie Analyzer, clone the repository and install the required packages:
+
 ```bash
-pip install your-project-name
+pip install requests
 ```
 
 ## Usage
-Here's how to use the newly added functions and classes in your projects:
 
-### Example of New Functionality:
+### Fetch and Analyze Movies
+
+You can utilize the new features to fetch and analyze movies. Here is an example of how to use the new features in this project:
+
 ```python
-from your_project import new_function
+from baby import MovieAnalyzer, Movie, MovieFetcher
 
-result = new_function(parameters)
-print(result)  # This will output the result of the new function.
+def main():
+    # Create an instance of MovieAnalyzer
+    analyzer = MovieAnalyzer()
+
+    # Load existing movies
+    analyzer.load_from_file()
+
+    # Example to fetch and add movies
+    titles = ["Inception", "The Matrix", "The Dark Knight", "Interstellar", "Fight Club"]
+    for title in titles:
+        data = MovieFetcher.fetch_movie(title)
+        if data:  # Only add if movie data is found
+            try:
+                movie = Movie(
+                    title=data["Title"],
+                    year=int(data["Year"].split("–")[0]),
+                    rating=float(data["imdbRating"]),
+                    genre=data["Genre"].split(",")[0]
+                )
+                analyzer.add_movie(movie)
+            except Exception as e:
+                print(f"Error processing movie {title}: {e}")
+
+    # Print all movies and average rating
+    print("All Movies:")
+    for m in analyzer.movies:
+        print(m)
+
+    print(f"Average Rating: {analyzer.average_rating()}")
+    print("Top 3 Rated:")
+    for m in analyzer.top_rated(3):
+        print(m)
+
+    print("Sci-Fi Movies:")
+    for m in analyzer.by_genre("Sci-Fi"):
+        print(m)
+
+    # Save the results
+    analyzer.save_to_file()
+
+if __name__ == "__main__":
+    main()
 ```
 
-### Example of New Class:
-```python
-from your_project import NewClass
+### Class and Function Definitions
 
-instance = NewClass(parameters)
-output = instance.method()
-print(output)  # This will return the desired output from the new class.
+#### Class: Movie
+
+```python
+class Movie:
+    def __init__(self, title: str, year: int, rating: float, genre: str):
+    def __repr__(self):
 ```
 
-### `new_function(parameters)`
-- **Description**: This new function takes in [describe parameters and functionality].
-- **Returns**: [describe return values].
+#### Class: MovieFetcher
 
-### `NewClass`
-- **Constructor**:
-    ```python
-    NewClass(parameters)
-    ```
+```python
+class MovieFetcher:
+    API_URL = "https://www.omdbapi.com/"
+    API_KEY = "demo"
 
-- **Methods**:
-    - `method_name(self, params)` - [Describe what the method does].
+    @classmethod
+    def fetch_movie(cls, title: str) -> Dict[str, Any]:
+```
 
-#### Deprecated Functions & Classes
-- **`old_function`**: This function has been deprecated. Please use `new_function` instead for enhanced performance and better results.
+#### Class: MovieAnalyzer
 
-## API Documentation
-- Updated function signatures and descriptions will be listed here. 
+```python
+class MovieAnalyzer:
+    def __init__(self):
+    def add_movie(self, movie: Movie):
+    def average_rating(self) -> float:
+    def top_rated(self, n=3) -> List[Movie]:
+    def by_genre(self, genre: str) -> List[Movie]:
+    def save_to_file(self, filename="movies.json"):
+    def load_from_file(self, filename="movies.json"):
+```
 
-## Contributing
-We welcome contributions from the community. Please read our [CONTRIBUTING.md](link_to_contributing_file) for guidelines on how to contribute.
+### Deprecated Functions
+
+- The function `def add(a, b):` has been removed from the codebase.
+
+## Logging
+
+The Movie Analyzer uses logging to provide insights into operations. The log data will be saved to `movie_analyzer.log`.
+
+Feel free to fork the repository, make changes, and submit pull requests. We always welcome contributors!
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-Feel free to reach out through issues if you encounter any bugs or want to suggest improvements!
+This project is licensed under the MIT License - see the LICENSE file for details.
+```
