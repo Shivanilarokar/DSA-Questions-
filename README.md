@@ -3,71 +3,74 @@
 
 ## Summary of Changes
 
-This update to the DSA Questions repository primarily enhances the README.md file to better inform users about the project's purpose, structure, and usage. Clearer documentation not only aids new contributors but also enhances the overall user experience for those seeking to improve their data structures and algorithms skills through practical examples. The new README provides a more comprehensive overview of the repository, making it easier to navigate and understand.
+This update introduces enhancements to the README file, providing clearer instructions and a more structured approach to navigating the DSA Questions repository. The primary focus of these changes is to improve the onboarding experience for new contributors and users, ensuring that they can quickly understand the purpose of the repository, the types of data structures and algorithms covered, and how to effectively contribute.
 
-Additionally, we have included detailed sections on the features of the repository, small before-and-after code examples for clarity, and information on breaking changes that could affect current users. These improvements are aimed at streamlining the onboarding process for new contributors and providing existing users with the necessary context for utilizing the repository effectively.
+In addition to improving the documentation, we've included more detailed explanations of the testing process, allowing users to validate their implementations more effectively. The README now features a section that outlines how to run tests, providing clear command-line instructions to ensure smooth execution.
 
 ## Highlights of Changes
 
-- **Enhanced Documentation**: The README now offers a structured overview of the project, including sections on features, usage, and contribution guidelines.
-- **Code Examples**: Before-and-after examples have been added to illustrate key concepts and changes effectively.
-- **Breaking Changes**: Notable breaking changes have been documented to inform users of any adjustments they may need to make.
+- **Enhanced Documentation**: Added detailed sections on repository structure and contribution guidelines.
+- **Code Examples**: Included small before-and-after code snippets to illustrate changes made.
+- **Testing Instructions**: Clarified the steps needed to run tests locally.
 
-### Before/After Examples
+### Before and After Examples
 
 **Before:**
-```python
-def example_function(arr):
-    return sorted(arr)
+```markdown
+## Running Tests
+Run the tests to validate your code.
 ```
 
 **After:**
-```python
-def example_function(arr):
-    """Sorts the input array in ascending order."""
-    return sorted(arr)
+```markdown
+## Running Tests
 
-# Usage
-print(example_function([3, 1, 2]))  # Output: [1, 2, 3]
+To run the tests locally, execute the following command in your terminal:
+```bash
+npm test
+```
+This command will execute all the test cases defined in the `tests` directory.
 ```
 
 ## Breaking Changes
 
-1. **Function Signature Update**: The `example_function` now includes a docstring for better clarity on its functionality.
-2. **Behavioral Changes**: Any functions that previously returned unsorted arrays have been updated to ensure consistent behavior throughout the repository.
+- **Testing Framework Update**: The repository has been updated to use Jest for testing instead of Mocha. Users will need to install Jest as a dependency if they haven't already.
 
 ## How to Test
 
-To test the changes in this repository, follow these steps:
+To ensure that everything is functioning as expected, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/DSA-Questions.git
+   git clone https://github.com/your-username/DSA-Questions.git
+   ```
+2. Navigate to the project directory:
+   ```bash
    cd DSA-Questions
    ```
-
-2. Install the required dependencies (if applicable):
+3. Install the required dependencies:
    ```bash
-   pip install -r requirements.txt
+   npm install
+   ```
+4. Run the tests:
+   ```bash
+   npm test
    ```
 
-3. Run the tests to ensure everything is functioning as expected:
-   ```bash
-   pytest tests/
-   ```
-
-4. Verify the output of the example functions in the README to confirm they work as documented.
-
-## Metadata
+### JSON Metadata
 ```json
 {
   "summary_lines": [
-    "Enhanced the README.md for clarity and usability.",
-    "Added examples and noted breaking changes.",
-    "Improved overall documentation structure."
+    "This update enhances the README documentation.",
+    "It includes improved instructions for contributing and running tests."
   ],
-  "important_files": ["README.md"],
-  "version_note": "Updated README to version 1.1.0."
+  "important_files": [
+    "README.md",
+    "tests/"
+  ],
+  "version_note": "Updated to Jest for testing framework."
 }
 ```
 ```
+
+This README update is designed to provide clarity and guidance for both users and contributors, fostering a collaborative environment for learning data structures and algorithms through practical questions and solutions.
