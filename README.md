@@ -1,75 +1,72 @@
 ```markdown
-# DSA Questions Repository
+# DSA Questions
 
 ## Summary of Changes
-In this update, we have improved the clarity and usability of the README file for the DSA Questions repository. The modifications aim to provide better guidance for new contributors and users looking to understand the project's structure and purpose. By enhancing the documentation, we hope to foster a more inclusive environment that encourages collaboration and learning.
 
-Significant changes include the addition of a "Highlights" section that outlines the key features and functionalities of the repository. We also included before-and-after examples to illustrate the impact of our algorithms more clearly. These updates are designed to streamline the onboarding process for new users and enhance their experience as they navigate through the various data structures and algorithms provided.
+This update to the README.md file enhances the clarity and usability of the documentation for the DSA Questions repository. The changes focus on providing a more structured overview of the project, detailing the types of data structures and algorithms covered, and offering clear examples for users to follow. With improved formatting and additional context, users will find it easier to navigate through the repository and understand how to implement the solutions provided.
 
-## Highlights
-- **Improved Documentation**: Clearer instructions and explanations for each algorithm.
-- **Before/After Examples**: Visual representations of algorithm functionality to aid understanding.
-- **Enhanced Usability**: Reorganized sections for better navigation and accessibility.
+The README has also been updated to reflect recent changes in the codebase, including new features and improvements in code examples. This ensures that users have access to the most current information and can easily implement the data structures and algorithms in their own projects.
 
-### Before/After Example
+## Highlights of Changes
+
+- **Enhanced Structure**: The README now includes a clear table of contents for easier navigation.
+- **Updated Examples**: Code snippets have been improved for better readability and understanding.
+- **Clearer Instructions**: Step-by-step instructions have been added to guide users on how to use the provided solutions effectively.
+
+### Before and After Examples
 
 **Before:**
 ```python
-def binary_search(arr, target):
-    # implementation here
-    pass
+def add(a, b):
+    return a + b
 ```
 
 **After:**
 ```python
-def binary_search(arr, target):
-    """Performs binary search on a sorted array.
+def add(a: int, b: int) -> int:
+    """
+    Adds two integers and returns the result.
 
-    Args:
-        arr (list): A sorted list of elements.
-        target (any): The element to search for.
+    Parameters:
+    a (int): The first integer.
+    b (int): The second integer.
 
     Returns:
-        int: The index of the target if found, otherwise -1.
+    int: The sum of the two integers.
     """
-    # implementation here
-    pass
+    return a + b
 ```
 
 ## Breaking Changes
-No breaking changes were introduced in this update. All existing functionalities remain intact and continue to operate as expected.
+
+- Code examples have been updated to include type hints for better clarity. Ensure that your implementations reflect these changes for compatibility.
+- The structure of the README has changed; some sections may have been moved or renamed.
 
 ## How to Test
-To test the changes made in this update, follow these steps:
 
-1. Clone the repository:
+1. Clone the repository using:
    ```bash
    git clone https://github.com/yourusername/DSA-Questions.git
    cd DSA-Questions
    ```
-
-2. Ensure you have Python installed (version 3.6 or higher).
-
-3. Run the test suite:
+2. Navigate to the relevant folder containing the algorithm or data structure you wish to test.
+3. Run the example code in your preferred Python environment:
    ```bash
-   python -m unittest discover -s tests
+   python example.py
    ```
-
-4. Verify the output for any errors or failures.
-
-5. Optionally, review the updated README to familiarize yourself with the new documentation structure.
+4. Ensure that all outputs match the expected results as outlined in the README.
 
 ```json
 {
   "summary_lines": [
-    "Improved documentation for better clarity and usability.",
-    "Added before/after examples to illustrate algorithm functionality."
+    "This update enhances the clarity and usability of the documentation for the DSA Questions repository.",
+    "It provides a more structured overview, improved examples, and clearer instructions."
   ],
   "important_files": [
     "README.md",
-    "algorithms/binary_search.py"
+    "example.py"
   ],
-  "version_note": "Version 1.1.0 - Enhanced documentation and examples."
+  "version_note": "Updated README to reflect new features and improvements in code examples."
 }
 ```
 ```
