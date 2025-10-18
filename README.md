@@ -1,85 +1,91 @@
 ```markdown
-# DSA Questions
+# DSA Questions Repository
 
-## Summary
-This update to the DSA Questions repository enhances the documentation by providing clearer instructions and examples for users. The README file has been revised to ensure that contributors and users can easily navigate the repository and understand the purpose of the various data structures and algorithms included. Improved examples and explanations facilitate a better learning experience for developers at all levels.
+## Summary of Changes
 
-Additionally, we've made minor formatting adjustments to improve readability and usability. This ensures that both new and experienced developers can quickly find the information they need, fostering a more engaging and productive environment for exploring data structures and algorithms.
+This update to the DSA Questions repository primarily focuses on enhancing the documentation within the `README.md` file. By improving the clarity and structure of the content, we aim to provide better guidance for contributors and users alike. The changes include a more organized layout, additional sections to clarify usage, and updated examples to reflect the latest code implementations.
+
+Furthermore, we've made an effort to streamline the instructions for testing and contributing to the repository. This is intended to lower the barrier for new contributors and ensure that existing users can easily navigate the repository's features and functionality.
 
 ## Highlights of Changes
-- **Improved Documentation**: Enhanced explanations and examples for better clarity.
-- **Formatting Updates**: Adjusted the layout for improved readability.
-- **New Examples**: Added specific code snippets to illustrate key concepts.
 
-### Before and After Examples
+- **Improved Documentation**: The `README.md` has been restructured for better readability, with clear headings and sections.
+- **Updated Code Examples**: Code snippets have been revised to reflect the latest algorithm implementations, showcasing practical use cases.
+- **Testing Instructions**: A dedicated section on how to test the code has been added, making it easier for contributors to validate their changes.
 
-#### Before
-In the previous version, the example for binary search was minimal and lacked context:
+### Before and After Code Examples
 
+**Before:**
 ```python
-def binary_search(arr, target):
-    # Implementation
-    pass
+def fibonacci(n):
+    if n <= 0:
+        return 0
+    elif n == 1:
+        return 1
+    else:
+        return fibonacci(n-1) + fibonacci(n-2)
 ```
 
-#### After
-The updated example provides clear context and explanation:
-
+**After:**
 ```python
-def binary_search(arr, target):
-    """
-    Perform a binary search on a sorted array.
-
-    Parameters:
-    arr (list): A sorted list of elements.
-    target: The element to search for.
-
-    Returns:
-    int: The index of the target in the array, or -1 if not found.
-    """
-    left, right = 0, len(arr) - 1
-    while left <= right:
-        mid = (left + right) // 2
-        if arr[mid] == target:
-            return mid
-        elif arr[mid] < target:
-            left = mid + 1
-        else:
-            right = mid - 1
-    return -1
+def fibonacci(n):
+    if n < 0:
+        raise ValueError("Input should be a non-negative integer.")
+    elif n == 0:
+        return 0
+    elif n == 1:
+        return 1
+    
+    a, b = 0, 1
+    for _ in range(2, n + 1):
+        a, b = b, a + b
+    return b
 ```
 
 ## Breaking Changes
-There are no breaking changes in this update; all existing functionalities remain intact while improvements have been made to the documentation.
+
+- The `fibonacci` function has been modified to raise a `ValueError` for negative inputs, improving error handling and user feedback.
+- The implementation now uses an iterative approach, which is more efficient than the previous recursive method.
 
 ## How to Test
-To test the changes made in this update:
-1. Clone the repository using:
+
+To test the changes in this repository, follow these steps:
+
+1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/DSA-Questions.git
-   ```
-2. Navigate into the project directory:
-   ```bash
    cd DSA-Questions
    ```
-3. Review the README.md file for the new documentation.
-4. Run the existing test suite to ensure that all functionalities are working as intended:
+
+2. Install the required dependencies (if any):
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+3. Run the test suite:
    ```bash
    pytest tests/
    ```
 
-Make sure to check the updated examples and feel free to contribute additional examples or improvements!
+4. Execute specific functions to validate changes:
+   ```python
+   from dsa import fibonacci
+
+   print(fibonacci(10))  # Expected output: 55
+   ```
+
+By following these steps, you can ensure that all functionalities work as expected and that the latest changes have not introduced any regressions.
 
 ```json
 {
   "summary_lines": [
-    "Enhanced documentation for clarity and usability.",
-    "Improved examples for better understanding of algorithms."
+    "This update enhances the documentation within the README.md file.",
+    "It includes improved structure, updated examples, and clearer testing instructions."
   ],
   "important_files": [
     "README.md"
   ],
-  "version_note": "Documentation updates and formatting improvements"
+  "version_note": "Updated to reflect the latest changes in implementation and documentation practices."
 }
 ```
 ```
