@@ -1,66 +1,58 @@
 ```markdown
-# DSA Questions Repository
+# DSA Questions
 
-## Summary of Changes
+## Summary
 
-This update to the DSA Questions repository focuses on enhancing the clarity and usability of the README file. The changes aim to provide better guidance for users and contributors, making it easier to navigate the content and understand the purpose of the repository. By restructuring sections and adding examples, we strive to improve the overall user experience and foster a more collaborative environment for contributors.
+This update to the `DSA Questions` repository introduces a more structured and user-friendly README, enhancing the overall documentation experience for developers and contributors. The changes made aim to clarify the purpose of the project, outline its functionality, and provide clear instructions on how to interact with the codebase. By improving the README, we hope to foster greater collaboration and make it easier for newcomers to get started with data structures and algorithms practice.
 
-The README now includes clearer explanations of the data structures and algorithms covered in the repository, along with concise code snippets demonstrating their usage. Additionally, we have introduced a section dedicated to testing, which outlines the steps required for users to verify their implementations, ensuring that the repository remains reliable and well-maintained.
+Additionally, we have included a detailed list of changes made, which includes examples of code snippets that demonstrate the functionality of various algorithms. This will serve as a quick reference for users looking to understand how to implement specific solutions using the provided resources.
 
 ## Highlights of Changes
 
-- **Improved README Structure**: Enhanced readability and organization of the README file.
-- **Code Examples**: Added small code snippets to illustrate the implementation of various algorithms.
-- **Testing Instructions**: Clearer guidelines on how to run tests and verify functionality.
+- **Improved Structure**: The README has been reorganized for better readability and flow. Sections are clearly defined, making it easier to find relevant information.
+- **Code Examples**: Relevant code snippets have been added to illustrate how to use the provided algorithms effectively.
+- **Testing Instructions**: A dedicated section has been added to guide users on how to run tests, ensuring that contributors can easily verify their changes.
 
-### Before and After Examples
+### Code Examples
 
-**Before:**
-
-```markdown
-# DSA Questions
-```
-
-**After:**
-
-```markdown
-# DSA Questions Repository
-
-## Summary of Changes
-...
-```
-
-**Code Example:**
+Here are a few examples demonstrating the algorithms included in this repository:
 
 **Before:**
 ```python
-def add(a, b):
-    return a + b
+def quicksort(arr):
+    if len(arr) <= 1:
+        return arr
+    pivot = arr[len(arr) // 2]
+    left = [x for x in arr if x < pivot]
+    middle = [x for x in arr if x == pivot]
+    right = [x for x in arr if x > pivot]
+    return quicksort(left) + middle + quicksort(right)
 ```
 
 **After:**
 ```python
-def add(a: int, b: int) -> int:
-    """
-    Adds two integers and returns the result.
+def quicksort(arr):
+    """Sorts an array using the QuickSort algorithm."""
+    if len(arr) <= 1:
+        return arr
+    pivot = arr[len(arr) // 2]
+    left = [x for x in arr if x < pivot]
+    middle = [x for x in arr if x == pivot]
+    right = [x for x in arr if x > pivot]
+    return quicksort(left) + middle + quicksort(right)
 
-    Parameters:
-    a (int): First integer.
-    b (int): Second integer.
-
-    Returns:
-    int: Sum of a and b.
-    """
-    return a + b
+# Example usage
+sorted_array = quicksort([3, 6, 8, 10, 1, 2, 1])
+print(sorted_array)  # Output: [1, 1, 2, 3, 6, 8, 10]
 ```
 
 ## Breaking Changes
 
-There are no breaking changes in this update. All existing functionalities remain intact, and the new README content does not affect the operation of the codebase.
+No breaking changes were introduced in this update. All existing functionality remains intact, ensuring backward compatibility for current users.
 
 ## How to Test
 
-To test the changes made in this repository, follow these steps:
+To ensure that everything is functioning as expected, follow these steps to run the tests:
 
 1. Clone the repository:
    ```bash
@@ -68,32 +60,30 @@ To test the changes made in this repository, follow these steps:
    cd DSA-Questions
    ```
 
-2. Install the necessary dependencies (if any):
+2. Install the required dependencies:
    ```bash
    pip install -r requirements.txt
    ```
 
 3. Run the test suite:
    ```bash
-   pytest
+   pytest tests/
    ```
 
-4. Review the README for updated instructions and examples.
-
-## Metadata
+Verify that all tests pass successfully. If you encounter any issues, please refer to the issues section of the repository or open a new issue for assistance.
 
 ```json
 {
   "summary_lines": [
-    "Enhanced readability and usability of the README file.",
+    "Enhanced README with improved structure and clarity.",
     "Added code examples and testing instructions."
   ],
   "important_files": [
-    "README.md"
+    "README.md",
+    "requirements.txt",
+    "tests/"
   ],
-  "version_note": "Updated README to improve clarity and user engagement."
+  "version_note": "This update does not introduce breaking changes."
 }
 ```
-``` 
-
-This README update provides a clear and engaging overview of the changes made, ensuring that users and contributors can easily understand the repository's purpose and functionality.
+```
