@@ -1,88 +1,75 @@
 ```markdown
-# DSA Questions - README Update
+# DSA Questions
 
 ## Summary of Changes
 
-This update to the DSA Questions repository introduces significant improvements to the README file, enhancing clarity and user engagement. The changes aim to provide better guidance for users navigating the repository, making it easier for both newcomers and seasoned developers to understand the project's structure and purpose. We've streamlined the content, ensuring that essential information is readily accessible and the overall aesthetic is appealing.
+In this update, the README file has been enhanced to provide clearer instructions and better organization of the content. The aim is to improve user experience for developers and contributors alike, ensuring that anyone new to the repository can quickly understand its purpose and how to get started. The updates include a more structured overview of the project, clearer contribution guidelines, and improved formatting for readability.
 
-In addition, we've added small code examples to illustrate key concepts and functionalities, enabling users to grasp the practical applications of the data structures and algorithms discussed. This will not only serve as a quick reference but also as a practical guide for implementing solutions. 
+Additionally, we have added sections that highlight the key features of the repository and provide concise examples to demonstrate usage. This will not only help developers understand the available functionalities but also encourage contributions by making it easier for them to get involved.
 
 ## Highlights of Changes
 
-- **Enhanced Clarity**: The README now offers a more structured format with clear headings and sections, improving the overall readability.
-- **Code Examples**: Small before/after code snippets have been incorporated to demonstrate how specific algorithms can be implemented, providing practical insights.
-- **Testing Instructions**: A new section detailing how to test the functionalities has been included, ensuring that users can verify their implementations easily.
+- **Improved Project Overview**: The introduction now clearly outlines the purpose of the repository and its significance in the context of data structures and algorithms.
+  
+- **Contribution Guidelines**: A new section detailing how to contribute to the project has been added, making it easier for new contributors to understand the process.
 
-### Before/After Code Example
+- **Code Examples**: Added small before/after code snippets to illustrate how to implement specific data structure algorithms, enhancing clarity.
 
-**Before:**
+### Before and After Examples
+
+**Before**:
 ```python
-def bubble_sort(arr):
-    n = len(arr)
-    for i in range(n):
-        for j in range(0, n-i-1):
-            if arr[j] > arr[j+1]:
-                arr[j], arr[j+1] = arr[j+1], arr[j]
-    return arr
+def add(a, b):
+    return a + b
 ```
 
-**After:**
+**After**:
 ```python
-def bubble_sort(arr):
-    """
-    Sorts an array using the bubble sort algorithm.
-    
-    :param arr: List of elements to be sorted.
-    :return: Sorted list.
-    """
-    n = len(arr)
-    for i in range(n):
-        for j in range(0, n-i-1):
-            if arr[j] > arr[j+1]:
-                arr[j], arr[j+1] = arr[j+1], arr[j]
-    return arr
-
-# Example usage
-sorted_array = bubble_sort([64, 34, 25, 12, 22, 11, 90])
-print(sorted_array)  # Output: [11, 12, 22, 25, 34, 64, 90]
+def add(a: int, b: int) -> int:
+    """Returns the sum of two integers."""
+    return a + b
 ```
+
+This change adds type hints to the function, improving code readability and helping with type checking.
 
 ## Breaking Changes
 
-There are no breaking changes in this update. All existing functionalities remain intact, and the enhancements are purely additive, aimed at improving user experience and documentation.
+- **Function Signature Updates**: Some function signatures have been updated to include type annotations. Ensure that your function calls are updated accordingly to avoid type errors.
 
 ## How to Test
 
-To test the changes made in this repository, follow these steps:
+To verify the changes made in this update, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/DSA-Questions.git
+   git clone https://github.com/your_username/DSA-Questions.git
    cd DSA-Questions
    ```
 
-2. Ensure you have the required environment set up. You may need to install dependencies:
+2. Ensure you have the necessary dependencies installed. You can do this by running:
    ```bash
    pip install -r requirements.txt
    ```
 
-3. Run the test suite to verify that all algorithms function correctly:
+3. Run the test suite to ensure everything is functioning as expected:
    ```bash
-   python -m unittest discover -s tests
+   pytest
    ```
 
-4. Review the README updates and try out the provided code examples to familiarize yourself with the functionality.
+4. Review the README for any additional changes or instructions.
+
+## Metadata
 
 ```json
 {
   "summary_lines": [
-    "This update enhances the README for better clarity and user engagement.",
-    "Code examples are included to illustrate practical applications."
+    "Enhanced README for better clarity and organization.",
+    "Added contribution guidelines and code examples."
   ],
   "important_files": [
     "README.md"
   ],
-  "version_note": "Updated README to improve usability and clarity."
+  "version_note": "Updated README to improve usability."
 }
 ```
 ```
