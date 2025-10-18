@@ -2,61 +2,67 @@
 # DSA Questions
 
 ## Summary of Changes
-This update introduces improvements to the README documentation for the DSA Questions repository. The enhancements aim to provide clearer instructions on how to navigate the repository, utilize the features, and contribute effectively. With a more structured layout, users will find it easier to understand the purpose of the repository and how to leverage the various data structures and algorithms available.
+In this update, we've enhanced the `README.md` file to provide clearer documentation and improve user experience for contributors and users alike. The changes include a more structured layout, additional sections for highlights and examples, and improved clarity in the instructions for testing. This will help new contributors understand how to engage with the project more effectively and allow users to navigate the content with ease.
 
-Additionally, the update includes refined examples that illustrate the usage of certain algorithms. These examples are designed to be concise yet informative, helping users grasp the concepts quickly. This change reflects our commitment to improving the developer experience and making the repository more user-friendly.
+We have also added sections that outline the changes made to the codebase, which include specific examples of before and after code snippets. This will help in demonstrating the improvements and provide a clear understanding of the modifications. The goal is to ensure that both current and future contributors have a solid foundation to build upon as they contribute to the project.
 
 ## Highlights of Changes
-- **Improved Clarity**: The README now has a more organized structure, making it easier to find relevant information.
-- **Enhanced Examples**: Added code snippets demonstrating the application of algorithms.
-- **Contributing Guidelines**: Clearer instructions for contributors to follow.
+- **Improved Documentation**: Enhanced clarity and structure in the `README.md`.
+- **Before/After Examples**: Added code snippets to illustrate changes.
+- **Testing Instructions**: Clearer guidelines on how to run tests.
 
-### Before and After Examples
+### Before/After Examples
 
 **Before:**
-```markdown
-# DSA Questions
-This repo contains some data structure and algorithm questions.
+```python
+def add(x, y):
+    return x + y
 ```
 
 **After:**
-```markdown
-# DSA Questions
-
-Welcome to the DSA Questions repository! This repository contains a comprehensive collection of data structure and algorithm problems tailored for your learning and preparation.
-
-## Features
-- **Variety of Problems**: Explore a wide range of questions.
-- **Example Solutions**: Each question is accompanied by example code.
+```python
+def add(x: int, y: int) -> int:
+    """Returns the sum of two integers."""
+    return x + y
 ```
+The updated function now includes type hints and a docstring, improving code readability and usability.
 
 ## Breaking Changes
-- The structure of the README has been significantly altered. Users should familiarize themselves with the new organization to locate information effectively.
-- Some sections have been renamed for clarity, such as "Contributing" which is now more detailed.
+- The function `add` now requires integer arguments due to added type hints. Ensure that all calls to this function are updated accordingly.
 
 ## How to Test
-1. Clone the repository using:
+To test the changes in this repository, follow these steps:
+
+1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/DSA-Questions.git
-   ```
-2. Navigate to the repository directory:
-   ```bash
    cd DSA-Questions
    ```
-3. Open the `README.md` file in your preferred text editor or viewer to review the changes.
-4. Verify that the examples provided are functional by running the corresponding code snippets in your development environment.
 
-## Metadata
+2. Install the required dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+3. Run the test suite:
+   ```bash
+   pytest
+   ```
+
+4. Verify that all tests pass. If any tests fail, consult the error messages for guidance on resolving the issues.
+
 ```json
 {
   "summary_lines": [
-    "This update enhances the README documentation for clarity and usability.",
-    "Improved examples and structured sections facilitate better understanding."
+    "Enhanced README.md for better clarity and structure.",
+    "Added before/after code examples to illustrate changes.",
+    "Updated testing instructions for easier contributor engagement."
   ],
   "important_files": [
-    "README.md"
+    "README.md",
+    "example_code.py"
   ],
-  "version_note": "Updated README documentation to improve user experience."
+  "version_note": "Updated README.md to improve documentation and usability."
 }
 ```
 ```
