@@ -1,44 +1,53 @@
 ```markdown
-# DSA Questions Repository
+# DSA Questions
 
 ## Summary of Changes
 
-This update to the DSA Questions repository focuses on enhancing the clarity and usability of the README file. The changes include improved documentation of the project's purpose, usage instructions, and examples. This effort aims to provide new contributors and users with a clearer understanding of how to navigate, utilize, and contribute to the repository effectively.
+In this update, the README file has been enhanced to provide clearer guidance and improved structure for users of the DSA Questions repository. The objective is to ensure that both newcomers and experienced developers can quickly grasp the purpose of the repository and effectively utilize its resources. The enhancements include a more detailed summary of the project, organized sections for highlights, and a streamlined format for code examples.
 
-In addition to refining the existing content, we've also added sections detailing the project's structure and contribution guidelines. By doing this, we hope to foster a more collaborative environment and encourage more developers to engage with the project. These updates are essential for maintaining a comprehensive and user-friendly resource for data structure and algorithm questions.
+Additionally, we have improved the documentation surrounding installation and testing instructions to facilitate a smoother onboarding experience. This will help users to set up the environment quickly and understand how to contribute to the project efficiently.
 
-## Highlights of Changes
+## Highlights
 
-- **Improved README Structure**: The README now has a more organized layout with distinct sections for usage, examples, and contribution guidelines.
-- **Enhanced Usage Instructions**: Clarified how to run the code and what prerequisites are required.
-- **Code Examples**: Added small code snippets that illustrate typical use cases.
+- **Improved Documentation**: Enhanced clarity and structure in the README for better user experience.
+- **Code Examples**: Added before and after code snippets to illustrate key changes and usage.
+- **Testing Instructions**: Clearer steps on how to test the code and verify functionality.
 
-### Before & After Examples
+## Code Examples
 
-**Before:**
-```markdown
-Usage: Run the program.
+### Before
+
+```python
+def add(a, b):
+    return a + b
 ```
 
-**After:**
-```markdown
-## Usage
+### After
 
-To run the program, execute the following command in your terminal:
+```python
+def add_numbers(a: int, b: int) -> int:
+    """
+    Adds two integers and returns the result.
+    
+    Parameters:
+    a (int): First number
+    b (int): Second number
+    
+    Returns:
+    int: Sum of a and b
+    """
+    return a + b
+```
 
-```bash
-python main.py
-```
-Make sure you have Python 3.x installed.
-```
+The above example demonstrates the transition from a basic function to a more descriptive one with type annotations and a docstring, enhancing readability and usability.
 
 ## Breaking Changes
 
-No breaking changes have been introduced in this update. All previous functionality remains intact, and the repository should continue to work seamlessly with existing codebases.
+There are no breaking changes in this update. All existing functionality remains intact, and users can continue to use the repository without modifications to their existing code.
 
 ## How to Test
 
-To ensure that everything is functioning as expected, follow these steps:
+To run tests for the DSA Questions repository, follow these steps:
 
 1. Clone the repository:
    ```bash
@@ -46,35 +55,29 @@ To ensure that everything is functioning as expected, follow these steps:
    cd DSA-Questions
    ```
 
-2. Install necessary dependencies (if any):
+2. Install the required dependencies:
    ```bash
    pip install -r requirements.txt
    ```
 
-3. Run the main program:
+3. Execute the test suite:
    ```bash
-   python main.py
+   pytest
    ```
 
-4. Review the output to verify that it aligns with the expected results.
-
-5. Optionally, run the provided unit tests to ensure all features are functioning correctly:
-   ```bash
-   pytest tests/
-   ```
-
-## Metadata
+Ensure that all tests pass successfully to verify that the code is functioning as expected.
 
 ```json
 {
   "summary_lines": [
-    "This update enhances the clarity and usability of the README file.",
-    "It includes improved documentation, structured sections, and code examples."
+    "Enhanced README for clarity and structure.",
+    "Added code examples and improved testing instructions."
   ],
   "important_files": [
-    "README.md"
+    "README.md",
+    "requirements.txt"
   ],
-  "version_note": "No breaking changes introduced; all functionalities remain intact."
+  "version_note": "Updated README to version 1.1"
 }
 ```
 ```
