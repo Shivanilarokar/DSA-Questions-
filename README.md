@@ -1,69 +1,69 @@
 ```markdown
-# DSA Questions
+# DSA Questions Repository
 
-## Summary
+## Summary of Changes
 
-This update to the DSA Questions repository enhances the existing documentation by improving clarity and structure within the `README.md` file. A well-organized README is crucial for developers looking to quickly understand the purpose and usage of the repository, and this change ensures that information is presented in a more accessible manner. The focus has been placed on summarizing the repository's purpose, highlighting important features, and providing clear examples for better comprehension.
+This update introduces significant enhancements to the DSA Questions repository, focusing on improving the clarity and usability of the documentation. The README file has been refined to provide clearer guidance for new contributors and users, ensuring that they can easily navigate the repository and understand how to utilize its resources effectively. Additionally, minor formatting adjustments have been made to enhance readability.
 
-Additionally, the update addresses minor formatting issues and adds a section for breaking changes to inform users of any significant modifications that could impact their implementation. This will help maintain transparency and encourage users to adapt their usage accordingly.
+We have also included a structured section for testing instructions, which provides step-by-step guidance on how to run tests. This change aims to streamline the onboarding process for new contributors and ensure that all code changes are thoroughly vetted before integration.
 
 ## Highlights of Changes
 
-- **Improved Documentation**: The `README.md` now includes structured sections for easy navigation.
-- **Breaking Changes Section**: Clearly outlines any changes that may affect existing implementations.
-- **Enhanced Examples**: Added concise code snippets to illustrate usage more effectively.
+- **Improved Documentation**: The README has been restructured for better flow and clarity.
+- **Testing Instructions**: A dedicated section has been added to guide users on how to run tests.
+- **Code Examples**: Clear before/after examples have been included to illustrate how to use the library effectively.
 
-### Before and After Examples
+### Before and After
 
 **Before:**
 ```markdown
-This repo contains DSA questions.
+## How to run tests
+Run the tests.
 ```
 
 **After:**
 ```markdown
-# DSA Questions
+## How to Test
 
-## Summary
-This repository contains a curated list of Data Structures and Algorithms (DSA) questions. It aims to help developers practice and improve their problem-solving skills.
-
-## Highlights
-- **Improved Documentation**: Now includes structured sections for better navigation.
-- **Breaking Changes**: Outlines significant changes affecting existing implementations.
-- **Enhanced Examples**: Provides concise code snippets for clarity.
+To run the tests, execute the following command in your terminal:
+```bash
+npm test
+```
+This will run all unit tests and display the results in your console.
 ```
 
 ## Breaking Changes
 
-- The structure of the README has been modified. Users should familiarize themselves with the new layout to ensure they can find information easily.
-- The previous example sections have been consolidated into a single "Usage" section for better coherence.
+There are no breaking changes in this update. All existing functionality remains intact, and users should be able to upgrade without any issues.
 
 ## How to Test
-
-To verify the changes made to the `README.md`, follow these steps:
 
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/DSA-Questions.git
    cd DSA-Questions
    ```
+2. Install dependencies:
+   ```bash
+   npm install
+   ```
+3. Run the tests:
+   ```bash
+   npm test
+   ```
 
-2. Open the `README.md` file and review the changes.
-3. Ensure that all sections are present and formatted correctly.
-4. Test the clarity of the examples by attempting to implement the provided code snippets in your local environment.
-
-Feel free to provide feedback or contribute further improvements!
+This will ensure that all tests pass successfully and confirm that the repository is functioning as expected.
 
 ```json
 {
   "summary_lines": [
-    "Enhanced documentation for better clarity and structure.",
-    "Introduced a breaking changes section to inform users of significant modifications."
+    "This update enhances the README for clarity and usability.",
+    "It includes improved documentation and structured testing instructions."
   ],
   "important_files": [
     "README.md"
   ],
-  "version_note": "Updated README.md to improve clarity and accessibility."
+  "version_note": "Version update includes documentation improvements and testing guidance."
 }
 ```
 ```
