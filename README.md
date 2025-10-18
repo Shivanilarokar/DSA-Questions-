@@ -1,61 +1,60 @@
 ```markdown
-# DSA Questions Repository
+# DSA Questions
 
-## Summary
+## Summary of Changes
 
-This update to the README.md file provides enhanced clarity on the structure and purpose of the DSA Questions repository. The documentation has been refined to guide new contributors through the project's setup and usage more effectively. Additionally, it outlines the types of data structures and algorithms covered, along with best practices for contribution.
+This update to the DSA Questions repository introduces several enhancements to the README file, ensuring better clarity and usability for contributors and users alike. The changes aim to provide a more structured overview of the project, outline its purpose, and offer clear instructions for testing and contribution. By refining the documentation, we hope to facilitate a smoother onboarding experience for new developers and improve overall project engagement.
 
-The changes aim to improve user experience by making it easier for users to navigate the repository and understand how to utilize the resources available. The README now includes examples, a more detailed explanation of the testing process, and a section on contributing guidelines to foster collaboration.
+Key highlights of this update include a clearer section on project highlights, improved examples for better comprehension, and a dedicated section for breaking changes. These enhancements make it easier for users to navigate the repository and understand the core functionalities of the data structures and algorithms presented.
 
-## Highlights of Changes
+## Highlights
 
-- **Improved Structure**: The README now follows a more logical flow, making it easier to find information.
-- **Code Examples**: Added small code snippets to illustrate how to use specific data structures and algorithms.
-- **Testing Instructions**: Streamlined the testing instructions to ensure that users can easily verify their implementations.
+- **Improved Documentation**: Enhanced clarity in project objectives and instructions.
+- **Code Examples**: More illustrative examples demonstrating the usage of algorithms.
+- **Breaking Changes**: Clearer communication regarding any breaking changes introduced in recent commits.
 
-### Code Examples
+## Changes Made
 
-#### Before
-```markdown
-## Linked Lists
-Linked lists are a fundamental data structure...
-```
+- **Enhanced Summary**: The project summary has been expanded to give better context on the purpose and scope of the repository.
+- **Code Examples**: Added concise before-and-after code snippets for better understanding of algorithm implementations.
+- **Breaking Changes Section**: Introduced a dedicated section to outline any breaking changes in the project.
 
-#### After
-```markdown
-## Linked Lists
+### Before and After Examples
 
-Linked lists are a fundamental data structure that allows for efficient insertion and deletion of elements. Here is a simple implementation in Python:
-
+**Before:**
 ```python
-class Node:
-    def __init__(self, data):
-        self.data = data
-        self.next = None
-
-class LinkedList:
-    def __init__(self):
-        self.head = None
-
-    def append(self, data):
-        new_node = Node(data)
-        if not self.head:
-            self.head = new_node
-            return
-        last_node = self.head
-        while last_node.next:
-            last_node = last_node.next
-        last_node.next = new_node
+# Quick sort implementation
+def quicksort(arr):
+    if len(arr) <= 1:
+        return arr
+    pivot = arr[len(arr) // 2]
+    left = [x for x in arr if x < pivot]
+    middle = [x for x in arr if x == pivot]
+    right = [x for x in arr if x > pivot]
+    return quicksort(left) + middle + quicksort(right)
 ```
+
+**After:**
+```python
+# Improved quick sort implementation with additional logging
+def quicksort(arr):
+    if len(arr) <= 1:
+        return arr
+    pivot = arr[len(arr) // 2]
+    print(f"Pivot chosen: {pivot}")
+    left = [x for x in arr if x < pivot]
+    middle = [x for x in arr if x == pivot]
+    right = [x for x in arr if x > pivot]
+    return quicksort(left) + middle + quicksort(right)
 ```
 
 ## Breaking Changes
 
-- The formatting of sections has been standardized to improve readability. Existing links and references should still function correctly, but users should review any external links to verify their accuracy.
-  
+- The quicksort function now includes logging to track the pivot selection process, which may affect output if not handled properly in existing implementations.
+
 ## How to Test
 
-To test the changes made in this update, follow these steps:
+To test the changes made in this repository, follow these steps:
 
 1. Clone the repository:
    ```bash
@@ -63,30 +62,31 @@ To test the changes made in this update, follow these steps:
    cd DSA-Questions
    ```
 
-2. Install the required dependencies:
+2. Install the required dependencies (if any):
    ```bash
    pip install -r requirements.txt
    ```
 
-3. Run the test suite:
+3. Run the test suite to ensure all algorithms function correctly:
    ```bash
-   pytest tests/
+   python -m unittest discover
    ```
 
-4. Verify that all tests pass and the README displays correctly in the main view of your GitHub repository.
+4. Manually test the modified quicksort function by running:
+   ```python
+   print(quicksort([3, 6, 8, 10, 1, 2, 1]))
+   ```
 
+## Metadata
 ```json
 {
   "summary_lines": [
-    "Updated README.md for improved clarity and usability.",
-    "Enhanced structure, added code examples, and streamlined testing instructions."
+    "This update enhances the README with improved documentation, clearer examples, and a breaking changes section."
   ],
   "important_files": [
     "README.md"
   ],
-  "version_note": "Version updated to reflect enhancements in documentation."
+  "version_note": "Version 1.1: Enhanced clarity and usability."
 }
 ```
 ```
-
-This structured README update ensures that users can easily navigate and utilize the DSA Questions repository while contributing effectively to the project.
