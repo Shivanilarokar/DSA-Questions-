@@ -1,92 +1,71 @@
 ```markdown
 # DSA Questions
 
-## Summary
+## Summary of Changes
+In this update, the README.md has been enhanced to provide clearer instructions and additional context for users looking to leverage the DSA Questions repository. The enhancements include a more structured format, improved code examples, and a dedicated section for breaking changes. These improvements aim to facilitate a better understanding of the repository's purpose and how users can effectively utilize it.
 
-This update to the `DSA Questions` repository enhances the documentation in the `README.md` file, providing clearer instructions and examples for users. The goal is to make it easier for contributors and users to navigate the project, understand its purpose, and utilize its features effectively. The changes include improvements to the structure and clarity of the content, making it more user-friendly.
+The major highlight of this update is the addition of concise before-and-after examples that illustrate the impact of the changes made in the codebase. This will help users quickly grasp the differences and improvements in functionality. Furthermore, the new format emphasizes clarity and ease of navigation, making it simpler for users to find the information they need.
 
-In addition to enhancing the documentation, we have also included several examples that illustrate how to use the data structures and algorithms provided in this repository. By doing so, we aim to reduce the learning curve for new users and encourage more contributions from the community. This update also addresses some minor formatting issues and outdated information.
+## Highlights
+- Improved README structure for better readability
+- Added before/after examples to demonstrate key changes
+- Clearly defined breaking changes and migration steps
+- Enhanced testing instructions for users
 
-## Highlights of Changes
-
-- **Improved Documentation**: The README now includes a more structured approach to presenting information about the repository.
-- **Code Examples**: Added small code snippets demonstrating the usage of key algorithms and data structures.
-- **Formatting Enhancements**: Fixed formatting issues for better readability.
-
-### Before and After Examples
-
-**Before**: 
-```markdown
-This repo contains DSA questions.
-```
-
-**After**:
-```markdown
-# DSA Questions
-
-This repository contains a collection of Data Structures and Algorithms (DSA) questions to help you practice and enhance your coding skills.
-```
-
-**Before**:
-```markdown
-Usage of algorithms is described.
-```
-
-**After**:
-```markdown
-## Usage
-
-Here’s how to use the `Binary Search` algorithm:
-
+## What Changed and Why
+- **Enhanced Structure**: The README now follows a more organized layout, making it easier for users to locate sections.
+- **Before/After Examples**: Added code snippets that show the state of the code before the changes and the improved version afterward, allowing users to easily see the benefits of the updates.
+  
+### Before Example
 ```python
-def binary_search(arr, target):
-    left, right = 0, len(arr) - 1
-    while left <= right:
-        mid = left + (right - left) // 2
-        if arr[mid] == target:
-            return mid
-        elif arr[mid] < target:
-            left = mid + 1
-        else:
-            right = mid - 1
-    return -1
+# Original function
+def add_numbers(a, b):
+    return a + b
 ```
+
+### After Example
+```python
+# Improved function with type hints
+def add_numbers(a: int, b: int) -> int:
+    """Returns the sum of two integers."""
+    return a + b
 ```
 
 ## Breaking Changes
-
-There are no breaking changes in this update. All previously existing functionality remains intact.
+- The function `add_numbers` now requires type hints. Ensure your calls to this function are updated to include integer inputs.
 
 ## How to Test
-
-To test the changes made in this update, follow these steps:
-
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/DSA-Questions.git
-   cd DSA-Questions
-   ```
+    ```bash
+    git clone https://github.com/yourusername/DSA-Questions.git
+    cd DSA-Questions
+    ```
 
-2. Open the `README.md` file and review the new content to ensure clarity and correctness.
+2. Install the required dependencies:
+    ```bash
+    pip install -r requirements.txt
+    ```
 
-3. Run the provided code examples in your local environment to verify they work as expected.
+3. Run the tests:
+    ```bash
+    pytest tests/
+    ```
 
-4. If you find any issues or have suggestions for further improvements, feel free to open an issue or submit a pull request.
-
----
+4. Verify that all tests pass successfully.
 
 ```json
 {
   "summary_lines": [
-    "This update enhances the README.md file for clarity and usability.",
-    "It includes improved documentation and code examples for better understanding."
+    "Enhanced README for better clarity and usability.",
+    "Added before/after examples to illustrate changes.",
+    "Defined breaking changes for easier migration."
   ],
   "important_files": [
-    "README.md"
+    "README.md",
+    "main.py",
+    "tests/test_main.py"
   ],
-  "version_note": "Documentation update only; no functional changes."
+  "version_note": "Version 1.1 - Added type hints and improved documentation."
 }
 ```
-``` 
-
-This README update provides a comprehensive overview of the changes made, ensuring that users can easily understand and utilize the repository's resources.
+```
