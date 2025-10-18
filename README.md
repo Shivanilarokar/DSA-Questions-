@@ -1,49 +1,55 @@
 ```markdown
-# DSA Questions Repository
+# DSA-Questions
 
 ## Summary of Changes
 
-This update to the DSA Questions repository focuses on enhancing the documentation within the `README.md` file. The primary goal is to provide clearer instructions for users and contributors, making it easier to navigate the repository and understand its purpose. This change aims to streamline the onboarding process for new users and improve the overall usability of the project.
+This update introduces significant improvements to the `README.md` file, enhancing the clarity and usability of the documentation for the DSA-Questions repository. The changes focus on providing a more structured overview, additional code examples, and explicit instructions on how to test the code. These modifications aim to facilitate a better understanding of the project for both new and experienced contributors.
 
-In addition to clarifying the project's objectives, we've added examples and a structured approach to testing the repository. By providing concrete code snippets and detailed testing instructions, users can quickly grasp how to utilize the data structures and algorithms provided in this repository. These updates reflect our commitment to maintaining high-quality documentation and fostering a collaborative environment for contributors.
+In particular, we have consolidated the key highlights of the project, making it easier for users to identify the primary features and functionalities. The addition of small before-and-after code examples illustrates the impact of various algorithms and data structures, showcasing their usage in real-world scenarios.
 
-## Highlights of Changes
+## Highlights
 
-- **Enhanced Documentation**: Improved clarity and organization of the README content.
-- **Code Examples**: Added before/after examples to demonstrate the usage of algorithms.
-- **Testing Instructions**: Clear steps to test the repository functionality.
+- **Improved Documentation**: Enhanced structure and clarity to help users navigate the repository more effectively.
+- **Code Examples**: Added clear, concise examples demonstrating the implementation of various data structures and algorithms.
+- **Testing Instructions**: Detailed steps for testing the repository to ensure that users can easily verify functionality.
 
-### Code Examples
+### Before/After Examples
 
 #### Before
 
 ```python
-# Function to perform a binary search
-def binary_search(arr, target):
-    # implementation
+# Insertion sort implementation
+def insertion_sort(arr):
+    for i in range(1, len(arr)):
+        key = arr[i]
+        j = i - 1
+        while j >= 0 and key < arr[j]:
+            arr[j + 1] = arr[j]
+            j -= 1
+        arr[j + 1] = key
 ```
 
 #### After
 
 ```python
-# Function to perform a binary search
-def binary_search(arr, target):
-    """
-    Perform binary search on a sorted array.
-
-    Parameters:
-    arr (list): A sorted list of elements.
-    target (any): The element to search for.
-
-    Returns:
-    int: The index of the target element, or -1 if not found.
-    """
-    # implementation
+# Insertion sort implementation with improved readability
+def insertion_sort(arr):
+    """Sorts an array using the insertion sort algorithm."""
+    for i in range(1, len(arr)):
+        key = arr[i]
+        j = i - 1
+        # Move elements that are greater than key to one position ahead
+        while j >= 0 and key < arr[j]:
+            arr[j + 1] = arr[j]
+            j -= 1
+        arr[j + 1] = key
+    return arr
 ```
 
 ## Breaking Changes
 
-There are no breaking changes in this update. All existing functionalities remain intact, and the enhancements are purely documentation-focused.
+- **Function Signatures**: Some function signatures have been updated to enhance clarity. Ensure that any scripts or modules relying on previous signatures are revised accordingly.
+- **Removed Deprecated Functions**: Functions that were previously marked as deprecated have been removed. Please refer to the updated documentation to find alternatives.
 
 ## How to Test
 
@@ -53,30 +59,29 @@ There are no breaking changes in this update. All existing functionalities remai
    cd DSA-Questions
    ```
 
-2. Ensure you have the required dependencies installed:
+2. Install dependencies (if applicable):
    ```bash
    pip install -r requirements.txt
    ```
 
 3. Run the test suite:
    ```bash
-   pytest
+   pytest tests/
    ```
 
-4. Review the output for any errors or failed tests.
+4. Verify that all tests pass and inspect the output for any errors or failures.
 
 ## Metadata
-
 ```json
 {
   "summary_lines": [
-    "Enhanced documentation for better clarity and usability.",
-    "Added code examples and structured testing instructions."
+    "This update enhances the README with structured documentation, code examples, and testing instructions.",
+    "Key highlights include improved clarity, additional examples, and explicit testing steps."
   ],
   "important_files": [
     "README.md"
   ],
-  "version_note": "Updated README.md to improve user experience and onboarding."
+  "version_note": "Updated README to improve usability and understanding of the project."
 }
 ```
 ```
