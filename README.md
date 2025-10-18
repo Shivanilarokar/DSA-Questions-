@@ -1,69 +1,76 @@
 ```markdown
-# DSA Questions Repository
+# DSA Questions
 
 ## Summary of Changes
 
-This update introduces significant enhancements to the DSA Questions repository, focusing on improving the organization and clarity of the README file. The primary goal of these changes is to provide new users with a more intuitive onboarding experience, making it easier to navigate the repository's content and understand how to contribute effectively. 
+In this update, the README file has been enhanced to provide clearer guidance on the structure and purpose of the repository. The modifications aim to improve user engagement and understanding of the various data structures and algorithms (DSA) questions included in the repository. Additionally, we have added examples and explanations that illustrate the practical applications of the algorithms, making it easier for users to grasp core concepts.
 
-Additionally, we've included more detailed explanations of the data structures and algorithms covered in the repository, along with practical examples. This should help users not only grasp the theoretical concepts but also see them in action. The README now serves as a better guide for both beginners and experienced developers.
+The revised README also introduces a new section dedicated to showcasing before-and-after code snippets. This will help users visualize the improvements made in the codebase and understand the evolution of specific algorithms. Furthermore, the overall formatting has been improved for better readability and aesthetics, ensuring that users can navigate the document effortlessly.
 
 ## Highlights of Changes
 
-- **Improved Structure**: The README now features a clearer layout, making it easier to find relevant sections.
-- **Enhanced Examples**: Code snippets have been added to illustrate key concepts and algorithms, providing practical applications for users.
-- **Contribution Guidelines**: A dedicated section has been added to outline how users can contribute to the project, fostering community involvement.
+- **Enhanced Documentation**: Improved clarity and structure of the README to facilitate understanding.
+- **Before/After Code Examples**: Added examples demonstrating the implementation of specific algorithms before and after optimizations.
+- **Readability Improvements**: Updated formatting for a cleaner, more professional appearance.
 
-### Before and After Example
+### Before/After Examples
 
-**Before:**
-
-```markdown
-# DSA Questions
-This repo contains various data structures and algorithms.
+**Before Optimization:**
+```python
+def bubble_sort(arr):
+    n = len(arr)
+    for i in range(n):
+        for j in range(0, n-i-1):
+            if arr[j] > arr[j+1]:
+                arr[j], arr[j+1] = arr[j+1], arr[j]
+    return arr
 ```
 
-**After:**
-
-```markdown
-# DSA Questions Repository
-
-## Overview
-This repository contains a collection of common data structures and algorithms, with explanations and examples to help you understand and implement them.
-
-## Contribution Guidelines
-We welcome contributions! Please read our guidelines before submitting a pull request.
+**After Optimization:**
+```python
+def optimized_bubble_sort(arr):
+    n = len(arr)
+    swapped = True
+    while swapped:
+        swapped = False
+        for i in range(n-1):
+            if arr[i] > arr[i+1]:
+                arr[i], arr[i+1] = arr[i+1], arr[i]
+                swapped = True
+    return arr
 ```
 
 ## Breaking Changes
 
-No breaking changes were introduced in this update. However, users are encouraged to review the new formatting and examples to maximize their understanding and experience when using the repository.
+- None in this update. All existing functionalities remain intact.
 
 ## How to Test
 
-To ensure that the changes in this update are functioning as expected, follow these steps:
-
-1. Clone the repository:
+1. Clone the repository to your local machine:
    ```bash
    git clone https://github.com/yourusername/DSA-Questions.git
    cd DSA-Questions
    ```
 
-2. Open the `README.md` file and verify that the new sections and examples are present and correctly formatted.
+2. Run the provided test suite to ensure that all algorithms function correctly:
+   ```bash
+   python -m unittest discover tests/
+   ```
 
-3. Check the examples by running the provided code snippets in your preferred programming environment to confirm they work as intended.
-
-4. If you have suggestions for further enhancements or additional examples, please consider contributing by submitting an issue or pull request.
+3. Review the README for updated examples and implementation details. Feel free to run the provided examples to verify their outputs.
 
 ```json
 {
   "summary_lines": [
-    "This update improves the README structure and content.",
-    "It includes clearer explanations and practical examples."
+    "This update enhances the README for better clarity and engagement.",
+    "It includes before/after code examples and improved formatting."
   ],
   "important_files": [
-    "README.md"
+    "README.md",
+    "algorithms/bubble_sort.py",
+    "tests/test_bubble_sort.py"
   ],
-  "version_note": "Updated README for better clarity and usability."
+  "version_note": "Updated README to improve usability and understanding of DSA algorithms."
 }
 ```
 ```
