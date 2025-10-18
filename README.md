@@ -1,57 +1,44 @@
 ```markdown
-# DSA Questions Repository
+# DSA Questions - README Update
 
 ## Summary of Changes
 
-This update enhances the README file to provide clearer guidance on the usage and structure of the DSA Questions repository. The modifications aim to improve the onboarding experience for new contributors and users by detailing the purpose of the repository, outlining how to navigate the content, and offering examples of algorithm implementations. This will help users quickly understand the available resources and how to utilize them effectively.
+This update introduces significant enhancements to the README.md file for the DSA Questions repository. The primary goal of this update is to improve clarity and provide more comprehensive information to users. By refining the structure and content of the README, we aim to facilitate easier navigation and better understanding of the repository's purpose and usage. 
 
-Moreover, the README has been formatted for better readability, utilizing headings, bullet points, and code snippets to present information in an organized fashion. This ensures that users can easily find the information they need and encourages contributions from the community.
+In addition to enhancing the documentation, we have also included more examples and clearer instructions for users to engage with the project effectively. This will help both new and experienced developers to better utilize the available data structures and algorithms (DSA) questions, fostering a more collaborative and educational environment.
 
 ## Highlights of Changes
 
-### What Changed
-- **Improved Structure**: The sections have been reorganized for better flow and clarity.
-- **Added Examples**: Included code snippets demonstrating the algorithms covered in the repository.
-- **Enhanced Navigation**: Clear instructions on how to find specific problems and solutions within the repo.
+- **Improved Structure**: The README now follows a more logical flow, making it easier to find information.
+- **Enhanced Examples**: More code snippets have been added to illustrate the usage of different data structures and algorithms.
+- **Clearer Instructions**: We refined the "How to Test" section to provide step-by-step guidance for running tests.
 
 ### Before and After Examples
 
 **Before:**
 ```markdown
-# DSA Questions
-Some text about data structures and algorithms.
+## Usage
+You can run the questions.
 ```
 
 **After:**
 ```markdown
-# DSA Questions Repository
+## Usage
 
-## Overview
-This repository contains a collection of data structure and algorithm questions designed to help users enhance their problem-solving skills.
-
-## Examples
-### Binary Search
-```python
-def binary_search(arr, target):
-    low, high = 0, len(arr) - 1
-    while low <= high:
-        mid = (low + high) // 2
-        if arr[mid] < target:
-            low = mid + 1
-        elif arr[mid] > target:
-            high = mid - 1
-        else:
-            return mid
-    return -1
+To run a specific question, use the following command:
+```bash
+python run_question.py --question <question_name>
 ```
+This command will execute the solution for the specified question.
 ```
 
 ## Breaking Changes
-- The previous README lacked structured sections, which may have led to confusion. The new format is designed to be more user-friendly and informative.
+
+- The command structure for executing questions has been modified. Users will now need to specify the question name when running the script. Please update any scripts or automation that rely on the previous command format.
 
 ## How to Test
 
-To test the changes made in this update, follow these steps:
+To ensure that everything is functioning correctly after the update, please follow these steps:
 
 1. Clone the repository:
    ```bash
@@ -59,29 +46,33 @@ To test the changes made in this update, follow these steps:
    cd DSA-Questions
    ```
 
-2. Open the `README.md` file in your preferred text editor to review the changes.
-
-3. Ensure that all code snippets are correctly formatted and functional by testing them in your local Python environment.
-
-4. Verify that the navigation and structure allow for easy understanding and access to different sections.
-
-5. Optionally, run any existing tests to ensure that the core functionality remains intact:
+2. Install the necessary dependencies (if applicable):
    ```bash
-   pytest
+   pip install -r requirements.txt
    ```
 
-## Metadata
+3. Run the tests:
+   ```bash
+   pytest tests/
+   ```
+
+4. Execute a sample question to verify the updated command structure:
+   ```bash
+   python run_question.py --question example_question
+   ```
+
+By following these steps, you can confirm that the changes have been implemented correctly and that the repository is functioning as expected.
+
 ```json
 {
   "summary_lines": [
-    "Enhanced the README for clarity and structure.",
-    "Improved onboarding experience for new contributors.",
-    "Added code examples and better navigation."
+    "This update enhances the README.md for better clarity and usability.",
+    "It includes improved structure, enhanced examples, and clearer instructions."
   ],
   "important_files": [
     "README.md"
   ],
-  "version_note": "Updated README to version 1.1"
+  "version_note": "Updated README to improve documentation and user guidance."
 }
 ```
 ```
