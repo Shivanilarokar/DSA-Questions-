@@ -1,79 +1,85 @@
 ```markdown
-# DSA-Questions
+# DSA Questions Repository
 
-## Summary
+## Summary of Changes
 
-This update introduces significant enhancements to the `DSA-Questions` repository, focusing on improving the overall structure and clarity of the README file. The modifications aim to provide clearer instructions, better examples, and an organized layout that will help users navigate the repository more effectively. These changes are designed to streamline the onboarding process for new contributors and users, making it easier to understand the purpose and usage of the repository.
+This update to the DSA Questions repository includes enhancements to the README.md file, aimed at improving clarity and usability for users and contributors. The revisions provide a more structured overview of the project, highlight key features, and offer clearer instructions on how to utilize the repository effectively.
 
-In addition to structural improvements, the README now includes concise code examples that illustrate key concepts and functionalities. This allows users to quickly grasp how to apply the data structures and algorithms presented in the repository. Overall, this update enhances the usability and accessibility of the repository, encouraging more engagement from the community.
+The updated README now includes sections that summarize the project's objectives, its primary features, and how to contribute. Additionally, examples have been added to illustrate how to run basic data structure and algorithm (DSA) problems, making it easier for new users to get started.
 
 ## Highlights of Changes
 
-- **Improved README Structure**: The README has been reorganized for better readability, with clear sections and headings.
-- **Enhanced Code Examples**: Small before-and-after code snippets have been added to demonstrate usage more effectively.
-- **Clarified Instructions**: The instructions for contributing and testing have been refined to eliminate ambiguity.
+- **Enhanced Project Overview**: A concise project description has been added to provide context for new users.
+- **Key Features Section**: This section outlines the primary functionalities and benefits of using the repository.
+- **Code Examples**: Clear before-and-after code snippets demonstrate how to utilize the provided algorithms more effectively.
+- **Testing Instructions**: A detailed section on how to run tests has been included, ensuring users can validate their implementations.
 
-### Before/After Code Examples
+### Before and After Examples
 
-#### Before
+**Before:**
 ```python
-def add(a, b):
-    return a + b
+def bubble_sort(arr):
+    n = len(arr)
+    for i in range(n):
+        for j in range(0, n-i-1):
+            if arr[j] > arr[j+1]:
+                arr[j], arr[j+1] = arr[j+1], arr[j]
+    return arr
 ```
 
-#### After
+**After:**
 ```python
-def add(a: int, b: int) -> int:
-    """
-    Adds two integers and returns the result.
+def bubble_sort(arr):
+    """Sorts an array using the Bubble Sort algorithm."""
+    n = len(arr)
+    for i in range(n):
+        for j in range(0, n - i - 1):
+            if arr[j] > arr[j + 1]:
+                arr[j], arr[j + 1] = arr[j + 1], arr[j]
+    return arr
 
-    Parameters:
-    a (int): First integer
-    b (int): Second integer
-
-    Returns:
-    int: Sum of a and b
-    """
-    return a + b
+# Example usage
+sorted_array = bubble_sort([64, 34, 25, 12, 22, 11, 90])
+print(sorted_array)  # Output: [11, 12, 22, 25, 34, 64, 90]
 ```
 
 ## Breaking Changes
 
-There are no breaking changes in this update, ensuring that existing functionality remains intact. All previous examples and usage patterns are still valid.
+There are no breaking changes in this update. All existing functionality remains intact, and new features have been added without altering the current API.
 
 ## How to Test
 
-To test the changes made in this update, follow these steps:
+To test the changes made in this repository, follow these steps:
 
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/DSA-Questions.git
+   ```
+2. Navigate to the project directory:
+   ```bash
    cd DSA-Questions
    ```
-
-2. Ensure you have the required dependencies installed:
+3. Install the necessary dependencies:
    ```bash
    pip install -r requirements.txt
    ```
-
-3. Run the test suite:
+4. Run the test suite:
    ```bash
-   pytest
+   pytest tests/
    ```
 
-4. Review the README file to familiarize yourself with the new structure and examples.
+Ensure all tests pass to confirm that the repository is functioning as expected.
 
-## JSON Metadata
 ```json
 {
   "summary_lines": [
-    "This update enhances the README structure and clarity.",
-    "It introduces better examples and refined instructions."
+    "This update enhances the README for clarity and usability.",
+    "It includes a structured overview, key features, and code examples."
   ],
   "important_files": [
     "README.md"
   ],
-  "version_note": "Updated README to improve usability and accessibility."
+  "version_note": "Updated README to improve user experience and documentation."
 }
 ```
 ```
