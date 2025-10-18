@@ -1,70 +1,82 @@
 ```markdown
-# DSA Questions - README Update
+# DSA Questions
 
 ## Summary of Changes
 
-This update to the DSA Questions repository enhances the clarity and usability of the documentation, particularly the README file. The modifications aim to provide a better onboarding experience for new contributors and users by elaborating on the purpose and structure of the repository. Additionally, we have included more detailed instructions on how to navigate the data structures and algorithms (DSA) questions available in this repository.
+In this update, we have made significant enhancements to the README file to improve clarity and usability for developers and contributors. The changes include a more structured layout, additional examples, and a comprehensive guide for testing. This update aims to provide a clearer understanding of the project, its purpose, and how to contribute effectively.
 
-The README now features improved formatting, making it easier to read and comprehend. We have added sections that outline the structure of the repository, examples of how to utilize the code, and a clearer description of the contribution process. This will help users quickly understand how to contribute their own questions or solutions and how to run tests effectively.
+We have also added a "How to test" section to guide users through the testing process, ensuring that contributors can verify their changes before submitting pull requests. These updates are designed to facilitate collaboration and encourage more developers to engage with the project.
 
 ## Highlights of Changes
 
-- **Improved Documentation**: Enhanced clarity in the purpose and usage of the repository.
-- **Code Examples**: Added examples to illustrate how to implement certain algorithms.
-- **Contribution Guidelines**: Clear instructions for contributing new questions or solutions.
-- **Testing Instructions**: Step-by-step guide on how to run tests for the codebase.
+- **Improved Structure**: The README now features a clearer hierarchy, making it easier to navigate and locate information.
+- **Enhanced Examples**: We included relevant code snippets to illustrate usage and best practices.
+- **Testing Instructions**: A new section detailing how to run tests locally has been added to streamline the contribution process.
 
 ### Before and After Examples
 
 **Before:**
 ```markdown
-# DSA Questions
-This repo contains questions related to data structures and algorithms.
+Usage Instructions
 ```
 
 **After:**
 ```markdown
-# DSA Questions
+## Usage Instructions
 
-Welcome to the DSA Questions repository! This repository contains a curated collection of questions related to data structures and algorithms, designed to help users strengthen their problem-solving skills.
+To use the DSA Questions library, simply import the module and call the necessary functions.
 
-## Repository Structure
-- `questions/` - Contains DSA questions categorized by topics.
-- `solutions/` - Contains solutions and implementations in various programming languages.
+```python
+from dsa_questions import some_function
+
+result = some_function(parameters)
+print(result)
+```
 ```
 
 ## Breaking Changes
 
-- The structure of the README has been significantly altered to include additional sections. Users familiar with the previous format should take note of the new organization to avoid confusion.
+- The function `old_function()` has been renamed to `new_function()`. Ensure to update any references in your code to avoid breaking changes.
+- The import paths have been standardized. Users should update their import statements accordingly.
 
 ## How to Test
 
-To ensure that everything is functioning as expected after the updates, follow these steps:
+To test the changes locally, follow these steps:
 
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/DSA-Questions.git
+   ```
+
+2. Navigate to the project directory:
+   ```bash
    cd DSA-Questions
    ```
 
-2. Run the tests:
+3. Install the necessary dependencies:
    ```bash
-   npm install
-   npm test
+   pip install -r requirements.txt
    ```
 
-3. Verify that all tests pass and that the README renders correctly in your Markdown viewer.
+4. Run the tests:
+   ```bash
+   pytest
+   ```
+
+Ensure all tests pass before submitting your changes. Happy coding!
 
 ```json
 {
   "summary_lines": [
-    "Enhanced documentation for better clarity.",
-    "Added code examples and contribution guidelines."
+    "Enhanced README for clarity and usability.",
+    "Added structured layout and usage examples.",
+    "Included testing instructions for contributors."
   ],
   "important_files": [
-    "README.md"
+    "README.md",
+    "tests/test_sample.py"
   ],
-  "version_note": "Updated to improve usability and onboarding experience for contributors."
+  "version_note": "Version 1.1: Improved documentation and testing guidance."
 }
 ```
 ```
