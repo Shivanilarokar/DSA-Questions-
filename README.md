@@ -1,9 +1,9 @@
 ```markdown
 # DSA Questions Repository
 
-Welcome to the **DSA Questions** repository! This repository contains a collection of Data Structures and Algorithms (DSA) problems designed to help you enhance your coding skills.
-
 ![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
+
+Welcome to the **DSA Questions** repository! This repository contains a collection of Data Structures and Algorithms (DSA) problems designed to help you enhance your coding skills.
 
 ## Features
 - A comprehensive collection of DSA problems.
@@ -18,29 +18,42 @@ In the recent update, the README.md file has been enhanced for better clarity an
 - Encouraged contributions and exploration of the repository.
 
 ## Installation
-To get started with the DSA Questions repository, clone it using:
+To get started with the DSA Questions repository, clone the repository to your local machine:
+
 ```bash
 git clone https://github.com/Shivanilarokar/DSA-Questions-
 ```
 
-## Usage
-Explore the problems and their solutions to practice your coding skills. Each problem is documented with:
-- **Problem Statement**: A clear description of the task.
-- **Input**: The input format required for the problem.
-- **Output**: Describe the expected output.
-- **Example**: Provide an example input/output.
+Navigate to the project directory:
 
-## Example
+```bash
+cd DSA-Questions-
+```
+
+## Usage
+Explore the problems and their solutions to practice your coding skills. Each problem is documented clearly to assist you in understanding the concepts better.
+
+### Problem Structure
 Here's a sample problem structure to illustrate how you can document your DSA problems effectively:
+
 ```markdown
 ### Problem Title
 - **Description**: Brief description of the problem.
-- **Input**: Describe the input format.
-- **Output**: Describe the expected output.
+- **Input**: Specify the input format.
+- **Output**: Specify the output format.
 - **Example**: Provide an example input/output.
 ```
 
-Feel free to explore, contribute, and enhance your coding skills!
+## Example
+Consider the following example to see how a problem can be structured:
 
-Happy coding! 🚀
+```markdown
+### Two Sum
+- **Description**: Given an array of integers, return indices of the two numbers such that they add up to a specific target.
+- **Input**: An array of integers and a target integer.
+- **Output**: Indices of the two numbers.
+- **Example**: Given nums = [2, 7, 11, 15], target = 9, return [0, 1].
+```
+
+Feel free to explore and contribute to the repository. Happy coding! 🚀
 ```
