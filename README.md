@@ -17,8 +17,9 @@ This repository aims to equip developers with a diverse array of Data Structures
 
 In the latest update, the following changes were made to the `README.md` file:
 
-- **Improved Clarity**: Enhanced the installation and usage instructions for better understanding.
-- **Formatting**: Added new emojis for better visual appeal and organization.
+- **Improved Clarity**: Enhanced the introduction to clarify the repository's purpose.
+- **New Sections**: Added an "Overview" section to provide more context about the repository.
+- **Formatting**: Improved visual appeal with the addition of new emojis and better organization.
 - **Contribution Guidelines**: Updated the contributions section to encourage more community involvement.
 
 ### Key Highlights
@@ -26,6 +27,9 @@ In the latest update, the following changes were made to the `README.md` file:
 Here are some highlights from the changes made:
 
 ```markdown
+## Overview 🌍
+```
+
 ## Installation ⚙️
 
 To get started, clone the repository to your local machine:
@@ -39,19 +43,16 @@ Then navigate to the project directory:
 ```bash
 cd DSA-Questions-
 ```
-```
 
-```markdown
 ## Usage 🔧
 
 Feel free to explore the problems, and don’t hesitate to contribute by submitting your own solutions or improvements!
-```
 
 ## Contributions 🤝
 
 Contributions are welcome! Please feel free to open issues or submit pull requests for any enhancements or additional problems.
 
-## License 📄
+## License 📜
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
