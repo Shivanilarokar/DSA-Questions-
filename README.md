@@ -1,17 +1,10 @@
-```markdown
-# DSA Questions 🤖
+# DSA Questions Repository
 
-This repository contains a collection of Data Structures and Algorithms (DSA) questions with their corresponding solutions implemented in various programming languages.
+![GitHub repo size](https://img.shields.io/github/repo-size/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-) ![GitHub pull requests](https://img.shields.io/github/issues-pr/Shivanilarokar/DSA-Questions-)
 
-![GitHub Repo Size](https://img.shields.io/github/repo-size/Shivanilarokar/DSA-Questions-) 
-![Last Commit](https://img.shields.io/github/last-commit/Shivanilarokar/DSA-Questions-) 
-![Open Issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
-
-## Overview
-This repository serves as a resource for learning and practicing data structures and algorithms through a variety of coding challenges and solutions. It is designed to help developers enhance their problem-solving skills and coding proficiency.
+This repository serves as a resource for learning and practicing data structures and algorithms (DSA). It provides a collection of problems and their solutions in multiple programming languages.
 
 ## Features
-- A wide range of DSA questions
 - Solutions available in multiple programming languages
 - Easy-to-follow code examples
 - Regular updates to improve content and usability
@@ -26,34 +19,24 @@ In the latest commit, minor adjustments were made to the `README.md` file. The f
 To get started with the DSA Questions repository, clone it to your local machine using the following command:
 
 ```bash
-git clone https://github.com/Shivanilarokar/DSA-Questions-
+git clone https://github.com/Shivanilarokar/DSA-Questions-.git
 ```
 
 ## Usage
-Explore the various DSA questions and their solutions in the repository. You can run the provided code examples in your preferred programming environment.
+Explore the repository to find various DSA problems and their solutions. Feel free to contribute by adding your own solutions!
 
-### Example Code Snippet
-Here is a sample function demonstrating the Fibonacci sequence:
+## Example
+Here’s a quick example of how to use the repository:
 
 ```python
-def fibonacci(n):
-    if n <= 1:
-        return n
-    else:
-        return fibonacci(n-1) + fibonacci(n-2)
-
-print(fibonacci(5))  # Output: 5
+def example_function():
+    print("This is an example function.")
 ```
 
-Feel free to contribute to the repository by adding new questions or improving existing solutions. Your contributions are welcome!
+We encourage contributions to make this repository more comprehensive. Please follow the contribution guidelines provided in the repository.
 
-## Contributing
-We encourage contributions to make this repository more comprehensive. Please fork the repository and submit a pull request with your changes.
-
-## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
 Thank you for checking out the DSA Questions repository! Happy coding! 🚀
-```
