@@ -1,9 +1,9 @@
 ```markdown
 # DSA Questions 🚀
 
-This repository is dedicated to helping developers and students improve their skills in Data Structures and Algorithms (DSA) through a collection of curated questions and solutions.
-
 ![GitHub Repo Size](https://img.shields.io/github/repo-size/Shivanilarokar/DSA-Questions-) ![Contributors](https://img.shields.io/github/contributors/Shivanilarokar/DSA-Questions-) ![Issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
+
+This repository is dedicated to helping developers and students improve their skills in Data Structures and Algorithms (DSA) through a collection of curated questions and solutions.
 
 ## Features ✨
 - A collection of DSA questions to practice and improve your skills.
@@ -13,8 +13,7 @@ This repository is dedicated to helping developers and students improve their sk
 ## Summary of Changes
 In the latest update, the README.md file has been enhanced to provide clearer structure and additional guidance for users. Key changes include:
 - Added a **Features** section to highlight the repository's offerings.
-- Updated phrasing to encourage exploration and contribution to the repository.
-- Revised the example code snippet to better reflect typical usage.
+- Improved clarity in instructions on cloning the repository and exploring the content.
 
 ## Installation
 To get started with this repository, clone it using the following command:
@@ -32,5 +31,10 @@ def example_function(parameter):
     pass
 ```
 
-Feel free to explore, practice, and contribute! Happy coding! 💻
+Feel free to navigate through the various DSA questions and solutions. Each question is accompanied by a solution in Python to facilitate your learning process.
+
+## Contributing
+Contributions are welcome! If you have suggestions for improvements or additional questions, please feel free to submit a pull request.
+
+Happy Coding! 💻
 ```
