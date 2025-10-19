@@ -1,9 +1,8 @@
 ```markdown
-# DSA Questions Repository
+# DSA Questions Repository 🚀
 
 ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-) ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
-## Overview
 The DSA Questions repository is a comprehensive resource designed to provide a collection of Data Structures and Algorithms (DSA) questions to help you enhance your coding skills and prepare for technical interviews.
 
 ## Features
@@ -13,15 +12,13 @@ The DSA Questions repository is a comprehensive resource designed to provide a c
 
 ## Summary of the Changes
 In the latest update, the `README.md` file has been auto-updated to enhance the clarity and presentation of the repository. Key changes include:
-
-- Improved wording for better clarity.
-- Updated sections for a more user-friendly experience.
-- Enhanced formatting and emojis for visual appeal.
+- Improved phrasing for clarity.
+- Added an emoji to the community contributions section for a friendly touch.
 
 ### Code Snippet of Changes
 ```diff
-- The DSA Questions repository is designed to provide a collection of Data Structures and Algorithms (DSA) questions to help you enhance your coding skills and prepare for technical interviews.
-+ The DSA Questions repository is a comprehensive resource designed to provide a collection of Data Structures and Algorithms (DSA) questions to help you enhance your coding skills and prepare for technical interviews.
+- The DSA Questions repository is a comprehensive resource designed to provide a collection of Data Structures and Algorithms (DSA) questions to help you enhance your coding skills and prepare for technical interviews.
++ The DSA Questions repository is designed to provide a collection of Data Structures and Algorithms (DSA) questions to help you enhance your coding skills and prepare for technical interviews.
 ```
 
 ## Installation ⚙️
@@ -41,7 +38,7 @@ def example_function():
     pass
 ```
 
-## Contributing 🤗
+## Contributing 🤝
 We welcome contributions from the community! Feel free to open issues, submit pull requests, or suggest improvements to make this repository even better.
 
 ---
