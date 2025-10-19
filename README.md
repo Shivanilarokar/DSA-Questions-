@@ -1,20 +1,27 @@
 ```markdown
 # DSA Questions Repository
 
-Welcome to the **DSA Questions** repository! This repository contains a collection of Data Structures and Algorithms (DSA) problems designed to help you enhance your coding skills.
-
 ![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
+
+Welcome to the **DSA Questions** repository! This repository contains a collection of Data Structures and Algorithms (DSA) problems designed to help you enhance your coding skills.
 
 ## Features
 - 📚 A comprehensive collection of DSA problems.
 - ⚡ Solutions and explanations for each problem.
-- 🚀 Easy to navigate and contribute.
 
 ## Summary of the Changes
-In the latest update, the README.md file has been modified to enhance clarity and structure. Key improvements include:
-- Addition of a **Features** section to highlight the repository's offerings.
-- Improved formatting for installation commands to increase readability.
-- Added a friendly closing message encouraging contributions.
+In the latest update, the README.md file has been modified to enhance clarity and readability. The following changes were made:
+- Improved the structure of the **Installation** section.
+- Added clear formatting for code snippets to enhance user experience.
+
+### Code Snippet Changes
+```bash
+# Clone the repository:
+git clone https://github.com/Shivanilarokar/DSA-Questions-
+
+# Navigate into the directory:
+cd DSA-Questions-
+```
 
 ## Installation
 To set up the repository locally, follow these steps:
@@ -32,16 +39,9 @@ To set up the repository locally, follow these steps:
 3. Install any necessary dependencies (if applicable).
 
 ## Usage
-To use the solutions in this repository, simply navigate to the desired problem's directory and run the relevant code.
+Once you have the repository set up, you can start exploring the DSA problems and their solutions. 
 
-### Example
-Here’s an example of how to use one of the problem solutions:
+Feel free to contribute by submitting issues or pull requests!
 
-```python
-def example_problem(input):
-    # Your implementation here
-    pass
-```
-
-Feel free to explore, contribute, and enhance your DSA skills with this repository! Happy coding! 🎉
+Happy Coding! 🚀
 ```
