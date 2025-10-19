@@ -1,7 +1,12 @@
 ```markdown
 # DSA Questions Repository 📚
 
+![Stars Badge](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![Forks Badge](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![Issues Badge](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
+
 Welcome to the DSA Questions repository! This repository is a valuable resource containing a collection of DSA questions and solutions to help you practice and improve your coding skills. It is designed for both beginners and experienced programmers.
+
+## Overview
+This repository contains a comprehensive collection of DSA questions and solutions to help you practice and enhance your coding skills.
 
 ## Features ✨
 - A comprehensive collection of DSA questions and solutions.
@@ -10,7 +15,7 @@ Welcome to the DSA Questions repository! This repository is a valuable resource 
 - Community contributions are welcomed!
 
 ## Summary of Changes 📝
-In the recent update, the README.md file has been modified to enhance clarity and engagement. Key changes include:
+In the recent update, the `README.md` file has been modified to enhance clarity and engagement. Key changes include:
 - Improved wording in the features section for better readability.
 - Added a sample question to demonstrate usage.
 - Updated the closing note to encourage community engagement.
@@ -43,5 +48,5 @@ def reverse_string(s):
     return s[::-1]
 ```
 
-Feel free to explore the repository and enhance your coding skills! Happy coding! 🎉
+Happy coding! 🎉
 ```
