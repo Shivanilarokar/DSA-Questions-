@@ -11,7 +11,7 @@ This repository serves as a comprehensive collection of Data Structures and Algo
 - Code examples in Python for easy understanding.
 - Contributions from the community are encouraged.
 
-## Summary of the Changes
+## Summary of the Changes ⚠️
 Recent updates to the `README.md` file include:
 - Updated the title emoji for better representation.
 - Enhanced formatting of badges for improved visual appeal.
@@ -40,11 +40,16 @@ Here’s an example of how to use the `two_sum` function:
 nums = [2, 7, 11, 15]
 target = 9
 ```
+
 **Function Implementation:**
 ```python
 def two_sum(nums, target):
     hashmap = {}
-    # Function implementation...
+    for i, num in enumerate(nums):
+        complement = target - num
+        if complement in hashmap:
+            return [hashmap[complement], i]
+        hashmap[num] = i
 ```
 
 This function takes a list of numbers and a target value, returning the indices of the two numbers that add up to the target.
