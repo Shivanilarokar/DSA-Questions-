@@ -1,7 +1,9 @@
 ```markdown
 # DSA Questions Repository 📚💻
 
-This repository provides a comprehensive collection of DSA questions, along with detailed explanations and solutions for each question. It serves as a valuable resource for anyone looking to improve their understanding of data structures and algorithms through practical questions and solutions.
+![GitHub stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-?style=social) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-?style=social) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
+
+The DSA Questions Repository provides a comprehensive collection of DSA questions, along with detailed explanations and solutions for each question. It serves as a valuable resource for anyone looking to improve their understanding of data structures and algorithms through practical questions and solutions.
 
 ## Features ✨
 - Comprehensive collection of DSA questions
@@ -21,10 +23,19 @@ In the latest update, the README.md file has been modified to enhance clarity an
 
 ### Here are the specific lines that were modified:
 ```diff
--# DSA Questions Repository
-+# DSA Questions Repository 📖💻
-- Comprehensive collection of data structures and algorithms questions
-+ Comprehensive collection of DSA questions
+--## Overview 🌍
+-+## Overview 🗺️
+--The DSA Questions Repository is a valuable resource for anyone looking to improve their understanding of data structures and algorithms through practical questions and solutions.
+-+The DSA Questions Repository is a valuable resource for anyone looking to improve their understanding of data structures and algorithms through practical questions and solutions.
+- 
+--## Installation 🚚
+-+## Installation 🚀
+--To get started with this repository, clone it to your local machine:
+-+To get started with this repository, clone it to your local machine:
+-+# DSA Questions Repository
+++# DSA Questions Repository 📖💻
++- Comprehensive collection of data structures and algorithms questions
+++ Comprehensive collection of DSA questions
 ```
 
 ## Installation 🚀
@@ -45,7 +56,7 @@ Feel free to explore the questions and contribute to the repository!
 
 Happy coding! 🎉
 
-## Example 🖥️
+## Example 🧩
 Here’s a simple example of how to use one of the questions in the repository:
 
 ```python
@@ -58,5 +69,5 @@ This README provides a clear overview of the repository and its features, while 
 
 ---
 
-✨ Thank you for checking out the DSA Questions Repository! We appreciate your contributions and feedback. 
+✨ Thank you for checking out the DSA Questions Repository! We appreciate your contributions and feedback.
 ```
