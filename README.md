@@ -1,14 +1,14 @@
 ```markdown
 # DSA Questions Repository
 
-Welcome to the **DSA Questions** repository! This repository contains a collection of Data Structures and Algorithms (DSA) problems designed to help you enhance your coding skills.
-
 ![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
 
+Welcome to the **DSA Questions** repository! This repository contains a collection of Data Structures and Algorithms (DSA) problems designed to help you enhance your coding skills.
+
 ## Features
-- A comprehensive collection of DSA problems.
-- Solutions and explanations for each problem.
-- Updated example code for clearer demonstration.
+- 📚 A comprehensive collection of DSA problems.
+- 💡 Solutions and explanations for each problem.
+- 🔍 Updated example code for clearer demonstration.
 
 ## Summary of the Changes
 In this update, the README.md file has been enhanced to include:
@@ -24,18 +24,27 @@ git clone https://github.com/Shivanilarokar/DSA-Questions-
 ```
 
 ## Usage
-Once you have cloned the repository, navigate to the directory and explore the various DSA problems provided. You can run the example code directly to see how the functions work.
-
-## Example Code
-Here’s a sample snippet of how to use a function from this repository:
+To use the functions provided in this repository, you can import them into your project as follows:
 
 ```python
-def example_function():
-    # Your code here
-    return "Hello, DSA!"
+from dsa_module import function_name
 
-print(example_function())
+# Example of using the function
+result = function_name(parameters)
+print(result)
 ```
 
-Feel free to contribute to this repository and enhance your skills! 🚀
+## Example
+Here's a simple example demonstrating how to use one of the functions:
+
+```python
+def example_function(param1, param2):
+    return param1 + param2
+
+# Using the example function
+output = example_function(5, 10)
+print(f"The result is: {output}")  # Output will be: The result is: 15
+```
+
+Feel free to explore, contribute, and enhance your coding skills with the DSA Questions repository! 🚀
 ```
