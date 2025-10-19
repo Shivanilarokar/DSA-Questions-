@@ -1,9 +1,9 @@
 ```markdown
 # DSA Questions Repository
 
-![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
-
 Welcome to the **DSA Questions** repository! This repository contains a collection of Data Structures and Algorithms (DSA) problems designed to help you enhance your coding skills.
+
+![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
 
 ## Features
 - 📚 A comprehensive collection of DSA problems.
@@ -12,29 +12,38 @@ Welcome to the **DSA Questions** repository! This repository contains a collecti
 
 ## Summary of the Changes
 The README.md file has been updated to enhance clarity and provide a better user experience. Recent changes include:
-- Added a **Features** section to outline the key aspects of the repository.
-- Minor formatting adjustments for improved readability.
+- Added a new section to highlight features of the repository.
+- Improved formatting for better readability.
 
 ## Installation
-To get started with the DSA Questions repository, clone the repository to your local machine:
+To get started with the DSA Questions repository, clone the repository using the following command:
 
 ```bash
 git clone https://github.com/Shivanilarokar/DSA-Questions-
-cd DSA-Questions-
 ```
 
 ## Usage
-After cloning the repository, you can explore various DSA problems and their respective solutions. Feel free to contribute by adding new problems or improving existing solutions!
+Navigate to the cloned directory and explore the various DSA problems and their solutions.
 
-## Example
-Here’s a brief example of how to navigate through the problems:
-
-```python
-# Sample code snippet for a DSA problem
-def example_problem():
-    # Your implementation here
-    pass
+```bash
+cd DSA-Questions-
 ```
 
-Feel free to check out the repository and start solving some interesting DSA problems! Contributions are always welcome! 🎉
+## Example
+Here’s a simple example to illustrate how you can use the repository:
+
+```python
+# Example of a DSA problem solution
+def fibonacci(n):
+    if n <= 0:
+        return 0
+    elif n == 1:
+        return 1
+    else:
+        return fibonacci(n-1) + fibonacci(n-2)
+
+print(fibonacci(5))  # Output: 5
+```
+
+Feel free to explore, contribute, and enhance your coding skills with this repository! Happy coding! 🚀
 ```
