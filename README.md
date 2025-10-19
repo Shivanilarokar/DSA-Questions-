@@ -1,15 +1,12 @@
 ```markdown
-# DSA Questions 📖
+# DSA Questions 📚
 
-![Stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![Forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-)
-
-## Overview
-The DSA Questions repository is designed to provide a collection of Data Structures and Algorithms (DSA) questions to help you enhance your coding skills and prepare for technical interviews.
+The DSA Questions repository is designed to provide a collection of Data Structures and Algorithms (DSA) questions to help you enhance your coding skills and prepare for technical interviews. 
 
 ## Features
-- Comprehensive collection of DSA questions.
-- Solutions provided for each question.
-- Community-driven contributions.
+- **Comprehensive Collection**: A wide range of DSA questions.
+- **Community-driven Contributions**: Engage with a vibrant community of developers.
+- **Clear Instructions**: Easy to follow guidelines for usage and contribution.
 
 ## Summary of the Changes
 In the latest update, the `README.md` file has been auto-updated to reflect the following changes:
@@ -21,24 +18,22 @@ In the latest update, the `README.md` file has been auto-updated to reflect the 
 ### Changes Made:
 ```diff
 -# DSA Questions 📖
-+# DSA Questions 📖
- 
++# DSA Questions 📚
+
 -The DSA Questions repository is designed to provide a collection of Data Structures and Algorithms (DSA) questions to help you enhance your coding skills and prepare for technical interviews.
 +Happy coding! 🎉
 ```
 
 ## Installation
-To get started, clone the repository using the following command:
+To get started, clone the repository and install the necessary dependencies:
+
 ```bash
 git clone https://github.com/Shivanilarokar/DSA-Questions-
+cd DSA-Questions-
 ```
-Once you have cloned the repository, navigate to the directory and start exploring the questions!
 
 ## Usage
-Feel free to browse through the questions, attempt them, and refer to the provided solutions.
-
-## Example
-Here's an example of how to structure your contributions:
+Feel free to browse through the questions, attempt them, and refer to the provided solutions for guidance.
 
 ### Contribution Structure
 1. **Question Title**: Briefly describe the question.
@@ -47,6 +42,9 @@ Here's an example of how to structure your contributions:
 ```markdown
 ## New Question Title
 ### Description
+A brief description of the question.
+
+### Solution
 Provide the solution code here.
 ```
 
