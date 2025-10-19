@@ -1,23 +1,21 @@
 ```markdown
 # DSA Questions Repository
 
-Welcome to the **DSA Questions** repository! This repository contains a collection of Data Structures and Algorithms (DSA) problems designed to help you enhance your coding skills.
-
 ![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
+
+Welcome to the **DSA Questions** repository! This repository contains a collection of Data Structures and Algorithms (DSA) problems designed to help you enhance your coding skills.
 
 ## Features
 - 📚 A comprehensive collection of DSA problems.
 - ⚡ Detailed solutions and explanations for each problem.
-- 🛠️ Contribution guidelines to help you get involved.
 
 ## Summary of the Changes
-In the latest update, the `README.md` file was modified to enhance clarity and usability. Key changes include:
-- Added a **Features** section to highlight the repository's offerings.
-- Updated the **Usage** section for clearer instructions.
-- Introduced an **Example** section with a code snippet demonstrating how to use the repository effectively.
+In this recent update, the README.md file has been auto-updated to include the latest changes and improvements. The following modifications were made:
+- Added a dedicated **Features** section to highlight the key offerings of the repository.
+- Minor formatting adjustments were made for improved readability.
 
 ## Installation
-To use this repository, clone it to your local machine using the following command:
+To get started with this repository, clone it to your local machine using the following command:
 
 ```bash
 git clone https://github.com/Shivanilarokar/DSA-Questions-
@@ -30,12 +28,10 @@ Follow the instructions given in the repository to explore various DSA problems 
 Here’s a simple example demonstrating how to use one of the DSA problems:
 
 ```python
-# Example code to demonstrate usage
-def example_function():
-    print("This is an example function from the DSA Questions repository!")
-
-example_function()
+# Example code snippet
+def example_problem():
+    print("This is an example of a DSA problem.")
 ```
 
-Happy Coding! 🚀
+Feel free to explore and contribute to the repository to enhance your DSA skills! 🚀
 ```
