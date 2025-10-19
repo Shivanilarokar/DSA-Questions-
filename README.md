@@ -7,8 +7,8 @@ Welcome to the DSA Questions repository! This project is designed to help you sh
 
 ## Features
 - 📖 Extensive collection of DSA problems
-- 🛠️ Detailed solutions and explanations
-- 📊 Organized into categories for easy navigation
+- 🧩 Detailed solutions and explanations
+- 📂 Organized into categories for easy navigation
 - 🤝 Community contributions are welcome!
 
 ## Overview
