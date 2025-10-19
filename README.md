@@ -15,13 +15,14 @@ This repository serves as a resource for learning and practicing data structures
 - Solutions available in multiple programming languages
 - Easy-to-follow code examples
 - Regular updates to improve content and usability
+- Contribution guidelines for adding your own solutions
 
 ## Summary of the Changes
-In the latest commit, minor adjustments were made to the README.md file. The following changes were implemented:
+In the latest commit, minor adjustments were made to the `README.md` file. The following changes were implemented:
 - Removed redundant description lines to streamline the content.
 - Updated the code example section by removing the comment on example usage.
 
-## Installation
+## Installation ⚙️
 To get started with the DSA Questions repository, clone it to your local machine using the following command:
 
 ```bash
@@ -53,5 +54,6 @@ We encourage contributions to make this repository more comprehensive. Please fo
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
+
 Thank you for checking out the DSA Questions repository! Happy coding! 🚀
 ```
