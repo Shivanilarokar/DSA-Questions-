@@ -11,12 +11,11 @@ This repository serves as a learning platform for individuals interested in mast
 
 ## Features
 
-- A comprehensive set of DSA questions.
-- Well-documented code with clear explanations.
-- Easy to navigate and contribute to.
-- Solutions implemented in Python.
+- Comprehensive collection of DSA problems
+- Solutions provided in Python
+- Great for interview preparation and skill enhancement
 
-## Summary of Changes
+## Summary of the Changes
 
 In the latest commit, the README.md file was updated to remove redundant information. Specifically, two lines were deleted to streamline the content, enhancing clarity and focus on the examples provided.
 
@@ -27,7 +26,7 @@ In the latest commit, the README.md file was updated to remove redundant informa
 
 ## Installation
 
-To get started with this repository, clone it to your local machine:
+To get started with this repository, clone it using the following command:
 
 ```bash
 git clone https://github.com/Shivanilarokar/DSA-Questions-
@@ -35,7 +34,11 @@ git clone https://github.com/Shivanilarokar/DSA-Questions-
 
 ## Usage
 
-To use the provided solutions, navigate to the relevant Python files and run them using Python 3. For example, to use the Fibonacci function:
+Navigate to the directory where the repository was cloned, and you can start exploring the problems and their respective solutions.
+
+## Example
+
+Here’s an example of a Fibonacci function implemented in Python:
 
 ```python
 def fibonacci(n):
@@ -46,14 +49,6 @@ def fibonacci(n):
     else:
         return fibonacci(n-1) + fibonacci(n-2)
 
-print(fibonacci(5))  # Output: 5
-```
-
-## Example
-
-Here’s a simple example of how to use the Fibonacci function:
-
-```python
 print(fibonacci(5))  # Output: 5
 ```
 
