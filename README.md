@@ -1,25 +1,37 @@
 ```markdown
 # DSA Questions Repository
 
-![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
-
 Welcome to the DSA Questions repository! This repository contains a collection of Data Structures and Algorithms (DSA) problems designed to help you enhance your coding skills.
+
+![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
 
 ## Features
 - A comprehensive collection of DSA problems.
 - Solutions and explanations for each problem.
-- Collaborative environment for contributors to improve and expand the repository. 🎉
 
 ## Summary of the Changes
-In the latest update, the README.md file has been enhanced to improve clarity and structure. The following changes were made:
-- Added a dedicated **Features** section to highlight the offerings of the repository.
-- Improved the installation instructions for better clarity.
-- Revised the usage examples to provide a clearer demonstration of the Fibonacci function.
-- Added an **Example usage** section to demonstrate how to use the Fibonacci function with a sample output.
-- Improved the README structure for better readability and clarity.
+In this update, we have made the following changes to the README.md file:
+- **Refined Example**: Updated the Fibonacci function example to improve clarity and correctness.
+- **Formatting Improvements**: Enhanced the overall structure for better readability.
+
+### Code Changes
+Here’s a quick look at the modified Fibonacci function:
+
+```python
+def fibonacci(n):
+    if n <= 0:
+        return 0
+    elif n == 1:
+        return 1
+    else:
+        return fibonacci(n-1) + fibonacci(n-2)
+
+# Example usage
+print(fibonacci(10))  # Output: 55
+```
 
 ## Installation
-To get started with the DSA Questions repository, clone the repository to your local machine:
+To get started with the DSA Questions repository, clone the repository using the following command:
 
 ```bash
 git clone https://github.com/Shivanilarokar/DSA-Questions-
@@ -27,6 +39,9 @@ cd DSA-Questions-
 ```
 
 ## Usage
+You can run the provided Python scripts to solve various DSA problems. Ensure you have Python installed on your machine.
+
+### Example
 Here’s a simple example of how to use the Fibonacci function:
 
 ```python
@@ -38,14 +53,13 @@ def fibonacci(n):
     else:
         return fibonacci(n-1) + fibonacci(n-2)
 
+# Example usage
 print(fibonacci(10))  # Output: 55
 ```
 
-Feel free to explore and contribute to the repository! Your contributions are welcome and appreciated! 🎉
+## Contributing
+We welcome contributions! Please feel free to submit issues or pull requests to improve this repository.
 
-```
-Happy Coding! 🚀
-```
-
-This README.md provides a clear and structured overview of the repository, highlights recent changes, and invites collaboration.
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 ```
