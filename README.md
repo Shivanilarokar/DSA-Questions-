@@ -11,12 +11,16 @@ This repository aims to equip developers with a diverse array of Data Structures
 - Solutions and explanations for each question.
 - Categorized problems to facilitate targeted practice.
 
+---
+
 ## Summary of the Changes
 In the recent update, the following modifications were made to the README.md file:
 - **Title Enhancement**: Added a rocket emoji to the repository title for a more engaging appearance.
 - **Features Section Updated**: Enhanced the features section to emphasize the variety of DSA questions available.
 - **Installation Instructions Improved**: Added a step to navigate to the project directory after cloning the repository.
 - **Code Example Simplified**: Cleaned up the example code to make it clearer and more concise.
+
+---
 
 ## Installation
 To get started with this repository, follow these steps:
@@ -36,10 +40,11 @@ To use the DSA questions, simply navigate through the categorized folders and se
 Here's a quick example of how to solve a problem from the repository:
 
 ```python
-# Sample code snippet for a DSA problem
 def example_problem():
     return "This is an example solution."
 ```
+
+---
 
 Feel free to contribute to this repository by submitting issues or pull requests. Happy coding! 😎
 ```
