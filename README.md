@@ -10,15 +10,14 @@ This repository is a valuable resource for developers looking to improve their p
 
 ## Features
 - A diverse collection of DSA questions
-- Code examples and explanations
-- Easy navigation through different topics
-- Community contributions welcome! 🎉
+- Questions categorized by difficulty level
+- Sample solutions and explanations for better understanding
 
 ## Summary of the Changes
 In the latest commit, the `README.md` was updated to:
 - Enhance the introductory text to better reflect the purpose of the repository.
 - Simplify the features section for clarity.
-- Change the title emoji from 📈 to 📖 for better representation.
+- Change the title emoji from 📉 to 📖 for better representation.
 - Correctly represent the example user as a female developer 👩‍💻.
 - Enhance the overall structure for better clarity and professionalism.
 - Add a closing appreciation note to encourage contributions.
@@ -32,7 +31,7 @@ def example_function():
     pass
 ```
 
-## Installation
+## Installation 🚀
 To get started with the DSA Questions repository, clone the repository to your local machine:
 
 ```bash
