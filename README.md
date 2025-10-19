@@ -1,14 +1,14 @@
 ```markdown
 # DSA Questions Repository
 
-![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
-
 Welcome to the **DSA Questions** repository! This repository contains a collection of Data Structures and Algorithms (DSA) problems designed to help you enhance your coding skills.
+
+![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
 
 ## Features
 - A comprehensive collection of DSA problems.
 - Solutions and explanations for each problem.
-- Encouragement for community engagement and contributions.
+- Structured guidance to enhance learning and understanding.
 
 ## Summary of the Changes
 In the most recent update, the README.md file has been auto-updated to improve clarity and provide more structured information about the repository. Key updates include:
@@ -26,17 +26,17 @@ git clone https://github.com/Shivanilarokar/DSA-Questions-
 ```
 
 ## Usage
-Refer to the following example problem definition:
+To use the DSA Questions repository, simply navigate to the cloned directory and start exploring the various DSA problems available. Each problem comes with its own set of explanations and solutions.
+
+## Example
+Here is a brief example of how a problem is structured:
 
 ```python
 def example_problem():
-    # Your code here
-    pass
+    # Problem definition
+    # ...
+    return result
 ```
 
-Once cloned, navigate to the repository directory and explore the various DSA problems. You can run the example problems as needed.
-
----
-
-Feel free to contribute to this repository by submitting issues or pull requests! Happy coding! 🚀
+Feel free to contribute or reach out for any queries. Happy coding! 🚀
 ```
