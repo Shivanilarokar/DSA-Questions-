@@ -14,6 +14,10 @@ The DSA Questions repository provides a comprehensive set of problems aimed at e
 
 ## Features ✨
 - A collection of DSA questions to practice and enhance your skills.
+- Solutions provided in Python for easy understanding.
+- Well-structured explanations for better clarity.
+- Clear instructions for installation and usage.
+- Community-driven: contributions are welcome!
 
 ## Summary of the Changes
 Recent updates to the README.md include:
@@ -31,14 +35,14 @@ cd DSA-Questions-
 ```
 
 ## Usage 📖
-Navigate to the directory and start practicing with the questions provided. 
+Navigate to the directory and start practicing with the questions provided.
 
 ## Example 💻
 Here’s a simple example of how you can utilize the solutions in this repository:
 
 ```python
 def example_solution():
-    # Your solution logic here
+    # Your solution goes here
     pass
 ```
 
