@@ -3,7 +3,7 @@
 
 ![Stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-?style=social) ![Forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-?style=social) ![Issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-?style=flat)
 
-This repository provides a comprehensive collection of DSA (Data Structures and Algorithms) questions along with their respective solutions.
+Welcome to the DSA Questions repository! This repository provides a comprehensive collection of DSA (Data Structures and Algorithms) questions along with their respective solutions.
 
 ## Overview 📚
 The DSA Questions repository is designed to help developers practice and enhance their problem-solving skills in data structures and algorithms. It includes a variety of questions and solutions that can be used as a reference for learning and improving coding skills.
@@ -35,11 +35,6 @@ Once you have cloned the repository, you can navigate to the respective director
 Here’s an example function that demonstrates how to use one of the solutions:
 
 ```python
-# Example usage of a DSA problem solution
-def example_solution():
-    # Sample solution logic goes here
-    pass
-
 example_solution()
 ```
 
