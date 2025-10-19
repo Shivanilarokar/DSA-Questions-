@@ -1,5 +1,5 @@
 ```markdown
-# DSA Questions 🚀
+# DSA Questions Repository
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-)
 
@@ -27,7 +27,6 @@ In the latest update, we have made the following changes to the README file to e
 
 ```python
 def example_solution():
-    # Example code for a DSA problem
     print("This is an example solution!")
 ```
 
@@ -44,38 +43,12 @@ cd DSA-Questions-
 ## Usage 💻
 
 Once the installation is complete, you can start solving DSA problems. Here’s an example of how to implement a solution:
-
 ```python
-def example_solution():
-    # Example code for a DSA problem
-    print("This is an example solution!")
+# Example of implementing a solution
+def solve_problem():
+    # Your solution code here
+    pass
 ```
 
-## Example
-
-Here’s a simple implementation of a DSA problem:
-
-```python
-def fibonacci(n):
-    if n <= 0:
-        return 0
-    elif n == 1:
-        return 1
-    else:
-        return fibonacci(n-1) + fibonacci(n-2)
-
-print(fibonacci(5))  # Output: 5
-```
-
-## Contributing
-
-We welcome contributions! If you have suggestions for improvements or additional problems, feel free to open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Happy Coding! 💻
+Feel free to explore, contribute, and improve your skills with our DSA Questions repository!
 ```
