@@ -1,17 +1,17 @@
 ```markdown
-# DSA Questions 📚
+# DSA Questions 📖
 
-[![GitHub Issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)](https://github.com/Shivanilarokar/DSA-Questions-/issues) 
-[![GitHub Stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-)](https://github.com/Shivanilarokar/DSA-Questions-/stargazers) 
-[![GitHub Forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-)](https://github.com/Shivanilarokar/DSA-Questions-/forks)
+![GitHub Issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-) 
+![GitHub Stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) 
+![GitHub Forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-)
 
 Welcome to the **DSA Questions** repository! This repository contains a collection of Data Structures and Algorithms questions along with their respective solutions.
 
-## Overview 🌟
+## Overview 🚀
 
 This repository serves as a comprehensive guide for anyone looking to strengthen their coding skills, particularly in the realm of Data Structures and Algorithms. Whether you're preparing for interviews or simply looking to enhance your knowledge, you'll find valuable resources here.
 
-## Features 🚀
+## Features 🎯
 
 - A variety of DSA questions and solutions.
 - Code snippets to illustrate solutions.
@@ -31,11 +31,11 @@ In the latest update, the README.md file has been modified to enhance clarity an
 ```diff
 -## Usage 📖
 +## Usage 📖
--Here’s an example function that demonstrates how to use one of the solutions:
++Here’s an example function that demonstrates how to use one of the solutions:
 +### Example of a DSA problem
--def example_solution():
--    # Example code demonstrating a solution
--    print("This is an example solution!")
++def example_solution():
++    # Example code demonstrating a solution
++    print("This is an example solution!")
 +def example_problem():
 +    # Your solution here
 +    pass
@@ -60,6 +60,7 @@ Explore the directory structure to find questions and their corresponding soluti
 Here’s an example of a DSA problem:
 
 ```python
+# Example of a DSA problem
 def example_problem():
     # Your solution here
     pass
