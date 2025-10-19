@@ -9,7 +9,7 @@ Welcome to the **DSA Questions** repository! This repository is dedicated to pro
 The DSA Questions repository is designed to support developers in mastering data structures and algorithms through a variety of questions and their solutions. Whether you are preparing for interviews or enhancing your coding skills, this repository serves as a valuable resource.
 
 ## Features ✨
-- 📚 Comprehensive collection of DSA questions.
+- 📖 Comprehensive collection of DSA questions.
 - 💡 Solutions provided for each question.
 - 🤝 Contribution guidelines to encourage community engagement.
 - 🔧 Well-structured code examples to facilitate understanding.
@@ -26,17 +26,12 @@ To get started with this repository, clone it to your local machine using the fo
 
 ```bash
 git clone https://github.com/Shivanilarokar/DSA-Questions-
-cd DSA-Questions-
 ```
 
-## Usage 💻
-Once you have cloned the repository, you can navigate through the directory and start exploring the questions and solutions provided. Feel free to enhance your skills by contributing to the repository!
-
-## Example Update 🔍
+## Usage
 Here's a quick example of how to use a solution from this repository:
 
 ```python
-# Example code snippet
 def example_solution():
     # Your code logic here
     pass
