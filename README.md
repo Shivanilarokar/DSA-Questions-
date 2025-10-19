@@ -17,6 +17,8 @@ In the latest update, the following changes were made to the README.md file:
 - Updated badges to reflect repository size and contributors.
 - Added a command to change into the cloned directory after cloning the repo.
 - Enhanced the tone of the closing message to be more positive.
+
+### Code Snippets of Changes
 - **Title Update**: Changed the title to "DSA Questions Repository".
 - **Overview Section**: Enhanced the description to provide a clearer understanding of the repository's purpose.
 - **Installation Instructions**: Simplified the language for better clarity.
@@ -41,19 +43,16 @@ cd DSA-Questions-
 ```
 
 ## Usage
-Each problem is organized by category. Navigate through the folders to find problems you are interested in solving. Solutions are provided in various programming languages for better understanding.
+After cloning the repository, you can explore the various problems organized by data structures and algorithms. Each problem includes a description and solution in multiple programming languages to aid your understanding.
 
 ## Example
-Here is an example of how to solve a problem from the repository:
+Here’s a simple example function to illustrate how to solve a problem:
 
 ```python
-def example_problem(n):
-    if n <= 1:
-        return n
-    return example_problem(n-1) + example_problem(n-2)
+def example_function():
+    # Your code goes here
+    pass
 ```
 
-Feel free to explore and contribute to the repository! Your contributions are welcome. 😃
-
-This README.md file is designed to provide a clear, concise, and visually appealing overview of the DSA Questions repository while reflecting the latest changes made to it. Happy coding! 🚀
+Feel free to contribute and enhance this repository by adding more problems and solutions!
 ```
