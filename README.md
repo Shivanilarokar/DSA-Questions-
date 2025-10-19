@@ -1,5 +1,5 @@
 ```markdown
-# DSA-Questions- 🤖
+# DSA Questions Repository 🤖
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
@@ -12,7 +12,7 @@ This repository serves as a collaborative platform for Data Structures and Algor
 - Community contributions are encouraged.
 - Regular updates for improved clarity and readability.
 
-## Summary of the Changes 🔄
+## Summary of the Changes 💡
 In this update, the `README.md` file has been enhanced for better readability and clarity. The following changes were made:
 
 ### Key Changes:
@@ -20,13 +20,12 @@ In this update, the `README.md` file has been enhanced for better readability an
 - Improved formatting and clarity in the README.
 - Enhanced the example of the Fibonacci function implementation.
 
-### Updated Fibonacci Function:
+### Code Snippet Example
 ```python
 def fibonacci(n):
-    """Returns a list of Fibonacci numbers up to n"""
     fib_sequence = [0, 1]
-    while len(fib_sequence) < n:
-        fib_sequence.append(fib_sequence[-1] + fib_sequence[-2])
+    for i in range(2, n):
+        fib_sequence.append(fib_sequence[i-1] + fib_sequence[i-2])
     return fib_sequence
 ```
 
@@ -46,12 +45,9 @@ You can explore various DSA problems and their solutions. To use the Fibonacci f
 print(fibonacci(10))  # Output: [0, 1, 1, 2, 3, 5, 8, 13, 21, 34]
 ```
 
-## Example
-Here's a quick example of how to use the Fibonacci function:
 ```python
 if __name__ == "__main__":
     n_terms = 10
-    print("Fibonacci sequence up to", n_terms, "terms:")
     print(fibonacci(n_terms))
 ```
 
