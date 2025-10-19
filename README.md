@@ -1,9 +1,9 @@
 ```markdown
 # DSA Questions Repository
 
-![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
-
 Welcome to the **DSA Questions** repository! This repository contains a collection of Data Structures and Algorithms (DSA) problems designed to help you enhance your coding skills.
+
+![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
 
 ## Features
 - A comprehensive collection of DSA problems.
@@ -12,10 +12,8 @@ Welcome to the **DSA Questions** repository! This repository contains a collecti
 
 ## Summary of the Changes
 In the latest update, the following changes were made to improve clarity and correctness in the README:
-
-- Added a section header for **Features** to better organize information.
-- Revised the **Installation** instructions for clarity.
-- Updated the **Usage** section to encourage exploration of the repository.
+- Added a new section highlighting the repository features.
+- Updated the installation instructions for better clarity.
 - Included a friendly closing remark to encourage contributions.
 
 ## Installation
@@ -27,9 +25,8 @@ cd DSA-Questions-
 ```
 
 ## Usage
-Explore the problems and solutions available in this repository to practice and enhance your DSA skills.
+Explore the problems and solutions available in this repository to practice and enhance your coding skills. 
 
-## Example
 Here’s a small snippet of how to use one of the solutions:
 
 ```python
@@ -39,5 +36,5 @@ def example_solution():
     pass
 ```
 
-Feel free to check out the problems, contribute, and improve your coding skills!
+Feel free to check out the problems, contribute, and improve your coding skills! 🚀
 ```
