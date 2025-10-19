@@ -1,9 +1,6 @@
 ```markdown
-# DSA Questions 🚀
+# DSA Questions 🤖
 
-![GitHub stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-?style=social) [![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-?style=social)](https://github.com/Shivanilarokar/DSA-Questions-) [![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)](https://github.com/Shivanilarokar/DSA-Questions-/issues)
-
-## Overview
 Welcome to the DSA Questions repository! This repository is dedicated to providing various Data Structures and Algorithms (DSA) challenges to enhance your coding skills and understanding of complex concepts.
 
 ## Features
@@ -21,11 +18,11 @@ In the latest update, we made several enhancements to the README file to improve
 To get started with this repository, clone it to your local machine:
 
 ```bash
-git clone https://github.com/Shivanilarokar/DSA-Questions-.git
+git clone https://github.com/Shivanilarokar/DSA-Questions-
 ```
 
 ## Usage
-Navigate to the desired challenge folder and run the code examples provided. For instance, here’s a simple Fibonacci function:
+Navigate to the desired challenge folder and run the code examples provided. For example, here’s a simple implementation of the Fibonacci function:
 
 ```python
 def fibonacci(n):
@@ -41,5 +38,6 @@ print(fibonacci(5))  # Output: 5
 
 Feel free to contribute and improve the repository by adding new challenges or enhancing existing ones. Happy coding! 🎉
 
+---
 This README.md file provides a clear and professional overview of the DSA Questions repository while summarizing the recent changes made in a concise manner. It includes structured sections, code examples, and encourages contributions.
 ```
