@@ -1,10 +1,9 @@
 ```markdown
 # DSA Questions Repository
 
-![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
-
-## Overview
 Welcome to the DSA Questions repository! This repository contains a collection of Data Structures and Algorithms problems designed to enhance your coding skills.
+
+![GitHub stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
 
 ## Features
 - A comprehensive collection of DSA problems.
@@ -35,7 +34,7 @@ def example_algorithm(data):
     # Example algorithm implementation
     return sorted(data)
 
-print(example_algorithm([5, 2, 9, 1]))
+print(example_algorithm([5, 2, 9, 1]))  # Output: [1, 2, 5, 9]
 ```
 
 Feel free to contribute by submitting issues or pull requests. Happy coding! 🚀
