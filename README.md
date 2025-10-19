@@ -1,5 +1,5 @@
 ```markdown
-# DSA Questions Repository
+# DSA Questions Repository 🚀
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/Shivanilarokar/DSA-Questions-) ![GitHub contributors](https://img.shields.io/github/contributors/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
 
@@ -12,9 +12,6 @@ The DSA Questions repository is designed to help users improve their coding skil
 
 ## Summary of the Changes
 In the latest update, the README.md file has been modified to enhance clarity and organization. Key changes include:
-
-- Updated the repository description for better understanding.
-- Revised the features section to be more engaging.
 
 ### Key Changes:
 ```markdown
@@ -37,8 +34,6 @@ Here's an example function you might find in the repository:
 
 ```python
 def example_problem(input_data):
-    # Process the input data
-    output_data = process(input_data)
     return output_data
 ```
 
