@@ -9,9 +9,9 @@ Welcome to the **DSA Questions** repository! This repository serves as a practic
 
 ## Features ✨
 
-- Comprehensive collection of DSA questions.
-- Solutions provided for each question to aid learning.
-- Open for contributions to add more questions and improve existing solutions.
+- A wide range of DSA questions and solutions.
+- Community contributions are encouraged for continuous improvement.
+- Easy navigation and clear documentation.
 
 ## Summary of Changes 📝
 
@@ -22,25 +22,32 @@ In the recent update, the following modifications were made to the `README.md` f
 
 ### Key Changes:
 ```diff
--# DSA Questions Repository 🚀
-+# DSA Questions Repository 📖
+- # DSA Questions Repository 🚀
++ # DSA Questions Repository 📖
 
--## Summary of Changes
-+## Summary of Changes 📝
+- ## Summary of Changes
++ ## Summary of Changes 📝
 ```
 
-## Installation 🛠️
+## Installation 🔧
 
 To clone the repository, run the following command:
 ```bash
 git clone https://github.com/Shivanilarokar/DSA-Questions-.git
 ```
 
+## Usage 📖
+
 Once cloned, navigate into the repository and explore the various DSA questions! You can contribute by adding your own questions or improving existing solutions!
 
 ## Example 💡
 
-Check out the structure of the questions and solutions by exploring the respective files in the repository.
+Here’s a simple example of how you can use the repository:
+```python
+# Example function to demonstrate usage
+def example_function():
+    print("Explore DSA questions and solutions!")
+```
 
-Feel free to explore and contribute! Happy coding! 🎉
+Feel free to dive into the code, and happy coding! 🎉
 ```
