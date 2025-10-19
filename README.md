@@ -13,13 +13,17 @@ Welcome to the **DSA Questions Repository**! This repository is dedicated to hel
 - Easy to navigate and explore
 - Clear coding examples and solutions
 
-## Summary of the Changes 📝
+## Summary of the Changes 📜
 Recent updates to the `README.md` file include:
+- Updated the title to **"DSA Questions Repository"** for clarity.
+- Enhanced the overview section to better articulate the purpose of the repository.
+- Improved the wording in the features section for better readability.
+- Adjusted the example section for a better demonstration of code usage.
 
 ### Modifications Made:
 ```diff
 -# DSA Questions 📖
-+# DSA Questions Repository 📜
++# DSA Questions Repository 📖
 ```
 
 - Updated the overview to provide a clearer description of the repository's purpose.
@@ -32,10 +36,10 @@ git clone https://github.com/Shivanilarokar/DSA-Questions-
 cd DSA-Questions-
 ```
 
-## Usage 📚
+## Usage 📖
 Explore the repository to find various DSA questions and their corresponding solutions. Each question is designed to improve your problem-solving skills.
 
-## Example 🧩
+## Example 🤖
 Here’s a quick example of how to solve a DSA question:
 ```python
 def example_function(input):
@@ -43,5 +47,5 @@ def example_function(input):
     return input * 2
 ```
 
-Feel free to contribute by adding more questions and solutions!
+Feel free to contribute by adding more questions and solutions! 🚀
 ```
