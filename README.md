@@ -17,33 +17,12 @@ Welcome to the DSA Questions repository! This repository provides a structured a
 ## Summary of the Changes ⚡
 ### Recent Updates
 In the latest update, the following changes were made:
-- Updated the repository name in the header for clarity.
-- Changed the emoji in the "Summary of the Changes" section.
-- Streamlined the "Usage" and "Example" sections for better readability.
-- Enhanced the README with new sections to improve user experience and navigation.
+- Added badges to display repository size and license information.
+- Enhanced the overview section to clarify the repository's purpose.
+- Modified the summary section title for better emphasis.
+- Updated a sample code snippet to demonstrate a more practical example.
 
-### Here are the snippets of the updated sections:
-```diff
--# DSA Questions Repository 🤖
-+# DSA Questions Repository 🚀
-```
-
-## Installation ⚙️
-
-To get started with the DSA Questions repository, follow these steps:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Shivanilarokar/DSA-Questions-
-   ```
-2. Navigate into the directory:
-   ```bash
-   cd DSA-Questions-
-   ```
-
-Explore the questions and solutions provided in this repository. You can run examples and test your understanding of different algorithms.
-
-### Example
+### Code Snippet Changes
 Here’s a sample code snippet to illustrate usage:
 
 ```python
