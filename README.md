@@ -1,5 +1,5 @@
 ```markdown
-# DSA Questions Repository 📚
+# DSA Questions Repository 📖
 
 ![Stars Badge](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![Forks Badge](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![Issues Badge](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
 
@@ -20,30 +20,20 @@ In the recent update, the `README.md` file has been modified to enhance clarity 
 - Added a sample question to demonstrate usage.
 - Updated the closing note to encourage community engagement.
 
-### Code Changes
-Here is a snippet of the modified code in the README:
-
-```python
-# Sample question: Implement a function to reverse a string
-def reverse_string(s):
-    return s[::-1]
-```
-
-## Installation 🚀
-To get started with the DSA Questions repository, clone the repository using the following command:
+## Installation
+To get started with this repository, simply clone it using the following command:
 
 ```bash
 git clone https://github.com/Shivanilarokar/DSA-Questions-
 ```
 
-## Usage 💻
-Explore the repository to find a wide range of DSA questions. Feel free to contribute your solutions and enhance your coding skills!
+## Usage
+Explore the various DSA questions and their solutions available in this repository. You can open any of the solution files to view the code and understand the different approaches to solving problems.
 
-## Example 🌟
-Here’s a sample question from the repository:
+### Example
+Here’s a simple example of a function from the repository:
 
 ```python
-# Sample question: Implement a function to reverse a string
 def reverse_string(s):
     return s[::-1]
 ```
