@@ -16,7 +16,7 @@ This repository aims to assist developers and learners in mastering Data Structu
 - Community contributions are encouraged to foster collaboration.
 - Clear guidance on installation and usage.
 
-## Summary of the Changes
+## Summary of the Changes 📝
 
 Recent updates to the `README.md` include:
 
@@ -38,9 +38,9 @@ Then navigate into the directory:
 cd DSA-Questions-
 ```
 
-## Usage 📖
+## Usage
 
-After cloning the repository, navigate to the directory and explore the various DSA problems categorized by topics. Each problem includes a solution that is designed to facilitate understanding.
+After cloning the repository, navigate to the directory and explore the various DSA questions and solutions available.
 
 ## Example
 
