@@ -23,16 +23,16 @@ git clone https://github.com/Shivanilarokar/DSA-Questions-
 ```
 Navigate to the respective directory to find questions and their corresponding solutions.
 
-## Usage 📚
-Explore the directory structure to find questions and their corresponding solutions. 
+## Usage 📖
+Explore the directory structure to find questions and their corresponding solutions.
 
 ## Example 📝
-Here’s an example function that demonstrates how to use one of the solutions:
 ```python
-def example_solution():
-    # Example code demonstrating a solution
-    print("This is an example solution!")
+# Example of a DSA problem
+def example_problem():
+    # Your solution here
+    pass
 ```
 
-Feel free to explore and contribute to the DSA Questions repository! Happy coding! 🎉
+Feel free to explore, contribute, and enhance your DSA skills! 🚀
 ```
