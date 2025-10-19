@@ -56,9 +56,5 @@ def binary_search(arr, target):
     return -1
 ```
 
-Feel free to contribute by adding more questions or improving the existing solutions!
-
----
-
-Happy coding! 🚀
+Feel free to explore the repository, contribute, and improve your skills!
 ```
