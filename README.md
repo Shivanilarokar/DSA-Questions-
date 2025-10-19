@@ -1,51 +1,38 @@
 ```markdown
-# DSA Questions Repository 🤖
+# DSA Questions 📚
 
-![GitHub repo size](https://img.shields.io/github/repo-size/Shivanilarokar/DSA-Questions-) ![GitHub contributors](https://img.shields.io/github/contributors/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
+This repository is aimed at aspiring developers and students who wish to enhance their understanding of Data Structures and Algorithms (DSA) through various coding challenges.
 
-## Overview 🚀
-This repository is aimed at aspiring developers and students who wish to enhance their understanding of data structures and algorithms through hands-on problem-solving.
-
-## Features 🌟
-- A variety of DSA questions covering multiple topics.
-- In-depth explanations and code snippets for each challenge.
-- Easy navigation and structure for efficient learning.
-- Contributions are welcome to expand the collection.
+## Features ✨
+- A collection of DSA questions to practice and improve your skills.
+- Solutions provided in Python for easy understanding.
+- Community-driven: contributions are welcome!
 
 ## Summary of the Changes ⚡
 Recent updates to the `README.md` include:
 - Changed the title emoji for better representation.
+- Minor adjustments to the structure for clarity.
 - Added a note encouraging contributions to expand the collection.
 - Introduced an **Example Question** section to illustrate how challenges are structured.
-- Minor adjustments to the structure for clarity.
 
 ## Installation 🔧
 To get started, clone the repository using:
-
 ```bash
-git clone https://github.com/Shivanilarokar/DSA-Questions-.git
+git clone https://github.com/Shivanilarokar/DSA-Questions-
 ```
 
-## Usage 📖
-To use the resources in this repository, navigate through the directories and choose the problems that interest you. You can also contribute by adding your own questions or improving existing ones.
+## Usage 💻
+Explore the repository and start solving questions! Below is an example of how a question is structured.
 
-## Example Question 💡
-Here's an example of how challenges are structured:
-
-### Problem: Two Sum
-**Description:** Given an array of integers, return indices of the two numbers such that they add up to a specific target.
-
-**Example:**
+### Example Question
 ```python
 def two_sum(nums, target):
     num_map = {}
     for i, num in enumerate(nums):
-        complement = target - num
-        if complement in num_map:
-            return [num_map[complement], i]
+        if target - num in num_map:
+            return [num_map[target - num], i]
         num_map[num] = i
 ```
 
 Feel free to explore and contribute! 😃
-
 ```
