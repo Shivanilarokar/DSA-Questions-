@@ -13,6 +13,7 @@ This repository aims to equip developers with a vast array of DSA problems, enab
 
 - A wide range of DSA problems categorized by difficulty levels.
 - Detailed explanations and example code for each problem.
+- Community contributions are welcome for new problems and enhancements.
 
 ## Summary of the Changes 📝
 
@@ -30,21 +31,28 @@ Here is a snippet of the changes made in the `README.md`:
 ## Installation 🔧
 
 To get started with this project, follow these steps:
-```
 
-```markdown
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Shivanilarokar/DSA-Questions-.git
+   ```
+2. Change directory into the project folder:
+   ```bash
+   cd DSA-Questions-
+   ```
+
+## Usage 📝
+
+After cloning the repository, you can navigate through the problems and start practicing! Each problem includes a detailed explanation and example code.
+
+## Example 📖
+
+Here's a sample problem to illustrate how to use the repository effectively:
+
 - **Problem**: **Two Sum**
 - **Description**: Given an array of integers, return indices of the two numbers such that they add up to a specific target.
 - **Example Code**:
-```python
-def two_sum(nums, target):
-    num_map = {}
-    for i, num in enumerate(nums):
-        complement = target - num
-        if complement in num_map:
-            return [num_map[complement], i]
-        num_map[num] = i
 ```
 
-Feel free to explore the repository and contribute to enhancing the collection of DSA questions! Happy coding! 🎉
+Feel free to explore the repository and contribute to the growing collection of DSA problems!
 ```
