@@ -1,9 +1,9 @@
 ```markdown
 # DSA Questions Repository
 
-Welcome to the **DSA Questions** repository! This repository contains a collection of Data Structures and Algorithms (DSA) problems designed to help you enhance your coding skills.
-
 ![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
+
+Welcome to the **DSA Questions** repository! This repository contains a collection of Data Structures and Algorithms (DSA) problems designed to help you enhance your coding skills.
 
 ## Features
 - 📚 A comprehensive collection of DSA problems.
@@ -24,21 +24,21 @@ git clone https://github.com/Shivanilarokar/DSA-Questions-
 ```
 
 ## Usage
-After cloning the repository, navigate to the specific problem folder you wish to explore. Each folder contains a problem statement, solutions, and explanations.
+Explore the various problem folders to practice and enhance your DSA skills. Each folder contains a set of problems along with their respective solutions.
 
 ## Example
-Here is a simple example of a function structure that you might encounter in this repository:
+Here's a basic structure of a generic function used in the repository:
 
 ```python
 def example_function(param1, param2):
     # Your code here
-    return param1 + param2
+    return result
 ```
 
-Feel free to modify and test the examples to deepen your understanding of Data Structures and Algorithms!
+Feel free to modify and contribute to the code to help others learn!
 
 ## Contribution
-We welcome contributions! If you have suggestions or improvements, please feel free to fork the repository and submit a pull request.
+Contributions are welcome! If you have suggestions or improvements, please open an issue or submit a pull request.
 
 Happy coding! 🚀
 ```
