@@ -21,13 +21,13 @@ In the latest commit, the `README.md` file has been updated to enhance clarity a
 + 📂 Organized into categories for easy navigation
 - 📝 Detailed solutions and explanations
 + 📝 Detailed solutions and explanations
-+ 📂 Organized into categories for easy navigation
 ```
 
 ## Installation
 To get started with the DSA Questions repository, clone the repository using the following command:
 ```bash
 git clone https://github.com/Shivanilarokar/DSA-Questions-
+cd DSA-Questions-
 ```
 
 ## Usage
@@ -42,5 +42,5 @@ def example_problem():
     pass
 ```
 
-Feel free to explore, contribute, and enhance your DSA skills!
+Feel free to explore, contribute, and enhance your DSA skills! Happy coding! 💻
 ```
