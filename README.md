@@ -1,6 +1,8 @@
 ```markdown
 # DSA Questions Repository 🤖
 
+![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-) ![GitHub stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-)
+
 Welcome to the **DSA Questions** repository! This repository contains a comprehensive collection of Data Structures and Algorithms (DSA) problems and their solutions. It is a valuable resource for anyone preparing for coding interviews or looking to enhance their problem-solving skills.
 
 ## Overview 🤖
@@ -16,36 +18,21 @@ This repository aims to provide a wide range of DSA problems and their solutions
 - Solutions with explanations to foster learning.
 - Contribution guidelines for community involvement.
 
-## Summary of the Changes 😤
+## Summary of the Changes 🔄
 
-In the latest update, the README.md file has been modified to enhance clarity and organization. Here are the key changes:
+In the latest update, the README.md file has been modified to enhance clarity and organization while maintaining a professional tone. Key changes include:
 
-- **Title Update**: Changed to "DSA Questions Repository 🤖" for better clarity.
-- **Content Enhancement**: Improved the introductory text to better explain the repository's purpose.
-- **Section Renaming**:
-  - Updated the emoji in the Overview section from 🤩 to 🤖.
-  - Changed the emoji in the Features section from 🤩 to 🌟.
-  - Updated the emoji in the Summary of Changes section from 🔧 to 😤.
+- Updated the emoji in the Overview section from 🤩 to 🤖.
+- Changed the emoji in the Features section from 🤩 to 🌟.
+- Updated the emoji in the Summary of Changes section from 🔧 to 🔄.
 
 ### Code Changes
 
 ```diff
---## Overview 🤩
--+## Overview 🤖
-+---# DSA Questions 🤩
-+-+-## Overview 🤖
-++-## Overview 🤩
-+++## Overview 🤖
--## Features 🤩
--+## Features 🌟
-+---## Overview 🤩
-+--+## Overview 🤖
-+-++## Features 🌟
-++-## Features 🤩
-+++## Features 🌟
--## Summary of the Changes 🔧
--+## Summary of the Changes 😤
-+--+## Summary of the Changes 😤
+-# DSA Questions 🤩
++## Overview 🤖
++## Features 🌟
++## Summary of the Changes 🔄
 ```
 
 ## Installation 💻
@@ -64,4 +51,3 @@ Explore the repository to practice DSA problems and refer to the solutions provi
 
 Thank you for checking out the DSA Questions repository! Happy coding! 🚀
 ```
-This README.md file reflects the recent changes made to enhance clarity and organization while maintaining a professional tone. It includes all relevant sections and formatted code examples to facilitate understanding and usage of the repository.
