@@ -1,9 +1,9 @@
 ```markdown
 # DSA Questions 🚀
 
-![GitHub Repo Size](https://img.shields.io/github/repo-size/Shivanilarokar/DSA-Questions-) ![Contributors](https://img.shields.io/github/contributors/Shivanilarokar/DSA-Questions-) ![Issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
-
 This repository is dedicated to helping developers and students improve their skills in Data Structures and Algorithms (DSA) through a collection of curated questions and solutions.
+
+![GitHub Repo Size](https://img.shields.io/github/repo-size/Shivanilarokar/DSA-Questions-) ![Contributors](https://img.shields.io/github/contributors/Shivanilarokar/DSA-Questions-) ![Issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
 
 ## Features ✨
 - A collection of DSA questions to practice and improve your skills.
@@ -39,7 +39,7 @@ def example_function():
 
 Feel free to navigate through the repository, and don't hesitate to contribute by adding more questions or solutions!
 
----
+-----
 
 For any issues or suggestions, please open a ticket in the [Issues section](https://github.com/Shivanilarokar/DSA-Questions-/issues). Happy coding! 💻
 ```
