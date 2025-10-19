@@ -1,9 +1,9 @@
 ```markdown
 # DSA Questions Repository
 
-![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
-
 Welcome to the DSA Questions repository! This repository contains a collection of Data Structures and Algorithms (DSA) problems designed to help you enhance your coding skills.
+
+![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
 
 ## Features
 - A comprehensive collection of DSA problems.
@@ -12,18 +12,16 @@ Welcome to the DSA Questions repository! This repository contains a collection o
 
 ## Summary of the Changes
 In the latest update, the following modifications were made to the `README.md` file:
-
-- Added a **Features** section to highlight the repository's offerings.
-- Improved the **Installation** section with a clear command snippet for cloning the repository.
-- Refined the **Usage** section for clarity.
-- Introduced an **Example** section with a sample DSA problem implementation.
-- Updated the closing message to encourage contributions and included a fun emoji. 
+- Added a "Features" section to highlight the repository's offerings.
+- Enhanced the "Usage" section for better clarity on how to utilize the repository.
+- Updated the "Example" section to provide a clearer and more relevant code snippet.
 
 ## Installation
 To get started with this repository, clone it to your local machine:
 
 ```bash
 git clone https://github.com/Shivanilarokar/DSA-Questions-
+cd DSA-Questions-
 ```
 
 ## Usage
@@ -45,5 +43,7 @@ def fibonacci(n):
 print(fibonacci(10))  # Output: 55
 ```
 
-Feel free to contribute by submitting your solutions or by adding new problems! Your contributions are always welcome. 😊
+Feel free to contribute by submitting your solutions or by adding new problems! Your contributions are always welcome. 😃
+
+Happy Coding! 🚀
 ```
