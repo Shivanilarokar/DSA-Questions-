@@ -1,9 +1,12 @@
 ```markdown
 # DSA Questions Repository
 
+![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
+
 Welcome to the **DSA Questions** repository! This project contains a comprehensive collection of Data Structures and Algorithms (DSA) questions to help you enhance your coding skills. 🚀
 
-![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
+## Overview
+This repository is designed to provide a wide array of DSA questions, along with their solutions, to facilitate learning and practice for developers at all levels.
 
 ## Features
 - 📚 Comprehensive collection of DSA questions
@@ -21,15 +24,13 @@ In the latest update, the README.md has been refined to enhance clarity and usab
 
 ## Installation
 To get started with this repository, clone it using the following command:
-
 ```bash
 git clone https://github.com/Shivanilarokar/DSA-Questions-
 ```
 
 ## Usage
 To use the solutions provided in this repository, follow these simple steps:
-
-1. Navigate to the desired solution file.
+1. Clone the repository.
 2. Import the function in your project.
 3. Call the function with the required parameters.
 
@@ -39,6 +40,7 @@ To use the solutions provided in this repository, follow these simple steps:
 from solution_file import solution_function
 
 result = solution_function(parameters)
+print(result)
 ```
 
 Feel free to explore, contribute, and enhance your skills with our collection of DSA questions! Happy coding! 💻
