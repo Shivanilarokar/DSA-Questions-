@@ -1,13 +1,14 @@
 ```markdown
 # DSA Questions Repository
 
-![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
-
 Welcome to the **DSA Questions** repository! This repository contains a collection of Data Structures and Algorithms (DSA) problems designed to help you enhance your coding skills.
+
+![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
 
 ## Features
 - A comprehensive collection of DSA problems.
 - Solutions and explanations for each problem.
+- Clear examples of code usage to demonstrate how to engage with the repository effectively.
 
 ## Summary of the Changes
 In this recent update, the README.md file has been auto-updated to enhance clarity and provide better instructions for users. Key modifications include:
@@ -23,14 +24,7 @@ To get started with this repository, clone it to your local machine using the fo
 git clone https://github.com/Shivanilarokar/DSA-Questions-.git
 ```
 
-## Installation
-1. Ensure you have Git installed on your machine.
-2. Clone the repository as shown above.
-3. Navigate to the directory.
-4. Follow the instructions in the respective problem folders for setup.
-
-## Usage
-Once cloned, you can explore the various DSA problems and their solutions. Each problem is well-documented with explanations and usage examples.
+Once cloned, you can explore the various DSA problems and their solutions. Each problem includes detailed explanations and code examples to help you understand the concepts better.
 
 ## Example
 Here’s a simple example of how to use one of the solutions:
@@ -38,8 +32,8 @@ Here’s a simple example of how to use one of the solutions:
 ```python
 def example_function():
     # Example code demonstrating usage
-    pass
+    print("This is an example function!")
 ```
 
-Feel free to contribute by submitting issues or pull requests! Happy coding! 🚀
+Feel free to explore, contribute, and enjoy enhancing your coding skills with our DSA challenges! 🚀
 ```
