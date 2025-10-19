@@ -7,24 +7,26 @@
 The DSA Questions repository is a collection of data structures and algorithms problems designed to help you strengthen your coding skills and prepare for technical interviews.
 
 ## Features
-- A wide range of problems covering various data structures and algorithms.
-- Solutions provided in multiple programming languages.
-- Easy to navigate and contribute.
+- A wide variety of algorithm and data structure problems.
+- Detailed solutions and explanations.
+- Community contributions are encouraged.
 
 ## Summary of the Changes
-In the latest commit, the README.md file was updated to enhance clarity and structure. Notable changes include:
-- The title was updated to include a robot emoji 🤖 for a modern touch.
-- An "Overview" section was added to provide a brief description of the repository.
+In the latest update, the following changes were made to the README.md file:
+- Updated badges to reflect repository size and contributors.
+- Added a command to change into the cloned directory after cloning the repo.
+- Enhanced the tone of the closing message to be more positive.
 
-### Code Changes
-Here are the specific changes made in the README.md file:
+### Code Snippets of Changes
+Here are some snippets from the modified README.md:
 
-```diff
--# DSA Questions Repository 📖
-+# DSA Questions 🤖
+```markdown
+![GitHub repo size](https://img.shields.io/github/repo-size/Shivanilarokar/DSA-Questions-) ![GitHub contributors](https://img.shields.io/github/contributors/Shivanilarokar/DSA-Questions-) ![GitHub stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-)
+```
 
-+## Overview
-+The DSA Questions repository is a collection of data structures and algorithms problems designed to help you strengthen your coding skills and prepare for technical interviews.
+```bash
+git clone https://github.com/Shivanilarokar/DSA-Questions-
+cd DSA-Questions-
 ```
 
 ## Installation
@@ -36,20 +38,14 @@ cd DSA-Questions-
 ```
 
 ## Usage
-Each problem is organized by category. Navigate through the folders to find problems you are interested in solving. Solutions are provided in various programming languages for better understanding.
-
-## Example
-Here is an example of how to solve a problem from the repository:
+Feel free to explore and contribute to the repository! Your contributions are welcome. 😃
 
 ```python
 def example_problem(n):
     if n <= 1:
         return n
-    else:
-        return example_problem(n-1) + example_problem(n-2)
+    return example_problem(n-1) + example_problem(n-2)
 ```
-
-Feel free to explore and contribute to the repository! Your contributions are welcome. 😃
 
 This README.md file is designed to provide a clear, concise, and visually appealing overview of the DSA Questions repository while reflecting the latest changes made to it. Happy coding! 🚀
 ```
