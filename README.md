@@ -1,20 +1,21 @@
 ```markdown
 # DSA Questions Repository
 
-![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
-
 Welcome to the **DSA Questions** repository! This repository contains a collection of Data Structures and Algorithms (DSA) problems designed to help you enhance your coding skills.
+
+![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
 
 ## Features
 - 📚 A comprehensive collection of DSA problems.
 - ⚡ Solutions and explanations for each problem.
-- 🤝 Community contributions are encouraged!
+- 🚀 Easy to navigate and contribute.
 
-## Summary of Changes
-In the latest update, the README.md file has been modified to enhance clarity and improve the formatting of code snippets. Key changes include:
-- Added a new **Features** section to highlight the repository's offerings.
-- Improved the clarity of installation instructions.
-- Enhanced code snippet formatting for better readability.
+## Summary of the Changes
+In the latest update, the README.md file has been modified to enhance clarity and structure. Key improvements include:
+
+- Addition of a **Features** section to highlight the repository's offerings.
+- Improved formatting for installation commands to increase readability.
+- Added a friendly closing message encouraging contributions.
 
 ## Installation
 To set up the repository locally, follow these steps:
@@ -36,9 +37,6 @@ To set up the repository locally, follow these steps:
 
 ## Usage
 To use the solutions in this repository, simply navigate to the desired problem's directory and run the relevant code.
-
-### Example
-Here’s an example of how to use one of the problem solutions:
 
 ```python
 def example_problem(input):
