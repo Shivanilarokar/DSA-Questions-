@@ -1,24 +1,22 @@
 ```markdown
 # DSA Questions Repository
 
-![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
-
 Welcome to the **DSA Questions** repository! This repository contains a collection of Data Structures and Algorithms (DSA) problems designed to help you enhance your coding skills.
+
+![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
 
 ## Features
 - A comprehensive collection of DSA problems.
 - Solutions and explanations for each problem.
-- User-friendly structure for easy navigation and understanding. 📚
 
 ## Summary of the Changes
-In the latest update, the following changes were made to the README.md file:
-- **Added a Features section** to highlight the key aspects of the repository.
-- **Enhanced the features section** to include a user-friendly structure description.
-- **Added a new example problem structure** to guide users on how to document DSA problems effectively.
-- **Improved overall clarity and organization** of the README to facilitate better navigation.
+In the latest update, the README.md file has been auto-updated to enhance clarity and provide a better structure. Key modifications include:
+- Added a new **Features** section to highlight the repository's offerings.
+- Improved formatting for better readability.
+- Updated problem example title for consistency.
 
 ## Installation
-To clone this repository, run the following command:
+To clone the repository, run:
 ```bash
 git clone https://github.com/Shivanilarokar/DSA-Questions-
 ```
@@ -32,14 +30,7 @@ Here's a sample problem structure to illustrate how you can document your DSA pr
 ### Problem Title
 - **Input**: An array of integers and a target integer.
 - **Output**: Indices of the two numbers such that they add up to the target.
-
-```python
-def two_sum(nums, target):
-    # Implementation goes here
-    pass
 ```
 
-This README.md file has been updated to provide a clearer overview of the repository's features and instructions, making it easier for developers to navigate and use the collection of DSA problems.
-
-Feel free to explore, contribute, and enhance your coding skills with this repository! Happy coding! 🚀
+This README.md file now provides a clearer and more structured overview of the DSA Questions repository, making it easier for users to understand the purpose and usage of the repository. Feel free to contribute and enhance the collection further!
 ```
