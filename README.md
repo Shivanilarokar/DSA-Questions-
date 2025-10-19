@@ -8,8 +8,8 @@ Welcome to the DSA Questions repository! This repository is designed to help you
 
 ## Features
 - Comprehensive DSA questions
-- Structured solutions for better understanding
 - Engaging and clear explanations for each question
+- Structured solutions for better understanding
 - Community contributions encouraged! 🎉
 
 ## Summary of the Changes
@@ -26,16 +26,26 @@ git clone https://github.com/Shivanilarokar/DSA-Questions-
 ```
 
 ## Usage
-Explore the various questions and their solutions to improve your understanding of data structures and algorithms. Each question comes with a structured explanation to facilitate learning.
+Explore the questions and solutions to improve your data structures and algorithms skills. Feel free to contribute by adding new questions or improving existing ones!
 
 ## Example
-Here’s a snippet of how the questions are structured:
+Here's a simple example of how you might structure a question in this repository:
 
 ```python
-def example_question():
-    # This function demonstrates a simple DSA question
-    pass
+def example_function(data):
+    """
+    This function takes a list of data and processes it.
+    
+    Args:
+    data (list): A list of data elements to process.
+
+    Returns:
+    list: A processed list of data elements.
+    """
+    # Process the data
+    processed_data = [x * 2 for x in data]
+    return processed_data
 ```
 
-Thank you for checking out the DSA Questions repository! We hope you find it helpful in your learning journey. Happy coding! 🚀
+Thank you for checking out the DSA Questions repository! We hope you find it helpful in your journey to master data structures and algorithms.
 ```
