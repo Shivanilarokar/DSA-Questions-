@@ -1,5 +1,5 @@
 ```markdown
-# DSA Questions 📚
+# DSA Questions 📖
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
 
@@ -13,7 +13,6 @@ In the latest commit, the README.md file was updated to enhance the visual appea
 
 ## Installation
 To get started with the DSA Questions repository, follow these steps:
-
 ```bash
 git clone https://github.com/Shivanilarokar/DSA-Questions-
 cd DSA-Questions-
@@ -24,7 +23,6 @@ You can find examples of DSA problems and their solutions within the repository.
 
 ## Example
 Here’s a quick example of how to navigate through one of the directories:
-
 ```bash
 cd <directory_name>
 ```
