@@ -1,13 +1,11 @@
 ```markdown
-# DSA Questions Repository 📚
+# DSA Questions Repository 🚀
 
-![GitHub last commit](https://img.shields.io/github/last-commit/Shivanilarokar/DSA-Questions-)
-![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
-![GitHub repo size](https://img.shields.io/github/repo-size/Shivanilarokar/DSA-Questions-)
+![GitHub last commit](https://img.shields.io/github/last-commit/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-) ![GitHub repo size](https://img.shields.io/github/repo-size/Shivanilarokar/DSA-Questions-)
 
 ## Overview 🌟
 
-This repository serves as a practice ground for Data Structures and Algorithms (DSA) questions. You can contribute by adding your own questions or improving existing solutions!
+Welcome to the **DSA Questions** repository! This repository serves as a practice ground for Data Structures and Algorithms (DSA) questions. It contains a comprehensive collection of DSA questions along with their solutions to help developers practice and enhance their problem-solving skills. You are welcome to contribute by adding your own questions or improving existing solutions!
 
 ## Features ✨
 
@@ -20,15 +18,15 @@ This repository serves as a practice ground for Data Structures and Algorithms (
 In the recent update, the following modifications were made to the `README.md` file:
 
 - **Badges Added**: Included badges to display repository size, last commit date, and open issues for better visibility.
-- **Clone Command Update**: Updated the clone command to include the `.git` extension for clarity.
-- Minor formatting changes to enhance readability.
+- **Minor Formatting Changes**: Enhanced readability throughout the document.
 
 ### Key Changes:
 ```diff
-+ Added badges to display repository size, last commit date, and open issues.
-+ Updated the clone command to include the `.git` extension for clarity.
--   git clone https://github.com/Shivanilarokar/DSA-Questions-
-+   git clone https://github.com/Shivanilarokar/DSA-Questions-.git
+-# DSA Questions Repository 🚀
++# DSA Questions Repository 📖
+
+-## Summary of Changes
++## Summary of Changes 📝
 ```
 
 ## Installation 🛠️
@@ -37,8 +35,6 @@ To clone the repository, run the following command:
 ```bash
 git clone https://github.com/Shivanilarokar/DSA-Questions-.git
 ```
-
-## Usage 📖
 
 Once cloned, navigate into the repository and explore the various DSA questions! You can contribute by adding your own questions or improving existing solutions!
 
