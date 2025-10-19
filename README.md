@@ -1,9 +1,9 @@
 ```markdown
-# DSA Questions 📚
+# DSA Questions 🌟
 
-![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-?style=social) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-?style=social) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
-
-This repository is aimed at providing a structured learning experience for anyone interested in Data Structures and Algorithms (DSA).
+![GitHub repo size](https://img.shields.io/github/repo-size/Shivanilarokar/DSA-Questions-)
+![GitHub contributors](https://img.shields.io/github/contributors/Shivanilarokar/DSA-Questions-)
+![GitHub stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-)
 
 ## Overview
 This repository is designed to help developers and students master Data Structures and Algorithms through a variety of problems and solutions. Each problem is documented with inputs, outputs, and detailed explanations.
@@ -36,8 +36,6 @@ To use the solutions provided in this repository, simply import the necessary fu
 Here’s an example of how to solve a problem from this repository:
 
 ```python
-from dsa_module import add
-
 result = add(5, 5)
 print(result)  # Output: 10
 ```
