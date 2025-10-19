@@ -37,5 +37,5 @@ def example_problem(input_data):
     return output_data
 ```
 
-Feel free to explore, contribute, and enhance your coding skills with our collection of DSA questions!
+Feel free to explore, contribute, and enhance your coding skills with our collection of DSA questions! Happy coding! 🎉
 ```
