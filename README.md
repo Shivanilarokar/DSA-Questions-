@@ -1,7 +1,7 @@
 ```markdown
-# DSA Questions Repository
+# DSA Questions Repository 🤖
 
-![GitHub repo size](https://img.shields.io/github/repo-size/Shivanilarokar/DSA-Questions-)
+![GitHub repo size](https://img.shields.io/github/repo-size/Shivanilarokar/DSA-Questions-) 
 ![Contributors](https://img.shields.io/github/contributors/Shivanilarokar/DSA-Questions-)
 
 ## Overview
