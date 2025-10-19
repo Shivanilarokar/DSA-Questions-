@@ -1,5 +1,5 @@
 ```markdown
-# DSA Questions 🌟
+# DSA Questions 🌌
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/Shivanilarokar/DSA-Questions-) ![GitHub contributors](https://img.shields.io/github/contributors/Shivanilarokar/DSA-Questions-) ![GitHub stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-)
 
@@ -12,7 +12,7 @@ Welcome to the DSA Questions repository! This repository contains a collection o
 - Open for contributions to expand the problem set and improve the repository.
 
 ## Summary of Changes
-Recently, the README.md file was updated to enhance clarity and professionalism. The following changes were made:
+Recently, the `README.md` file was updated to enhance clarity and professionalism. The following changes were made:
 - **Usage Section**: The previous usage description was streamlined for better readability.
 - **Formatting Adjustments**: Minor formatting corrections were applied for consistency.
 
@@ -20,17 +20,17 @@ Recently, the README.md file was updated to enhance clarity and professionalism.
 Here is a brief look at the changes made in the README:
 
 ```markdown
--## Usage 🚀
- Explore the repository to find various problems categorized by data structure and algorithm types. Here’s a simple example of a function you might find in this repository:
- 
- ```
- 
-+--- 
+## Usage 🚀
+Explore the repository to find various problems categorized by data structure and algorithm types. Here’s a simple example of a function you might find in this repository:
 
-Thank you for checking out the DSA Questions repository! Happy coding! 🎉
+```python
+def example_function():
+    # Your code here
+    pass
+```
 ```
 
-## Installation
+## Installation ⚙️
 To get started with this repository, clone it to your local machine:
 
 ```bash
@@ -49,6 +49,8 @@ def example_function():
 
 ## Contribution 🤝
 We welcome contributions to improve the repository. Please follow the contribution guidelines outlined in the repository.
+
+---
 
 Thank you for checking out the DSA Questions repository! Happy coding! 🎉
 ```
