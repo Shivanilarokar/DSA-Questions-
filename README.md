@@ -9,29 +9,39 @@ This repository contains a collection of Data Structures and Algorithms (DSA) qu
 
 ## Features
 
-- **Comprehensive Collection**: A variety of DSA questions covering different topics.
-- **Example Solutions**: Detailed implementations for better understanding.
-- **Active Community**: Contribute and collaborate with fellow developers.
+- 🛠️ Comprehensive collection of DSA problems.
+- 🌟 User-friendly documentation and examples.
+- 📖 Regularly updated with new questions and solutions.
 
 ## Summary of the Changes
 
 Recent updates to the `README.md` include:
-
 - 🤖 Enhanced the **Overview** section for better context regarding the repository.
-- 📝 Included a more detailed **Example** section to illustrate the usage of the `two_sum` function.
+- ✍️ Included a more detailed **Example** section to illustrate the usage of the `two_sum` function.
 - 🎉 Changed the title emoji for a more celebratory tone.
-- 📈 Added social media badges for stars and forks.
-- 📚 Enhanced formatting and organization for better readability.
+- 📊 Added social media badges for stars and forks.
+- 🔍 Enhanced formatting and organization for better readability.
 
 ## Installation
 
 To get started with the repository, clone it using the following command:
 
 ```bash
-git clone https://github.com/Shivanilarokar/DSA-Questions-
+git clone https://github.com/Shivanilarokar/DSA-Questions-.git
 ```
 
 ## Usage
+
+To use the functions provided in this repository, follow these steps:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Shivanilarokar/DSA-Questions-.git
+   ```
+2. Open the desired Python file.
+3. Call the functions with the appropriate parameters.
+
+### Example
 
 Here's an example of how to use the `two_sum` function:
 
