@@ -1,9 +1,9 @@
 ```markdown
 # DSA Questions 🚀
 
-This repository is dedicated to helping developers and students improve their skills in Data Structures and Algorithms (DSA) through a collection of curated questions and solutions.
-
 ![GitHub Repo Size](https://img.shields.io/github/repo-size/Shivanilarokar/DSA-Questions-) ![Contributors](https://img.shields.io/github/contributors/Shivanilarokar/DSA-Questions-) ![Issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
+
+This repository is dedicated to helping developers and students improve their skills in Data Structures and Algorithms (DSA) through a collection of curated questions and solutions.
 
 ## Features ✨
 - A collection of DSA questions to practice and improve your skills.
@@ -13,30 +13,33 @@ This repository is dedicated to helping developers and students improve their sk
 ## Summary of Changes
 The README has been auto-updated to enhance clarity and engagement. Key modifications include:
 - Added a **Features** section to highlight the repository's offerings.
-- Simplified the example function to demonstrate basic functionality.
-- Updated the contribution message to encourage community involvement.
-
-### Code Snippet Changes
-Here’s a brief look at the modified example function:
-
-```python
-def example_function():
-    # This is an example function.
-    print("Hello, DSA!")
-```
+- Improved the overall structure for better readability.
 
 ## Installation
-To get started with this repository, clone it to your local machine:
+To get started with this repository, clone it to your local machine using:
 
 ```bash
 git clone https://github.com/Shivanilarokar/DSA-Questions-
-cd DSA-Questions-
 ```
 
 ## Usage
-After cloning the repository, navigate to the project directory and explore the various DSA questions and their respective solutions.
+Navigate to the directory of the cloned repository and explore the questions and solutions available. 
 
-Feel free to dive in, explore, and contribute to the repository! Your contributions are what make this community thrive.
+```bash
+cd DSA-Questions-
+```
 
-## Happy Coding! 💻
+## Example
+Here’s a quick example of how you can use the provided solutions:
+
+```python
+def example_function():
+    # Your code logic here
+    pass
+```
+
+Feel free to navigate through the repository, and don't hesitate to contribute by adding more questions or solutions!
+
+---
+For any issues or suggestions, please open a ticket in the [Issues section](https://github.com/Shivanilarokar/DSA-Questions-/issues). Happy coding! 💻
 ```
