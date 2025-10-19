@@ -1,15 +1,11 @@
 ```markdown
-# DSA Questions Repository 🤖
+# DSA Questions Repository 👩‍💻
 
-Welcome to the DSA Questions repository! This project aims to provide a collection of data structures and algorithms questions along with their solutions. This repository contains implementations of various data structures and algorithms in Python. The code is designed to be well-structured and easy to understand, making it a valuable resource for learners and developers alike.
+![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
 
-![GitHub repo size](https://img.shields.io/github/repo-size/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-) ![GitHub last commit](https://img.shields.io/github/last-commit/Shivanilarokar/DSA-Questions-)
+This repository offers a comprehensive collection of data structures and algorithms to help you enhance your coding skills. 💻
 
-## Overview
-
-This repository offers a comprehensive collection of data structures and algorithms, complete with code examples implemented in Python. Whether you are a beginner or an experienced developer, you will find the content structured and easy to follow.
-
-## Features
+## Features 🌟
 
 - Extensive collection of data structures and algorithms
 - Well-documented code examples
@@ -19,14 +15,17 @@ This repository offers a comprehensive collection of data structures and algorit
 
 In the latest update, the following changes were made:
 
-- Improved the `BankAccount` class in `function.py` to handle deposits and withdrawals more effectively.
-- Added default balance parameter to the `BankAccount` constructor.
-- Included print statements to provide feedback on deposit and withdrawal actions.
-- Enhanced error handling for insufficient funds during withdrawals.
+1. **Updated Header**: Enhanced the header for the "Summary of Changes" section for clarity.
+2. **Removed Notebook File**: The `Day1.ipynb` file containing initial DSA questions and their explanations was removed.
+3. **Improved Functionality**: 
+   - Enhanced the `BankAccount` class in `function.py` to handle deposits and withdrawals more effectively.
+   - Added a default balance parameter to the `BankAccount` constructor.
+   - Included print statements to provide feedback on deposit and withdrawal actions.
+   - Enhanced error handling for insufficient funds during withdrawals.
 
 ### Code Snippet
 
-Here’s a code snippet from the newly added `function.py` file:
+Here's a glimpse of the updated `BankAccount` class:
 
 ```python
 class BankAccount:
@@ -36,18 +35,22 @@ class BankAccount:
 
     def deposit(self, amount):
         self.balance += amount
-        print(f"Deposited: ₹{amount}")
+        print(f"{amount} deposited. New balance: ₹{self.balance}")
 
     def withdraw(self, amount):
-        if amount <= self.balance:
-            self.balance -= amount
-            print(f"Withdrawn: ₹{amount}")
-        else:
+        if amount > self.balance:
             print("Insufficient funds!")
+        else:
+            self.balance -= amount
+            print(f"{amount} withdrawn. New balance: ₹{self.balance}")
 
     def show_balance(self):
         print(f"Account Balance for {self.owner}: ₹{self.balance}")
+```
 
+### Example Usage
+
+```python
 # Example Usage
 acc = BankAccount("John Doe", 1000)
 acc.deposit(500)
@@ -55,7 +58,7 @@ acc.withdraw(2000)
 acc.show_balance()
 ```
 
-## Installation
+## Installation 🛠️
 
 To get started with this repository, clone it using:
 
@@ -69,11 +72,11 @@ Then, navigate to the project directory:
 cd DSA-Questions-
 ```
 
-## Usage
+## Usage 📚
 
 You can use the provided implementations by importing the respective classes or functions into your own Python scripts.
 
 ---
 
-Thank you for checking out the DSA Questions repository! Happy coding! 🚀
+Contributions are welcome! Please feel free to submit a pull request or open an issue if you have suggestions for improvements.
 ```
