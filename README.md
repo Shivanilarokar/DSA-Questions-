@@ -7,8 +7,8 @@ Welcome to the DSA Questions repository! This repository aims to enhance your da
 
 ## Features
 - Comprehensive collection of DSA questions.
-- Detailed solutions and explanations.
-- A supportive community for discussion and collaboration. 🎉
+- Solutions to help you understand problem-solving techniques.
+- Community engagement and contributions welcome!
 
 ## Summary of the Changes
 ### Recent Updates
@@ -44,7 +44,10 @@ Here's a simple example function to get you started:
 ```python
 def example_function(data):
     # Your implementation here
+    pass
 ```
 
 We hope you find this repository helpful in your journey to mastering Data Structures and Algorithms! If you have any questions or suggestions, feel free to open an issue or contribute to the repository.
+
+Happy coding! 🎉
 ```
