@@ -1,14 +1,14 @@
 ```markdown
 # DSA Questions Repository
 
-![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
-
 Welcome to the **DSA Questions** repository! This repository contains a collection of Data Structures and Algorithms (DSA) problems designed to help you enhance your coding skills.
+
+![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
 
 ## Features
 - 📚 A comprehensive collection of DSA problems.
 - ⚡ Solutions and explanations for each problem.
-- 🤝 Community contributions are welcomed!
+- 🤝 Community contributions are welcome!
 
 ## Summary of Changes
 In the latest update, the README.md file has been auto-updated to improve clarity and usability. Key changes include:
@@ -25,21 +25,20 @@ cd DSA-Questions-
 ```
 
 ## Usage
-Navigate through the problems by exploring the folder structure and accessing individual problem solutions. Each problem is designed to help you practice and improve your DSA skills.
+Once you have cloned the repository, you can navigate to the appropriate directories to explore the problems and their solutions. Be sure to check the README files within each folder for specific instructions and problem statements.
 
 ## Example
-Here’s a brief example of how to use the solutions provided:
+Here’s a simple example of how to use one of the DSA solutions:
 
 ```python
-def example_problem():
-    # Example code for a DSA problem
-    print("This is an example problem solution!")
+def example_function():
+    print("This is an example function from the DSA Questions repository.")
 ```
 
-Feel free to explore, contribute, and enhance your coding knowledge through this repository!
+Feel free to explore the problems and contribute your solutions!
 
 ## Contributing
-We welcome contributions from the community! If you have suggestions or improvements, please feel free to open an issue or submit a pull request.
+We welcome contributions from the community! If you would like to contribute, please fork the repository and submit a pull request. 
 
-Happy coding! 🎉
+Thank you for visiting the DSA Questions repository! Happy coding! 🚀
 ```
