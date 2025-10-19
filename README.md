@@ -7,11 +7,11 @@
 This repository serves as a comprehensive collection of Data Structures and Algorithms (DSA) questions and solutions. Whether you are preparing for interviews or enhancing your coding skills, this repository is a valuable resource.
 
 ## Features ✨
-- A wide variety of DSA problems.
-- Clear explanations and examples for each problem.
-- Easy navigation and contributions for the community.
+- A wide range of DSA questions categorized by topics.
+- Detailed solutions and explanations for each question.
+- Community contributions are welcomed to enhance the repository.
 
-## Summary of the Changes 📡
+## Summary of the Changes ⚠️
 Recent updates to the `README.md` file include:
 - Updated the title emoji for better representation.
 - Enhanced formatting of badges for improved visual appeal.
@@ -42,7 +42,7 @@ nums = [2, 7, 11, 15]
 target = 9
 ```
 
-**Function Implementation:**
+**Output:**
 ```python
 def two_sum(nums, target):
     hashmap = {}
@@ -52,4 +52,6 @@ def two_sum(nums, target):
 This function takes a list of numbers and a target value, returning the indices of the two numbers that add up to the target.
 
 Feel free to explore the repository, practice the problems, and contribute your solutions!
+
+Thank you for checking out the DSA Questions repository! Happy coding! 🚀
 ```
