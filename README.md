@@ -1,9 +1,9 @@
 ```markdown
 # DSA Questions Repository
 
-Welcome to the **DSA Questions** repository! This repository contains a collection of Data Structures and Algorithms (DSA) problems designed to help you enhance your coding skills.
-
 ![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
+
+Welcome to the **DSA Questions** repository! This repository contains a collection of Data Structures and Algorithms (DSA) problems designed to help you enhance your coding skills.
 
 ## Features
 - 📚 A comprehensive collection of DSA problems.
@@ -12,26 +12,27 @@ Welcome to the **DSA Questions** repository! This repository contains a collecti
 
 ## Summary of the Changes
 In the latest commit, the README.md file has been updated to enhance clarity and structure. The following changes were made:
-- Added a **Features** section to highlight key aspects of the repository.
-- Removed a redundant comment in the code example for better readability.
+- Added a new section for **Features** to highlight key aspects of the repository.
+- Improved the overall layout for better readability.
 
 ## Installation
-To get started with this repository, clone it using the following command:
+To get started with the DSA Questions repository, clone it using the following command:
 
 ```bash
 git clone https://github.com/Shivanilarokar/DSA-Questions-
 ```
 
 ## Usage
-You can navigate through the problems and solutions provided in this repository. Each problem is designed to help you practice and improve your DSA skills.
+After cloning the repository, navigate to the project directory and start solving the problems! Each problem is organized in a way that makes it easy to follow along.
 
 ## Example
-Here’s a sample implementation to get you started:
+Here’s a quick example of how you might approach a problem:
 
 ```python
-def example_problem():
-    print("Hello, DSA!")
+def example_problem(input):
+    # Your solution here
+    return output
 ```
 
-Feel free to explore, contribute, and enhance your coding capabilities with the DSA Questions repository! 🚀
+Feel free to explore the repository and contribute by adding new problems or improving existing solutions!
 ```
