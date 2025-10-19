@@ -7,8 +7,8 @@ Welcome to the **DSA Questions** repository! This project is designed to help yo
 
 ## Features 🌟
 - 📚 Extensive collection of DSA problems
-- 📖 Detailed solutions and explanations
-- 🗂️ Organized into categories for easy navigation
+- 📝 Detailed solutions and explanations
+- 📊 Organized into categories for easy navigation
 - 🤝 Community contributions are welcome!
 
 ## Summary of the Changes ✍️
@@ -16,11 +16,11 @@ In the latest commit, the `README.md` file has been updated to enhance clarity a
 
 ### Changes Made:
 ```diff
-- 📚 Extensive collection of DSA problems
-+ 📖 Detailed solutions and explanations
+- 📖 Extensive collection of DSA problems
 + 📚 Extensive collection of DSA problems
-- 🗂️ Organized into categories for easy navigation
-+ 🗂️ Organized into categories for easy navigation
++ 📝 Detailed solutions and explanations
+- 📊 Organized into categories for easy navigation
++ 📊 Organized into categories for easy navigation
 ```
 
 ## Installation ⚙️
