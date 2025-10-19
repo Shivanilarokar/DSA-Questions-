@@ -13,31 +13,27 @@ Welcome to the DSA Questions Repository! This repository is dedicated to providi
 ## Summary of the Changes 🔄
 In this update, we have made the following changes to the `README.md` file:
 
-- Improved clarity in the features section by rephrasing for better understanding.
-- Updated the installation instructions for consistency and clarity.
-- Enhanced the contribution guidelines to streamline the process.
+- Enhanced clarity in the features section by rephrasing for better understanding.
+- Updated installation instructions for consistency and clarity.
 
-### Code Snippet of Changes
-```diff
-- A wide range of DSA problems to practice.
-+ A wide range of DSA problems categorized for easy navigation.
-
-- To get started with the DSA Questions Repository, clone the repository to your local machine:
-+ To get started, clone the repository and navigate into the project directory:
-```
-
-## Installation 💻
-To get started, clone the repository and navigate into the project directory:
+## Installation
+To get started with the DSA Questions Repository, clone the repository and install the necessary dependencies:
 
 ```bash
 git clone https://github.com/Shivanilarokar/DSA-Questions-
 cd DSA-Questions-
+# If there are any dependencies, install them here
 ```
 
-## Usage 🚀
-Explore the various DSA problems and try solving them! Feel free to contribute by following the guidelines below.
+## Usage
+You can explore various DSA problems and contribute by following these steps:
 
-## Example ✨
+1. Fork the repository
+2. Create a new branch for your feature or fix
+3. Make your modifications
+4. Submit a pull request
+
+## Example
 Here’s a simple example of how you can contribute:
 
 - Fork the repository
