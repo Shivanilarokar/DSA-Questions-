@@ -3,7 +3,7 @@
 
 ![Issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-) ![Forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![Stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-)
 
-This repository serves as a valuable resource for learners and developers looking to enhance their skills in Data Structures and Algorithms (DSA). It contains a collection of DSA questions and their corresponding solutions.
+Welcome to the DSA Questions repository! This repository serves as a valuable resource for learners and developers looking to enhance their skills in Data Structures and Algorithms (DSA). It contains a collection of DSA questions and their corresponding solutions. Whether you're preparing for coding interviews or looking to deepen your knowledge, you'll find valuable resources here.
 
 ## Summary of the Changes
 In the latest update, the `README.md` file has been enhanced with the following changes:
