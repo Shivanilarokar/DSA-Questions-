@@ -64,9 +64,8 @@ result = some_function(input_data)
 print(result)  # Output: 10
 ```
 
+## Example
 Feel free to explore the various problems and their solutions available in this repository. Each problem is designed to help you understand different aspects of Data Structures and Algorithms.
 
 ---
-
-Thank you for checking out this repository! We welcome contributions and feedback from the community. Happy coding! 🎉
 ```
