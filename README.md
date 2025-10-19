@@ -32,6 +32,7 @@ Once the installation is complete, you can start solving DSA problems. Here’s 
 
 ```python
 def example_solution():
+    # Example code for a DSA problem
     print("This is an example solution!")
 ```
 
