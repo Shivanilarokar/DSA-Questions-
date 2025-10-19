@@ -13,7 +13,11 @@ The DSA Questions repository is a collection of data structures and algorithms p
 
 ## Summary of the Changes
 In the latest update, the following changes were made to the README.md file:
+- Updated badges to reflect repository size and contributors.
+- Added a command to change into the cloned directory after cloning the repo.
+- Enhanced the tone of the closing message to be more positive.
 
+### Code Snippets of Changes
 - **Title Update**: Changed the title to "DSA Questions Repository".
 - **Overview Section**: Enhanced the description to provide a clearer understanding of the repository's purpose.
 - **Installation Instructions**: Simplified the language for better clarity.
@@ -27,6 +31,7 @@ Here are some snippets from the modified README.md:
 
 ## Overview
 The DSA Questions repository is a collection of data structures and algorithms problems designed to help you strengthen your coding skills and prepare for technical interviews.
+```
 
 ## Installation
 To get started, clone the repository to your local machine:
@@ -37,22 +42,7 @@ cd DSA-Questions-
 ```
 
 ## Usage
-Each problem is organized by category. Navigate through the folders to find problems you are interested in solving. Solutions are provided in various programming languages for better understanding.
-
-## Example
-Here is an example of how to solve a problem from the repository:
-
-```python
-def example_problem(n):
-    if n <= 1:
-        return n
-    return example_problem(n-1) + example_problem(n-2)
-```
-
 Feel free to explore and contribute to the repository! Your contributions are welcome. 😃
 
 This README.md file is designed to provide a clear, concise, and visually appealing overview of the DSA Questions repository while reflecting the latest changes made to it. Happy coding! 🚀
 ```
-``` 
-
-This README.md encapsulates the recent changes, providing a professional and inviting overview for developers interested in contributing to the DSA Questions repository.
