@@ -1,21 +1,20 @@
 ```markdown
 # DSA Questions Repository
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg) ![Python](https://img.shields.io/badge/python-3.8%2B-blue.svg) ![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
+![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![Issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-) ![License](https://img.shields.io/github/license/Shivanilarokar/DSA-Questions-)
 
 Welcome to the DSA Questions repository! This project contains a collection of Data Structures and Algorithms (DSA) questions designed to aid learners and practitioners in mastering DSA concepts.
 
 ## Features
 - Comprehensive collection of DSA questions.
 - Explanations and resources for better understanding.
-- Regular updates and enhancements to the content.
+- Well-documented solutions to help you grasp the concepts effectively.
 
 ## Summary of the Changes
 In the latest commit, the `README.md` file has been updated to enhance its presentation and usability:
-- Added an overview section for better clarity.
-- Minor formatting improvements for better readability.
-- Updated code snippets to accurately reflect the current structure.
-- Included a command to change the directory after cloning the repository.
+- Improved clarity in the installation instructions.
+- Added a command snippet for changing the directory after cloning the repository.
+- Included a new section to illustrate an example problem.
 
 ### Code Snippet of Changes
 ```bash
@@ -43,7 +42,5 @@ def example_problem():
     pass
 ```
 
-We welcome contributions! Feel free to contribute to this repository by submitting pull requests or issues.
-
-Happy coding! 🚀
+Feel free to contribute to this repository by suggesting improvements or adding more questions!
 ```
