@@ -26,7 +26,7 @@ Here are some snippets illustrating the modifications made:
 # acc.show_balance()
 
 # Updated message
-Thank you for checking out the DSA Questions repository! Happy coding! 😎
+Thank you for checking out the DSA Questions repository! Happy coding! 🤎
 ```
 
 ## Installation 🚀
@@ -43,5 +43,5 @@ For any contributions or suggestions, feel free to open an issue or submit a pul
 
 ---
 
-Thank you for checking out the DSA Questions repository! Happy coding! 😎
+Thank you for checking out the DSA Questions repository! Happy coding! 🤎
 ```
