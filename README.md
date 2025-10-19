@@ -1,7 +1,7 @@
 ```markdown
-# DSA Questions Repository 📚
+# DSA Questions Repository
 
-[![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![License](https://img.shields.io/badge/license-MIT-blue)]
+![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
 
 Welcome to the DSA Questions repository! This repository is dedicated to providing a comprehensive collection of Data Structures and Algorithms (DSA) questions and solutions.
 
@@ -10,8 +10,9 @@ Welcome to the DSA Questions repository! This repository is dedicated to providi
 This repository aims to assist developers and learners in mastering Data Structures and Algorithms through a variety of problems and solutions. Whether you are preparing for interviews or looking to enhance your coding skills, this repository can serve as a valuable resource.
 
 ## Features ✨
-- A collection of DSA questions categorized by topics.
-- Solutions provided for each question to facilitate understanding.
+
+- A wide range of DSA problems with solutions.
+- Detailed explanations and well-structured code.
 - Community contributions are welcome! 🤝
 
 ## Summary of the Changes
@@ -19,10 +20,8 @@ This repository aims to assist developers and learners in mastering Data Structu
 Recent updates to the `README.md` include:
 
 - Enhanced clarity in the repository description.
-- Added a new section for **Usage**.
-- Improved the example code snippet for better understanding.
-- Removed some redundant text for conciseness.
 - Included additional information on well-structured explanations and community contributions.
+- Improved guidance on installation and usage.
 
 ## Installation
 
@@ -49,5 +48,5 @@ def example_function():
 
 Feel free to contribute and enhance this repository with your own solutions and improvements!
 
-This README.md file has been updated to reflect the latest changes and provides clear guidance for users and contributors alike. Happy coding!
+This README.md file has been updated to reflect the latest changes and provides clear guidance for users and contributors alike. Happy coding! 🚀
 ```
