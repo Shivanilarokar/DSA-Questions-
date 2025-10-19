@@ -11,7 +11,7 @@ The DSA Questions Repository is a comprehensive collection of Data Structures an
 - Code examples and explanations for better understanding.
 - Community contributions are welcomed!
 
-## Summary of Changes 📝
+## Summary of Changes ✏️
 In the latest update, the `README.md` file has been modified to enhance clarity and improve formatting. Key changes include:
 
 - Improved structure and formatting of the sections.
@@ -20,18 +20,9 @@ In the latest update, the `README.md` file has been modified to enhance clarity 
 
 ### Here are the specific lines that were modified:
 ```diff
--## Overview 🌍
-- Comprehensive collection of DSA questions
+-# DSA Questions Repository
 +## Overview 🌍
 + Comprehensive collection of DSA questions
-
--## Installation 🚀
--To get started with this repository, clone it to your local machine:
-+## Installation 🚀
-+To get started with this repository, clone it to your local machine:
-```bash
--git clone https://github.com/Shivanilarokar/DSA-Questions-
-+git clone https://github.com/Shivanilarokar/DSA-Questions-
 ```
 
 ## Installation 🚀
@@ -49,4 +40,6 @@ def example_function():
 ```
 
 Feel free to explore the questions and contribute to the repository! 🙌
+
+Thank you for checking out the DSA Questions Repository! We appreciate your contributions and feedback.
 ```
