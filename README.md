@@ -1,18 +1,17 @@
 ```markdown
 # DSA Questions Repository
 
-![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
-
 Welcome to the **DSA Questions** repository! This repository contains a collection of Data Structures and Algorithms (DSA) problems designed to help you enhance your coding skills.
+
+![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
 
 ## Features
 - 📚 A comprehensive collection of DSA problems.
 - ⚡ Detailed solutions and explanations for each problem.
-- 🤝 Contribution guidelines to help you get involved.
 
 ## Summary of the Changes
-In the latest update, the `README.md` file has been auto-updated to enhance clarity and structure. The following changes were made:
-- Added a **Usage** section to guide users on how to explore the repository.
+In the latest update, the `README.md` file has been auto-updated to enhance clarity and encourage contributions from users:
+- Added a dedicated **Features** section to highlight key aspects of the repository.
 - Slight rephrasing in the concluding statement to encourage contributions from users.
 
 ## Installation
@@ -26,13 +25,14 @@ git clone https://github.com/Shivanilarokar/DSA-Questions-
 Explore the various DSA problems and their solutions. Check the directory structure for each problem's details and implementations.
 
 ## Example
-Here’s a sample code snippet for an example problem:
+Here’s an example of how to utilize the solutions provided in this repository:
 
 ```python
-def example_problem(input):
-    # Your implementation here
-    return result
+# Example of a DSA problem solution
+def example_function(data):
+    # Process the data
+    return processed_data
 ```
 
-Happy coding! 🚀
+Feel free to contribute by adding your solutions or improvements!
 ```
