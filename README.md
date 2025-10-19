@@ -1,14 +1,13 @@
 ```markdown
 # DSA Questions Repository
 
-Welcome to the **DSA Questions** repository! This repository contains a collection of Data Structures and Algorithms (DSA) problems designed to help you enhance your coding skills.
-
 ![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
+
+Welcome to the **DSA Questions** repository! This repository contains a collection of Data Structures and Algorithms (DSA) problems designed to help you enhance your coding skills.
 
 ## Features
 - 📚 A comprehensive collection of DSA problems.
 - ⚡ Solutions and explanations for each problem.
-- 🔄 Regular updates to improve content quality.
 
 ## Summary of the Changes
 In the latest update, the `README.md` file has been modified to enhance clarity and improve formatting. Here are the key changes made:
@@ -19,23 +18,26 @@ In the latest update, the `README.md` file has been modified to enhance clarity 
 ### Code Snippet Changes
 ```diff
 - Original Closing Message
-- Happy Coding! 🎉
+- Happy Coding! 🚀
 + Updated Closing Message
-+ Happy Coding! 🎈
++ Happy Coding! 🎉
 ```
 
 ## Installation
-To get started with the DSA Questions repository, clone the repository to your local machine:
+To get started with the DSA Questions repository, follow these steps:
 
-```bash
-git clone https://github.com/Shivanilarokar/DSA-Questions-.git
-cd DSA-Questions-
-```
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Shivanilarokar/DSA-Questions-.git
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd DSA-Questions-
+   ```
 
-## Usage
-Once you have the repository set up, you can start exploring the DSA problems and solutions available. Feel free to contribute by submitting issues or pull requests!
+3. Install any required dependencies (if applicable).
 
----
+Once you have the repository set up, you can start exploring the DSA problems and solutions provided.
 
 This README.md provides a clear overview of the DSA Questions repository, highlights its features, and summarizes the recent changes made to the documentation. The installation instructions ensure users can easily get started with the repository.
 
