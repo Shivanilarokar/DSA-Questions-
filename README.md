@@ -1,5 +1,5 @@
 ```markdown
-# DSA Questions Repository 🚀
+# DSA Questions 🚀
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
 
@@ -16,8 +16,9 @@ The DSA Questions repository is a collection of data structures and algorithms p
 In the latest update, the README.md file has been enhanced to improve clarity and usability. Key changes include:
 - Added a rocket emoji to the repository title for a more engaging appearance.
 - Included a brief description of the `two_sum` function to clarify its purpose and usage.
+- Improved formatting and clarity of the overall content.
 
-### Code Changes
+## Code Changes
 ```python
 def two_sum(nums, target):
     result = two_sum(nums, target)
@@ -39,12 +40,18 @@ Here’s a quick example of how to use the `two_sum` function:
 ```python
 nums = [2, 7, 11, 15]
 target = 9
+
 result = two_sum(nums, target)
 print(result)  # Output: [0, 1] since nums[0] + nums[1] equals target
 ```
+This function takes a list of numbers and a target value, returning the indices of the two numbers that add up to the target.
 
 ## Contributing 🤝
 We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING.md) for more information on how to get involved.
 
-Thank you for checking out the DSA Questions repository! Happy coding! 🚀
+Feel free to explore the repository, contribute your own solutions, and improve the learning experience for everyone!
+
+---
+
+Thank you for checking out the DSA Questions repository! Happy coding! 🎉
 ```
