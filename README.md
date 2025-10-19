@@ -1,5 +1,5 @@
 ```markdown
-# DSA-Questions- 📖
+# DSA Questions 🚀
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
 
@@ -13,10 +13,7 @@ This repository serves as a comprehensive resource for anyone looking to improve
 
 ## Summary of the changes
 Recent updates to the `README.md` include:
-- Added an **Overview** section to provide a clearer introduction to the repository.
-- Improved clarity in the description of features.
-- Adjusted terminology from "DSA questions" to "coding challenges" for better understanding.
-- Changed the section title from "Contributing" to "Contribution" for consistency.
+- Enhanced structure with clear headings for better readability.
 - Updated the **Installation** section emoji for improved clarity.
 - Added a friendly closing statement to encourage user engagement.
 
