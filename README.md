@@ -10,8 +10,8 @@ This repository serves as a valuable resource for anyone looking to improve thei
 
 ## Features
 - Comprehensive DSA questions
-- Structured solutions for better understanding
 - Engaging and clear explanations for each question
+- Structured solutions for better understanding
 - Community contributions encouraged! 🎉
 
 ## Summary of the Changes
@@ -42,7 +42,10 @@ Explore the various DSA questions and solutions provided in this repository. Her
 ```python
 def example_function(data):
     # Function implementation goes here
+    pass
 ```
 
 Feel free to explore, contribute, and enhance your DSA skills with our curated collection!
+
+Happy coding! 🎈
 ```
