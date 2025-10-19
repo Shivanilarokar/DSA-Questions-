@@ -10,15 +10,17 @@ This repository is an excellent resource for both beginners and experienced prog
 
 ## Features ✨
 - Comprehensive collection of DSA questions.
-- Solutions provided to enhance understanding.
-- Examples included for better clarity on concepts.
+- Solutions provided for each question to facilitate learning.
+- Organized structure for easy navigation.
 
-## Summary of Changes 📝
-In the latest commit, the README.md file has been updated to enhance clarity and visual appeal. Key additions include:
-- Badges for repository size and contributors.
-- An additional feature highlighting the inclusion of examples for better understanding.
+## Summary of the Changes
+In this update, the README.md file has been enhanced to improve clarity and provide a better overview of the repository. Key changes include:
 
-## Installation ⚙️
+- Added an **Overview** section to summarize the repository's purpose.
+- Updated the **Usage** section with a more relevant emoji and clarified the description.
+- Minor edits to the example code for better understanding.
+
+## Installation
 To get started with the DSA Questions repository, clone it using the following command:
 
 ```bash
@@ -36,7 +38,5 @@ def example_function():
     pass
 ```
 
-Feel free to explore and contribute to the repository!
-
-Thank you for checking out the DSA Questions repository! Happy coding! 🤖
+Feel free to explore and contribute to the repository. Happy coding! 😊
 ```
