@@ -1,9 +1,9 @@
 ```markdown
 # DSA Questions Repository
 
-Welcome to the **DSA Questions** repository! This repository contains a collection of Data Structures and Algorithms (DSA) problems designed to help you enhance your coding skills.
-
 ![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
+
+Welcome to the **DSA Questions** repository! This repository contains a collection of Data Structures and Algorithms (DSA) problems designed to help you enhance your coding skills.
 
 ## Features
 - 📚 A comprehensive collection of DSA problems.
@@ -12,10 +12,8 @@ Welcome to the **DSA Questions** repository! This repository contains a collecti
 
 ## Summary of the Changes
 In this update, the README file has been modified to improve clarity and usability. Key changes include:
-- Added a dedicated **Features** section to highlight the repository's offerings.
-- Streamlined the usage instructions for better clarity.
-- Removed unnecessary code examples for a cleaner presentation.
-- Enhanced the overall readability and structure of the document.
+- Added a new section highlighting the features of the repository.
+- Included a command to navigate into the cloned repository directory.
 
 ## Installation
 To get started with this repository, clone it using the following command:
@@ -26,23 +24,16 @@ cd DSA-Questions-
 ```
 
 ## Usage
-Once the repository is cloned, you can explore the various DSA problems and their respective solutions. Contributions to enhance the repository are highly encouraged!
+Explore the various DSA problems and solutions provided in this repository to enhance your coding skills.
 
 ## Example
-Here’s a simple example to illustrate how you can use the repository:
+Here is a simple example of how you might use one of the problem solutions:
 
 ```python
-# Example of a DSA problem solution
-def fibonacci(n):
-    if n <= 0:
-        return 0
-    elif n == 1:
-        return 1
-    else:
-        return fibonacci(n-1) + fibonacci(n-2)
-
-print(fibonacci(5))  # Output: 5
+def example_function():
+    # Your implementation here
+    pass
 ```
 
-Feel free to explore, contribute, and enhance your coding skills with this repository! Happy coding! 🚀
+Feel free to contribute by submitting pull requests or reporting issues. Happy coding! 🚀
 ```
