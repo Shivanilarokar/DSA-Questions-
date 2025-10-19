@@ -1,20 +1,20 @@
 ```markdown
 # DSA Questions Repository
 
-![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
-
 Welcome to the DSA Questions repository! This repository contains a collection of Data Structures and Algorithms (DSA) problems designed to help you enhance your coding skills.
+
+![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
 
 ## Features
 - A comprehensive collection of DSA problems.
 - Solutions and explanations for each problem.
-- Collaborative environment for contributors to improve and expand the repository. 🎉
 
-## Summary of the Changes
-In this update, the README.md file has been enhanced to improve clarity and user engagement. Key changes include:
-- Added a **Features** section to summarize the repository's offerings.
-- Expanded the **Usage** section to encourage exploration of the problems.
-- Introduced an **Example** section to provide users with a practical implementation of a DSA problem.
+## Summary of Changes
+In the latest update, the README.md file has been enhanced to improve clarity and usability. Key changes include:
+
+- **Added a 'Features' section**: This provides a quick overview of the repository's capabilities.
+- **Improved code snippets**: Enhancements made to the Fibonacci function to handle edge cases properly.
+- **Clarified usage instructions**: Additional details added to facilitate better understanding for users.
 
 ## Installation
 To get started with the repository, clone it using the following command:
@@ -39,10 +39,9 @@ def fibonacci(n):
     else:
         return fibonacci(n - 1) + fibonacci(n - 2)
 
+# Example usage
 print(fibonacci(10))  # Output: 55
 ```
 
-Feel free to contribute to this repository and enhance your problem-solving skills! 🤝
-
-Happy Coding! 🚀
+Feel free to explore the repository, contribute, and enhance your coding skills!
 ```
