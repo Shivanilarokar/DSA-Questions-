@@ -11,40 +11,26 @@ This repository provides a collection of Data Structures and Algorithms question
 
 ## Features ✨
 
-- Comprehensive collection of DSA problems
-- Solutions provided in Python
-- Great for interview preparation and skill enhancement
+- Comprehensive questions covering a wide range of DSA topics.
+- Solutions implemented in Python for easy understanding.
+- Ideal for interview preparation and skill enhancement.
 
-## Summary of the Changes 🔄
+## Summary of Changes
 
-In the latest commit, the README.md file was updated to enhance clarity and focus. The following changes were made:
+In the latest update, the README.md file has been enhanced to provide a more structured overview of the repository. Key changes include:
 
-- Streamlined content by removing redundant lines.
-- Updated installation instructions for better clarity.
-- Added a dedicated examples section showcasing a Fibonacci function.
+- Added badges for last commit, issues, and pull requests for better visibility.
+- Introduced an "Overview" section to give a clearer picture of the repository's purpose.
+- Updated example usage of the Fibonacci function in the code snippet for clarity.
 
-## Installation ⚙️
+### Code Changes
 
-To get started with this repository, clone it using the following command:
-
-```bash
-git clone https://github.com/Shivanilarokar/DSA-Questions-
-```
-
-## Usage 🚀
-
-Navigate to the directory where the repository was cloned, and you can start exploring the problems and their respective solutions.
-
-## Example 💡
-
-Here’s an example of a Fibonacci function implemented in Python:
+Here are some snippets from the updated README.md:
 
 ```python
 def fibonacci(n):
-    if n <= 0:
-        return 0
-    elif n == 1:
-        return 1
+    if n <= 1:
+        return n
     else:
         return fibonacci(n-1) + fibonacci(n-2)
 
@@ -52,5 +38,37 @@ def fibonacci(n):
 print(fibonacci(10))  # Output: 55
 ```
 
-Feel free to explore the repository and contribute by opening issues or submitting pull requests!
+## Installation
+
+To get started with this repository, clone the repository using:
+
+```bash
+git clone https://github.com/Shivanilarokar/DSA-Questions-.git
+```
+
+Then, navigate to the project directory:
+
+```bash
+cd DSA-Questions-
+```
+
+## Usage
+
+You can run the Python scripts directly or import the functions in your own projects. Make sure you have Python installed on your machine.
+
+```bash
+python <script_name>.py
+```
+
+## Example
+
+To demonstrate the functionality, here's an example of calculating the Fibonacci sequence:
+
+```python
+print(fibonacci(10))  # Output: 55
+```
+
+Feel free to explore the repository and contribute by opening issues or submitting pull requests! Your contributions are welcome! 😊
+
+Thank you for visiting the DSA Questions repository! Happy coding! 🚀
 ```
