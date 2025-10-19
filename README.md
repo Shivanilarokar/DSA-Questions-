@@ -28,19 +28,25 @@ In the latest update, the README.md file has been modified to enhance clarity an
 - **Section Renaming**:
   - Updated the emoji in the Overview section from 🤩 to 🤖.
   - Changed the emoji in the Features section from 🤩 to 🌟.
-  - Updated the emoji in the Summary of Changes section from 🌀 to ⚡.
+  - Updated the emoji in the Summary of Changes section from 🌠 to ⚡.
 
 ### Code Changes
 
 ```diff
----# DSA Questions 🤩
-++# DSA Questions 🤖
----## Overview 🤩
+--## Overview 🤩
 ++## Overview 🤖
----## Features 🤩
+--## Features 🤩
 ++## Features 🌟
----## Summary of the Changes 🌀
+--## Summary of the Changes 🌠
 ++## Summary of the Changes ⚡
+---# DSA Questions 🤩
++++# DSA Questions 🤖
+---## Overview 🤩
++++## Overview 🤖
+---## Features 🤩
++++## Features 🌟
+---## Summary of the Changes 🌠
++++## Summary of the Changes ⚡
 ```
 
 ## Installation 💻
