@@ -4,7 +4,7 @@
 ![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ## Overview
-This repository serves as a collaborative platform for Data Structures and Algorithms (DSA) enthusiasts. It contains various DSA problems along with their solutions, aimed at helping developers improve their coding skills.
+This repository serves as a collaborative platform for Data Structures and Algorithms (DSA) enthusiasts. It contains various DSA problems along with their solutions aimed at helping developers improve their coding skills.
 
 ## Features 🌟
 - Comprehensive collection of DSA problems.
@@ -12,9 +12,10 @@ This repository serves as a collaborative platform for Data Structures and Algor
 - Community contributions are encouraged.
 - Regular updates for improved clarity and readability.
 
-## Summary of the Changes
+## Summary of the Changes 🔄
 In this update, the `README.md` file has been enhanced for better readability and clarity. The following changes were made:
 
+### Key Changes:
 - Added an **Overview** section to provide context about the repository.
 - Improved formatting and clarity in the README.
 - Enhanced the example of the Fibonacci function implementation.
@@ -29,7 +30,7 @@ def fibonacci(n):
     return fib_sequence
 ```
 
-## Installation
+## Installation 💻
 To get started with this repository, clone it using the following command:
 ```bash
 git clone https://github.com/Shivanilarokar/DSA-Questions-
@@ -39,7 +40,7 @@ Then navigate to the project directory:
 cd DSA-Questions-
 ```
 
-## Usage
+## Usage 🚀
 You can explore various DSA problems and their solutions. To use the Fibonacci function, simply call it with the desired number of terms:
 ```python
 print(fibonacci(10))  # Output: [0, 1, 1, 2, 3, 5, 8, 13, 21, 34]
@@ -54,5 +55,5 @@ if __name__ == "__main__":
     print(fibonacci(n_terms))
 ```
 
-Feel free to contribute by submitting issues or pull requests. Happy coding! 🚀
+Feel free to contribute by submitting issues or pull requests. Happy coding! 🎉
 ```
