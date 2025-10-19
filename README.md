@@ -12,16 +12,11 @@ This repository contains a collection of Data Structures and Algorithms (DSA) qu
 - User-friendly code examples.
 - Regular updates to include new questions and solutions.
 
-## Summary of the Changes
+## Summary of the Changes ⚡
 In the latest commit, the README file was updated to reflect a more descriptive title. The change involved modifying the header from "DSA Questions" to "DSA Questions Repository," enhancing clarity for users browsing the repository.
 
 ### Changes Made:
 - Updated the repository title in the README.
-
-```diff
--# DSA Questions 📚
-+# DSA Questions Repository
-```
 
 ## Installation
 To use the code and solutions from this repository, simply clone it to your local machine:
