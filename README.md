@@ -1,8 +1,9 @@
 ```markdown
-# DSA Questions Repository 🤖
+# DSA Questions Repository
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
+## Overview
 Welcome to the DSA Questions Repository! This repository serves as a collaborative platform for Data Structures and Algorithms (DSA) problems and solutions. Whether you're a beginner or an experienced developer, you can find a variety of DSA problems to solve and contribute to.
 
 ## Features
@@ -15,8 +16,7 @@ Welcome to the DSA Questions Repository! This repository serves as a collaborati
 In this update, the `README.md` file has been enhanced for better readability and clarity. The following changes were made:
 
 ### Key Changes:
-- Added an **Overview** section to provide context about the repository.
-- Improved formatting and clarity in the README.
+- Improved the overall description for better engagement.
 - Enhanced the example of the Fibonacci function implementation.
 
 ### Code Snippet Example
@@ -36,7 +36,6 @@ To get started with this repository, clone it to your local machine:
 
 ```bash
 git clone https://github.com/Shivanilarokar/DSA-Questions-
-cd DSA-Questions-
 ```
 
 ## Usage
