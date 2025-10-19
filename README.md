@@ -12,8 +12,9 @@ This repository contains a diverse set of Data Structures and Algorithms (DSA) q
 - A diverse set of DSA questions and solutions.
 - Engaging and clear explanations for each question.
 - Enhances coding skills and knowledge for technical interviews.
+- Community-driven contributions are encouraged.
 
-## Summary of the Changes
+## Summary of the Changes ✍️
 In the recent update, the `README.md` file has been modified to enhance clarity and engagement:
 - Improved wording for a clearer understanding of the repository's purpose.
 - Added a sample question to demonstrate usage.
@@ -27,28 +28,30 @@ To get started with the DSA Questions repository, clone the repository using the
 git clone https://github.com/Shivanilarokar/DSA-Questions-
 ```
 
-## Usage 📖
-This repository contains various Data Structures and Algorithms (DSA) questions. Here’s a simple example of a function provided in this repository:
+## Usage
+Please refer to the individual question files for detailed instructions on how to solve each question.
 
+## Example
+Here’s an example of a problem you might find in this repository:
+
+**Problem**: Given an array of integers, find the two numbers that add up to a specific target.
+
+**Solution**:
 ```python
-def reverse_string(s):
-    return s[::-1]
+def two_sum(nums, target):
+    num_map = {}
+    for i, num in enumerate(nums):
+        complement = target - num
+        if complement in num_map:
+            return [num_map[complement], i]
+        num_map[num] = i
 ```
 
-### Example Usage
-```python
-print(reverse_string("Hello, World!"))  # Output: !dlroW ,olleH
-```
+## Contributing
+We welcome contributions from the community! Feel free to fork the repository and submit a pull request.
 
-Feel free to explore the repository and contribute by adding your own questions and solutions!
+## License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-## Contributing 🤝
-We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING.md) for more information on how to get involved.
-
-## License 📜
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Thank you for checking out the DSA Questions repository! Happy coding! 🚀
+Happy Coding! 🎉
 ```
