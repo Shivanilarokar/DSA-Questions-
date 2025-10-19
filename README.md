@@ -16,13 +16,7 @@ In the latest update, the `README.md` file has been auto-updated to enhance clar
 - **Enhanced Features**: The features section has been updated for improved clarity.
 - **Updated Usage Instructions**: Simplified usage instructions for better understanding.
 
-### Code Snippet of Changes
-```diff
-- The DSA Questions repository is designed to provide a collection of Data Structures and Algorithms (DSA) questions to help you enhance your coding skills and prepare for technical interviews.
-+ The DSA Questions repository is a comprehensive resource designed to provide a collection of Data Structures and Algorithms (DSA) questions to help you enhance your coding skills and prepare for technical interviews.
-```
-
-## Installation 💻
+## Installation
 To get started with the DSA Questions repository, clone the repository to your local machine:
 
 ```bash
@@ -39,6 +33,8 @@ def example_function():
 ```
 
 Feel free to explore the categorized questions, select a question to view its details and solution, and review the provided solutions and code snippets for a better understanding.
+
+----
 
 For more information, please check the repository [here](https://github.com/Shivanilarokar/DSA-Questions-).
 ```
