@@ -1,29 +1,26 @@
 ```markdown
-# DSA Questions Repository 🚀
+# DSA Questions Repository
 
-![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
+![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-?style=social) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-?style=social)
 
-Welcome to the **DSA Questions** repository! This repository is dedicated to providing developers with a wide range of data structures and algorithms questions and their solutions. Whether you are preparing for interviews or enhancing your coding skills, this repository serves as a valuable resource.
-
-## Overview
 The DSA Questions repository is designed to support developers in mastering data structures and algorithms through a comprehensive collection of questions and solutions.
 
 ## Features
 - 📚 Comprehensive collection of DSA questions.
-- 📝 Detailed solutions for each question.
+- ✍️ Detailed solutions for each question.
 - 🔄 Regular updates with new questions and solutions.
 
 ## Summary of the Changes ✍️
 In the latest update, the `README.md` file has been modified to improve clarity and provide a more streamlined structure. The following changes were made:
-- Updated the **Overview** section for better clarity.
-- Enhanced the **Features** list for consistency and clarity.
-- Improved the **Usage** section with a clearer example code snippet.
-- Removed outdated sections to enhance focus on current content.
+- Enhanced the features list to provide a clearer distinction between questions and their solutions.
+- Updated the wording for regular updates feature.
+- Introduced a new usage section with an example code snippet.
 
-### Key Changes
-```diff
-- 📖 Comprehensive collection of DSA questions.
-+ 📚 Comprehensive collection of DSA questions.
+### Modified Features List:
+```markdown
+- 📚 Comprehensive collection of DSA questions.
+- ✍️ Detailed solutions for each question.
+- 🔄 Regular updates with new questions and solutions.
 ```
 
 ## Installation 🚀
@@ -44,5 +41,7 @@ def example_solution():
     pass
 ```
 
-Feel free to explore the questions and contribute to the repository!
+Feel free to explore the questions and contribute to the repository! 
+
+Thank you for visiting the DSA Questions repository! Happy coding! 🎉
 ```
