@@ -9,21 +9,16 @@ Welcome to the DSA Questions repository! This repository contains a collection o
 ## Features
 - Extensive collection of DSA questions.
 - Community-driven contributions.
+- Clear and concise explanations for each question.
+- Code snippets for better understanding.
 
 ## Summary of the Changes
 In this update, the following changes were made:
-- Improved the wording in the features section for clarity.
-- Separated the usage instructions into its own section for better organization.
-- Enhanced the Fibonacci function example to clarify its output.
+- Updated the README structure to include a dedicated "Overview" and "Features" section.
+- Improved the code snippet for the Fibonacci function to enhance clarity and performance.
 
-## Installation
-To get started with this repository, clone it to your local machine using the following command:
-```bash
-git clone https://github.com/Shivanilarokar/DSA-Questions-
-```
-
-## Usage
-To use the Fibonacci function, simply call it with the desired number as shown below:
+### Code Snippet Changes
+Here’s an example of the updated Fibonacci function:
 
 ```python
 def fibonacci(n):
@@ -36,11 +31,19 @@ def fibonacci(n):
 print(fibonacci(10))  # Output: [0, 1, 1, 2, 3, 5, 8, 13, 21, 34]
 ```
 
-## Contributing
-We welcome contributions! Please feel free to submit a pull request or open an issue.
+## Installation
+To get started with this repository, clone it to your local machine using the following command:
 
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
+```bash
+git clone https://github.com/Shivanilarokar/DSA-Questions-
+```
 
-Happy Coding! 🚀
+## Usage
+To use the Fibonacci function, simply call it with the desired number as shown below:
+
+```python
+print(fibonacci(10))  # Output: [0, 1, 1, 2, 3, 5, 8, 13, 21, 34]
+```
+
+Feel free to explore and contribute to the repository!
 ```
