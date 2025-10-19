@@ -10,12 +10,15 @@ This repository is designed to help developers enhance their problem-solving ski
 In the latest commit, the `README.md` file has been updated to enhance clarity and provide better insights into the repository's purpose and features. The following changes were made:
 
 - Improved the introduction for better readability.
+- Updated badge styles for a more modern look.
+- Removed unnecessary navigation instructions to simplify the usage section.
 - Added a contribution section to encourage community involvement.
 
 ### Specific Changes Made:
 ```diff
-- This repository contains a comprehensive collection of Data Structures and Algorithms (DSA) questions along with solutions and explanations to facilitate learning and practice for developers at all levels.
+- # DSA Questions Repository
 + This repository is designed to help developers enhance their problem-solving skills through a wide array of Data Structures and Algorithms (DSA) questions.
+- This repository contains a comprehensive collection of Data Structures and Algorithms (DSA) questions along with solutions and explanations to facilitate learning and practice for developers at all levels.
 ```
 
 ## Features
