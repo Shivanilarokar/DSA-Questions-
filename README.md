@@ -6,71 +6,50 @@
 [![Issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)](https://github.com/Shivanilarokar/DSA-Questions-/issues)
 
 ## Overview
-
-This repository contains a collection of Data Structures and Algorithms (DSA) questions along with their solutions. It serves as a resource for both beginners and experienced developers looking to enhance their coding skills.
+The **DSA Questions** repository provides a collection of data structures and algorithms problems, aimed at helping developers enhance their coding skills and prepare for technical interviews.
 
 ## Features
-
-- A wide range of DSA questions.
-- Well-documented solutions.
-- Sample implementations in Python.
-- Community contributions are encouraged!
+- A wide range of DSA questions categorized by difficulty.
+- Code solutions in various programming languages.
+- Easy to navigate structure for quick access to problems and solutions.
 
 ## Summary of the Changes
+In the latest commit, the README.md file was updated to enhance the visual appeal and improve the presentation of the repository. The following changes were made:
+- Updated the main header emoji from 📖 to 📚 to better represent the content.
+- Added a badge for tracking the number of stars on the repository.
 
-In the latest commit, the `README.md` file has been updated to improve clarity and readability. Key changes include:
+### Code Changes
+Here are the specific changes made in the README.md:
 
-- Enhanced the overview for better understanding.
-- Updated the visual theme from 📖 to 📚.
-- Enhanced the usage examples for better understanding.
-- Provided a complete implementation for the `two_sum` function.
+```markdown
+-# DSA Questions 🤖
++# DSA Questions 📚
 
-### Code Snippet Example
-
-Here’s an updated example of how to use the `two_sum` function:
-
-```python
-def two_sum(nums, target):
-    num_map = {}
-    for i, num in enumerate(nums):
-        complement = target - num
-        if complement in num_map:
-            return [num_map[complement], i]
-        num_map[num] = i
-    return []
-
-result = two_sum([2, 7, 11, 15], 9)
-print(result)  # Output: [0, 1]
++[![Stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-?style=social)](https://github.com/Shivanilarokar/DSA-Questions-/stargazers) 
+[![Forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-?style=social)](https://github.com/Shivanilarokar/DSA-Questions-/fork)
+-[![Stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-?style=social)](https://github.com/Shivanilarokar/DSA-Questions-/stargazers)
 ```
 
 ## Installation
-
-To get started with this repository, clone it to your local machine:
+To clone the repository, use the following command:
 
 ```bash
 git clone https://github.com/Shivanilarokar/DSA-Questions-.git
 ```
 
 ## Usage
+After cloning the repository, navigate to the directory and explore the various DSA questions and solutions provided.
 
-1. Navigate to the cloned directory:
-   ```bash
-   cd DSA-Questions-
-   ```
+```bash
+cd DSA-Questions-
+```
 
-2. Open the Python files and explore the implementations of various DSA questions and their solutions.
+## Example
+You can find examples of DSA problems and their solutions within the repository. Each problem is documented with a clear explanation and sample code.
 
-3. Feel free to contribute by adding your own questions and solutions!
-
-## Contributing
-
-Contributions are welcome! Please read the [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+Feel free to contribute by submitting your own solutions or improving existing ones!
 
 ---
 
-Happy Coding! 🚀
+For more information, check out the [GitHub Repository](https://github.com/Shivanilarokar/DSA-Questions-).
 ```
