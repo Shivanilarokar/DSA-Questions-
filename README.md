@@ -6,41 +6,46 @@
 Welcome to the DSA Questions repository! Here, you will find a collection of Data Structures and Algorithms questions along with their solutions. This repository aims to help you improve your coding skills and prepare for technical interviews.
 
 ## Features ✨
-- Comprehensive list of DSA questions
-- Solutions provided in Python
-- Easy to navigate structure
-- Contribution-friendly
+- Comprehensive collection of DSA problems and solutions.
+- Clear explanations and code snippets for better understanding.
+- Easily clone and contribute to the repository.
 
-## Summary of Changes 📝
+## Summary of the Changes
 In the recent update, the following modifications were made to the `README.md` file:
-- Updated the Git clone command to include the `.git` suffix.
-- Minor formatting changes to enhance readability.
+- Added badges to display repository size, last commit date, and open issues.
+- Updated the clone command to include `.git` extension for clarity.
 
-### Code Snippet of Changes
 ```diff
 -   git clone https://github.com/Shivanilarokar/DSA-Questions-
 +   git clone https://github.com/Shivanilarokar/DSA-Questions-.git
+-# DSA Questions 📖
++# DSA Questions 📚
 ```
 
 ## Installation ⚙️
-To get started with the project, clone the repository using the following command:
+To get started, clone the repository using the following command:
+
 ```bash
 git clone https://github.com/Shivanilarokar/DSA-Questions-.git
 ```
 
-## Usage 🚀
-Navigate through the questions and their corresponding solutions. Feel free to explore the code and run it locally to practice.
+## Usage
+Once you have cloned the repository, navigate to the directory and start exploring the various DSA questions and their solutions.
 
-### Example
-Here’s an example function you might find in this repository:
+## Example
+Here is a simple example of a DSA question and its solution:
+
 ```python
-def example_function():
-    print("This is an example function in the DSA Questions repository.")
+def fibonacci(n):
+    if n <= 0:
+        return 0
+    elif n == 1:
+        return 1
+    else:
+        return fibonacci(n-1) + fibonacci(n-2)
+
+print(fibonacci(5))  # Output: 5
 ```
 
-Feel free to contribute to this project by adding more questions or improving existing solutions!
-
----
-
-Thank you for visiting the DSA Questions repository. Happy coding! 🚀
+Feel free to explore, contribute, and improve your coding skills with us! Happy coding! 🚀
 ```
