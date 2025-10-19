@@ -3,7 +3,8 @@
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
 
-This repository serves as a comprehensive resource for anyone looking to improve their data structures and algorithms skills through coding challenges. 
+## Overview 🌟
+This repository serves as a comprehensive resource for anyone looking to improve their data structures and algorithms skills through coding challenges. Each challenge is accompanied by detailed solutions and explanations.
 
 ## Features
 - A collection of diverse coding challenges to enhance problem-solving skills.
@@ -17,7 +18,7 @@ Recent updates to the `README.md` include:
 - Changed the section title from "Contributing" to "Contribution" for consistency.
 - Added a friendly closing statement to encourage user engagement.
 
-## Installation 🔧
+## Installation 🛠️
 To get started, clone the repository using the command below:
 
 ```bash
