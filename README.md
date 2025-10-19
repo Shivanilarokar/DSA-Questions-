@@ -1,12 +1,11 @@
 ```markdown
-# DSA Questions Repository
+# DSA Questions Repository 📚
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/Shivanilarokar/DSA-Questions-) ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
-## Overview
-Welcome to the DSA Questions repository! This repository contains various Data Structures and Algorithms (DSA) questions along with their solutions. It's a great resource for learning and practicing DSA concepts.
+Welcome to the DSA Questions repository! This repository contains various Data Structures and Algorithms (DSA) questions along with their comprehensive solutions.
 
-## Features
+## Features ✨
 - A collection of DSA questions.
 - Comprehensive solutions provided for each problem.
 - Easy to navigate and use.
@@ -32,15 +31,16 @@ Then navigate into the directory:
 cd DSA-Questions-
 ```
 
-## Usage 📚
+## Usage 📖
 This repository contains various DSA questions along with their solutions. You can explore the problems and enhance your DSA skills!
 
 Here's a simple example of how to use the solutions provided in this repository:
 
 ```python
+# Example code snippet
 def example_function():
     print("Hello, DSA World!")
 ```
 
-Feel free to dive in and start solving! 🚀
+Feel free to explore the repository and contribute to its growth! Happy coding! 🚀
 ```
