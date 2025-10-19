@@ -1,7 +1,9 @@
 ```markdown
-# DSA Questions 🌟
+# DSA Questions 📚
 
 [![Stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-?style=social)](https://github.com/Shivanilarokar/DSA-Questions-/stargazers) [![Forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-?style=social)](https://github.com/Shivanilarokar/DSA-Questions-/fork)
+
+## Overview
 
 This repository contains a collection of Data Structures and Algorithms (DSA) questions aimed at helping you enhance your coding skills and understanding of DSA concepts.
 
@@ -14,11 +16,10 @@ This repository contains a collection of Data Structures and Algorithms (DSA) qu
 ## Summary of the Changes
 
 Recent updates to the `README.md` include:
-
 - 🤖 Enhanced the **Overview** section for better context regarding the repository.
 - ✍️ Included a more detailed **Example** section to illustrate the usage of the `two_sum` function.
 - 🎉 Changed the title emoji for a more celebratory tone.
-- 📊 Added social media badges for stars and forks.
+- 📜 Added social media badges for stars and forks.
 - 📝 Enhanced formatting and organization for better readability.
 
 ## Installation
@@ -30,17 +31,6 @@ git clone https://github.com/Shivanilarokar/DSA-Questions-.git
 ```
 
 ## Usage
-
-To use the functions provided in this repository, follow these steps:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Shivanilarokar/DSA-Questions-.git
-   ```
-2. Open the desired Python file.
-3. Call the functions with the appropriate parameters.
-
-### Example
 
 Here's an example of how to use the `two_sum` function:
 
