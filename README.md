@@ -10,6 +10,8 @@ This repository focuses on providing a comprehensive collection of Data Structur
 ## Features ✨
 - Extensive collection of DSA problems
 - Organized by topics for easy navigation
+- Clear installation and usage instructions
+- Contribution guide for collaborative enhancement
 
 ## Summary of the Changes 📝
 In the latest update:
@@ -37,12 +39,17 @@ Here’s a simple example of how to use one of the functions:
 
 ```python
 def fibonacci(n):
-    a, b = 0, 1
-    result = []
-    for _ in range(n):
-        result.append(a)
-        a, b = b, a + b
-    return result
+    if n <= 0:
+        return []
+    elif n == 1:
+        return [0]
+    elif n == 2:
+        return [0, 1]
+    else:
+        fib = [0, 1]
+        for i in range(2, n):
+            fib.append(fib[i-1] + fib[i-2])
+        return fib
 
 print(fibonacci(10))  # Output: [0, 1, 1, 2, 3, 5, 8, 13, 21, 34]
 ```
