@@ -31,26 +31,17 @@ To get started, clone the repository using the following command:
 git clone https://github.com/Shivanilarokar/DSA-Questions-.git
 ```
 
-Explore the various directories to find questions and their corresponding solutions.
-
 ## Usage
-Once cloned, navigate through the folders to access different problems. Each problem typically includes a description, constraints, and a solution. You can modify the `example_function` or create your own solutions based on the questions provided.
-
-## Example
-Here’s a simple function example to get you started:
+Explore the repository to find various DSA questions and their solutions. Feel free to test the examples provided and modify them as per your learning needs.
 
 ```python
-# Example solution for a sample DSA question
 def example_function(data):
-    # Your implementation
-    return processed_data
+    # Example implementation
+    pass
 ```
 
 Feel free to explore, contribute, and improve upon the existing solutions!
 
+## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Happy Coding! 😃
 ```
