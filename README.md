@@ -19,26 +19,24 @@ In the recent update, the following modifications were made to the `README.md` f
 
 ### Key Changes:
 ```diff
-+ Added badges to display repository size, last commit date, and open issues.
-+ Updated the clone command to include the `.git` extension for clarity.
-+ Minor formatting changes to enhance readability.
+-   git clone https://github.com/Shivanilarokar/DSA-Questions-
++   git clone https://github.com/Shivanilarokar/DSA-Questions-.git
+++ Added badges to display repository size, last commit date, and open issues.
+++ Updated the clone command to include the `.git` extension for clarity.
+++ Minor formatting changes to enhance readability.
 ```
 
 ## Installation ⚙️
-To get started with the repository, clone it using the following command:
+To clone the repository, run the following command:
 ```bash
 git clone https://github.com/Shivanilarokar/DSA-Questions-.git
 ```
 
-## Usage 🚀
-Once cloned, navigate to the directory and explore the questions and solutions provided. You can also contribute by adding new questions or enhancing existing solutions.
+## Usage
+Explore the repository to find various DSA questions and their solutions, which you can use for practice or reference.
 
-## Example 💡
-Here's a simple example of how to use one of the solutions in this repository:
-```python
-def example_function():
-    print("This is an example function from the DSA Questions repository.")
-```
+## Example
+For a simple example, you can check out the provided solutions in the repository.
 
 Feel free to explore and contribute! Happy coding! 🎉
 ```
