@@ -1,5 +1,5 @@
 ```markdown
-# DSA Questions 📚
+# DSA Questions 📖
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
 
@@ -8,7 +8,7 @@ The **DSA Questions** repository provides a collection of data structures and al
 
 ## Summary of the Changes
 In the latest commit, the README.md file was updated to enhance the visual appeal and improve the presentation of the repository. The following changes were made:
-- Updated the main header emoji from 📖 to 📘 to better represent the content.
+- Updated the main header emoji from 📖 to 📚 to better represent the content.
 - Streamlined the presentation of the Installation and Usage sections.
 
 ## Installation
@@ -26,6 +26,8 @@ cd DSA-Questions-
 ```
 
 You can find examples of DSA problems and their solutions within the repository. Feel free to contribute by submitting your own solutions or improving existing ones!
+
+----
 
 ## Happy Coding! 🚀
 
