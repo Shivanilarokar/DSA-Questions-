@@ -1,6 +1,7 @@
 ```markdown
 # DSA Questions Repository 🤖
 
+[![GitHub stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-?style=social)](https://github.com/Shivanilarokar/DSA-Questions-) 
 [![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-?style=social)](https://github.com/Shivanilarokar/DSA-Questions-)
 
 ## Overview
@@ -14,24 +15,10 @@ The DSA Questions repository is designed to help developers enhance their proble
 
 ## Summary of the Changes
 In the latest commit, the `README.md` file has been updated to enhance clarity and improve the overall presentation of the repository. Below are the specific changes made:
-
-- Updated the title for consistency.
-- Improved the clarity of the overview section.
-- Enhanced the features section for better readability.
-- Adjusted the usage section's formatting.
-- Clarified the installation instructions.
-- Updated the license section to refer to `LICENSE.md`.
-
-### Changes in Usage Section:
-```diff
--## Usage 📖
-+## Usage 📖
-+Explore the questions, attempt the problems, and refer to the solutions and explanations provided.
-```
-
-- Improved clarity in installation instructions.
-- Updated example code for better demonstration.
-- Minor formatting adjustments for a more aesthetic presentation.
+- Updated the title for better clarity.
+- Improved formatting for a more aesthetic presentation.
+- Enhanced the installation instructions for clarity.
+- Minor adjustments to the example section for better demonstration.
 
 ## Installation
 To get started with the DSA Questions repository, clone the repository to your local machine:
@@ -48,14 +35,10 @@ Explore the questions, attempt the problems, and refer to the solutions and expl
 Here’s a sample function from the repository:
 
 ```python
+# Sample code demonstrating usage
 def sample_function():
     return "This is a sample function!"
 ```
 
-## License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
----
-
-Thank you for visiting the DSA Questions repository! Happy coding! 🎉
+Feel free to dive into the repository and start solving some interesting problems!
 ```
