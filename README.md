@@ -25,15 +25,16 @@ In the latest update, the README.md file has been auto-updated to enhance clarit
 ## Installation
 To set up the project locally, clone the repository using:
 ```bash
-git clone https://github.com/Shivanilarokar/DSA-Questions-
+git clone https://github.com/Shivanilarokar/DSA-Questions-.git
 ```
-Once cloned, you can navigate through the coding challenges and start solving them!
 
 ## Usage
-Explore the coding challenges available in the repository and choose one that interests you. Each challenge comes with a detailed description and any necessary constraints to consider. Feel free to contribute by adding your own solutions or challenges!
+Explore the coding challenges available in the repository and choose one that interests you. Each challenge has a detailed description to guide you through the problem-solving process.
 
 ## Example
 Here’s a simple example of how to approach a coding challenge:
+
+### Example: Solving a coding challenge
 ```python
 def example_function():
     # Your code here
