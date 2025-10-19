@@ -30,7 +30,6 @@ git clone https://github.com/Shivanilarokar/DSA-Questions-
 
 ## Usage
 To use the solutions provided in this repository, follow these simple steps:
-
 1. Clone the repository.
 2. Import the function in your project.
 3. Call the function with the required parameters.
@@ -39,12 +38,12 @@ To use the solutions provided in this repository, follow these simple steps:
 Here is a code snippet demonstrating how to use a solution from this repository:
 
 ```python
-# Example function usage
-from solution_file import solution_function
+# Example usage of a solution
+from dsa_solutions import example_function
 
-result = solution_function(parameters)
+result = example_function(parameters)
 print(result)
 ```
 
-Feel free to explore the repository and contribute to the growing collection of DSA questions and solutions! 🌟
+Feel free to explore, contribute, and enhance your coding skills with our DSA questions!
 ```
