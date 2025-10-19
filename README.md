@@ -1,13 +1,14 @@
 ```markdown
 # DSA Questions Repository
 
-![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
-
 Welcome to the **DSA Questions** repository! This repository contains a collection of Data Structures and Algorithms (DSA) problems designed to help you enhance your coding skills.
+
+![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
 
 ## Features
 - 📚 A comprehensive collection of DSA problems.
 - ⚡ Detailed solutions and explanations for each problem.
+- 📝 Code snippets to demonstrate examples of DSA problem solutions.
 
 ## Summary of Changes
 In this update, the `README.md` file has been modified to improve clarity and structure. Key changes include:
@@ -23,14 +24,19 @@ git clone https://github.com/Shivanilarokar/DSA-Questions-
 ```
 
 ## Usage
+After cloning the repository, navigate to the directory and explore the various DSA problems available. Each problem comes with a detailed explanation and solution.
+
+## Example
 Here’s an example function that sorts a list:
 
 ```python
 def example_function(data):
+    # Example implementation
     return sorted(data)
 
 # Usage
-print(example_function([3, 1, 2]))  # Output: [1, 2, 3]
+sorted_list = example_function([3, 1, 2])
+print(sorted_list)  # Output: [1, 2, 3]
 ```
 
 Feel free to explore, contribute, and enhance your DSA skills!
