@@ -4,7 +4,7 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/Shivanilarokar/DSA-Questions-) 
 ![GitHub contributors](https://img.shields.io/github/contributors/Shivanilarokar/DSA-Questions-) 
 ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-) 
-![GitHub license](https://img.shields.io/github/license/Shivanilarokar/DSA-Questions-) 
+![GitHub license](https://img.shields.io/github/license/Shivanilarokar/DSA-Questions-)
 
 ## Overview
 The DSA Questions repository is a comprehensive resource designed to provide a collection of Data Structures and Algorithms (DSA) questions to help you enhance your coding skills and prepare for technical interviews. This repository is perfect for both beginners and experienced programmers looking to improve their understanding of DSA concepts.
@@ -22,7 +22,7 @@ In the latest update, the `README.md` file has been auto-updated to enhance clar
 
 ### Code Snippet of Changes
 ```diff
--- The DSA Questions repository is designed to provide a collection of Data Structures and Algorithms (DSA) questions to help you enhance your coding skills and prepare for technical interviews.
+-- The DSA Questions repository is a comprehensive resource designed to provide a collection of Data Structures and Algorithms (DSA) questions to help you enhance your coding skills and prepare for technical interviews.
 ++ The DSA Questions repository is a comprehensive resource designed to provide a collection of Data Structures and Algorithms (DSA) questions to help you enhance your coding skills and prepare for technical interviews.
 ```
 
@@ -32,7 +32,6 @@ To get started with the DSA Questions repository, clone the repository and navig
 ```bash
 git clone https://github.com/Shivanilarokar/DSA-Questions-
 cd DSA-Questions-
-# Install dependencies if necessary
 ```
 Make sure to install any required dependencies.
 
@@ -43,6 +42,7 @@ Feel free to explore, contribute, and enhance your DSA skills with this reposito
 Here’s a simple function to demonstrate usage:
 
 ```python
+# Example usage of a DSA question
 def example_function():
     # Implement your solution here
     pass
