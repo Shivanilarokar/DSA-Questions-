@@ -1,9 +1,12 @@
 ```markdown
 # DSA Questions Repository 🤖
 
+![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![GitHub stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![License](https://img.shields.io/badge/license-MIT-blue)
+
 Welcome to the DSA Questions repository! This repository is dedicated to helping developers enhance their understanding of Data Structures and Algorithms (DSA) through a comprehensive collection of questions and solutions.
 
-![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![GitHub stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![License](https://img.shields.io/badge/license-MIT-blue)
+## Overview
+This repository aims to assist developers and learners in improving their skills in Data Structures and Algorithms (DSA) through a curated list of questions.
 
 ## Features ✨
 - Comprehensive collection of DSA questions categorized by topic.
@@ -15,12 +18,9 @@ Welcome to the DSA Questions repository! This repository is dedicated to helping
 In the latest update, the README file has been enhanced to provide clearer information regarding installation and usage. Key changes include:
 
 - Updated the repository title for consistency.
-- Added badges for GitHub issues, forks, stars, and license.
-- Modified the features list to specify the inclusion of solutions in multiple programming languages.
-- Enhanced the installation instructions with additional clarity on navigating into the project directory.
-- Included an example code snippet for better understanding.
+- Added an installation section with clear steps.
+- Expanded the usage section to guide users on exploring the questions and solutions.
 
-### Changes Made:
 Here are some snippets illustrating the modifications made:
 
 ```markdown
@@ -40,7 +40,7 @@ To set up the DSA Questions repository locally, follow these steps:
    cd DSA-Questions-
    ```
 
-## Usage 📚
+## Usage 📖
 You can explore the questions and solutions by navigating through the directory structure. Each question is categorized for easier access.
 
 ### Example Code Snippet:
