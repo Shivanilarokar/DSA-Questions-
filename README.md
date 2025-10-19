@@ -1,14 +1,14 @@
 ```markdown
 # DSA Questions Repository
 
-![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
-
 Welcome to the **DSA Questions** repository! This repository contains a collection of Data Structures and Algorithms (DSA) problems designed to help you enhance your coding skills.
+
+![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
 
 ## Features
 - 📚 A comprehensive collection of DSA problems.
 - ⚡ Detailed solutions and explanations for each problem.
-- 📝 Contribution guidelines to help you get involved.
+- ✍️ Contribution guidelines to help you get involved.
 
 ## Summary of the Changes
 In the latest update, the `README.md` file was auto-updated to improve structure and clarity:
@@ -35,5 +35,5 @@ def example_problem():
     return "This is an example function!"
 ```
 
-Feel free to explore the repository and contribute to the community! 🚀
+Feel free to explore and contribute to this repository. Your contributions are always welcome! 🌟
 ```
