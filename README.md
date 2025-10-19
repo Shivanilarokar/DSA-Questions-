@@ -24,7 +24,7 @@ In the recent update, the following modifications were made to the README.md fil
 To get started with this repository, follow these steps:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Shivanilarokar/DSA-Questions-
+   git clone https://github.com/Shivanilarokar/DSA-Questions-.git
    ```
 2. Navigate to the project directory:
    ```bash
@@ -38,7 +38,6 @@ To use the DSA questions, simply navigate through the categorized folders and se
 Here's a quick example of how to solve a problem from the repository:
 
 ```python
-# Sample code snippet for a DSA problem
 def example_problem():
     return "This is an example solution."
 ```
