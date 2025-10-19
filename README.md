@@ -1,9 +1,9 @@
 ```markdown
 # DSA Questions Repository
 
-Welcome to the DSA Questions repository! This repository contains a collection of Data Structures and Algorithms (DSA) problems designed to help you enhance your coding skills.
-
 ![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
+
+Welcome to the DSA Questions repository! This repository contains a collection of Data Structures and Algorithms (DSA) problems designed to help you enhance your coding skills.
 
 ## Features
 - A comprehensive collection of DSA problems.
@@ -23,6 +23,7 @@ To get started with the DSA Questions repository, clone the repository to your l
 git clone https://github.com/Shivanilarokar/DSA-Questions-
 ```
 
+## Usage
 Once you have cloned the repository, navigate to the desired problem directory and follow the instructions provided.
 
 ### Example
@@ -30,12 +31,13 @@ Here is a simple example demonstrating a Fibonacci sequence solution in Python:
 
 ```python
 def fibonacci(n):
-    if n <= 0:
-        return 0
-    elif n == 1:
+    if n <= 1:
         return 1
     else:
         return fibonacci(n-1) + fibonacci(n-2)
+
+# Example usage
+print(fibonacci(5))  # Output: 5
 ```
 
 Feel free to explore the repository and contribute to solving exciting DSA problems!
