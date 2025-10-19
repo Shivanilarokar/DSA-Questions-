@@ -12,20 +12,13 @@ This repository is designed for developers and learners who want to enhance thei
 ## Features
 - 📚 Detailed explanations and code implementations for each question.
 - 🤝 Easy navigation and contribution guidelines.
-- 🖥️ Well-structured code snippets for better understanding.
+- 💻 Well-structured code snippets for better understanding.
 
 ## Summary of the Changes 💥
 ### Recent Updates
 In the latest update, the following changes were made:
 - Updated the repository name in the header for clarity.
-- Changed the emoji in the "Summary of the Changes" section.
-- Streamlined the "Usage" and "Example" sections for better readability.
-
-### Here are the snippets of the updated sections:
-```diff
--# DSA Questions Repository 🤖
-+# DSA Questions Repository 🚀
-```
+- Enhanced the README with new sections to improve user experience and navigation.
 
 ## Installation ⚙️
 
@@ -41,9 +34,13 @@ cd DSA-Questions-
 Explore the questions and solutions provided in this repository. You can run examples and test your understanding of different algorithms.
 
 ### Example
-Here's a quick example of how to use one of the functions in the repository:
+
+Here’s a sample code snippet to illustrate usage:
 
 ```python
+def example_function(arr):
+    return [x**2 for x in arr]
+
 print(example_function([-1, 2, 0, 3]))
 ```
 
