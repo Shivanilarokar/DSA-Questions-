@@ -1,9 +1,9 @@
 ```markdown
 # DSA Questions Repository
 
-Welcome to the **DSA Questions** repository! This repository contains a collection of Data Structures and Algorithms (DSA) problems designed to help you enhance your coding skills.
-
 ![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
+
+Welcome to the **DSA Questions** repository! This repository contains a collection of Data Structures and Algorithms (DSA) problems designed to help you enhance your coding skills.
 
 ## Features
 - 📚 A comprehensive collection of DSA problems.
@@ -12,7 +12,6 @@ Welcome to the **DSA Questions** repository! This repository contains a collecti
 
 ## Summary of the Changes
 In this update, the README.md file has been auto-updated to improve clarity and provide better guidance for users. The following changes were made:
-
 - Added a section highlighting the features of the repository.
 - Improved the wording in the usage section for better clarity.
 - Enhanced the example section to clarify the structure of a problem solution.
@@ -25,16 +24,16 @@ git clone https://github.com/Shivanilarokar/DSA-Questions-
 ```
 
 ## Usage
-After cloning the repository, navigate to the directory and explore the various DSA problems available. Each problem is accompanied by a solution and explanation.
+Explore the repository to find various DSA problems and their solutions. Each problem is structured to provide clear explanations and code snippets for easy understanding.
 
 ## Example
-Here’s a simple example to demonstrate the structure of a problem solution:
+Here’s an example of how a problem solution is structured:
 
 ```python
-def example_problem(input):
+def example_function():
     # Your solution here
-    return output
+    pass
 ```
 
-Feel free to contribute to this repository and enhance the collection of DSA problems! Happy coding! 🚀
+Feel free to contribute by adding your own solutions or improving existing ones!
 ```
