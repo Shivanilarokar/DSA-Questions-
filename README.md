@@ -8,27 +8,30 @@ Welcome to the DSA Questions repository! This repository serves as a valuable re
 ## Overview 🌟
 The DSA Questions repository provides a comprehensive collection of DSA questions, complete with clear explanations and code examples. It is designed to be user-friendly and encourages community contributions.
 
-## Features 🚀
-- Comprehensive collection of DSA questions.
-- Clear and concise explanations for each question.
-- Code examples to illustrate solutions.
+## Features ✨
+- A wide array of DSA questions with detailed explanations.
 - User-friendly structure for easy navigation.
-- Community-driven contributions to enhance the repository.
+- Community-driven contributions are highly encouraged.
 
-## Summary of the Changes 📝
+## Summary of the Changes 📜
 In the latest update, the `README.md` file has been enhanced with the following changes:
+- Updated the repository title emoji to 🚀 for a more relevant representation.
 - Improved the overall readability of the document.
+- Added a user-friendly structure feature to the list of features.
 - Included a community-driven contributions feature to the list of features.
 
 ### Updated Code Snippet
 Here's an example function from the repository:
+
 ```python
-def example_function(param):
-    return param * 2
+def example_function():
+    # Sample function demonstrating a DSA concept
+    return "This is an example function!"
 ```
 
 ## Installation ⚙️
-To get a local copy up and running, follow these simple steps:
+To get started with the DSA Questions repository, clone the repository to your local machine:
+
 ```bash
 git clone https://github.com/Shivanilarokar/DSA-Questions-
 cd DSA-Questions-
