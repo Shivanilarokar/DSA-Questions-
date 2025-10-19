@@ -14,6 +14,7 @@ This repository serves as a comprehensive collection of Data Structures and Algo
 
 ## Summary of the Changes 📝
 Recent updates to the `README.md` file include:
+- Updated the title emoji from 📖 to 📚.
 - Enhanced formatting of badges for better visual appeal.
 - Added a new badge for the last commit date.
 - Improved the usage section with a clearer example of the "Two Sum" problem, including input and output code snippets.
@@ -26,7 +27,7 @@ To get started with this repository, simply clone it to your local machine using
 git clone https://github.com/Shivanilarokar/DSA-Questions-.git
 ```
 
-## Usage
+## Usage 📖
 Here’s an example of how to approach a DSA question:
 
 ### Example Question: Two Sum
@@ -47,12 +48,7 @@ target = 9
 ```python
 def two_sum(nums, target):
     hashmap = {}
-    # Code logic goes here
 ```
-This function takes a list of numbers and a target value, returning the indices of the two numbers that add up to the target.
 
-## Contribution 🤝
-We welcome contributions from the community! If you have a solution to a DSA question or want to suggest improvements, feel free to fork the repository and submit a pull request.
-
-Thank you for checking out the DSA Questions repository! Happy coding! 🚀
+Feel free to explore the repository, contribute, and enhance your DSA skills!
 ```
