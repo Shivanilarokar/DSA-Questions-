@@ -1,81 +1,81 @@
 ```markdown
-# DSA Questions Repository 📚
+# DSA Questions Repository 🤖
 
-![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
+Welcome to the DSA Questions repository! This project aims to provide a collection of Data Structures and Algorithms questions along with their solutions.
+
+![GitHub repo size](https://img.shields.io/github/repo-size/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-) ![GitHub last commit](https://img.shields.io/github/last-commit/Shivanilarokar/DSA-Questions-)
 
 ## Overview
 
-Welcome to the DSA Questions repository! This project aims to provide a collection of data structures and algorithms questions along with their solutions. It serves as a useful resource for learners and practitioners looking to enhance their skills in programming.
+This repository contains implementations of various data structures and algorithms in Python. The code is designed to be well-structured and easy to understand, making it a valuable resource for learners and developers alike.
 
 ## Features
 
-- Comprehensive set of DSA questions and solutions.
-- Code examples implemented in Python.
-- Well-structured and easy to understand.
+- Code examples implemented in Python 🐍
+- Well-structured and easy to understand 📚
+- Comprehensive coverage of data structures and algorithms 📊
 
 ## Summary of Changes ⚙️
 
 In the latest update, the following changes were made:
 
-1. **Removed Notebook File**: The `Day1.ipynb` file was removed, which contained initial DSA questions and their explanations.
-2. **Added Functionality**: Introduced a new `function.py` file that includes a class for managing a simple bank account. This class provides methods for deposit, withdrawal, and balance display.
+- Updated the header for the "Summary of Changes" section to enhance clarity.
+  
+### Code Snippet
 
-### Code Changes
+```python
+## Summary of Changes ⚙️
 
-#### Removed File: `Day1.ipynb`
+In the latest update, the following changes were made:
+```
 
-This file was previously used for documenting questions and code implementations. The content has been removed entirely.
+## Installation
 
-#### Added File: `function.py`
+To get started with this repository, clone it using:
+
+```bash
+git clone https://github.com/Shivanilarokar/DSA-Questions-
+```
+
+Then, navigate to the project directory:
+
+```bash
+cd DSA-Questions-
+```
+
+## Usage
+
+You can use the provided implementations by importing the respective classes or functions into your own Python scripts. Here’s an example of how to use the `BankAccount` class:
+
+### Example Usage
 
 ```python
 class BankAccount:
-    """OOP example for managing a simple bank account."""
-    def __init__(self, owner, balance=0):
+    def __init__(self, owner, balance):
         self.owner = owner
         self.balance = balance
 
     def deposit(self, amount):
         self.balance += amount
-        print(f"💰 Deposited: {amount}")
 
     def withdraw(self, amount):
-        if amount > self.balance:
-            print("❌ Insufficient funds")
-        else:
-            self.balance -= amount
-            print(f"💵 Withdrawn: {amount}")
+        self.balance -= amount
 
     def show_balance(self):
         print(f"Account Balance for {self.owner}: ₹{self.balance}")
-```
 
-## Installation
-
-To install this project, you can clone the repository using:
-
-```bash
-git clone https://github.com/Shivanilarokar/DSA-Questions-
-cd DSA-Questions-
-```
-
-Make sure to have Python installed on your machine to run the examples.
-
-## Usage
-
-You can use the `BankAccount` class to create an account and manage transactions as shown in the example above. This is a simple demonstration of Object-Oriented Programming principles applied in Python.
-
-## Example
-
-```python
-# Create an instance of BankAccount
+# Example Usage
 acc = BankAccount("Shivani", 5000)
-
-# Perform operations
-acc.deposit(1000)   # Deposited: 1000
-acc.withdraw(2000)  # Withdrawn: 2000
-acc.show_balance()   # Account Balance for Shivani: ₹4000
+acc.deposit(1000)
+acc.withdraw(2000)
+acc.show_balance()
 ```
 
-Feel free to explore the repository, contribute, and improve upon the existing code!
+## Contribution
+
+Contributions are welcome! Please feel free to submit a pull request or open an issue if you have suggestions for improvements.
+
+---
+
+Thank you for checking out the DSA Questions repository! Happy coding! 🚀
 ```
