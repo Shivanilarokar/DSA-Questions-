@@ -19,18 +19,20 @@ In this update, we've made minor adjustments to the README file to improve clari
 - Adjusted the heading levels for the "Example" section for consistency.
 - Minor code refactoring in the Fibonacci function for improved readability.
 
-## Installation 🛠️
+## Installation 🚀
 To get started with this repository, clone it to your local machine using the following command:
 
 ```bash
 git clone https://github.com/Shivanilarokar/DSA-Questions-
+```
+
+After cloning, navigate into the directory:
+
+```bash
 cd DSA-Questions-
 ```
 
-## Usage 🔧
-This repository contains various functions to solve DSA problems. Each function is documented for easy understanding.
-
-## Example
+## Usage 💻
 Here’s a simple example of how to use the updated Fibonacci function:
 
 ```python
@@ -39,11 +41,11 @@ def fibonacci(n):
         return [0]
     elif n == 2:
         return [0, 1]
-    
-    fib_sequence = [0, 1]
-    for i in range(2, n):
-        fib_sequence.append(fib_sequence[i-1] + fib_sequence[i-2])
-    return fib_sequence
+    else:
+        fib_seq = [0, 1]
+        for i in range(2, n):
+            fib_seq.append(fib_seq[-1] + fib_seq[-2])
+        return fib_seq
 
 print(fibonacci(10))  # Output: [0, 1, 1, 2, 3, 5, 8, 13, 21, 34]
 ```
