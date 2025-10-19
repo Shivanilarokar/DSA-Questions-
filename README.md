@@ -35,7 +35,7 @@ def example_solution():
     pass
 ```
 
-Feel free to contribute to this repository by submitting issues or pull requests! Your contributions are highly appreciated. 
+Feel free to contribute to this repository by submitting issues or pull requests! Your contributions are highly appreciated.
 
 Thank you for your interest in the DSA Questions repository! Happy coding! 🎉
 ```
