@@ -3,14 +3,12 @@
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
 
-## Overview
-The DSA Questions repository is a collection of data structures and algorithms problems designed to help developers enhance their coding skills and prepare for technical interviews. This repository includes solutions in various programming languages, covering a wide range of topics.
+The DSA Questions repository is a collection of data structures and algorithms problems designed to enhance your coding skills and prepare you for technical interviews.
 
 ## Features
 - Comprehensive collection of DSA problems
-- Multiple programming languages supported
-- Clear and concise code examples
-- Community-driven contributions
+- Code examples in Python
+- Clear explanations for each problem
 
 ## Summary of the Changes
 In the latest update, the README.md file has been enhanced to improve clarity and usability. Key changes include:
@@ -22,20 +20,9 @@ In the latest update, the README.md file has been enhanced to improve clarity an
 ```python
 def two_sum(nums, target):
     result = two_sum(nums, target)
-    print(result)  # Output: [0, 1] since nums[0] + nums[1] equals target
-# This function takes a list of numbers and a target value, returning the indices of the two numbers that add up to the target.
 ```
 
-## Installation
-To get started with the DSA Questions repository, clone the repository to your local machine using the following command:
-```bash
-git clone https://github.com/Shivanilarokar/DSA-Questions-
-```
-
-## Usage
-After cloning the repository, navigate to the desired solution file and run the code using your preferred programming language environment.
-
-## Example
+### Example Usage
 Here’s a quick example of how to use the `two_sum` function:
 ```python
 nums = [2, 7, 11, 15]
@@ -45,6 +32,15 @@ result = two_sum(nums, target)
 print(result)  # Output: [0, 1] since nums[0] + nums[1] equals target
 ```
 This function takes a list of numbers and a target value, returning the indices of the two numbers that add up to the target.
+
+## Installation
+To get started with this repository, clone the repository using:
+```bash
+git clone https://github.com/Shivanilarokar/DSA-Questions-
+```
+
+## Usage
+Navigate to the specific problem folder and run the corresponding Python files to see the solutions.
 
 ## Contributing 🤝
 We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING.md) for more information on how to get involved.
