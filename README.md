@@ -12,12 +12,15 @@ This repository is a valuable resource for anyone looking to practice DSA-relate
 The DSA Questions repository is designed to help you enhance your coding skills and prepare for technical interviews through a curated set of coding challenges.
 
 ## Features
+
 - Comprehensive collection of DSA questions.
 - Opportunities to contribute your own questions and solutions.
 - User-friendly structure for easy navigation.
 
-## Summary of the Changes
+## Summary of the Changes 📝
+
 In the latest update, the README.md file has been auto-updated to improve clarity and conciseness:
+
 - The title has been refined to "DSA Questions Repository".
 - The introductory text has been streamlined for better readability.
 - Clarified usage instructions.
@@ -47,10 +50,10 @@ Once cloned, explore the questions and feel free to contribute by adding your ow
 Here's how you might approach a sample question:
 
 ```python
-# Sample question: Implement a function to reverse a string
-def reverse_string(s):
-    return s[::-1]
+def example_function():
+    # Sample implementation
+    pass
 ```
 
-Feel free to explore, practice, and contribute to the repository! Your input is valuable and helps the community grow. Happy coding! 💻
+Feel free to explore and enhance your coding skills with our curated DSA questions!
 ```
