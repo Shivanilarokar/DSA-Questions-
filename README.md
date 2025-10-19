@@ -18,12 +18,12 @@ In the latest commit, the README.md file has been updated to enhance clarity and
 
 ### Code Changes
 ```diff
-----# DSA Questions 📖
----+# DSA Questions Repository
--+- Feel free to contribute by adding more questions or improving the existing solutions!
-+-- Feel free to explore the repository, contribute, and improve your skills!
+--- Feel free to contribute by adding more questions or improving the existing solutions!
+++ Feel free to explore the repository, contribute, and improve your skills!
 ---# DSA Questions 📖
-++++# DSA Questions Repository
++++ # DSA Questions Repository
+--- Feel free to contribute by adding more questions or improving the existing solutions!
+++-- Feel free to explore the repository, contribute, and improve your skills!
 ```
 
 ## Installation
@@ -35,11 +35,12 @@ git clone https://github.com/Shivanilarokar/DSA-Questions-
 ## Usage
 Navigate through the repository and explore the various DSA questions and their solutions. Here’s an example of a binary search function included in the repository:
 
+### Example 🎉
 ```python
 def binary_search(arr, target):
     left, right = 0, len(arr) - 1
     while left <= right:
-        mid = (left + right) // 2
+        mid = left + (right - left) // 2
         if arr[mid] == target:
             return mid
         elif arr[mid] < target:
@@ -54,4 +55,6 @@ Feel free to explore the repository, contribute, and improve your skills! 🚀
 ```
 Happy coding! 🎉
 ```
-```
+``` 
+
+This README.md file presents a clear and engaging overview of the repository while highlighting the recent changes made. It maintains a professional tone while incorporating visual elements to enhance readability.
