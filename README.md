@@ -7,8 +7,7 @@
 Welcome to the DSA Questions Repository! This repository is dedicated to providing a collection of Data Structures and Algorithms (DSA) problems, along with solutions and discussions. It's a great place for both beginners and experienced developers to enhance their problem-solving skills.
 
 ## Features
-- A wide range of DSA problems to practice.
-- Easy to navigate directory structure.
+- A wide range of DSA problems categorized for easy navigation.
 - Contribution-friendly: you can add your own solutions or improve existing ones.
 
 ## Summary of the Changes
@@ -34,11 +33,11 @@ def fibonacci(n):
 
 ### Removed Text
 ```diff
-- Thank you for checking out the DSA Questions Repository! We welcome contributions from everyone. Happy coding! 🤗
+-- Thank you for checking out the DSA Questions Repository! We welcome contributions from everyone. Happy coding! 🤗
 ```
 
 ## Installation
-To get started with the DSA Questions Repository, clone the repository to your local machine:
+To get started, clone the repository and navigate into the project directory:
 
 ```bash
 git clone https://github.com/Shivanilarokar/DSA-Questions-
@@ -50,12 +49,10 @@ Explore the various DSA problems and try solving them! Feel free to contribute b
 
 ## Example
 Here’s a simple example of how you can contribute:
+- Fork the repository
+- Create a new branch for your feature or fix
+- Make your modifications
+- Submit a pull request
 
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature-branch`).
-3. Make your changes and commit them (`git commit -m 'Add new solution'`).
-4. Push to the branch (`git push origin feature-branch`).
-5. Open a Pull Request.
-
-Happy coding! 🚀
+Happy coding! 🎉
 ```
