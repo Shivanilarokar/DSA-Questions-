@@ -7,7 +7,7 @@
 ## Overview
 The DSA Questions repository contains a curated collection of data structures and algorithms questions designed to help developers enhance their problem-solving skills and prepare for technical interviews.
 
-## Features 🎁
+## Features 🎈
 - 📚 A wide variety of DSA questions to practice.
 - 🚀 Solutions and explanations for better understanding.
 - 🤝 Contribution guidelines for community involvement.
@@ -15,7 +15,7 @@ The DSA Questions repository contains a curated collection of data structures an
 ## Summary of the Changes
 In the latest commit, the `README.md` file has been updated to enhance clarity and organization. Key changes include:
 
-- Updated the repository title emoji from 🎆 to 🎉 for a more festive feel.
+- Updated the repository title emoji from 🎈 to 🎉 for a more festive feel.
 - Improved formatting in the **Installation** and **Usage** sections for better readability.
 - Added a clearer example problem structure with enhanced code snippets.
 
@@ -26,11 +26,11 @@ To set up the repository locally, follow these steps:
    ```bash
    git clone https://github.com/Shivanilarokar/DSA-Questions-.git
    ```
-2. Change to the project directory:
+2. Navigate to the project directory:
    ```bash
    cd DSA-Questions-
    ```
-3. Install necessary dependencies (if applicable):
+3. Install the required dependencies:
    ```bash
    pip install -r requirements.txt
    ```
