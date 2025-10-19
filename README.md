@@ -11,7 +11,7 @@ The DSA Questions repository is a comprehensive resource designed to provide a c
 - Detailed solutions and code snippets for each question.
 - User-friendly interface for easy navigation.
 
-## Summary of the Changes 🔄
+## Summary of the Changes 💄
 In the latest update, the `README.md` file has been auto-updated to enhance clarity and usability:
 
 - **Enhanced Features**: The features section has been updated for improved clarity.
@@ -30,10 +30,11 @@ To get started with the DSA Questions repository, clone the repository to your l
 git clone https://github.com/Shivanilarokar/DSA-Questions-
 ```
 
-## Usage 🛠️
+## Usage 🔍
 Feel free to explore the categorized questions, select a question to view its details and solution, and review the provided solutions and code snippets for a better understanding.
 
----
+-----
 
 For more information, please check the repository [here](https://github.com/Shivanilarokar/DSA-Questions-).
 ```
+This README.md is structured to provide a clear overview of the DSA Questions repository, highlighting its features, recent changes, and instructions for installation and usage. It is formatted professionally, making it easy for developers to understand and utilize the repository effectively.
