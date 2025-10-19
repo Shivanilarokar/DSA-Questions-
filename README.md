@@ -16,7 +16,14 @@ This repository contains a collection of Data Structures and Algorithms (DSA) qu
 In the recent update, the following modifications were made to the `README.md` file:
 - **Title Update**: Changed the title to better reflect the repository's purpose.
 - **Section Headers**: Enhanced section headers for improved clarity.
+- **Badges Added**: Included badges to display repository size, last commit date, and open issues for better visibility.
 - **Content Improvement**: Updated descriptions for better understanding.
+
+### Key Changes:
+```diff
+- # DSA Questions Repository 🚀
++ # DSA Questions Repository 📖
+```
 
 ## Installation
 To get started with this repository, clone it using the following command:
@@ -30,10 +37,10 @@ To utilize the repository, navigate through the provided questions and solutions
 ### Example
 Here’s a sample function demonstrating usage:
 ```python
-# Example function to demonstrate usage
-def sample_function():
-    print("This is a sample function demonstrating usage!")
+def example_function():
+    # Sample implementation
+    print("This is an example function!")
 ```
 
-Feel free to explore and contribute to the repository. Happy coding! 🚀
+Feel free to explore, contribute, and enhance your DSA skills!
 ```
