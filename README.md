@@ -1,15 +1,9 @@
 ```markdown
 # DSA Questions Repository 🚀
 
-![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
+Welcome to the DSA Questions repository! This project is designed to provide a comprehensive set of DSA questions that can help developers of all skill levels enhance their problem-solving capabilities. Each problem is carefully curated to cover various data structures and algorithms.
 
-Welcome to the DSA Questions repository! This project is designed to provide a comprehensive set of Data Structures and Algorithms (DSA) problems that can help developers of all skill levels enhance their problem-solving capabilities. Each problem is carefully curated to cover various data structures and algorithms.
-
-## Overview 🌟
-
-This repository is designed to provide a comprehensive set of DSA questions that can help developers of all skill levels enhance their problem-solving capabilities. Each problem is carefully curated to cover various data structures and algorithms.
-
-## Features 🎈
+## Features 🎉
 
 - A wide range of DSA problems categorized by difficulty levels.
 - Detailed explanations and example code for each problem.
@@ -25,10 +19,8 @@ In the latest commit, the `README.md` file has been updated to enhance its prese
 
 ### Code Snippet of Changes
 
-Here is a snippet of the changes made in the `README.md`:
-
 ```markdown
-## Installation 🛠️
+## Installation 🔧
 
 To get started with this project, follow these steps:
 
@@ -50,9 +42,9 @@ After cloning the repository, you can navigate through the problems and start pr
 
 Here's a sample problem to illustrate how to use the repository effectively:
 
-- Problem: **Two Sum**
-- Description: Given an array of integers, return indices of the two numbers such that they add up to a specific target.
-- Example Code:
+- **Problem**: **Two Sum**
+- **Description**: Given an array of integers, return indices of the two numbers such that they add up to a specific target.
+- **Example Code**:
 ```python
 def two_sum(nums, target):
     num_map = {}
@@ -63,5 +55,5 @@ def two_sum(nums, target):
         num_map[num] = i
 ```
 
-Feel free to explore the repository and contribute to enhancing the collection of DSA questions!
+Feel free to explore the repository and contribute to enhancing the collection of DSA questions! Happy coding! 🎉
 ```
