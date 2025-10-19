@@ -1,19 +1,20 @@
 ```markdown
-# DSA Questions Repository 🚀
+# DSA Questions 🧠
 
-![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![License](https://img.shields.io/badge/license-MIT-brightgreen)
+![GitHub repo size](https://img.shields.io/github/repo-size/Shivanilarokar/DSA-Questions-) ![GitHub contributors](https://img.shields.io/github/contributors/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-) ![GitHub license](https://img.shields.io/github/license/Shivanilarokar/DSA-Questions-)
+
+This repository aims to equip developers with a diverse array of Data Structures and Algorithms questions, helping them enhance their coding skills and prepare for technical interviews.
 
 ## Overview 🌍
 
-This repository aims to equip developers with a diverse array of Data Structures and Algorithms (DSA) problems, enabling them to enhance their problem-solving skills and coding proficiency.
+In this repository, you will find curated questions on various data structures and algorithms, along with solutions and explanations. It's designed to help you practice and improve your problem-solving skills efficiently.
 
 ## Features ✨
+- A collection of diverse DSA questions
+- Solutions with explanations
+- Contribution guidelines for community involvement
 
-- A variety of DSA problems to solve.
-- Easy navigation and contribution guidelines.
-- Regular updates with new problems and solutions.
-
-## Summary of the Changes 🔄
+## Summary of the Changes 📝
 
 In the latest update, the following changes were made to the `README.md` file:
 
@@ -23,8 +24,6 @@ In the latest update, the following changes were made to the `README.md` file:
 - **Contribution Guidelines**: Updated the contributions section to encourage more community involvement.
 
 ### Key Highlights
-
-Here are some highlights from the changes made:
 
 ```markdown
 ## Overview 🌍
@@ -44,7 +43,7 @@ Then navigate to the project directory:
 cd DSA-Questions-
 ```
 
-## Usage 🔧
+## Usage 💻
 
 Feel free to explore the problems, and don’t hesitate to contribute by submitting your own solutions or improvements!
 
@@ -55,8 +54,6 @@ Contributions are welcome! Please feel free to open issues or submit pull reques
 ## License 📜
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Thank you for checking out the DSA Questions repository! This README.md serves as a comprehensive guide to understanding the DSA Questions repository with an emphasis on its recent changes. Happy coding! 🎉
 ```
+
+This README.md file has been structured to provide a clear and concise overview of the repository, showcasing the latest changes while maintaining an aesthetically pleasing format for better readability and engagement.
