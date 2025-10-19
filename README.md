@@ -1,7 +1,5 @@
 ```markdown
-# DSA Questions 📖
-
-![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-?style=social) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-?style=social)
+# DSA Questions 📚
 
 This repository serves as a comprehensive collection of Data Structures and Algorithms (DSA) questions designed to enhance your coding skills and prepare you for technical interviews.
 
@@ -10,7 +8,7 @@ This repository serves as a comprehensive collection of Data Structures and Algo
 - Solutions provided for each question to facilitate learning.
 - Community-driven contributions are encouraged to enrich the repository.
 
-## Summary of the Changes 🔄
+## Summary of the Changes 💄
 In the latest commit, the `README.md` was updated to:
 - Streamline the introduction and features for a concise overview.
 - Enhance the introductory text to better reflect the purpose of the repository.
@@ -24,35 +22,30 @@ In the latest commit, the `README.md` was updated to:
 To get started with this repository, simply clone it to your local machine using the following command:
 
 ```bash
-git clone https://github.com/Shivanilarokar/DSA-Questions-.git
+git clone https://github.com/Shivanilarokar/DSA-Questions-
 ```
 
-## Usage 🚀
-Navigate through the various DSA questions, attempt solutions, and contribute your own solutions to help others learn.
+## Usage
+Once you have cloned the repository, you can navigate through the questions and solutions provided. Feel free to explore and contribute!
 
-## Example 💻
-Here is an example of how a question might be structured in this repository:
+## Example
+Here’s a quick example of how to navigate through a question:
 
-### Question: Reverse a Linked List
-**Description:** Given a linked list, reverse it.
+```markdown
+### Example Question: Two Sum
+Given an array of integers, return indices of the two numbers such that they add up to a specific target.
 
-**Solution:**
+**Input:**
 ```python
-class Node:
-    def __init__(self, value):
-        self.value = value
-        self.next = None
-
-def reverse_linked_list(head):
-    prev = None
-    current = head
-    while current:
-        next_node = current.next  # Store next node
-        current.next = prev       # Reverse the link
-        prev = current            # Move prev forward
-        current = next_node       # Move current forward
-    return prev  # New head of the reversed list
+nums = [2, 7, 11, 15]
+target = 9
 ```
 
-Feel free to explore, contribute, and enhance your DSA skills! Happy coding! 🎉
+**Output:**
+```python
+[0, 1]  # Because nums[0] + nums[1] = 2 + 7 = 9
+```
+```
+
+Thank you for checking out DSA Questions! We appreciate any contributions and feedback! 🙏
 ```
