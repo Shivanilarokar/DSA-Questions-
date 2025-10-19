@@ -9,6 +9,12 @@ Welcome to the DSA Questions repository! This project is dedicated to providing 
 
 This repository contains a wide variety of DSA questions along with solutions and explanations to assist you in enhancing your coding skills and understanding of data structures and algorithms.
 
+## Features 🌟
+
+- A diverse set of DSA problems categorized by difficulty.
+- Solutions and explanations for each question.
+- Opportunities for contributors to add new questions or improve existing solutions.
+
 ## Summary of the Changes ⚡
 
 In the latest update, the README.md file has been modified to enhance clarity and improve user engagement:
@@ -18,18 +24,25 @@ In the latest update, the README.md file has been modified to enhance clarity an
 - **Section Renaming**:
   - Updated the emoji in the Overview section from 🤩 to 🤖.
   - Changed the emoji in the Features section from 🤩 to 🌟.
+  - Updated the emoji in the Summary of Changes section from 🌠 to ⚡.
 
 ### Code Changes
 
 ```diff
+-----## Overview 🤩
++++## Overview 🤖
+-----## Features 🤩
++++## Features 🌟
+-----## Summary of the Changes 🌠
++++## Summary of the Changes ⚡
 -# DSA Questions 🤩
-+# DSA Questions 🤖
+++# DSA Questions 🤖
 -## Overview 🤩
-+## Overview 🤖
+++## Overview 🤖
 -## Features 🤩
-+## Features 🌟
+++## Features 🌟
 -## Summary of the Changes 🌠
-+## Summary of the Changes ⚡
+++## Summary of the Changes ⚡
 ```
 
 ## Installation 💻
