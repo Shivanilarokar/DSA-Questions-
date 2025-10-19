@@ -1,5 +1,5 @@
 ```markdown
-# DSA Questions 🤔
+# DSA Questions 🤖
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
 
@@ -12,8 +12,9 @@ Welcome to the DSA Questions repository! This project contains a collection of D
 - Easy navigation and structure for quick reference.
 
 ## Summary of the Changes
-In the latest commit, the README.md file has been updated to enhance its presentation. The following change was made:
+In the latest commit, the README.md file has been updated to enhance its presentation. The following changes were made:
 
+- Improved the aesthetics of the badge section.
 - Added a command to change the directory after cloning the repository.
 
 ### Code Snippet of Changes
