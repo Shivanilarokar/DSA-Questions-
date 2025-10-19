@@ -13,7 +13,7 @@ This repository contains a curated set of DSA questions aimed at helping develop
 - Solutions provided in Python
 - Ideal for interview preparation and skill enhancement
 
-## Summary of the Changes 🛠️
+## Summary of the Changes ⚙️
 Recent updates to the README.md file include:
 - Enhanced introduction to the repository, emphasizing its purpose.
 - Minor adjustments to the usage section, including a change in emoji for better representation.
@@ -23,34 +23,12 @@ Recent updates to the README.md file include:
 Here are some of the modifications made:
 
 ```markdown
-- The DSA Questions repository is designed to support developers in mastering data structures and algorithms through a comprehensive collection of questions and solutions.
-+ Welcome to the **DSA Questions** repository! This repository is dedicated to helping developers master data structures and algorithms through a comprehensive collection of questions and solutions.
+- Welcome to the **DSA Questions** repository! This repository is dedicated to helping developers master data structures and algorithms through a comprehensive collection of questions and solutions.
 ```
 
 ```markdown
-- ## Usage 📚
-+ ## Usage 📖
-```
-
-```python
-# Example of a simple data structure operation
-def example_solution():
-    data = [1, 2, 3, 4, 5]
-    return [x * 2 for x in data]
-
-+ print(example_solution())  # Output: [2, 4, 6, 8, 10]
-```
-
-## Installation ⚙️
-To get started with the DSA Questions repository, clone it using the following command:
-
-```bash
-git clone https://github.com/Shivanilarokar/DSA-Questions-
-cd DSA-Questions-
-```
-
 ## Usage 📖
-After cloning the repository, navigate to the directory and explore the various solutions provided. Here’s a quick example of how to use one of the solutions in the repository:
+```
 
 ```python
 # Example of a simple data structure operation
@@ -61,9 +39,16 @@ def example_solution():
 print(example_solution())  # Output: [2, 4, 6, 8, 10]
 ```
 
-Feel free to explore and contribute to the repository! Your feedback and contributions are always welcome. 🌈
+## Installation ⚙️
+To get started with the DSA Questions repository, clone it using the following command:
 
----
+```bash
+git clone https://github.com/Shivanilarokar/DSA-Questions-
 ```
 
+Feel free to explore and contribute to the repository! Your feedback and contributions are always welcome. 🎉
+
 This README.md file is structured to provide a clear and professional overview of the DSA Questions repository, highlighting recent changes and making it easy for users to understand the purpose and usage of the project.
+
+Thank you for checking out the DSA Questions repository! Happy coding! 🎊
+```
