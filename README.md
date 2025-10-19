@@ -1,12 +1,10 @@
 ```markdown
-# DSA-Questions- 📖
+# DSA-Questions- 📚
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
 
-The DSA Questions repository is designed to help you improve your problem-solving skills through a collection of coding challenges and solutions. This repository serves as a resource for practicing Data Structures and Algorithms (DSA) questions, providing detailed explanations and code snippets for each problem. Whether you're preparing for interviews or just looking to sharpen your skills, this repository is a great place to start.
-
 ## Overview 🚀
-This repository is aimed at aspiring developers and students who wish to enhance their understanding of data structures and algorithms through hands-on problem-solving.
+The DSA Questions repository is designed to help you improve your problem-solving skills through a collection of coding challenges and solutions. This repository serves as a resource for practicing Data Structures and Algorithms (DSA) questions, providing detailed explanations and code snippets for each problem. Whether you're preparing for interviews or just looking to sharpen your skills, this repository is a great place to start.
 
 ## Features 🌟
 - A variety of DSA questions covering multiple topics.
@@ -35,12 +33,12 @@ cd DSA-Questions-
 ## Usage 💻
 Here is an example of how a typical question is structured within the repository:
 
+### Example Question: Two Sum Problem
 **Description**: Given an array of integers, return indices of the two numbers such that they add up to a specific target.
 
 **Code Snippet**:
 ```python
 def two_sum(nums, target):
-    hashmap = {}
     # Implementation goes here
 ```
 
