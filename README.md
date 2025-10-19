@@ -36,6 +36,7 @@ git clone https://github.com/Shivanilarokar/DSA-Questions-.git
 Explore the various directories to find questions and their corresponding solutions. Here is a simple function example:
 
 ```python
+# Example solution for a sample DSA question
 def example_function(data):
     # Your code here
     pass
