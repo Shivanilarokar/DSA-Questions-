@@ -11,7 +11,7 @@ The DSA Questions repository is designed to help users improve their coding skil
 - Community-driven contributions
 - Engaging and clear documentation
 
-## Summary of the Changes 📜
+## Summary of the Changes 🗒️
 In the latest update, the README.md file has been modified to enhance clarity and provide a better overview of the repository.
 
 ### Key Changes:
@@ -35,8 +35,7 @@ Here's an example function you might find in the repository:
 
 ```python
 def example_problem(input_data):
-    # Process the input data
-    output_data = process(input_data)
+    # Process the input_data
     return output_data
 ```
 
