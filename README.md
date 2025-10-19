@@ -23,19 +23,33 @@ In the latest commit, the README.md file has been updated to enhance clarity and
 
 ### Example Changes:
 **Before:**
-```python
-def example_function(input):
-    return processed_output
+```markdown
+- Feel free to explore, contribute, and enhance your coding skills with our collection of DSA questions!
 ```
 
 **After:**
+```markdown
+- Feel free to explore, contribute, and enhance your coding skills with our collection of DSA questions! Happy coding! 🎉
+```
+
+## Installation
+To get started with this repository, clone it using the following command:
+
+```bash
+git clone https://github.com/Shivanilarokar/DSA-Questions-
+```
+
+## Usage
+Once cloned, navigate to the repository's directory and explore the various DSA questions available. You can also contribute by adding new questions or improving existing ones.
+
+## Example
+Here’s a quick example of how to solve a DSA question:
+
 ```python
 def example_function(input):
     # Processing logic here
     return processed_output
 ```
 
----
-
-Feel free to explore, contribute, and enhance your coding skills with our collection of DSA questions! Happy coding! 🎉
+Happy coding! 🎉
 ```
