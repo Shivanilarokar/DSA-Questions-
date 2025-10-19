@@ -1,13 +1,9 @@
 ```markdown
-# DSA Questions Repository 🌟
+# DSA Questions Repository 🎉
 
-[![GitHub stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-?style=social)](https://github.com/Shivanilarokar/DSA-Questions-)
-[![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-?style=social)](https://github.com/Shivanilarokar/DSA-Questions-)
-
-## Overview
 The DSA Questions repository contains a curated collection of data structures and algorithms questions designed to help developers enhance their problem-solving skills and prepare for technical interviews.
 
-## Features
+## Features 🌟
 - 📚 A wide variety of DSA questions to practice.
 - 🚀 Solutions and explanations for better understanding.
 - 🤝 Contribution guidelines for community involvement.
@@ -22,27 +18,29 @@ In the latest commit, the `README.md` file has been updated to enhance clarity a
 - Adjusted installation instructions for better clarity.
 - Added an example problem structure with a clearer code snippet.
 
-### Changes in the Usage Section:
-```diff
--## Usage
-+## Usage 📖
-+Explore the questions, attempt the problems, and refer to the solutions and explanations provided.
-```
+## Installation ⚙️
+To set up the repository locally, follow these steps:
 
-## Installation
-To get started with this repository, clone it to your local machine:
-```bash
-git clone https://github.com/Shivanilarokar/DSA-Questions-
-cd DSA-Questions-
-# Install dependencies (if any)
-```
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Shivanilarokar/DSA-Questions-.git
+   ```
+2. Change to the project directory:
+   ```bash
+   cd DSA-Questions-
+   ```
+3. Install necessary dependencies (if applicable):
+   ```bash
+   pip install -r requirements.txt
+   ```
 
-## Example
-Here’s a simple example of how to structure a problem:
+## Usage 📖
+Explore the questions, attempt the problems, and refer to the solutions and explanations provided.
+
+### Example Problem Structure:
 ```python
-# Example problem solution
 def example_problem():
-    # Your code goes here
+    # Example code goes here
     pass
 ```
 
