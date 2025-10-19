@@ -1,23 +1,21 @@
 ```markdown
-# DSA Questions Repository 🚀
+# DSA Questions 📚
 
-![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![License](https://img.shields.io/badge/license-MIT-blue)
+![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub license](https://img.shields.io/github/license/Shivanilarokar/DSA-Questions-) ![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen)
 
 ## Overview
-This repository contains a diverse set of Data Structures and Algorithms (DSA) questions designed to enhance your coding skills and prepare you for technical interviews.
+Welcome to the DSA Questions repository! This repository is designed to help you improve your Data Structures and Algorithms (DSA) skills through a collection of questions and solutions.
 
 ## Features
-- A diverse set of DSA questions and solutions.
-- Engaging and clear explanations for each question.
-- Enhances coding skills and knowledge for technical interviews.
-- Community-driven contributions are encouraged! 🎉
+- Comprehensive DSA questions
+- Structured solutions for better understanding
+- Community contributions encouraged
 
-## Summary of the Changes ✍️
-In the recent update, the `README.md` file has been modified to enhance clarity and engagement:
-- Improved wording for a clearer understanding of the repository's purpose.
-- Added a sample question to demonstrate usage.
-- Revised the closing note to encourage community engagement.
-- Introduced sections for Contributing and License information.
+## Summary of the Changes
+In the recent update, the `README.md` file has been modified to enhance clarity and improve user engagement. Key changes include:
+- Improved wording in the usage section for better understanding.
+- Added a sample implementation code snippet.
+- Included a section for contributing to the project.
 
 ## Installation
 To get started with the DSA Questions repository, clone the repository using the following command:
@@ -44,4 +42,8 @@ We welcome contributions from the community! Feel free to fork the repository an
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+---
+
+Thank you for checking out the DSA Questions repository! Happy Coding! 🎉
 ```
