@@ -1,10 +1,9 @@
 ```markdown
 # DSA Questions Repository
 
-![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-?style=social) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-?style=social)
-
-## Overview
 Welcome to the DSA Questions repository! This repository contains a collection of data structures and algorithms questions designed to help you practice and enhance your coding skills.
+
+![GitHub repo size](https://img.shields.io/github/repo-size/Shivanilarokar/DSA-Questions-) ![GitHub contributors](https://img.shields.io/github/contributors/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
 
 ## Features
 - Extensive collection of DSA questions.
@@ -14,10 +13,9 @@ Welcome to the DSA Questions repository! This repository contains a collection o
 
 ## Summary of the Changes
 In this update, the following changes were made:
-- Updated the overview description for clarity and conciseness.
-- Enhanced feature descriptions to highlight the community aspect.
-- Improved the usage instructions for clarity.
-- Refined the Fibonacci function code snippet for better readability.
+- Improved the wording in the features section for clarity.
+- Separated the usage instructions into its own section for better organization.
+- Enhanced the Fibonacci function example to clarify its output.
 
 ## Installation
 To get started with this repository, clone it to your local machine using the following command:
@@ -46,7 +44,10 @@ print(fibonacci(10))  # Output: [0, 1, 1, 2, 3, 5, 8, 13, 21, 34]
 ```
 
 ## Contributing
-We welcome contributions from the community! If you have any questions, feel free to open an issue or submit a pull request.
+We welcome contributions! Please feel free to submit a pull request or open an issue.
 
-Happy coding! 🚀
+## License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+Happy Coding! 🚀
 ```
