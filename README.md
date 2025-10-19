@@ -23,7 +23,7 @@ In the latest update, the README file has been enhanced to provide clearer infor
 To get started with the DSA Questions repository, clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/Shivanilarokar/DSA-Questions-.git
+git clone https://github.com/Shivanilarokar/DSA-Questions-
 cd DSA-Questions-
 ```
 
@@ -32,6 +32,7 @@ Here’s how you can use the solutions provided in this repository:
 
 ```python
 def example_solution():
+    # Your solution code here
     pass
 ```
 
@@ -40,7 +41,5 @@ To see a specific solution in action, refer to the provided examples in the resp
 
 ---
 
-We welcome contributions! Feel free to fork the repository and submit pull requests for any improvements or additional questions.
-
-Happy coding! 🚀
+Feel free to explore, contribute, and enhance the repository. Happy coding! 😊
 ```
