@@ -1,9 +1,9 @@
 ```markdown
 # DSA Questions 🚀
 
-![GitHub Repo Size](https://img.shields.io/github/repo-size/Shivanilarokar/DSA-Questions-) ![Contributors](https://img.shields.io/github/contributors/Shivanilarokar/DSA-Questions-) ![Issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
-
 This repository is dedicated to helping developers and students improve their skills in Data Structures and Algorithms (DSA) through a collection of curated questions and solutions.
+
+![GitHub Repo Size](https://img.shields.io/github/repo-size/Shivanilarokar/DSA-Questions-) ![Contributors](https://img.shields.io/github/contributors/Shivanilarokar/DSA-Questions-) ![Issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
 
 ## Features ✨
 - A collection of DSA questions to practice and enhance your skills.
@@ -31,12 +31,8 @@ Here is a simple example function to illustrate usage:
 
 ```python
 def example_function():
-    # Your code here
-    pass
+    print("This is a simple example function.")
 ```
 
-Feel free to explore, contribute, and enhance your understanding of Data Structures and Algorithms!
-
----
-For any contributions or questions, please open an issue or create a pull request. Happy coding! 💻
+Feel free to contribute by adding your own examples and solutions!
 ```
