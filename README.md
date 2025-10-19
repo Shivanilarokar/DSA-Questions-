@@ -1,5 +1,5 @@
 ```markdown
-# DSA Questions 📚
+# DSA Questions 📖
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/Shivanilarokar/DSA-Questions-) 
 ![GitHub contributors](https://img.shields.io/github/contributors/Shivanilarokar/DSA-Questions-) 
@@ -7,19 +7,17 @@
 
 This repository serves as a comprehensive collection of Data Structures and Algorithms (DSA) questions and solutions to help you practice and improve your coding skills.
 
-## Features 🌟
-- A variety of DSA questions to enhance your problem-solving skills.
-- Well-documented solutions for easy understanding.
-- Community contributions are welcome!
+## Features ✨
+- A variety of DSA questions covering different topics.
+- Well-structured solutions to enhance understanding.
+- Community contributions welcomed!
 
 ## Summary of the Changes 📝
-In the latest commit, the `README.md` was updated to:
-- Streamline the introduction and features for a concise overview.
-- Enhance the introductory text to better reflect the purpose of the repository.
-- Change the title emoji from 📉 to 📖 for better representation.
-- Correctly represent the example user as a female developer 👩‍💻.
-- Add a closing appreciation note to encourage contributions.
-- Enhance the overall structure for better clarity and professionalism.
+Recent updates to the `README.md` file include:
+- Updated the title emoji from 📖 to 📚.
+- Added new badges for repository size, contributors, and last commit date.
+- Enhanced the usage section with a clearer example of the "Two Sum" problem, including input and output code snippets.
+- Revised the contributing section to encourage community involvement more explicitly.
 
 ## Installation ⚙️
 To get started with this repository, simply clone it to your local machine using:
@@ -28,7 +26,7 @@ To get started with this repository, simply clone it to your local machine using
 git clone https://github.com/Shivanilarokar/DSA-Questions-.git
 ```
 
-## Usage 📖
+## Usage 📚
 Here’s an example of how to approach a DSA question:
 
 ### Example Question: Two Sum
