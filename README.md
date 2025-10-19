@@ -4,8 +4,9 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/Shivanilarokar/DSA-Questions-) 
 ![Issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-) 
 ![Pull Requests](https://img.shields.io/github/issues-pr/Shivanilarokar/DSA-Questions-)
+[![GitHub License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-This repository provides a collection of Data Structures and Algorithms questions designed to enhance your problem-solving skills and prepare you for technical interviews.
+Welcome to the **DSA Questions** repository! This repository provides a collection of Data Structures and Algorithms questions designed to enhance your problem-solving skills and prepare you for technical interviews.
 
 ## Overview 🌟
 
@@ -34,12 +35,13 @@ Here are some snippets from the updated README.md:
 
 ```python
 def fibonacci(n):
-    if n <= 1:
-        return n
+    if n <= 0:
+        return 0
+    elif n == 1:
+        return 1
     else:
         return fibonacci(n-1) + fibonacci(n-2)
 
-# Example usage
 print(fibonacci(10))  # Output: 55
 ```
 
@@ -48,7 +50,7 @@ print(fibonacci(10))  # Output: 55
 To get started with this repository, clone the repository using:
 
 ```bash
-git clone https://github.com/Shivanilarokar/DSA-Questions-.git
+git clone https://github.com/Shivanilarokar/DSA-Questions-
 ```
 
 Then, navigate to the project directory:
