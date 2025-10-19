@@ -23,6 +23,7 @@ In this update, the README has been enhanced to improve clarity and conciseness:
 
 ## Installation 🔧
 To clone this repository, run the following command in your terminal:
+
 ```bash
 git clone https://github.com/Shivanilarokar/DSA-Questions-
 ```
@@ -31,17 +32,5 @@ git clone https://github.com/Shivanilarokar/DSA-Questions-
 Explore the structured problems and their solutions in the repository. Each problem comes with a detailed explanation to help you understand the concepts better.
 
 ### Example
-Here's a simple example of how to implement a function:
-
-```python
-# Sample Python solution for a DSA problem
-def example_function():
-    print("This is an example function.")
-```
-
-Feel free to dive in and start solving problems, and don't hesitate to contribute your solutions and improvements! 
-
----
-
-Thank you for checking out the DSA-Questions- repository! We welcome contributions and feedback. Happy coding! 🎉
+Feel free to browse through the various problems and their solutions to get hands-on experience with Data Structures and Algorithms!
 ```
