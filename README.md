@@ -1,9 +1,9 @@
 ```markdown
 # DSA Questions Repository
 
-Welcome to the DSA Questions repository! This repository contains a collection of Data Structures and Algorithms (DSA) problems designed to help you enhance your coding skills.
-
 ![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
+
+Welcome to the DSA Questions repository! This repository contains a collection of Data Structures and Algorithms (DSA) problems designed to help you enhance your coding skills.
 
 ## Features
 - A comprehensive collection of DSA problems.
@@ -12,25 +12,16 @@ Welcome to the DSA Questions repository! This repository contains a collection o
 
 ## Summary of the Changes
 In the latest update, the `README.md` file has been improved to enhance informativeness and usability:
-- **Added a section** to clarify the example usage of the Fibonacci function for better understanding.
-- **Modified wording** in the installation instructions for clarity.
 
-## Installation
-To get started, clone the repository using the following command:
+- Added a **Features** section to highlight the key offerings of the repository.
+- Enhanced formatting for better readability.
 
-```bash
-git clone https://github.com/Shivanilarokar/DSA-Questions-
-```
-
-## Usage
-Once you have cloned the repository, navigate to the directory and follow the instructions provided in the respective problem files. Here's an example of how to use the Fibonacci function:
+### Code Snippet Example
+Here’s a quick example of a Fibonacci function included in the repository:
 
 ```python
 def fibonacci(n):
-    """Returns the nth Fibonacci number."""
-    if n <= 0:
-        return "Input should be a positive integer."
-    elif n == 1:
+    if n == 1:
         return 0
     elif n == 2:
         return 1
@@ -41,5 +32,18 @@ def fibonacci(n):
 print(fibonacci(5))  # Output: 3
 ```
 
-Feel free to explore and contribute to the repository!
+## Installation
+To get started with the DSA Questions repository, clone the repository using:
+
+```bash
+git clone https://github.com/Shivanilarokar/DSA-Questions-
+```
+
+## Usage
+Navigate to the directory of the cloned repository and explore the DSA problems and solutions. You can run the examples in your local Python environment to see the results.
+
+## Contribution
+We welcome contributions from everyone! Please feel free to submit a pull request or open an issue if you have suggestions or improvements.
+
+Happy coding! 🚀
 ```
