@@ -14,6 +14,10 @@ Welcome to the DSA Questions repository! This repository contains a collection o
 ## Summary of the Changes
 In the latest update, the README file has been enhanced to provide clearer information about the repository. Notable changes include:
 
+### Changes Made:
+- Updated the overview section to emphasize the repository's purpose.
+- Refined the features list for clarity and impact.
+- Enhanced the installation and usage instructions for better user experience.
 - Updated the cloning command to point to the correct repository URL.
 - Added a placeholder comment in the example solution code for clarity.
 - Revised the closing statement to encourage exploration and contributions.
@@ -49,14 +53,6 @@ cd DSA-Questions-
 ```
 
 ## Usage
-Here’s how you can use the solutions provided in this repository:
-
-```python
-def example_solution():
-    # Your solution code here
-    pass
-```
-
 To see a specific solution in action, refer to the provided examples in the respective directories.
 
 ## Contributing
