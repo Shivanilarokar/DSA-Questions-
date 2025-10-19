@@ -9,9 +9,10 @@ Welcome to the DSA Questions repository! This repository contains a collection o
 ## Features
 - A comprehensive collection of DSA problems.
 - Solutions and explanations for each problem.
+- A collaborative environment welcoming contributions from the community.
 
 ## Summary of the Changes
-In the latest commit, the README.md file has been auto-updated to improve clarity and aesthetics. The following changes were made:
+In the latest commit, the `README.md` file has been auto-updated to improve clarity and aesthetics. The following changes were made:
 - Removed an unnecessary line break for better formatting.
 - Updated the example code output comment for clarity.
 
@@ -30,11 +31,9 @@ Here’s a simple example of an algorithm included in this repository:
 
 ```python
 def example_algorithm(data):
-    # Example algorithm implementation
-    return sorted(data)
-
-print(example_algorithm([5, 2, 9, 1]))  # Output: [1, 2, 5, 9]
+    # Process the data and return a result
+    return processed_data
 ```
 
-Feel free to contribute by submitting issues or pull requests. Happy coding! 🚀
+Feel free to explore the repository and contribute to improving the collection of DSA problems!
 ```
