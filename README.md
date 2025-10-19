@@ -16,16 +16,6 @@ In the recent update, the README.md file has been enhanced to improve clarity an
 - Enhanced the README with clearer descriptions of features.
 - Added a more welcoming community engagement section.
 
-### Code Snippet
-Here's a simple example function to get you started:
-```python
-def example_function(data):
-    # Your implementation here
-    pass
-```
-
-Feel free to explore, contribute, and enhance your DSA skills with our curated collection!
-
 ## Installation
 To get started with this repository, clone it using the following command:
 
