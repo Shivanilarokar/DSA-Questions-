@@ -5,11 +5,7 @@
 ![Issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
 ![License](https://img.shields.io/badge/license-MIT-brightgreen)
 
-Welcome to the **DSA Questions** repository! This repository contains various problems and solutions related to data structures and algorithms, which are essential for technical interviews and improving coding skills.
-
-## Overview 🌟
-
-The DSA Questions repository offers a comprehensive collection of questions covering a wide range of topics in Data Structures and Algorithms. Each question includes a detailed solution implemented in Python, making it ideal for both interview preparation and skill enhancement.
+The DSA Questions repository offers a comprehensive collection of questions covering various data structures and algorithms. This repository is designed to help developers enhance their problem-solving skills and understanding of DSA concepts.
 
 ## Features ✨
 - Comprehensive collection of DSA problems
@@ -25,34 +21,41 @@ In the latest commit, the following updates were made to the README.md file:
 
 Here are some snippets from the updated README.md:
 
-```python
-def fibonacci(n):
-    if n <= 1:
-        return n
-    else:
-        return fibonacci(n-1) + fibonacci(n-2)
-
-# Example usage
-print(fibonacci(10))  # Output: 55
-```
-
-## Installation 🔧
-
-To get started with this repository, clone the repository using:
-
+```markdown
+## Installation
+To clone the repository, run:
 ```bash
 git clone https://github.com/Shivanilarokar/DSA-Questions-
-```
-
-Then, navigate to the project directory:
-
-```bash
 cd DSA-Questions-
 ```
 
-## Usage 📖
-
+## Usage
 You can explore the various algorithms and data structure implementations available in this repository. Each algorithm is provided with example usages to help you understand its functionality.
 
 Feel free to contribute by submitting issues or pull requests. Happy coding! 🎉
+```
+
+## Example Code Snippet
+Here is an example of a Fibonacci function implementation:
+
+```python
+def fibonacci(n):
+    if n <= 0:
+        return "Input should be a positive integer"
+    elif n == 1:
+        return 0
+    elif n == 2:
+        return 1
+    else:
+        a, b = 0, 1
+        for _ in range(2, n):
+            a, b = b, a + b
+        return b
+```
+
+This function now includes handling for edge cases, ensuring robustness.
+
+---
+
+We welcome contributions and suggestions to improve this repository further. Thank you for being a part of our community! 🌟
 ```
