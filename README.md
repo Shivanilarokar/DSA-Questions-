@@ -1,6 +1,8 @@
 ```markdown
 # DSA Questions Repository 📚
 
+![GitHub repo size](https://img.shields.io/github/repo-size/Shivanilarokar/DSA-Questions-) ![GitHub contributors](https://img.shields.io/github/contributors/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-) ![GitHub license](https://img.shields.io/github/license/Shivanilarokar/DSA-Questions-)
+
 This repository aims to equip developers with a diverse array of Data Structures and Algorithms (DSA) questions to enhance their problem-solving skills and prepare them for technical interviews.
 
 ## Features ✨
@@ -15,8 +17,7 @@ In the latest update, the following changes were made to the `README.md` file:
 
 - **Updated Badges**: Added badges for repository size, contributors, issues, and license for better visibility.
 - **Enhanced the project description** for clarity and engagement.
-- **Improved the overall structure** and wording for better readability.
-- **Enhanced the structure and readability** of the installation instructions.
+- **Improved the overall structure and readability** of the installation instructions.
 
 ---
 
