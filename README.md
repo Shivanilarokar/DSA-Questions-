@@ -9,8 +9,8 @@ Welcome to the DSA Questions repository! This repository contains various Data S
 This repository serves as a comprehensive collection of DSA problems, solutions, and resources tailored for those preparing for technical interviews. It aims to provide a structured approach to mastering data structures and algorithms effectively.
 
 ## Features
-- 🔍 A wide range of DSA questions categorized for easy navigation.
-- 📄 Solutions provided in multiple programming languages.
+- 🧠 A wide range of DSA questions categorized for easy navigation.
+- 📚 Solutions provided in multiple programming languages.
 - 💻 Code examples and explanations to aid understanding.
 - 🔄 Regular updates to include new questions and solutions.
 
@@ -37,10 +37,9 @@ Once you have cloned the repository, navigate through the files to access differ
 Here’s a simple function example to illustrate usage:
 
 ```python
-# Example code implementation
 def example_function():
-    return "This is a sample function."
+    print("This is an example function.")
 ```
 
-This README.md file has been designed to provide a clear and concise overview of the DSA Questions repository, highlighting recent changes and guiding users on how to get started. Feel free to contribute and enhance this repository further! 🚀
+Feel free to explore the repository and contribute to the collection of DSA questions and solutions!
 ```
