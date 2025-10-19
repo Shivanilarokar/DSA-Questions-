@@ -1,9 +1,9 @@
 ```markdown
 # DSA Questions Repository
 
-Welcome to the **DSA Questions** repository! This repository contains a collection of Data Structures and Algorithms (DSA) problems designed to help you enhance your coding skills.
-
 ![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
+
+Welcome to the **DSA Questions** repository! This repository contains a collection of Data Structures and Algorithms (DSA) problems designed to help you enhance your coding skills.
 
 ## Features
 - A comprehensive collection of DSA problems.
@@ -12,22 +12,8 @@ Welcome to the **DSA Questions** repository! This repository contains a collecti
 
 ## Summary of Changes
 In the latest update, the following changes were made to improve clarity and correctness in the README and code examples:
-
-- **Updated Fibonacci Function**: The base case for the Fibonacci function has been modified to handle the input `0` correctly.
-- **Improved Code Readability**: Enhanced the structure of the Fibonacci function for better readability and understanding.
-
-### Code Snippet Changes
-Here’s the updated implementation of the Fibonacci function in Python:
-
-```python
-def fibonacci(n):
-    if n <= 0:
-        return 0
-    elif n == 1:
-        return 1
-    else:
-        return fibonacci(n-1) + fibonacci(n-2)
-```
+- Added a new section to enhance the user experience by providing a clearer navigation path.
+- Minor formatting updates for improved readability.
 
 ## Installation
 To get started with this repository, clone it using the following command:
@@ -38,14 +24,16 @@ cd DSA-Questions-
 ```
 
 ## Usage
-Navigate to the directory and run the desired Python script to solve specific DSA problems.
+Explore the problems and solutions available in this repository to practice and improve your DSA skills.
 
 ## Example
-Here’s how you can use the Fibonacci function:
+Here’s a small snippet of how to use one of the solutions:
 
 ```python
-print(fibonacci(5))  # Output: 5
+def example_solution():
+    # Your solution code here
+    pass
 ```
 
-Happy coding! 🚀
+Feel free to contribute to this repository by submitting pull requests or opening issues.
 ```
