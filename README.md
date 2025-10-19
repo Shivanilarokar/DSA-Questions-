@@ -1,5 +1,5 @@
 ```markdown
-# DSA Questions Repository 🧠
+# DSA Questions Repository 🤖
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-?style=social) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-?style=social)
 
@@ -21,10 +21,15 @@ To get started with this repository, clone it to your local machine using the fo
 
 ```bash
 git clone https://github.com/Shivanilarokar/DSA-Questions-
+```
+
+After cloning, navigate into the directory:
+
+```bash
 cd DSA-Questions-
 ```
 
-## Usage 💻
+## Usage
 Here’s a simple example of how to use the updated Fibonacci function:
 
 ```python
@@ -36,10 +41,10 @@ def fibonacci(n):
     elif n == 2:
         return [0, 1]
     else:
-        fib_seq = [0, 1]
+        fib_sequence = [0, 1]
         for i in range(2, n):
-            fib_seq.append(fib_seq[-1] + fib_seq[-2])
-        return fib_seq
+            fib_sequence.append(fib_sequence[-1] + fib_sequence[-2])
+        return fib_sequence
 
 print(fibonacci(10))  # Output: [0, 1, 1, 2, 3, 5, 8, 13, 21, 34]
 ```
