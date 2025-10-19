@@ -21,8 +21,8 @@ In the latest commit, the `README.md` file has been updated to enhance clarity a
 
 ### Specific Changes Made:
 ```diff
-- This repository is designed to help developers enhance their problem-solving skills through a wide array of Data Structures and Algorithms (DSA) questions.
-+ The DSA Questions repository is designed to help developers enhance their problem-solving skills through a rich set of DSA questions categorized by difficulty and topic.
+- The DSA Questions repository is designed to help developers enhance their problem-solving skills through a wide array of Data Structures and Algorithms (DSA) questions.
++ This repository is designed to help developers enhance their problem-solving skills through a rich set of DSA questions categorized by difficulty and topic.
 ```
 
 ## Installation 💻
@@ -31,7 +31,7 @@ To get started with the repository, clone it using the following command:
 git clone https://github.com/Shivanilarokar/DSA-Questions-
 ```
 
-## Usage 📚
+## Usage 📖
 Explore the questions, attempt the problems, and refer to the solutions and explanations provided.
 
 Here’s a quick example of how to get started with a sample question:
