@@ -1,16 +1,17 @@
 ```markdown
 # DSA Questions Repository
 
-![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
-
 Welcome to the **DSA Questions** repository! This repository contains a collection of Data Structures and Algorithms (DSA) problems designed to help you enhance your coding skills.
+
+![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
 
 ## Features
 - A comprehensive collection of DSA problems.
 - Solutions and explanations for each problem.
+- User-friendly structure for easy navigation.
 
 ## Summary of the Changes
-In this update, the following changes were made to the README.md file:
+In this update, the following changes were made to the `README.md` file:
 - Enhanced the **Usage** section to provide clearer instructions for navigating the repository.
 - Updated the **Example** section to showcase a simple problem structure.
 - Minor formatting adjustments for clarity and consistency.
@@ -24,16 +25,20 @@ cd DSA-Questions-
 ```
 
 ## Usage
-Once you have cloned the repository, navigate to the project directory and explore the various DSA problems available.
+Once you have cloned the repository, navigate to the respective folders to explore various DSA problems and their solutions.
 
 ## Example
-Here’s a simple example of a problem you might encounter:
+Here is a simple structure of how the problems are organized:
 
-```python
-def example_problem():
-    # Sample problem logic
-    print("This is an example problem.")
+```plaintext
+/DSA-Questions-
+    /Sorting
+        - BubbleSort.py
+        - QuickSort.py
+    /Searching
+        - BinarySearch.py
+        - LinearSearch.py
 ```
 
-Feel free to explore, contribute, and improve your coding skills with the DSA Questions repository! 🚀
+Feel free to explore, solve problems, and contribute to the repository! Happy coding! 🚀
 ```
