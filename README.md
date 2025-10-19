@@ -1,24 +1,25 @@
 ```markdown
 # DSA Questions Repository 🎉
 
+[![GitHub stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-?style=social)](https://github.com/Shivanilarokar/DSA-Questions-)
+[![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-?style=social)](https://github.com/Shivanilarokar/DSA-Questions-)
+
+## Overview
 The DSA Questions repository contains a curated collection of data structures and algorithms questions designed to help developers enhance their problem-solving skills and prepare for technical interviews.
 
-## Features 🌟
+## Features 🎁
 - 📚 A wide variety of DSA questions to practice.
 - 🚀 Solutions and explanations for better understanding.
 - 🤝 Contribution guidelines for community involvement.
 
 ## Summary of the Changes
-In the latest commit, the `README.md` file has been updated to enhance clarity and aesthetics:
+In the latest commit, the `README.md` file has been updated to enhance clarity and organization. Key changes include:
 
-### Changes Made:
-- Improved the description of the repository to be more engaging.
-- Updated the Features section with emojis for better visual appeal.
-- Enhanced the Usage section with emoji and clearer instructions.
-- Adjusted installation instructions for better clarity.
-- Added an example problem structure with a clearer code snippet.
+- Updated the repository title emoji from 🎆 to 🎉 for a more festive feel.
+- Improved formatting in the **Installation** and **Usage** sections for better readability.
+- Added a clearer example problem structure with enhanced code snippets.
 
-## Installation ⚙️
+### Changes in the Installation Section ⚙️
 To set up the repository locally, follow these steps:
 
 1. Clone the repository:
@@ -34,15 +35,17 @@ To set up the repository locally, follow these steps:
    pip install -r requirements.txt
    ```
 
-## Usage 📖
+### Changes in the Usage Section 📖
 Explore the questions, attempt the problems, and refer to the solutions and explanations provided.
 
 ### Example Problem Structure:
+Here's a simple example of how to structure a problem:
 ```python
+# Example problem solution
 def example_problem():
     # Example code goes here
     pass
 ```
 
-Feel free to explore, contribute, and enhance your DSA skills! Happy coding! 🚀
+Feel free to contribute and enhance this repository!
 ```
