@@ -1,18 +1,23 @@
 ```markdown
 # DSA Questions 🤖
 
+![GitHub stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-?style=social) 
+![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-?style=social) 
+![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
+
+## Overview
 Welcome to the DSA Questions repository! This repository is dedicated to providing various Data Structures and Algorithms (DSA) challenges to enhance your coding skills and understanding of complex concepts.
 
 ## Features
-- A collection of DSA challenges with detailed explanations.
-- Code examples to demonstrate solutions.
-- Encouragement for contributions to improve the repository.
+- A collection of DSA challenges.
+- Well-structured code examples.
+- Easy to navigate and contribute to.
 
 ## Summary of the Changes
-In the latest update, we made several enhancements to the README file to improve clarity and usability. Notable changes include:
-- Consolidation of badge links into a single line for a cleaner look.
-- Minor adjustments in code formatting for better readability.
-- Updated instructions for cloning the repository.
+In the latest update, we made several enhancements to the README file to improve clarity and professionalism. Key changes include:
+- Updated the project title emoji from 🚀 to 🤖.
+- Minor edits for improved wording and clarity in the Usage section.
+- Removal of extraneous text for a cleaner presentation.
 
 ## Installation
 To get started with this repository, clone it to your local machine:
@@ -26,12 +31,12 @@ Navigate to the desired challenge folder and run the code examples provided. For
 
 ```python
 def fibonacci(n):
-    if n == 0:
+    if n <= 0:
         return 0
     elif n == 1:
         return 1
     else:
-        return fibonacci(n - 1) + fibonacci(n - 2)
+        return fibonacci(n-1) + fibonacci(n-2)
 
 print(fibonacci(5))  # Output: 5
 ```
