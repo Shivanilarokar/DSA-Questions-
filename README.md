@@ -3,6 +3,7 @@
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
+## Overview
 This repository serves as a collaborative platform for Data Structures and Algorithms (DSA) enthusiasts. It contains various DSA problems along with their solutions, aimed at helping developers improve their coding skills.
 
 ## Features 🌟
@@ -17,14 +18,11 @@ In this update, the `README.md` file has been enhanced for better readability an
 - Improved formatting and clarity in the README.
 - Enhanced Fibonacci function implementation example.
 
-### Updated Fibonacci Function:
 ```python
 def fibonacci(n):
-    """Returns a list of Fibonacci numbers up to n"""
-    fib_sequence = []
-    for _ in range(n):
-        fib_sequence.append(a)
-        a, b = b, a + b
+    fib_sequence = [0, 1]
+    while len(fib_sequence) < n:
+        fib_sequence.append(fib_sequence[-1] + fib_sequence[-2])
     return fib_sequence
 ```
 
