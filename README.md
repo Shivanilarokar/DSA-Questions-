@@ -1,7 +1,5 @@
 ```markdown
-# DSA Questions Repository 📚
-
-![GitHub stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-)
+# DSA Questions Repository 🤖
 
 Welcome to the **DSA Questions Repository**! This repository serves as an ideal resource for interview preparation and skill enhancement in Data Structures and Algorithms (DSA). It comprises a comprehensive collection of DSA questions, along with clear explanations and solutions for each problem.
 
@@ -14,13 +12,15 @@ This repository provides a variety of problems that help developers improve thei
 - Interactive and user-friendly organization.
 
 ## Summary of the Changes 📝
-In the latest update, the README.md file has been enhanced to improve clarity and presentation. The following changes were made:
+Recent updates to the `README.md` file include:
+- Enhanced the overview section to better articulate the purpose of the repository.
+- Improved the features list for better clarity and engagement.
+- Added a section on usage to guide users on how to explore DSA questions.
+- Updated the example section to provide a simple function template.
 - Added GitHub badges for stars and forks to provide quick insights into the repository's popularity.
-- Introduced an overview section to summarize the purpose of the repository.
-- Minor text adjustments for better readability and engagement.
 
 ### Code Snippet Changes
-Here’s a glimpse of the changes made in the README.md:
+Here’s a glimpse of the changes made in the `README.md`:
 
 ```markdown
 ![GitHub stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-)
@@ -34,6 +34,7 @@ To get started with the DSA Questions Repository, clone the repository using the
 
 ```bash
 git clone https://github.com/Shivanilarokar/DSA-Questions-
+cd DSA-Questions-
 ```
 
 ## Usage 🚀
@@ -48,5 +49,5 @@ def example_function():
     pass
 ```
 
-Feel free to explore, contribute, and enhance your DSA skills with this repository!
+Feel free to explore, contribute, and enhance your DSA skills with this repository! 💪
 ```
