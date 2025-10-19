@@ -1,5 +1,5 @@
 ```markdown
-# DSA Questions Repository
+# DSA Questions Repository 🚀
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub last commit](https://img.shields.io/github/last-commit/Shivanilarokar/DSA-Questions-) ![Issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
 
@@ -16,18 +16,19 @@ This repository is designed to help users improve their coding skills through a 
 ## Summary of Changes
 In the latest commit, the README.md file has been updated to enhance clarity and improve user engagement. Notable changes include:
 
+### Key Changes:
 - Modified wording for a more succinct description of the repository's purpose.
 - Added a friendly closing remark to encourage user participation.
 
 ### Example Changes:
 **Before:**
 ```markdown
-- Feel free to explore, contribute, and enhance your coding skills with our collection of DSA questions!
+- Feel free to explore, contribute, and enhance your coding skills with our collection of DSA questions! Happy coding! 🎉
 ```
 
 **After:**
 ```markdown
-- Feel free to explore, contribute, and enhance your coding skills with our collection of DSA questions! Happy coding! 🎉
+- Feel free to explore, contribute, and enhance your coding skills with our collection of DSA questions!
 ```
 
 ## Installation
