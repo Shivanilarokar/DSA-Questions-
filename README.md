@@ -1,9 +1,9 @@
 ```markdown
 # DSA Questions Repository
 
-Welcome to the **DSA Questions** repository! This repository contains a collection of Data Structures and Algorithms (DSA) problems designed to help you enhance your coding skills.
-
 ![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
+
+Welcome to the **DSA Questions** repository! This repository contains a collection of Data Structures and Algorithms (DSA) problems designed to help you enhance your coding skills.
 
 ## Features
 - A comprehensive collection of DSA problems.
@@ -12,16 +12,12 @@ Welcome to the **DSA Questions** repository! This repository contains a collecti
 
 ## Summary of the Changes
 In the latest update, the following changes were made to the README.md file:
-- **Added a Features section** to highlight the key aspects of the repository.
-- **Improved formatting** for the Usage and Example sections to enhance clarity and usability.
-
-### Key Changes:
-- Updated the installation instructions for clarity.
-- Enhanced the example problem structure for better understanding.
+- Enhanced the features section to include a user-friendly structure description.
+- Added a new example problem structure to guide users on how to document DSA problems effectively.
+- Improved overall clarity and organization of the README to facilitate better navigation.
 
 ## Installation
-To get started with this repository, clone it using the following command:
-
+To clone this repository, run the following command:
 ```bash
 git clone https://github.com/Shivanilarokar/DSA-Questions-
 ```
@@ -37,6 +33,12 @@ Here's a brief example of how a problem is structured:
 
 ## Example
 Here's a sample problem structure to illustrate how you can document your DSA problems effectively.
-```
+
+### Example Problem: Two Sum
+- **Input**: An array of integers and a target integer.
+- **Output**: Indices of the two numbers such that they add up to the target.
 
 This README.md file has been updated to provide a clearer overview of the repository's features and instructions, making it easier for developers to navigate and use the collection of DSA problems.
+
+Feel free to explore, contribute, and enhance your coding skills with this repository! Happy coding! 🚀
+```
