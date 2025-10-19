@@ -1,26 +1,26 @@
 ```markdown
 # DSA Questions Repository 🤖
 
-Welcome to the DSA Questions repository! This project aims to provide a collection of Data Structures and Algorithms questions along with their solutions.
-
 ![GitHub repo size](https://img.shields.io/github/repo-size/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-) ![GitHub last commit](https://img.shields.io/github/last-commit/Shivanilarokar/DSA-Questions-)
 
 ## Overview
 
-This repository contains implementations of various data structures and algorithms in Python. The code is designed to be well-structured and easy to understand, making it a valuable resource for learners and developers alike.
+Welcome to the DSA Questions repository! This project aims to provide a collection of data structures and algorithms questions along with their solutions. This repository contains implementations of various data structures and algorithms in Python. The code is designed to be well-structured and easy to understand, making it a valuable resource for learners and developers alike.
 
 ## Features
 
+- Comprehensive coverage of data structures and algorithms 📚
 - Code examples implemented in Python 🐍
-- Well-structured and easy to understand 📚
-- Comprehensive coverage of data structures and algorithms 📊
+- Well-structured and easy to understand 📖
 
 ## Summary of Changes ⚙️
 
 In the latest update, the following changes were made:
 
-- Updated the header for the "Summary of Changes" section to enhance clarity.
-  
+1. **Updated Header**: The header for the "Summary of Changes" section was enhanced for clarity.
+2. **Removed Notebook File**: The `Day1.ipynb` file was removed, which contained initial DSA questions and their explanations.
+3. **Added Functionality**: Introduced a new `function.py` file that includes a class for managing a simple bank account. This class provides methods for deposit, withdrawal, and balance display.
+
 ### Code Snippet
 
 ```python
@@ -64,7 +64,7 @@ class BankAccount:
     def show_balance(self):
         print(f"Account Balance for {self.owner}: ₹{self.balance}")
 
-# Example Usage
+# Example of using the class
 acc = BankAccount("Shivani", 5000)
 acc.deposit(1000)
 acc.withdraw(2000)
@@ -74,8 +74,6 @@ acc.show_balance()
 ## Contribution
 
 Contributions are welcome! Please feel free to submit a pull request or open an issue if you have suggestions for improvements.
-
----
 
 Thank you for checking out the DSA Questions repository! Happy coding! 🚀
 ```
