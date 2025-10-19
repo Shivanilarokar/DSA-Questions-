@@ -14,7 +14,7 @@ Welcome to the DSA Questions repository! This repository is dedicated to providi
 - Community contributions are welcome!
 
 ## Summary of the Changes
-Recent updates to the README.md include:
+Recent updates to the `README.md` include:
 - Enhanced clarity in the repository description.
 - Added a new section for Usage.
 - Improved the example code snippet for better understanding.
@@ -25,7 +25,7 @@ Recent updates to the README.md include:
 To get started, clone the repository and navigate to the project directory:
 
 ```bash
-git clone https://github.com/Shivanilarokar/DSA-Questions-
+git clone https://github.com/Shivanilarokar/DSA-Questions-.git
 cd DSA-Questions-
 ```
 
@@ -41,6 +41,8 @@ def example_solution():
 Feel free to contribute and enhance this repository with your own solutions and explanations! 🚀
 
 ```
-This README.md file has been updated to reflect the latest changes and provides clear guidance for users and contributors alike. Happy coding! 
+This README.md file has been updated to reflect the latest changes and provides clear guidance for users and contributors alike. Happy coding!
 ```
-```
+``` 
+
+This professional README.md file presents a clear structure and highlights the recent changes effectively, making it appealing for both users and potential contributors.
