@@ -20,13 +20,9 @@ This repository contains implementations of various data structures and algorith
 In the latest update, the following changes were made:
 
 1. **Updated Introduction**: Enhanced the introduction to make it more welcoming and informative.
-2. **Header Update**: Changed the section title from "Summary of Changes" to "Summary of the Changes" for clarity.
-3. **Removed Notebook File**: The `Day1.ipynb` file containing initial DSA questions and their explanations was removed.
-4. **Improved Functionality**:
-   - Enhanced the `BankAccount` class in `function.py` to handle deposits and withdrawals more effectively.
-   - Added a default balance parameter to the `BankAccount` constructor.
-   - Included print statements to provide feedback on deposit and withdrawal actions.
-   - Enhanced error handling for insufficient funds during withdrawals.
+2. **Added Badges**: Included GitHub repo stars, forks, and issues badges for better visibility.
+3. **Overview Section**: Introduced an overview section to provide context about the repository.
+4. **Improved Features Section**: Updated the features section to reflect current offerings.
 5. **Minor Adjustments**: Made minor adjustments to improve readability and structure throughout the README.
 
 ### Code Snippet
@@ -35,23 +31,11 @@ Here's a glimpse of the updated `BankAccount` class:
 
 ```python
 class BankAccount:
-    def __init__(self, owner, balance=0):
-        self.owner = owner
+    def __init__(self, balance=0):
         self.balance = balance
 
-    def deposit(self, amount):
-        self.balance += amount
-        print(f"{amount} deposited. New balance: ₹{self.balance}")
-
-    def withdraw(self, amount):
-        if amount > self.balance:
-            print("Insufficient funds!")
-        else:
-            self.balance -= amount
-            print(f"{amount} withdrawn. New balance: ₹{self.balance}")
-
     def show_balance(self):
-        print(f"Account Balance for {self.owner}: ₹{self.balance}")
+        print(f"Current balance: ${self.balance}")
 ```
 
 ### Example Usage
@@ -59,14 +43,11 @@ class BankAccount:
 Here are some snippets from the modified sections:
 
 ```python
-# Example Usage
-acc = BankAccount("John Doe", 1000)
-acc.deposit(500)
-acc.withdraw(2000)
+acc = BankAccount()
 acc.show_balance()
 ```
 
-## Installation 🛠️
+## Installation 🔧
 
 To get started with this repository, clone it to your local machine:
 
