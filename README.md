@@ -1,5 +1,5 @@
 ```markdown
-# DSA Questions Repository 📚
+# DSA Questions Repository 📖
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
 
@@ -11,12 +11,12 @@ This repository is focused on providing a variety of DSA problems with solutions
 
 ## Features
 
-- A diverse range of DSA problems categorized by difficulty.
-- Solutions provided in multiple programming languages.
-- Resources and links for further learning.
-- Community-driven contributions and discussions.
+- Comprehensive collection of DSA problems.
+- Solutions available in various programming languages.
+- Designed for learners and coding enthusiasts.
+- Regular updates and improvements.
 
-## Summary of Changes
+## Summary of the Changes
 
 In the latest update, the README file has been enhanced to provide clearer information about the repository. Notable changes include:
 
@@ -34,23 +34,39 @@ Here are some specific changes made to the README.md:
     Welcome to the **DSA Questions** repository! This repository contains a collection of data structures and algorithms (DSA) problems designed for learners and enthusiasts. It aims to provide a comprehensive set of problems that can aid in mastering DSA concepts.
     ```
 
+2. **New License Section:**
+    ```markdown
+    ## License
+    This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+    ```
+
+3. **Updated Contribution Statement:**
+    ```markdown
+    > Feel free to explore, contribute, and enhance the repository. Happy coding! 😃
+    ```
+
 ## Installation
 
-To get started with this repository, clone it to your local machine:
+To get started with this repository, clone it using the command below:
+
 ```bash
-git clone https://github.com/Shivanilarokar/DSA-Questions-.git
+git clone https://github.com/Shivanilarokar/DSA-Questions-
+```
+
+Navigate into the project directory:
+
+```bash
 cd DSA-Questions-
 ```
 
-Once cloned, you can navigate to the respective directory and start exploring the problems and solutions.
-
 ## Usage
 
-Explore the various DSA problems and solutions available in this repository. Each problem is clearly defined, and solutions are provided in different programming languages for better understanding.
+Explore the various DSA problems and their solutions. Each problem is categorized and can be accessed through the respective directories.
 
 ## Example
 
-Here’s an example of how to use one of the solutions:
+Here is a simple example of a function you might find in this repository:
+
 ```python
 def example_function():
     print("This is an example function.")
