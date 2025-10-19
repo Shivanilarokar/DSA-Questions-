@@ -1,18 +1,15 @@
 ```markdown
-# DSA Questions Repository 📖
+# DSA Questions Repository 🚀📖
 
-![GitHub repo size](https://img.shields.io/github/repo-size/Shivanilarokar/DSA-Questions-) ![Last Commit](https://img.shields.io/github/last-commit/Shivanilarokar/DSA-Questions-) ![Open Issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
+This repository contains a collection of Data Structures and Algorithms (DSA) questions and solutions to help you enhance your coding skills and prepare for technical interviews.
 
-## Overview
-This repository contains a collection of Data Structures and Algorithms (DSA) questions and solutions designed to help you enhance your understanding and skills in DSA.
+## Features
+- Comprehensive collection of DSA questions and solutions.
+- Code snippets in multiple programming languages.
+- Easy navigation through questions and solutions.
+- Community-driven contributions.
 
-## Features ✨
-- Comprehensive collection of DSA questions
-- Sample solutions in Python
-- Clear documentation and usage examples
-- Community contributions welcome! 🤝
-
-## Summary of Changes 📝
+## Summary of the Changes
 In the recent update, the following modifications were made to the `README.md` file:
 - **Title Update**: Changed the title to better reflect the repository's purpose.
 - **Section Headers**: Enhanced section headers for improved clarity.
@@ -32,7 +29,7 @@ git clone https://github.com/Shivanilarokar/DSA-Questions-
 ```
 
 ## Usage
-To utilize the repository, navigate through the provided questions and solutions. You can run the example solutions provided to see how they work.
+To utilize the repository, navigate through the provided questions and solutions. Each question has a corresponding solution implemented in various programming languages.
 
 ### Example
 Here’s a sample function demonstrating usage:
@@ -42,5 +39,5 @@ def example_function():
     print("This is an example function!")
 ```
 
-Feel free to explore, contribute, and enhance your DSA skills!
+Feel free to explore, contribute, and enhance your DSA skills! Happy coding! 🚀
 ```
