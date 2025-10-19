@@ -1,9 +1,9 @@
 ```markdown
 # DSA Questions 🚀
 
-This repository is dedicated to helping developers and students improve their skills in Data Structures and Algorithms (DSA) through a collection of curated questions and solutions.
-
 ![GitHub Repo Size](https://img.shields.io/github/repo-size/Shivanilarokar/DSA-Questions-) ![Contributors](https://img.shields.io/github/contributors/Shivanilarokar/DSA-Questions-) ![Issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
+
+This repository is dedicated to helping developers and students improve their skills in Data Structures and Algorithms (DSA) through a collection of curated questions and solutions.
 
 ## Features ✨
 - A collection of DSA questions to practice and enhance your skills.
@@ -15,23 +15,12 @@ This repository is dedicated to helping developers and students improve their sk
 
 ## Summary of Changes
 In the latest update, the README has been enhanced to improve clarity and usability:
-- Added a **Features** section to outline the benefits of the repository.
-- Updated the language in the **Usage** section for better readability.
-- Refined the example code to improve clarity and accuracy in the Fibonacci function.
 
-## Installation
-To get started with the project, clone the repository using the following command:
+- Added a **Features** section to outline the repository's offerings.
+- Included more detailed explanations for better understanding.
+- Enhanced the example code for clarity and added edge case handling.
 
-```bash
-git clone https://github.com/Shivanilarokar/DSA-Questions-.git
-```
-
-You can start practicing with the DSA questions by navigating to the respective directories.
-
-## Usage
-Explore the various DSA questions and their solutions. Each question is designed to help you practice and understand different concepts in data structures and algorithms.
-
-## Example
+### Example of a Python Function
 Here’s an example of a simple Python function demonstrating a common algorithm:
 
 ```python
