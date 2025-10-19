@@ -1,5 +1,5 @@
 ```markdown
-# DSA Questions 🎈
+# DSA Questions 🎉
 
 [![GitHub stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-?style=social)](https://github.com/Shivanilarokar/DSA-Questions-) 
 [![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-?style=social)](https://github.com/Shivanilarokar/DSA-Questions-)
@@ -59,6 +59,9 @@ def two_sum(nums, target):
             return [num_map[complement], i]
         num_map[num] = i
 
+# Example Input
+nums = [2, 7, 11, 15]
+target = 9
 print(two_sum(nums, target))  # Output: [0, 1]  # Because nums[0] + nums[1] == 9
 ```
 
