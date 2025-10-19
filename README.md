@@ -1,6 +1,8 @@
 ```markdown
 # DSA Questions Repository 🚀
 
+![GitHub repo size](https://img.shields.io/github/repo-size/Shivanilarokar/DSA-Questions-) ![License](https://img.shields.io/badge/license-MIT-blue.svg)
+
 Welcome to the DSA Questions repository! This repository provides a structured approach to learning Data Structures and Algorithms through a collection of questions and solutions.
 
 ## Overview
@@ -15,10 +17,16 @@ This repository is designed for developers and learners who want to enhance thei
 ### Recent Updates
 In the latest update, the following changes were made:
 - Updated the repository name in the header for clarity.
-- Changed the emoji in the "Summary of the Changes" section from 📜 to 📜.
+- Changed the emoji in the "Summary of the Changes" section.
 - Streamlined the "Usage" and "Example" sections for better readability.
 
-## Installation
+### Here are the snippets of the updated sections:
+```diff
+-# DSA Questions Repository 🤖
++# DSA Questions Repository 🚀
+```
+
+## Installation ⚙️
 To get started with this repository, clone it using the following command:
 ```bash
 git clone https://github.com/Shivanilarokar/DSA-Questions-
@@ -38,4 +46,6 @@ print(example_function([-1, 2, 0, 3]))
 ```
 
 Feel free to explore the repository and contribute by adding new questions or improving existing solutions! 🚀
+
+For more information, visit the [GitHub Repository](https://github.com/Shivanilarokar/DSA-Questions-).
 ```
