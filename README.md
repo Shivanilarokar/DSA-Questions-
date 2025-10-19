@@ -24,37 +24,29 @@ In the latest update, the README.md file has been modified to enhance clarity an
 - **Section Renaming**:
   - Updated the emoji in the Overview section from 🤩 to 🤖.
   - Changed the emoji in the Features section from 🤩 to 🌟.
+  - Updated the emoji in the Summary of Changes section from 🌠 to ⚡.
 
 ## Installation 💻
 
 To get started with the DSA Questions repository, follow these steps:
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Shivanilarokar/DSA-Questions-
-   ```
-2. Navigate into the project directory:
-   ```bash
-   cd DSA-Questions-
-   ```
+```bash
+git clone https://github.com/Shivanilarokar/DSA-Questions-
+cd DSA-Questions-
+```
 
 ## Usage 📖
 
 Once the repository is cloned, you can start exploring the DSA questions and their solutions. Each question is categorized and comes with explanations to help you understand the concepts better. 
 
-## Example 📝
+### Example
 
-Here’s a simple example of how you might interact with a question in this repository:
+Here’s a simple example of a solution format:
 
 ```python
 def example_solution():
-    # Example function to demonstrate usage
     print("This is an example solution to a DSA question!")
 ```
 
 Feel free to contribute by adding new questions or improving existing solutions! Your contributions are highly appreciated.
-
----
-
-Thank you for checking out the DSA Questions repository! Happy coding! 🚀
 ```
