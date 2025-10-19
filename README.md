@@ -1,10 +1,13 @@
 ```markdown
 # DSA Questions 🌟
 
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/Shivanilarokar/DSA-Questions-/blob/master/LICENSE) 
-[![Python version](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/downloads/release/python-380/)
+![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-) [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/Shivanilarokar/DSA-Questions-/blob/master/LICENSE) [![Python version](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/downloads/release/python-380/)
 
-The DSA Questions repository offers a comprehensive collection of questions covering various data structures and algorithms, along with well-documented solutions and explanations. This resource is perfect for students and professionals looking to enhance their problem-solving skills.
+Welcome to the **DSA Questions** repository! This repository offers a comprehensive collection of questions covering various data structures and algorithms, along with well-documented solutions and explanations. This resource is perfect for students and professionals looking to enhance their problem-solving skills.
+
+## Overview
+
+The DSA Questions repository serves as a valuable resource for learners and developers looking to enhance their skills in data structures and algorithms.
 
 ## Features 🔍
 - Well-documented solutions with explanations.
@@ -28,6 +31,9 @@ def fibonacci(n):
         return 1
     else:
         return fibonacci(n - 1) + fibonacci(n - 2)
+
+print(fibonacci(5))  # Output: 5
+print(fibonacci(0))  # Output: Input should be a positive integer
 ```
 This function now includes handling for edge cases, ensuring robustness.
 
@@ -53,8 +59,6 @@ print(fibonacci(0))  # Output: Input should be a positive integer
 ```
 
 Feel free to contribute to this repository by submitting your own questions and solutions!
-
----
 
 For more information, check the [GitHub repository](https://github.com/Shivanilarokar/DSA-Questions-).
 ```
