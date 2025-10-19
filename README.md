@@ -25,11 +25,11 @@ To clone this repository, run the following command:
 git clone https://github.com/Shivanilarokar/DSA-Questions-
 ```
 
-## Usage 📚
-After cloning the repository, navigate to the directory and explore the various DSA questions and solutions provided.
+## Usage
+You can navigate through the various DSA questions and their solutions provided in this repository. Each question is detailed with explanations and code snippets to help you understand the concepts better.
 
-## Example 💻
-Here’s a simple example function included in the repository:
+### Example
+Here is a simple example function:
 
 ```python
 def example_function():
