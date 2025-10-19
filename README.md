@@ -1,5 +1,5 @@
 ```markdown
-# DSA Questions Repository 🤖
+# DSA Questions 🤖
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-?style=social) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-?style=social)
 
@@ -13,20 +13,15 @@ Welcome to the DSA Questions repository! This repository contains a collection o
 
 ## Summary of the Changes
 In this update, the following changes were made:
-- The title emoji was updated to a robot emoji 🤖.
+- Updated the title emoji to a robot emoji 🤖.
 - Added instructions for navigating into the cloned repository directory.
 - Improved variable naming for clarity in the Fibonacci function.
 
-## Installation
+## Installation 🚀
 To get started with this repository, clone it to your local machine using the following command:
 
 ```bash
-git clone https://github.com/Shivanilarokar/DSA-Questions-
-```
-
-After cloning, navigate into the directory:
-
-```bash
+git clone https://github.com/Shivanilarokar/DSA-Questions-.git
 cd DSA-Questions-
 ```
 
@@ -51,5 +46,5 @@ print(fibonacci(10))  # Output: [0, 1, 1, 2, 3, 5, 8, 13, 21, 34]
 ## Contributing
 We welcome contributions! Please feel free to open issues or submit pull requests to improve the repository.
 
-Happy coding! 🚀
+Happy coding! 🎉
 ```
