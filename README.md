@@ -20,6 +20,8 @@ In the latest commit, the `README.md` file has been updated to enhance its prese
 - Improved clarity in the installation instructions.
 - Enhanced descriptions in the usage section.
 - Minor formatting changes for better readability.
+- Added a command snippet for changing the directory after cloning the repository.
+- Included a new section to illustrate an example problem.
 
 ### Code Snippet of Changes
 
