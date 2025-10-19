@@ -20,18 +20,8 @@ In the latest update, the `README.md` file has been modified to enhance clarity 
 - Revised example function for clearer understanding.
 - General improvements in wording for a more professional tone.
 
-### Code Snippet Changes
-Here’s an example of the updated code snippet in the README:
-
-```python
-# Example code implementation
-def example_function():
-    print("This is an example function.")
-```
-
-## Installation 💻
+## Installation
 To get started, clone the repository using the following command:
-
 ```bash
 git clone https://github.com/Shivanilarokar/DSA-Questions-
 ```
@@ -39,8 +29,12 @@ git clone https://github.com/Shivanilarokar/DSA-Questions-
 ## Usage 📖
 Once you have cloned the repository, navigate through the files to access different DSA questions and their respective solutions.
 
+Feel free to explore the repository and contribute to the collection of DSA questions and solutions!
+
 ## Contributing 🤝
 We welcome contributions to enhance this repository further! If you have suggestions or improvements, please fork the repository and submit a pull request.
+
+----
 
 Thank you for visiting the DSA Questions repository! Happy coding! 🎉
 ```
