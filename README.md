@@ -3,13 +3,12 @@
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-?style=social) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-?style=social)
 
-## Overview
-Welcome to the DSA Questions repository! This repository contains a collection of data structure and algorithm questions designed to help you improve your coding skills and prepare for technical interviews.
+Welcome to the DSA Questions repository! This repository contains a collection of data structures and algorithms questions designed to help you practice and enhance your coding skills.
 
 ## Features
-- Comprehensive set of DSA questions.
-- Solutions provided in Python.
-- Easy to navigate and clone for local use.
+- Comprehensive collection of DSA questions.
+- Solutions with explanations for better understanding.
+- Community contributions are welcome!
 
 ## Summary of the Changes
 In this update, the following changes were made:
@@ -22,23 +21,23 @@ To get started with this repository, clone it to your local machine using the fo
 
 ```bash
 git clone https://github.com/Shivanilarokar/DSA-Questions-.git
+```
+
+After cloning, navigate into the directory:
+
+```bash
 cd DSA-Questions-
 ```
 
 ## Usage
-Here’s a simple example of how to use the updated Fibonacci function:
+Once you have cloned the repository and navigated into the directory, you can run the examples provided in the code files. For instance, to see the Fibonacci function in action, you can use:
 
 ```python
 def fibonacci(n):
-    if n == 1:
-        return [0]
-    elif n == 2:
-        return [0, 1]
-    else:
-        fib_sequence = [0, 1]
-        for i in range(2, n):
-            fib_sequence.append(fib_sequence[-1] + fib_sequence[-2])
-        return fib_sequence
+    fib_sequence = [0, 1]
+    for i in range(2, n):
+        fib_sequence.append(fib_sequence[i-1] + fib_sequence[i-2])
+    return fib_sequence
 
 print(fibonacci(10))  # Output: [0, 1, 1, 2, 3, 5, 8, 13, 21, 34]
 ```
