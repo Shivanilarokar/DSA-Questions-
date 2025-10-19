@@ -1,6 +1,7 @@
 ```markdown
-# DSA Questions Repository
+# DSA Questions Repository 📚
 
+[![GitHub stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-?style=social)](https://github.com/Shivanilarokar/DSA-Questions-) 
 [![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-?style=social)](https://github.com/Shivanilarokar/DSA-Questions-)
 
 ## Overview
@@ -17,36 +18,37 @@ In the latest commit, the `README.md` file has been updated to enhance clarity a
 
 ### Changes in the Usage Section:
 ```diff
--## Usage 📖
-- Explore the questions, attempt the problems, and refer to the solutions and explanations provided.
-+## Usage 📖
+---## Usage
+---Explore the questions, attempt the problems, and refer to the solutions and explanations provided.
+++## Usage 📖
 + Explore the questions, attempt the problems, and refer to the solutions and explanations provided.
 ```
 
 ### Additional Changes:
-- Added a **Features** section to outline the repository's strengths.
-- Introduced a new section for contributing guidelines.
-- Streamlined the closing remarks to encourage contributions.
+- Updated the title to "DSA Questions Repository" for a more professional appearance.
+- Enhanced feature descriptions with emojis for better visual appeal.
 
 ## Installation
-To get started, clone the repository using the following command:
+To get started with the DSA Questions repository, clone the repository and install the necessary dependencies:
+
 ```bash
-git clone https://github.com/Shivanilarokar/DSA-Questions-.git
+git clone https://github.com/Shivanilarokar/DSA-Questions-
+cd DSA-Questions-
+# Install dependencies (if any)
 ```
 
-## Usage 📖
+## Usage
 Explore the questions, attempt the problems, and refer to the solutions and explanations provided.
 
 ## Example
-Below is a sample code demonstrating usage:
+Here’s a simple example to demonstrate how to use the repository:
+
 ```python
-# Sample code demonstrating usage
-def sample_function():
-    return "This is a sample function!"
+# Example problem solution
+def example_problem():
+    # Your solution here
+    pass
 ```
 
-For more details, visit the [repository](https://github.com/Shivanilarokar/DSA-Questions-). Happy coding! 🎉
-
-## Contributing
-Contributions are welcome! Please feel free to submit a pull request or raise an issue for any improvements or suggestions.
+Feel free to explore, contribute, and improve your skills with the DSA Questions repository. Happy coding! 🚀
 ```
