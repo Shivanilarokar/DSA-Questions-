@@ -1,9 +1,7 @@
 ```markdown
-# DSA Questions 📚
+# DSA Questions 📖
 
-![GitHub repo size](https://img.shields.io/github/repo-size/Shivanilarokar/DSA-Questions-)
-![GitHub last commit](https://img.shields.io/github/last-commit/Shivanilarokar/DSA-Questions-)
-![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
+![GitHub repo size](https://img.shields.io/github/repo-size/Shivanilarokar/DSA-Questions-) ![GitHub last commit](https://img.shields.io/github/last-commit/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
 
 ## Overview
 
@@ -19,8 +17,10 @@ Welcome to the DSA Questions repository! This project aims to provide a comprehe
 
 In the recent update, the following modifications were made to the `README.md` file:
 
-- Updated the cloning command to include the `.git` extension for better compatibility.
-- Removed an outdated code snippet that was not representative of the current examples.
+- **Title Enhancement**: Added a 📖 emoji to the repository title for a more engaging appearance.
+- **Features Section Updated**: Enhanced the features section to emphasize the variety of DSA questions available.
+- **Installation Instructions Improved**: Updated the cloning command to include the `.git` extension for better compatibility.
+- **Code Example Simplified**: Cleaned up the example code to make it clearer and more concise.
 
 ### Changes Made
 ```diff
