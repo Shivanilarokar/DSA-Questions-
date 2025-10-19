@@ -6,22 +6,21 @@
 Welcome to the DSA Questions repository! Here, you will find a collection of Data Structures and Algorithms questions along with their solutions. This repository aims to help you improve your coding skills and prepare for technical interviews.
 
 ## Features ✨
-- Comprehensive collection of DSA problems and solutions.
-- Clear explanations and code snippets for better understanding.
-- Easily clone and contribute to the repository.
+- A comprehensive collection of DSA questions.
+- Solutions provided for better understanding.
+- Contribute by adding new questions or improving existing solutions.
 
 ## Summary of the Changes 📝
 In the recent update, the following modifications were made to the `README.md` file:
-- Added badges to display repository size, last commit date, and open issues.
-- Updated the clone command to include the `.git` extension for clarity.
-- Minor formatting changes to enhance readability.
 
-### Code Snippet of Changes
+- Added badges for repository size, last commit, and issues.
+- Improved clarity and structure of the installation instructions.
+- Updated example code to better illustrate usage.
+
+### Key Changes:
 ```diff
 -   git clone https://github.com/Shivanilarokar/DSA-Questions-
 +   git clone https://github.com/Shivanilarokar/DSA-Questions-.git
--# DSA Questions 📖
-+# DSA Questions 📚
 ```
 
 ## Installation ⚙️
