@@ -1,15 +1,12 @@
 ```markdown
-# DSA Questions 📚
+# DSA Questions Repository
 
-![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub license](https://img.shields.io/github/license/Shivanilarokar/DSA-Questions-) ![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen)
-
-## Overview
-Welcome to the DSA Questions repository! This repository is designed to help you improve your Data Structures and Algorithms (DSA) skills through a collection of questions and solutions.
+Welcome to the DSA Questions repository! This repository is designed to help you improve your Data Structures and Algorithms (DSA) skills by providing comprehensive questions and structured solutions.
 
 ## Features
 - Comprehensive DSA questions
-- Structured solutions for better understanding
 - Engaging and clear explanations for each question
+- Structured solutions for better understanding
 - Community contributions encouraged! 🎉
 
 ## Summary of the Changes
@@ -34,6 +31,9 @@ To get started with the DSA Questions repository, clone the repository using the
 git clone https://github.com/Shivanilarokar/DSA-Questions-
 ```
 
+## Usage
+Explore the questions and solutions to improve your DSA skills. Each question is designed to provide a comprehensive learning experience.
+
 ## Contributing
 We welcome contributions from the community! Feel free to fork the repository and submit a pull request.
 
@@ -41,6 +41,5 @@ We welcome contributions from the community! Feel free to fork the repository an
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
-
-Thank you for checking out the DSA Questions repository! Happy Coding! 🎉
 ```
+This README.md provides a clear and concise overview of the DSA Questions repository, highlighting the key changes made, and maintaining a professional and engaging tone for potential contributors and users.
