@@ -11,7 +11,7 @@ This repository aims to equip developers with a diverse array of DSA problems, e
 
 ## Features ✨
 
-- A collection of diverse DSA problems.
+- A wide range of DSA problems.
 - Detailed problem descriptions and examples.
 - Community contributions are welcome!
 
@@ -22,18 +22,18 @@ In the latest update, the following changes were made to the README.md file:
 - Enhanced the introduction to clarify the repository's purpose.
 - Added an "Overview" section to provide more context about the repository.
 - Improved formatting and visual appeal of the README.
+- Added an example problem to illustrate how to use the repository effectively.
 
 ### Code Snippet Changes
 
 Here are some highlights from the changes made:
 
 ```markdown
-- This repository aims to equip developers with a vast array of DSA problems, enabling them to enhance their problem-solving skills and coding proficiency.
-+ Welcome to the DSA Questions repository! This project is designed to provide a collection of Data Structures and Algorithms (DSA) problems that can help developers of all skill levels enhance their problem-solving capabilities.
+- Welcome to the DSA Questions repository! This project is designed to provide a collection of Data Structures and Algorithms (DSA) problems that can help developers of all skill levels enhance their problem-solving capabilities.
 
-+ ## Overview 🌟
-+ 
-+ This repository aims to equip developers with a diverse array of DSA problems, enabling them to enhance their problem-solving skills and coding proficiency.
+## Overview 🌟
+
+This repository aims to equip developers with a diverse array of DSA problems, enabling them to enhance their problem-solving skills and coding proficiency.
 ```
 
 ## Installation 💻
@@ -45,7 +45,7 @@ git clone https://github.com/Shivanilarokar/DSA-Questions-
 cd DSA-Questions-
 ```
 
-## Usage 📖
+## Usage 📚
 
 Explore the various DSA problems available in the repository. Each problem typically includes a description and example code to help guide your implementation.
 
