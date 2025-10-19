@@ -44,7 +44,5 @@ cd DSA-Questions-
 ## Usage
 Explore the various DSA problems and try solving them! Feel free to contribute by adding your own solutions or improving existing ones.
 
----
-
 Thank you for checking out the DSA Questions Repository! We welcome contributions from everyone. Happy coding! 💻
 ```
