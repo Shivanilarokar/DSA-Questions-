@@ -6,17 +6,21 @@
 Welcome to the DSA Questions repository! This repository contains a collection of data structures and algorithms (DSA) questions designed to help you enhance your coding skills.
 
 ## Overview
-This repository aims to provide a comprehensive set of DSA questions that can aid in preparing for technical interviews and improving your problem-solving abilities. 
+This repository serves as a valuable resource for anyone looking to improve their understanding and application of data structures and algorithms through practical questions and solutions.
 
 ## Features
-- A variety of DSA questions with solutions.
-- Well-structured and easy-to-navigate repository.
-- Regular updates to ensure the content remains relevant.
+- Comprehensive collection of DSA questions
+- Well-documented solutions
+- Easy to navigate and understand
 
 ## Summary of the Changes
-In the recent update, the `README.md` file has been modified to improve clarity and presentation:
-- Enhanced the introductory text for better understanding.
-- Improved formatting of sections and added emojis for a more engaging appearance.
+In the recent update, the `README.md` file has been modified to improve clarity and structure. The following changes were made:
+
+- Enhanced the title for better clarity.
+- Updated the welcome message to reflect the purpose of the repository more effectively.
+- Added badges for GitHub stars, forks, and issues to provide quick insights into the repository's popularity and activity.
+- Improved installation instructions for better readability.
+- Minor formatting adjustments for consistency.
 
 ### Code Snippets of Changes
 Here are some snippets highlighting the modifications made:
@@ -24,7 +28,7 @@ Here are some snippets highlighting the modifications made:
 ```diff
 -# DSA Questions Repository 🚀
 +# DSA Questions 🚀
- 
+
 -Welcome to the DSA Questions repository! This repository provides a variety of DSA questions aimed at helping you improve your data structures and algorithms skills.
 +This repository contains a collection of data structures and algorithms (DSA) questions designed to help you enhance your coding skills.
 ```
@@ -33,7 +37,7 @@ Here are some snippets highlighting the modifications made:
 Follow these steps to get the project up and running on your local machine.
 
 ```bash
-git clone https://github.com/Shivanilarokar/DSA-Questions-
+git clone https://github.com/Shivanilarokar/DSA-Questions-.git
 cd DSA-Questions-
 ```
 
