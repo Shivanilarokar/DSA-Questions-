@@ -1,5 +1,5 @@
 ```markdown
-# DSA Questions Repository 📚
+# DSA Questions Repository 📖
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/Shivanilarokar/DSA-Questions-)  
 ![GitHub stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-)
@@ -9,9 +9,9 @@ Welcome to the DSA Questions repository! This project contains a comprehensive c
 
 ## Features
 - Comprehensive collection of DSA questions
-- Solutions provided for each question
-- Easy to navigate directory structure
-- Community contributions are welcome! 🎉
+- Detailed solutions for each question
+- Clear and concise usage instructions
+- Open for contributions and collaboration
 
 ## Summary of the Changes
 In the latest update, the README.md has been refined to enhance clarity and usability. The following changes were made:
@@ -26,16 +26,20 @@ In the latest update, the README.md has been refined to enhance clarity and usab
 - Streamlined document structure for clarity.
 
 ## Installation
-To get started, clone the repository using the following command:
+To get started with this repository, clone it using the following command:
 
 ```bash
-git clone https://github.com/Shivanilarokar/DSA-Questions-
+git clone https://github.com/Shivanilarokar/DSA-Questions-.git
 ```
 
 ## Usage
-Once you have cloned the repository, navigate to the directory and follow the instructions in the respective question directories to run the solutions.
+To use the solutions provided in this repository, follow these simple steps:
 
-## Example
+1. Navigate to the desired solution file.
+2. Import the function in your project.
+3. Call the function with the required parameters.
+
+### Example
 Here’s a simple example of how to use one of the solution functions:
 
 ```python
@@ -44,5 +48,5 @@ def example_function():
     pass
 ```
 
-Feel free to explore the repository and contribute to it!
+Feel free to explore the repository and contribute to it! Happy coding! 🚀
 ```
