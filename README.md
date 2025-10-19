@@ -27,7 +27,7 @@ git clone https://github.com/Shivanilarokar/DSA-Questions-
 ## Usage 📍
 After cloning the repository, navigate into the directory and explore the various DSA questions provided. You can also contribute by adding more questions and solutions.
 
-## Example 👨‍💻
+## Example 👩‍💻
 Here's an example of how to use one of the questions in the repository:
 
 ```python
@@ -35,6 +35,8 @@ def example_function():
     # Your implementation here
     pass
 ```
+
+---
 
 This README.md file has been structured to provide a clear and concise overview of the DSA Questions repository, highlighting recent changes while maintaining a professional and appealing format.
 
