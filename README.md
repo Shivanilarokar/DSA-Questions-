@@ -1,14 +1,17 @@
 ```markdown
 # DSA Questions 📚
 
-![GitHub stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-?style=social) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-?style=social)
-
 This repository focuses on providing a comprehensive collection of Data Structures and Algorithms (DSA) problems, helping you to strengthen your coding skills and prepare for technical interviews.
+
+![GitHub stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-?style=social) 
+![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-) 
+![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-?style=social)
 
 ## Features ✨
 - Extensive collection of DSA problems
 - Organized by topics for easy navigation
 - Clear installation and usage instructions
+- Contribution guide for collaborative enhancement
 
 ## Summary of the Changes 📝
 In the latest update:
@@ -23,7 +26,7 @@ In the latest update:
 To get started with this repository, clone it using the following command:
 
 ```bash
-git clone https://github.com/Shivanilarokar/DSA-Questions-
+git clone https://github.com/Shivanilarokar/DSA-Questions-.git
 cd DSA-Questions-
 ```
 
@@ -52,4 +55,6 @@ print(fibonacci(10))  # Output: [0, 1, 1, 2, 3, 5, 8, 13, 21, 34]
 ```
 
 Feel free to contribute to this repository by adding more problems or improving existing solutions!
+
+Happy coding! 🎉
 ```
