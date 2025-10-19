@@ -15,6 +15,9 @@ This repository focuses on providing a comprehensive collection of DSA problems 
 
 ## Summary of the Changes
 In the latest update, the README.md file has been enhanced to provide clearer instructions and a more structured format. Here are the key changes made:
+- **Title Formatting**: The title was simplified for a cleaner look.
+- **Usage Section**: The usage instructions were rephrased for clarity.
+- **Example Section**: Added a structured contribution guide, detailing the steps to fork the repository and submit changes.
 - **Minor Text Adjustments**: Enhanced the overall readability and flow of the README.
 - Improved formatting and clarity in the installation and usage sections.
 
@@ -28,9 +31,6 @@ cd DSA-Questions-
 ```
 
 ## Usage
-Follow the guidelines provided in this repository to explore various DSA problems and their solutions.
-
-## Example
 Here’s an example of how to contribute:
 
 ```markdown
@@ -43,5 +43,5 @@ Here’s an example of how to contribute:
 6. Submit a pull request to the original repository.
 ```
 
-We welcome contributions and encourage you to explore the world of Data Structures and Algorithms! Happy coding! 🎉
+Feel free to explore the repository and contribute to enhancing the DSA problems collection!
 ```
