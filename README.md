@@ -1,11 +1,10 @@
 ```markdown
 # DSA Questions 📚
 
-This repository focuses on providing a comprehensive collection of Data Structures and Algorithms (DSA) problems, helping you to strengthen your coding skills and prepare for technical interviews.
+![GitHub repo size](https://img.shields.io/github/repo-size/Shivanilarokar/DSA-Questions-) 
+![GitHub contributors](https://img.shields.io/github/contributors/Shivanilarokar/DSA-Questions-)
 
-![GitHub stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-?style=social) 
-![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-) 
-![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-?style=social)
+This repository focuses on providing a comprehensive collection of Data Structure and Algorithm (DSA) problems, organized into various topics for easy navigation and learning.
 
 ## Features ✨
 - Extensive collection of DSA problems
@@ -14,28 +13,30 @@ This repository focuses on providing a comprehensive collection of Data Structur
 - Contribution guide for collaborative enhancement
 
 ## Summary of the Changes 📝
-In the latest update:
-- Added a **Features** section to highlight key aspects of the repository.
-- Enhanced the **Usage** section to provide clearer instructions on exploring the repository.
-- Introduced an **Example** section with a sample algorithm to demonstrate usage.
-- Updated the title emoji from 📓 to 📖 for a more relevant representation.
-- Added badges for GitHub stars, issues, and forks to enhance visibility and engagement.
-- Improved formatting and clarity in the installation and usage sections.
-- Added a friendly closing remark to encourage contributions.
+In the latest update, the following changes were made:
+
+- Added clear installation and usage instructions to the README.
+- Introduced a contribution guide to facilitate collaborative development.
+- Updated the Fibonacci function to handle edge cases more effectively.
 
 ## Installation 🚀
-To get started with this repository, clone it using the following command:
+To get started with the DSA Questions repository, clone it using the following command:
 
 ```bash
-git clone https://github.com/Shivanilarokar/DSA-Questions-.git
+git clone https://github.com/Shivanilarokar/DSA-Questions-
+```
+
+After cloning, navigate into the directory:
+
+```bash
 cd DSA-Questions-
 ```
 
-## Usage
-Once you have cloned the repository, you can start exploring the DSA problems provided. Each problem includes a description, sample inputs/outputs, and solutions.
+## Usage 🔧
+This repository contains various functions to solve DSA problems. Each function is documented for easy understanding.
 
-## Example
-Here’s a simple example of how to use one of the functions:
+### Example
+Here’s a simple example of how to use the updated Fibonacci function:
 
 ```python
 def fibonacci(n):
@@ -54,5 +55,8 @@ def fibonacci(n):
 print(fibonacci(10))  # Output: [0, 1, 1, 2, 3, 5, 8, 13, 21, 34]
 ```
 
-Feel free to explore, contribute, and improve the repository! Your contributions are welcome! 🎉
+## Contributing 🤝
+We welcome contributions! Please refer to the contribution guide for instructions on how to contribute to this repository.
+
+Thank you for checking out DSA Questions! Happy coding! 🎉
 ```
