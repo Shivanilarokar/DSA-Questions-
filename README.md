@@ -1,9 +1,8 @@
 ```markdown
-# DSA Questions Repository
+# DSA Questions Repository 📚
 
 ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-) ![GitHub license](https://img.shields.io/github/license/Shivanilarokar/DSA-Questions-)
 
-## Overview
 The DSA Questions repository is a comprehensive resource designed to provide a collection of Data Structures and Algorithms (DSA) questions to help you enhance your coding skills and prepare for technical interviews.
 
 ## Features
@@ -21,10 +20,9 @@ In the latest update, the `README.md` file has been auto-updated to enhance clar
 
 ### Code Snippet of Changes
 ```diff
-- The DSA Questions repository is designed to provide a collection of Data Structures and Algorithms (DSA) questions to help you enhance your coding skills and prepare for technical interviews.
-+ The DSA Questions repository is a comprehensive resource designed to provide a collection of Data Structures and Algorithms (DSA) questions to help you enhance your coding skills and prepare for technical interviews.
+- The DSA Questions repository is a comprehensive resource designed to provide a collection of Data Structures and Algorithms (DSA) questions to help you enhance your coding skills and prepare for technical interviews.
++ The DSA Questions repository is designed to provide a collection of Data Structures and Algorithms (DSA) questions to help you enhance your coding skills and prepare for technical interviews.
 
-- To get started with the DSA Questions repository, clone the repository and navigate into the project directory:
 + To get started with the DSA Questions repository, clone the repository and navigate into the project directory:
 ```
 
@@ -38,14 +36,12 @@ cd DSA-Questions-
 Make sure to install any required dependencies.
 
 ## Usage
-After cloning the repository and installing any necessary dependencies, you can start exploring the questions and solutions provided.
+This repository contains various DSA questions categorized for easy access. You can navigate through the questions and find the solutions that best suit your learning needs.
 
 ## Example
-Here's an example function from the repository:
+Here’s a simple function to demonstrate usage:
 ```python
-# Example usage of a DSA question
 def example_function():
-    # Implement your solution here
     pass
 ```
 
