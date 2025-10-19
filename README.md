@@ -1,5 +1,4 @@
-```markdown
-# DSA Questions Repository 📚🤖
+# DSA Questions Repository
 
 ![GitHub stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-?style=social) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-?style=social) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
 
@@ -31,9 +30,6 @@ class BankAccount:
 
     def show_balance(self):
         print(f"Current balance: ${self.balance}")
-
-acc = BankAccount()
-acc.show_balance()
 ```
 
 ## Installation 🚀
@@ -46,7 +42,8 @@ git clone https://github.com/Shivanilarokar/DSA-Questions-
 ## Usage 🎉
 After cloning the repository, navigate to the project directory and run the Python files as needed. Make sure you have Python installed on your machine.
 
-For any contributions or suggestions, feel free to open an issue or submit a pull request!
+For any contributions or suggestions, feel free to open an issue or submit a pull request! 
 
-Happy coding! 🎊
-```
+---
+
+Thank you for checking out the DSA Questions repository! Happy coding! 😊
