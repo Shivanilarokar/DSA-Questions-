@@ -14,6 +14,7 @@ This repository contains a collection of Data Structures and Algorithms (DSA) qu
 ## Summary of the Changes 📝
 In the recent update, the following modifications were made to the `README.md` file:
 - **Title Update**: Simplified the title to "DSA Questions" for clarity.
+- **Section Headers**: Enhanced section headers for improved clarity.
 - **Badges Added**: Included badges to display repository size, last commit date, and open issues for better visibility.
 - **Content Improvement**: Updated descriptions for better understanding.
 - **Example Section**: Added an example function to demonstrate usage.
@@ -26,16 +27,23 @@ git clone https://github.com/Shivanilarokar/DSA-Questions-
 ```
 
 ## Usage 💻
-To utilize the repository, navigate through the provided questions and solutions. Each question has a corresponding solution implemented in various programming languages.
+Once cloned, navigate to the directory and explore the questions and solutions. You can also contribute by adding your own solutions.
 
 ### Example
-Here’s a sample function demonstrating usage:
+Here’s a simple example function demonstrating how you might solve a common DSA problem:
 
 ```python
-def example_function():
-    # Sample implementation
-    print("This is an example function!")
+def fibonacci(n):
+    if n <= 0:
+        return 0
+    elif n == 1:
+        return 1
+    else:
+        return fibonacci(n-1) + fibonacci(n-2)
+
+# Example usage
+print(fibonacci(5))  # Output: 5
 ```
 
-Feel free to explore, contribute, and enhance your DSA skills! Happy coding! 🎉
+Feel free to explore the repository and contribute to the collection of DSA questions!
 ```
