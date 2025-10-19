@@ -1,5 +1,5 @@
 ```markdown
-# DSA Questions 🚀
+# DSA Questions Repository 📊
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/Shivanilarokar/DSA-Questions-) ![GitHub contributors](https://img.shields.io/github/contributors/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-) ![GitHub license](https://img.shields.io/github/license/Shivanilarokar/DSA-Questions-)
 
@@ -11,7 +11,7 @@ This repository aims to equip developers with a diverse array of Data Structures
 - Solutions with explanations
 - Contribution guidelines for community involvement
 
-## Summary of the Changes 📜
+## Summary of the Changes 📝
 
 In the latest update, the following changes were made to the `README.md` file:
 
@@ -33,16 +33,23 @@ To get started with the DSA Questions repository, clone it to your local machine
 
 ```bash
 git clone https://github.com/Shivanilarokar/DSA-Questions-
+```
+
+Then navigate to the project directory:
+
+```bash
 cd DSA-Questions-
 ```
+
+## Usage 💻
 
 Feel free to explore the problems, and don’t hesitate to contribute by submitting your own solutions or improvements!
 
 ## License 📜
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
 
-This README.md file has been structured to provide a clear and concise overview of the repository, showcasing the latest changes while maintaining an aesthetically pleasing format for better readability and engagement. Happy coding! 🎉
+Happy coding! 🚀
 ```
