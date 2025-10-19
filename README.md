@@ -7,40 +7,36 @@
 This repository serves as a collaborative platform for Data Structures and Algorithms (DSA) enthusiasts. Here, you will find a collection of problems, solutions, and explanations designed to enhance your understanding of DSA concepts.
 
 ## Features ✨
-- Comprehensive coverage of various DSA topics.
-- Detailed solutions to enhance understanding.
-- Community-driven contributions.
+- A wide range of DSA problems and solutions.
+- Detailed explanations for better comprehension.
+- Community contributions are encouraged.
 
-## Summary of the Changes 📱
-In this update, the `README.md` file has been enhanced for better readability and clarity. Additionally, the Fibonacci function has been improved to handle edge cases more effectively.
+## Summary of the Changes
+In this update, the `README.md` file has been enhanced for better readability and presentation. Key changes include:
 
-### Key Changes:
 - Improved formatting and clarity in the README.
-- Enhanced Fibonacci function implementation.
+- Enhanced Fibonacci function implementation example.
 
-#### Updated Fibonacci Function:
+### Updated Fibonacci Function:
 ```python
 def fibonacci(n):
     """Returns a list of Fibonacci numbers up to n"""
+    fib_sequence = []
     a, b = 0, 1
-    result = []
     while a < n:
-        result.append(a)
+        fib_sequence.append(a)
         a, b = b, a + b
-    return result
-
-print(fibonacci(10))  # Output: [0, 1, 1, 2, 3, 5, 8]
+    return fib_sequence
 ```
 
-## Installation 💻
-To get started, clone the repository using the following command:
-
+## Installation
+To get started with this repository, clone it using the following command:
 ```bash
 git clone https://github.com/Shivanilarokar/DSA-Questions-
 ```
 
-## Usage 🚀
-After cloning the repository, navigate to the directory and explore the various DSA questions and their solutions. You can run the provided examples to test and understand the implementations.
+## Usage
+After cloning the repository, navigate to the directory and explore the various DSA problems and their solutions.
 
 Feel free to contribute by adding more questions and solutions or improving existing ones!
 
