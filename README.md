@@ -1,13 +1,15 @@
 ```markdown
 # DSA Questions Repository 🚀
 
+![License](https://img.shields.io/badge/license-MIT-blue.svg) ![Repository Size](https://img.shields.io/github/repo-size/Shivanilarokar/DSA-Questions-)
+
 Welcome to the DSA Questions repository! This repository provides a structured and comprehensive collection of Data Structures and Algorithms (DSA) questions, complete with solutions to enhance your understanding and coding skills.
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg) ![Repository Size](https://img.shields.io/github/repo-size/Shivanilarokar/DSA-Questions-)
+This repository serves as a resource for anyone looking to practice DSA problems, ranging from beginner to advanced levels. It includes a variety of algorithmic challenges along with their solutions, making it an excellent tool for interview preparation and skill development.
 
 ## Overview
 
-This repository serves as a resource for anyone looking to practice DSA problems, ranging from beginner to advanced levels. It includes a variety of algorithmic challenges along with their solutions, making it an excellent tool for interview preparation and skill development.
+The DSA Questions repository is designed for developers and learners who want to enhance their skills in Data Structures and Algorithms (DSA) through practical questions and solutions.
 
 ## Features
 
@@ -21,7 +23,6 @@ This repository serves as a resource for anyone looking to practice DSA problems
 ### Recent Updates
 
 In the latest update, the following changes were made:
-
 - Enhanced the overview section to clarify the repository's purpose.
 - Modified the summary section title for better emphasis.
 - Added badges to display repository size and license information.
