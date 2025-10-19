@@ -1,6 +1,5 @@
 ```markdown
-# DSA Questions 🤖
-
+# DSA Questions Repository
 ![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
 
 ## Overview
@@ -13,7 +12,8 @@ Welcome to the DSA Questions repository! This repository is dedicated to providi
 
 ## Summary of the Changes
 In this update, the README.md file has been auto-updated to enhance clarity and usability. The following changes were made:
-- Updated the project header emoji from 📚 to 🤖.
+
+- Updated the project header emoji from 🤖 to 🤖.
 - Updated the clone command to include the `.git` suffix.
 - Improved descriptions in the Usage section for better guidance.
 - Added an Example section to demonstrate how to approach coding challenges.
@@ -21,14 +21,9 @@ In this update, the README.md file has been auto-updated to enhance clarity and 
 ### Code Snippets from Changes
 Here are some of the key changes made in the README:
 
-```markdown
+```bash
+# Updated clone command
 git clone https://github.com/Shivanilarokar/DSA-Questions-.git
-```
-
-```markdown
-## Usage
-
-Explore the coding challenges available in the repository and choose one that interests you. Each challenge has a detailed description to guide you through the problem-solving process. Feel free to contribute by adding your own solutions or challenges!
 ```
 
 ## Installation
@@ -36,6 +31,8 @@ To clone the repository, use the following command:
 ```bash
 git clone https://github.com/Shivanilarokar/DSA-Questions-.git
 ```
+
+Once cloned, you can navigate through the coding challenges and start solving them!
 
 ## Usage
 Explore the coding challenges available in the repository and choose one that interests you. Each challenge has a detailed description to guide you through the problem-solving process. Feel free to contribute by adding your own solutions or challenges!
