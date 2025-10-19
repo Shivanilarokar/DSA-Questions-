@@ -1,9 +1,9 @@
 ```markdown
 # DSA Questions 🚀
 
-This repository is dedicated to helping developers and students improve their skills in Data Structures and Algorithms (DSA) through a collection of curated questions and solutions.
-
 ![GitHub Repo Size](https://img.shields.io/github/repo-size/Shivanilarokar/DSA-Questions-) ![Contributors](https://img.shields.io/github/contributors/Shivanilarokar/DSA-Questions-) ![Issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
+
+This repository is dedicated to helping developers and students improve their skills in Data Structures and Algorithms (DSA) through a collection of curated questions and solutions.
 
 ## Features ✨
 - A collection of DSA questions to practice and enhance your skills.
@@ -14,7 +14,7 @@ This repository is dedicated to helping developers and students improve their sk
 In the latest update, the README file has been enhanced to include a dedicated section for features, improved instructions for cloning the repository, and a refined example structure for solutions. These changes aim to provide better guidance to users and encourage contributions.
 
 ## Installation
-To get started with the DSA Questions repository, clone it to your local machine:
+To get started with this repository, clone it using the following command:
 
 ```bash
 git clone https://github.com/Shivanilarokar/DSA-Questions-.git
