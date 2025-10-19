@@ -23,30 +23,23 @@ To get started with this repository, clone it to your local machine:
 git clone https://github.com/Shivanilarokar/DSA-Questions-
 ```
 
-Once cloned, navigate to the repository directory and explore the various DSA challenges.
+## Usage
+Once cloned, navigate into the repository and explore the various DSA challenges available. Each challenge comes with a description and code examples for better understanding.
 
-## Usage 🚀
-You can start solving problems by navigating through the provided challenges. Each challenge is structured to help you practice and implement different data structures and algorithms.
-
-## Example ✨
-Here’s a quick example of a DSA challenge:
+## Example
+Here’s a simple example of a DSA challenge:
 
 ```python
 def fibonacci(n):
     if n <= 0:
-        return []
+        return 0
     elif n == 1:
-        return [0]
-    elif n == 2:
-        return [0, 1]
+        return 1
     else:
-        fib_sequence = [0, 1]
-        for i in range(2, n):
-            fib_sequence.append(fib_sequence[-1] + fib_sequence[-2])
-        return fib_sequence
+        return fibonacci(n-1) + fibonacci(n-2)
 
-print(fibonacci(10))  # Output: [0, 1, 1, 2, 3, 5, 8, 13, 21, 34]
+print(fibonacci(5))  # Output: 5
 ```
 
-Happy coding! 🎉
+Feel free to contribute and improve the repository by adding new challenges or enhancing existing ones. Happy coding! 🎉
 ```
