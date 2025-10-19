@@ -24,7 +24,6 @@ git clone https://github.com/Shivanilarokar/DSA-Questions-
 cd DSA-Questions-
 ```
 
-## Usage 🚀
 Explore the repository to find various problems categorized by data structure and algorithm types. Here’s a simple example of a function you might find in this repository:
 
 ```python
@@ -36,7 +35,7 @@ def example_function():
 ## Contribution 🤝
 We welcome contributions to improve the repository. Please follow the contribution guidelines outlined in the repository.
 
-----
+---
 
 Thank you for checking out the DSA Questions repository! Happy coding! 🎉
 ```
