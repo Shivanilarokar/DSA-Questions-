@@ -1,9 +1,9 @@
 ```markdown
 # DSA Questions Repository
 
-![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
-
 Welcome to the **DSA Questions** repository! This repository contains a collection of Data Structures and Algorithms (DSA) problems designed to help you enhance your coding skills.
+
+![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
 
 ## Features
 - 📚 A comprehensive collection of DSA problems.
@@ -12,13 +12,12 @@ Welcome to the **DSA Questions** repository! This repository contains a collecti
 
 ## Summary of Changes
 In this update, several improvements were made to the README file for clarity and engagement:
-- Added a **Features** section to highlight key offerings of the repository.
-- Enhanced the **Usage** section to encourage exploration of problem folders.
-- Refined the **Example** section to provide a clearer demonstration of a generic function structure.
-- Updated the closing statement to promote contribution and skill enhancement.
+- Added a **Features** section to highlight the repository's advantages.
+- Enhanced the **Usage** section to provide clearer navigation instructions.
+- Included a **Contribution** section to encourage community involvement.
 
 ## Installation
-To get started with the repository, clone it using the following command:
+To get started with the DSA Questions repository, clone it to your local machine using the following command:
 
 ```bash
 git clone https://github.com/Shivanilarokar/DSA-Questions-
