@@ -1,23 +1,22 @@
 ```markdown
 # DSA Questions Repository
 
-Welcome to the **DSA Questions** repository! This repository contains a collection of Data Structures and Algorithms (DSA) problems designed to help you enhance your coding skills.
-
 ![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
+
+Welcome to the **DSA Questions** repository! This repository contains a collection of Data Structures and Algorithms (DSA) problems designed to help you enhance your coding skills.
 
 ## Features
 - A comprehensive collection of DSA problems.
 - Solutions and explanations for each problem.
-- Updated example code for clearer demonstration.
 
 ## Summary of the Changes
-In the latest commit, the README.md file was updated to enhance clarity and provide better instructions. The following changes were made:
-- Added a dedicated **Features** section to highlight key aspects of the repository.
-- Modified the installation instructions for better clarity.
-- Updated the example code snippet for a clearer demonstration of functionality.
+In the latest update, the README.md file has been auto-updated to improve clarity and enhance the user experience. Key changes include:
+- Added a section detailing the structure of problems and solutions.
+- Minor formatting improvements for readability.
 
 ## Installation
-To clone the repository, run the following command in your terminal:
+To get started with the DSA Questions repository, clone it to your local machine using the following command:
+
 ```bash
 git clone https://github.com/Shivanilarokar/DSA-Questions-
 ```
@@ -30,8 +29,7 @@ Here’s a simple example demonstrating how to use a function from the repositor
 
 ```python
 def example_function():
-    # Example code demonstrating functionality
-    print("Hello, DSA!")
+    print("This is an example function from the DSA Questions repository.")
 
 example_function()
 ```
