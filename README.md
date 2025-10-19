@@ -19,12 +19,10 @@ In the latest commit, the `README.md` file has been updated to enhance clarity a
 - Updated badges for better visibility of community engagement.
 - Enhanced the Features section by including a note about community contributions.
 - Improved formatting for clarity in the Example Code section.
-- Updated installation instructions and example usage.
 - Minor text adjustments for improved readability.
 
 ## Installation
 To get started, clone the repository using the following command:
-
 ```bash
 git clone https://github.com/Shivanilarokar/DSA-Questions-.git
 cd DSA-Questions-
@@ -41,6 +39,8 @@ Here's a quick example of how to use a solution from this repository:
 def example_solution():
     # Your code logic here
     pass
+
+print(example_solution())
 ```
 
 Happy coding! 🚀
