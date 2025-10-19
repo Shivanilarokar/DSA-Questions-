@@ -3,8 +3,10 @@
 
 This repository aims to equip developers with a diverse array of Data Structures and Algorithms (DSA) questions to enhance their problem-solving skills and prepare them for technical interviews.
 
+![GitHub repo size](https://img.shields.io/github/repo-size/Shivanilarokar/DSA-Questions-) ![GitHub contributors](https://img.shields.io/github/contributors/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-) ![GitHub license](https://img.shields.io/github/license/Shivanilarokar/DSA-Questions-)
+
 ## Features ✨
-- A collection of carefully curated DSA questions.
+- A wide range of DSA questions.
 - Solutions and explanations for each question.
 - Categorized problems to facilitate targeted practice.
 
@@ -24,6 +26,11 @@ To get started with this repository, clone it to your local machine:
 
 ```bash
 git clone https://github.com/Shivanilarokar/DSA-Questions-
+```
+
+Then navigate to the project directory:
+
+```bash
 cd DSA-Questions-
 ```
 
@@ -39,11 +46,8 @@ Here’s a quick example of how to solve a problem from the repository:
 
 ```python
 def example_problem():
-    # Sample code to demonstrate usage
     print("This is a sample problem solution.")
 ```
-
----
 
 Feel free to explore and contribute to enhance the repository further! Thank you for checking out the DSA Questions Repository! We welcome contributions and feedback. Happy coding! 🎉
 ```
