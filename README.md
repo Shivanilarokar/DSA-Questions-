@@ -1,9 +1,9 @@
 ```markdown
 # DSA Questions 🚀
 
-![GitHub Repo Size](https://img.shields.io/github/repo-size/Shivanilarokar/DSA-Questions-) ![Contributors](https://img.shields.io/github/contributors/Shivanilarokar/DSA-Questions-) ![Issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
-
 This repository is dedicated to helping developers and students improve their skills in Data Structures and Algorithms (DSA) through a collection of curated questions and solutions.
+
+![GitHub Repo Size](https://img.shields.io/github/repo-size/Shivanilarokar/DSA-Questions-) ![Contributors](https://img.shields.io/github/contributors/Shivanilarokar/DSA-Questions-) ![Issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
 
 ## Features ✨
 - A collection of DSA questions to practice and improve your skills.
@@ -13,21 +13,16 @@ This repository is dedicated to helping developers and students improve their sk
 ## Summary of the Changes
 In the latest update, the `README.md` file has been enhanced to include a new **Features** section highlighting the main offerings of the repository, along with improvements to readability in the introduction.
 
-### Changes Made:
-- Added a **Features** section to highlight the main offerings of the repository.
-- Improved the introduction for better readability.
-
 ## Installation
-To get started with the DSA Questions repository, clone it to your local machine using the following command:
+To get started with this repository, clone it using the following command:
 
 ```bash
 git clone https://github.com/Shivanilarokar/DSA-Questions-
 ```
 
 ## Usage
-Explore the questions and solutions provided in the repository. You can run the Python solutions directly in your preferred environment.
+Navigate to the directory and open the desired Python files to view the questions and their solutions.
 
-## Example
 Here's an example function included in the repository:
 
 ```python
@@ -37,7 +32,7 @@ def example_function():
 example_function()
 ```
 
-Happy coding! If you have questions or need assistance, please open an issue or submit a pull request.
-
 This README provides a clear and concise overview of the repository, highlights the recent changes, and encourages community engagement, making it both professional and inviting for developers.
+
+Feel free to explore, contribute, and enhance your DSA skills!
 ```
