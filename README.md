@@ -1,5 +1,5 @@
 ```markdown
-# DSA Questions Repository 📚💻
+# DSA Questions Repository
 
 ![GitHub stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-?style=social) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-?style=social) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
 
@@ -31,13 +31,12 @@ cd path/to/question
 ## Usage
 Explore the questions and use the provided examples to practice and improve your DSA skills.
 
-## Example 📝
+## Example 📚
 Here's a simple example of how to solve a DSA question from this repository:
 ```python
 def example_function():
     # Your code here
-    pass
 ```
 
-Feel free to explore the repository and contribute by adding your own questions and solutions! We look forward to your contributions and feedback. 😊
+Feel free to contribute to this repository and help us grow this collection of DSA questions! 🚀
 ```
