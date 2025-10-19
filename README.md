@@ -16,22 +16,21 @@ This repository serves as a resource for developers looking to enhance their und
 
 ## Summary of the Changes
 In the latest commit, the README.md file has been updated to enhance clarity and improve the overall presentation. Key changes include:
-- Enhanced section titles for better readability
-- Minor adjustments in phrasing for clarity
-- Code example modification for improved efficiency
+- Enhanced title for the repository.
+- Added social media badges for stars and forks.
+- Improved wording for clarity and engagement.
 
 ### Code Changes
 ```diff
 -# DSA Questions 📖
 +# DSA Questions Repository 📖
- 
--Feel free to contribute by adding more questions or improving the existing solutions!
+- Feel free to contribute by adding more questions or improving the existing solutions!
+- Feel free to explore the repository, contribute, and improve your skills!
 +Feel free to explore the repository, contribute, and improve your skills!
 ```
 
 ## Installation
-To get started with this repository, clone it to your local machine:
-
+To get started with the DSA Questions repository, clone it to your local machine:
 ```bash
 git clone https://github.com/Shivanilarokar/DSA-Questions-
 ```
@@ -40,6 +39,4 @@ git clone https://github.com/Shivanilarokar/DSA-Questions-
 Explore the questions, try to solve them, and check the provided solutions to enhance your coding skills. 
 
 Feel free to explore the repository, contribute, and improve your skills! 🚀
-
-Happy coding! 🎉
 ```
