@@ -1,6 +1,7 @@
 ```markdown
 # DSA Questions Repository
 
+[![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-.svg)](https://github.com/Shivanilarokar/DSA-Questions-/issues) 
 [![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-.svg)](https://github.com/Shivanilarokar/DSA-Questions-/network) 
 [![GitHub stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-.svg)](https://github.com/Shivanilarokar/DSA-Questions-/stargazers)
 
@@ -16,12 +17,18 @@ Welcome to the DSA Questions repository! This repository contains a collection o
 Recently, minor updates were made to the README.md file to enhance clarity and presentation. 
 
 ### Key Changes:
-```markdown
-- Added GitHub stars badge:
-  [![GitHub stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-.svg)](https://github.com/Shivanilarokar/DSA-Questions-/stargazers)
+- Enhanced the formatting for improved readability.
+- Added a note inviting contributions to the repository.
+- Updated the installation instructions for clarity.
+- Included an example code snippet to illustrate how to solve a question.
 
-- Encouraged community contributions:
-  Feel free to contribute to this repository by submitting issues or pull requests! Your contributions are highly appreciated.
+```markdown
+Here's a simple example of how to solve a question:
+```python
+def example_solution():
+    # Your solution logic here
+    pass
+```
 ```
 
 ## Installation
@@ -35,12 +42,7 @@ cd DSA-Questions-
 You can explore the various DSA questions and their solutions provided in this repository. Each question is documented with its respective solution and explanation.
 
 ## Example
-Here's a simple example of how to solve a question:
-```python
-def example_solution():
-    # Your solution logic here
-    pass
+Feel free to explore and contribute to this repository! Your contributions are highly appreciated.
 ```
-
-Feel free to explore and contribute to this repository!
+Happy coding! 🚀
 ```
