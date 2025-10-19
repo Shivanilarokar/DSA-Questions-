@@ -1,9 +1,9 @@
 ```markdown
 # DSA Questions Repository
 
-![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
-
 Welcome to the **DSA Questions** repository! This repository contains a collection of Data Structures and Algorithms (DSA) problems designed to help you enhance your coding skills.
+
+![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
 
 ## Features
 - A comprehensive collection of DSA problems.
@@ -35,13 +35,5 @@ Here's a sample problem structure to illustrate how you can document your DSA pr
 - **Output**: Describe the expected output.
 - **Example**: Provide an example input/output.
 
-```python
-def two_sum(nums, target):
-    # Implementation goes here
-    pass
-```
-
-Feel free to explore the repository and contribute to enhancing the collection of DSA problems! 
-
-Happy coding! 🚀
+Feel free to explore, contribute, and enhance your coding skills!
 ```
