@@ -1,21 +1,21 @@
 ```markdown
-# DSA Questions Repository 🧠
+# DSA Questions Repository 🚀
+
+![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-?style=social) 
+![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-?style=social) 
+![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-) 
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/Shivanilarokar/DSA-Questions-/blob/master/LICENSE) 
+[![Python version](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/downloads/release/python-380/)
 
 The DSA Questions repository serves as a valuable resource for learners and developers looking to enhance their skills in Data Structures and Algorithms. This repository contains a collection of questions, solutions, and explanations to help you practice and understand key concepts.
 
-## Features 🔍
-- Well-documented solutions with clear explanations.
-- A wide range of questions covering various data structures and algorithms.
-- Contribution-friendly environment for sharing knowledge.
-- Code examples demonstrating edge case handling and robustness.
+## Features
+- A comprehensive collection of DSA questions and solutions.
+- Well-documented code for better understanding.
+- Regular updates to improve content and usability.
 
-## Summary of the Changes 📝
-In this update, the README.md file has been enhanced to improve clarity and engagement. Key changes include:
-- Improved badge display for better aesthetics.
-- Enhanced descriptions of features to attract more contributors.
-- Minor formatting adjustments for better readability.
-
-### Updates:
+## Summary of the Changes
+In this update, the README.md file has been enhanced to improve clarity and engagement for users. The following changes were made:
 - **Introduction Update**: The introduction section has been rephrased for better readability.
 - **Improved Feature List**: Added detailed features highlighting the repository's offerings.
 - **Installation Instructions**: Clarified the cloning command for better accuracy.
