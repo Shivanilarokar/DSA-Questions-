@@ -24,14 +24,6 @@ Here are the snippets of the updated sections:
 ```diff
 -# DSA Questions 📚
 +# DSA Questions Repository 📚
-
-## Usage
--After cloning the repository, navigate to the directory and explore the various DSA questions and solutions provided.
-+You can navigate through the various DSA questions and their solutions provided in this repository. Each question is detailed with explanations and code snippets to help you understand the concepts better.
-
-### Example
--Here’s a simple example function included in the repository:
-+Here is a simple example function:
 ```
 
 ## Installation ⚙️
@@ -41,13 +33,21 @@ To clone this repository, run the following command:
 git clone https://github.com/Shivanilarokar/DSA-Questions-
 ```
 
+## Usage
+After cloning the repository, navigate to the directory and explore the various DSA questions and solutions provided. Each question is detailed with explanations and code snippets to help you understand the concepts better.
+
+### Example
+Here is a simple example function included in the repository:
+
+```python
+def example_function():
+    print("Hello, DSA!")
+```
+
 ## Contributing
 We welcome contributions to enhance the repository. Please follow the standard fork-and-pull request workflow.
 
-## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
 
 Thank you for checking out the DSA Questions repository! Happy coding! 🚀
 ```
