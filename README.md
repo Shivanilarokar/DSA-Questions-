@@ -3,16 +3,17 @@
 
 ![GitHub stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-?style=social) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-?style=social) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
 
+## Overview
 This repository contains a collection of data structures and algorithms (DSA) questions designed to help you enhance your coding skills. Whether you are preparing for interviews or simply want to improve your problem-solving abilities, this repository serves as a valuable resource.
 
 ## Features
 - Comprehensive collection of DSA questions
-- Detailed solutions and explanations
-- Easy to navigate and understand
-- Active community for discussions and contributions
+- Practical solutions to help you understand concepts better
+- Well-structured and easy to navigate
 
 ## Summary of the Changes
 In the recent update, the `README.md` file has been modified to improve clarity and structure. The following changes were made:
+
 - The title has been updated to **"DSA Questions Repository"** for better clarity.
 - Added GitHub badges with links for stars, forks, and issues to enhance visibility.
 - Enhanced the description of the repository to provide a clearer understanding of its purpose.
@@ -21,9 +22,10 @@ In the recent update, the `README.md` file has been modified to improve clarity 
 
 Here are some snippets highlighting the modifications made:
 
-```diff
-- This repository provides a variety of DSA questions aimed at helping you improve your data structures and algorithms skills.
-+ This repository contains a collection of data structures and algorithms (DSA) questions designed to help you enhance your coding skills.
+```markdown
+- ## Overview
+- This repository serves as a valuable resource for anyone looking to improve their understanding of data structures and algorithms through practical questions and solutions.
++ This repository contains a collection of data structures and algorithms (DSA) questions designed to help you enhance your coding skills. Whether you are preparing for interviews or simply want to improve your problem-solving abilities, this repository serves as a valuable resource.
 ```
 
 ## Installation
