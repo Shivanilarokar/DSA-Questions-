@@ -16,38 +16,24 @@ This repository serves as a collaborative platform for DSA enthusiasts. It is de
 
 ## Summary of the Changes
 In this update, the following changes were made:
-- Updated the README structure to include a dedicated **"Overview"** and **"Features"** section.
-- Improved the wording in the features section for clarity.
-- Separated the usage instructions into its own section for better organization.
-- Enhanced the Fibonacci function example to clarify its output.
+- Added badges to showcase repository size, contributors, and open issues.
+- Enhanced the description to better reflect the purpose of the repository.
+- Minor adjustments to the features section for clarity.
 
-### Code Snippet Changes
-Here’s an example of the updated Fibonacci function:
-
+### Code Snippet Example
 ```python
 def fibonacci(n):
-    if n <= 0:
-        return []
-    elif n == 1:
-        return [0]
-    elif n == 2:
-        return [0, 1]
-    
+    """Returns a list of Fibonacci numbers up to n"""
     fib_sequence = [0, 1]
-    for i in range(2, n):
-        fib_sequence.append(fib_sequence[i-1] + fib_sequence[i-2])
-    return fib_sequence
+    while fib_sequence[-1] < n:
+        fib_sequence.append(fib_sequence[-1] + fib_sequence[-2])
+    return fib_sequence[:-1]
 
-print(fibonacci(10))  # Output: [0, 1, 1, 2, 3, 5, 8, 13, 21, 34]
+print(fibonacci(10))  # Output: [0, 1, 1, 2, 3, 5, 8]
 ```
 
 Feel free to explore and contribute to the repository!
 
 ## Contributing
-We welcome contributions! Please feel free to submit a pull request or open an issue.
-
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
-Happy Coding! 🎉
+We welcome contributions! Please see the [Contributing Guidelines](CONTRIBUTING.md) for more details on how to contribute to this project.
 ```
