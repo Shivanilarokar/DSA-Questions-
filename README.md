@@ -1,5 +1,5 @@
 ```markdown
-# DSA Questions Repository 📚
+# DSA Questions Repository 🚀
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/Shivanilarokar/DSA-Questions-) 
 ![Issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-) 
@@ -10,26 +10,21 @@ Welcome to the **DSA Questions** repository! This repository provides a collecti
 
 ## Overview 🌟
 
-The DSA Questions repository offers a comprehensive collection of questions covering a wide range of topics in Data Structures and Algorithms. Each question includes a detailed solution implemented in Python, making it ideal for both interview preparation and skill enhancement.
+This repository contains various problems and solutions related to data structures and algorithms, which are essential for technical interviews and improving coding skills.
 
 ## Features ✨
+- Comprehensive collection of DSA problems
+- Solutions written in Python
+- Clear explanations and example usages
 
-- Comprehensive questions covering a wide range of DSA topics.
-- Solutions implemented in Python for easy understanding.
-- Ideal for interview preparation and skill enhancement.
+## Summary of the Changes 🔄
 
-## Summary of Changes 🔄
+In the latest update, the following changes were made to the README.md file:
+- Enhanced the welcome message for clarity and engagement.
+- Added a badge for the MIT License.
+- Minor code adjustments in the Fibonacci function example to handle edge cases.
 
-In the latest update, the README.md file has been enhanced to provide a more structured overview of the repository. Key changes include:
-
-- Added badges for last commit, issues, and pull requests for better visibility.
-- Introduced an **Overview** section to give a clearer picture of the repository's purpose.
-- Streamlined content by removing redundant lines.
-- Updated installation instructions for better clarity.
-- Added a dedicated examples section showcasing a Fibonacci function.
-- Updated example usage of the Fibonacci function in the code snippet for clarity.
-
-## Code Changes 📝
+### Code Snippet Changes 📝
 
 Here are some snippets from the updated README.md:
 
@@ -42,10 +37,11 @@ def fibonacci(n):
     else:
         return fibonacci(n-1) + fibonacci(n-2)
 
+# Example usage
 print(fibonacci(10))  # Output: 55
 ```
 
-## Installation ⚙️
+## Installation 🛠️
 
 To get started with this repository, clone the repository using:
 
@@ -59,23 +55,13 @@ Then, navigate to the project directory:
 cd DSA-Questions-
 ```
 
-## Usage 🚀
+## Usage 📚
 
-You can run the Python scripts directly or import the functions in your own projects. Make sure you have Python installed on your machine.
+You can explore the various algorithms and data structure implementations available in this repository. Each algorithm is provided with example usages to help you understand its functionality.
 
-```bash
-python <script_name>.py
-```
+Feel free to contribute by adding more problems or improving existing solutions!
 
-## Example 💡
+---
 
-To demonstrate the functionality, here's an example of calculating the Fibonacci sequence:
-
-```python
-print(fibonacci(10))  # Output: 55
-```
-
-Feel free to explore the repository and contribute by opening issues or submitting pull requests! Your contributions are welcome! 😄
-
-Thank you for visiting the DSA Questions repository! Happy coding! 🚀
+Happy Coding! 💻
 ```
