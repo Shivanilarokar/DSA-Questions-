@@ -1,10 +1,13 @@
 ```markdown
-# DSA Questions 📖
+# DSA Questions Repository 📚
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/Shivanilarokar/DSA-Questions-)
 ![GitHub stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-?style=social)
 
-This repository aims to assist you in improving your coding abilities through a curated collection of Data Structures and Algorithms (DSA) questions. It is designed to help you enhance your coding skills and prepare for technical interviews.
+The DSA Questions repository is a comprehensive resource designed to provide a collection of Data Structures and Algorithms (DSA) questions to help you enhance your coding skills and prepare for technical interviews.
+
+## Overview
+This repository aims to assist you in improving your coding abilities through a curated collection of Data Structures and Algorithms (DSA) questions.
 
 ## Features ✨
 - A curated list of DSA problems.
@@ -14,18 +17,12 @@ This repository aims to assist you in improving your coding abilities through a 
 ## Summary of Changes 💖
 In the latest update, the `README.md` file has been auto-updated to enhance clarity and presentation. Below are the specific changes made:
 
-- **Title Update**: The title emoji was changed from 📚 to 📖 for better representation.
-- **Enhanced Description**: The repository description was expanded for clarity.
-- **Updated Features**: Features have been refined to reflect the current offerings.
-- **Improved Installation and Usage Sections**: Guidance has been enhanced for better user experience.
-- **Added Example Code Snippet**: A code snippet has been included to demonstrate usage.
+- Updated the overview to improve readability and clarity.
+- Enhanced the feature list for better understanding.
+- Minor formatting adjustments for consistency across sections.
 
 ### Code Snippet of Changes
 ```diff
--## Overview
-+## Summary of Changes 💖
-+## Overview
-+ The DSA Questions repository is a comprehensive resource designed to provide a collection of Data Structures and Algorithms (DSA) questions to help you enhance your coding skills and prepare for technical interviews.
 -## Summary of Changes 💖
 +## Overview
 + The DSA Questions repository is designed to provide a collection of Data Structures and Algorithms (DSA) questions to help you enhance your coding skills and prepare for technical interviews.
@@ -43,10 +40,10 @@ After cloning the repository, navigate to the directory and explore the various 
 ## Example 💡
 Here's a simple example function to illustrate usage:
 ```python
+# Sample function for demonstration
 def example_function():
-    # Sample function for demonstration
     print("This is an example function.")
 ```
 
-Feel free to contribute to this repository to help others enhance their coding skills!
+Feel free to contribute to this repository to help others enhance their coding skills! For more information, please check the repository [here](https://github.com/Shivanilarokar/DSA-Questions-).
 ```
