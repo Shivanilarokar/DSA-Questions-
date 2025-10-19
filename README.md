@@ -1,5 +1,5 @@
 ```markdown
-# DSA Questions Repository
+# DSA Questions Repository 📚
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
 
@@ -10,12 +10,13 @@ Welcome to the **DSA Questions** repository! This repository is focused on provi
 - A wide range of DSA problems with solutions in multiple programming languages.
 - Designed to enhance coding skills and prepare for technical interviews.
 - Community-driven contributions are encouraged to expand the repository's resources.
+- Regular updates and improvements.
 
 ## Summary of the Changes
 
 In the latest update, the README file has been enhanced to provide clearer information about the repository. Notable changes include:
 
-1. **Updated Repository Title**: Changed the emoji to 📖 for better representation.
+1. **Updated Repository Title**: Changed the emoji for better representation.
 2. **New License Section**:
    ```markdown
    ## License
@@ -28,15 +29,10 @@ In the latest update, the README file has been enhanced to provide clearer infor
 
 ## Installation
 
-To get started with this repository, clone it using the command below:
+To get started with the project, clone the repository using the following command:
 
 ```bash
-git clone https://github.com/Shivanilarokar/DSA-Questions-.git
-```
-
-Navigate into the project directory:
-
-```bash
+git clone https://github.com/Shivanilarokar/DSA-Questions-
 cd DSA-Questions-
 ```
 
