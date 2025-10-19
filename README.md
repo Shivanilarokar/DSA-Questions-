@@ -8,7 +8,7 @@ Welcome to the **DSA Questions** repository! This project is designed to help yo
 ## Features 🌟
 - 📚 Extensive collection of DSA problems
 - 📝 Detailed solutions and explanations
-- 🗂️ Organized into categories for easy navigation
+- 📂 Organized into categories for easy navigation
 - 🤝 Community contributions are welcome!
 
 ## Summary of the Changes 📝
@@ -16,12 +16,10 @@ In the latest commit, the `README.md` file has been updated to enhance clarity a
 
 ### Changes Made:
 ```diff
-- 📚 Extensive collection of DSA problems
+- 📂 Organized into categories for easy navigation
++ 📂 Organized into categories for easy navigation
 + 📚 Extensive collection of DSA problems
-- 📝 Detailed solutions and explanations
 + 📝 Detailed solutions and explanations
-- 🗂️ Organized into categories for easy navigation
-+ 🗂️ Organized into categories for easy navigation
 ```
 
 ## Installation ⚙️
@@ -35,6 +33,7 @@ cd DSA-Questions-
 ## Usage 🎉
 You can explore the problems and solutions provided in this repository. Feel free to reach out for any questions or further assistance!
 
+## Example
 Here's a simple example of how to use this repository effectively:
 
 1. Choose a problem from the collection.
