@@ -11,12 +11,11 @@ This repository is aimed at providing a structured learning experience for anyon
 
 ## Features
 
-- Structured learning path for beginners and advanced users
-- A variety of problems to practice
-- Solutions and explanations for each problem
-- Easy to navigate and contribute
+- A variety of data structure and algorithm problems.
+- Solutions and explanations for better understanding.
+- Structured organization to facilitate learning.
 
-## Summary of Changes
+## Summary of the Changes
 
 In the latest commit, the `README.md` file was updated to enhance the visual appeal of the repository and provide a clearer introduction.
 
@@ -28,37 +27,28 @@ In the latest commit, the `README.md` file was updated to enhance the visual app
 
 ## Installation
 
-Clone the repository using the command below:
+To get started with this repository, clone it using the following command:
 
 ```bash
-git clone https://github.com/Shivanilarokar/DSA-Questions-.git
-cd DSA-Questions-
+git clone https://github.com/Shivanilarokar/DSA-Questions-
 ```
 
 ## Usage
 
-To start solving problems, navigate to the directory and open the desired problem file. 
+Navigate to the directory and explore the problems and solutions available. Each problem is documented with inputs, outputs, and explanations.
 
 ## Example
 
-Here is an example of how to use the repository:
+Here’s an example of how to solve a problem from this repository:
 
 ```python
-# Example of a simple function to check if a number is prime
-def is_prime(n):
-    if n <= 1:
-        return False
-    for i in range(2, int(n**0.5) + 1):
-        if n % i == 0:
-            return False
-    return True
+def example_problem(input_data):
+    # Sample function to demonstrate usage
+    return input_data * 2
+
+result = example_problem(5)
+print(result)  # Output: 10
 ```
 
-Feel free to contribute by submitting your own problems and solutions!
-
-----
-
-For more information, visit the [repository](https://github.com/Shivanilarokar/DSA-Questions-).
-
-Happy Coding! 🚀
+Feel free to contribute to this repository by submitting issues or pull requests. Happy coding! 🚀
 ```
