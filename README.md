@@ -1,5 +1,5 @@
 ```markdown
-# DSA Questions 📚
+# DSA Questions Repository
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/Shivanilarokar/DSA-Questions-) ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
@@ -18,15 +18,7 @@ This repository aims to assist developers and learners in mastering Data Structu
 Recent updates to the `README.md` include:
 - Minor formatting improvements for better readability.
 - Updated descriptions in the Usage section to provide clarity on the repository's contents.
-
-### Changes Made
-- Enhanced the **Summary of the Changes** section with an emoji for visual appeal.
 - Revised the **Usage** section to clarify the exploration of DSA questions and solutions.
-
-```diff
-## Summary of the Changes
-## Usage
-```
 
 ## Installation ⚙️
 
@@ -34,11 +26,6 @@ To get started with this repository, clone it using the command below:
 
 ```bash
 git clone https://github.com/Shivanilarokar/DSA-Questions-
-```
-
-Then navigate into the directory:
-
-```bash
 cd DSA-Questions-
 ```
 
@@ -51,11 +38,10 @@ After cloning the repository, navigate to the directory and explore the various 
 Here’s a simple example of how to use the solutions provided in this repository:
 
 ```python
-# Example of a solution to a DSA problem
+# Example code snippet
 def example_function():
-    # Your code here
-    pass
+    print("Hello, DSA World!")
 ```
 
-Feel free to explore, contribute, and enhance your DSA skills! 🚀
+Feel free to explore the problems, try out the solutions, and contribute to the repository!
 ```
