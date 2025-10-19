@@ -1,9 +1,9 @@
 ```markdown
 # DSA Questions Repository
 
-Welcome to the **DSA Questions** repository! This repository contains a collection of Data Structures and Algorithms (DSA) problems designed to help you enhance your coding skills.
-
 ![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
+
+Welcome to the **DSA Questions** repository! This repository contains a collection of Data Structures and Algorithms (DSA) problems designed to help you enhance your coding skills.
 
 ## Features
 - A comprehensive collection of DSA problems.
@@ -15,14 +15,8 @@ In the latest update, the `README.md` file was auto-updated to enhance clarity a
 ### Changes Made:
 - Added a **Features** section to highlight the key attributes of the repository.
 
-```markdown
-## Features
-- A comprehensive collection of DSA problems.
-- Solutions and explanations for each problem.
-```
-
 ## Installation
-To get started with the DSA Questions repository, simply clone the repository to your local machine using the following command:
+To get started with the DSA Questions repository, simply clone the repository to your local machine:
 
 ```bash
 git clone https://github.com/Shivanilarokar/DSA-Questions-
@@ -30,16 +24,18 @@ cd DSA-Questions-
 ```
 
 ## Usage
-After cloning the repository, navigate to the directory and start exploring the various DSA problems provided. Each problem includes a detailed explanation and potential solutions.
+Once you have cloned the repository, you can explore the various DSA problems and their solutions.
 
 ## Example
-Here's a simple example of how to use one of the DSA problems:
+Here's a simple example on how to navigate through the problems:
 
 ```python
-def example_function():
-    # Your DSA code here
-    pass
+# Sample code snippet to demonstrate usage
+def example_problem():
+    print("This is a sample problem from the DSA Questions repository.")
+
+example_problem()
 ```
 
-Feel free to contribute to the repository by submitting pull requests or reporting issues. Happy coding! 🚀
+Feel free to explore, contribute, and enhance your coding skills with our collection of DSA problems! 🚀
 ```
