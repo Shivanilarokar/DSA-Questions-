@@ -11,17 +11,18 @@ This repository offers a comprehensive collection of data structures and algorit
 
 ## Features
 
-- Comprehensive coverage of data structures and algorithms 📚
-- Code examples implemented in Python 🐍
-- Well-structured and easy to understand 📖
+- Extensive collection of data structures and algorithms
+- Well-documented code examples
+- Easy to understand and contribute
 
 ## Summary of Changes ⚙️
 
 In the latest update, the following changes were made:
 
-1. **Updated Header**: The header for the "Summary of Changes" section was enhanced for clarity.
-2. **Removed Notebook File**: The `Day1.ipynb` file was removed, which contained initial DSA questions and their explanations.
-3. **Added Functionality**: Introduced a new `function.py` file that includes a class for managing a simple bank account. This class provides methods for deposit, withdrawal, and balance display.
+- Improved the `BankAccount` class in `function.py` to handle deposits and withdrawals more effectively.
+- Added default balance parameter to the `BankAccount` constructor.
+- Included print statements to provide feedback on deposit and withdrawal actions.
+- Enhanced error handling for insufficient funds during withdrawals.
 
 ### Code Snippet
 
@@ -47,14 +48,30 @@ class BankAccount:
     def show_balance(self):
         print(f"Account Balance for {self.owner}: ₹{self.balance}")
 
-# Example of using the class
-acc = BankAccount("Shivani", 5000)
-acc.deposit(1000)
+# Example Usage
+acc = BankAccount("John Doe", 1000)
+acc.deposit(500)
 acc.withdraw(2000)
 acc.show_balance()
 ```
 
-Contributions are welcome! Please feel free to submit a pull request or open an issue if you have suggestions for improvements.
+## Installation
+
+To get started with this repository, clone it using:
+
+```bash
+git clone https://github.com/Shivanilarokar/DSA-Questions-
+```
+
+Then, navigate to the project directory:
+
+```bash
+cd DSA-Questions-
+```
+
+## Usage
+
+You can use the provided implementations by importing the respective classes or functions into your own Python scripts.
 
 ---
 
