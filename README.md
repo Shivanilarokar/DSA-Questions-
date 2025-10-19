@@ -1,9 +1,9 @@
 ```markdown
 # DSA Questions Repository
 
-Welcome to the **DSA Questions** repository! This repository contains a collection of Data Structures and Algorithms (DSA) problems designed to help you enhance your coding skills.
-
 ![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
+
+Welcome to the **DSA Questions** repository! This repository contains a collection of Data Structures and Algorithms (DSA) problems designed to help you enhance your coding skills.
 
 ## Features
 - A comprehensive collection of DSA problems.
@@ -12,28 +12,29 @@ Welcome to the **DSA Questions** repository! This repository contains a collecti
 
 ## Summary of the Changes
 In the latest update, the `README.md` file has been improved to provide clearer structure and enhanced readability. The following changes were made:
-- Added a new **Features** section to highlight key aspects of the repository.
-- Enhanced the overall formatting for better clarity.
+
+- Improved the formatting and clarity of the README.
+- Added a new section for features to highlight the repository's strengths.
+- Enhanced the example function description for better comprehension. 
 
 ## Installation
-To get started with the DSA Questions repository, clone the repo to your local machine:
+To get started with this repository, clone it using the following command:
 
 ```bash
 git clone https://github.com/Shivanilarokar/DSA-Questions-
 ```
 
 ## Usage
-Explore the various DSA problems and solutions available in this repository. Each problem is accompanied by explanations and code snippets to help you understand the concepts better.
+Once you have cloned the repository, navigate to the desired problem directory and run the examples provided.
 
-## Example
-Here’s a simple example of how to use one of the DSA problems in your code:
+### Example
+Here's a simple example of how to use one of the functions:
 
 ```python
-def example_function(data):
-    # Sample implementation
-    return sorted(data)
+def example_function(arr):
+    # Sort the array
+    return sorted(arr)
 
-# Usage
 result = example_function([5, 2, 9, 1])
 print(result)  # Output: [1, 2, 5, 9]
 ```
