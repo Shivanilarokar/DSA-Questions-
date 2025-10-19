@@ -11,6 +11,8 @@ This repository provides a well-structured collection of DSA problems, each cate
 ## Features ✨
 - **Structured Problems**: Problems are organized by categories for easier navigation.
 - **Multiple Language Solutions**: Solutions are available in various programming languages.
+- **Detailed Solutions**: Each problem includes a comprehensive solution with explanations.
+- **User-Contributed Content**: Contributions from users are highly encouraged to enrich the repository.
 
 ## Summary of Changes 📝
 In this update, the README has been enhanced to improve clarity and conciseness:
@@ -23,18 +25,16 @@ In this update, the README has been enhanced to improve clarity and conciseness:
 
 ## Installation 🔧
 To clone this repository, run the following command in your terminal:
+
 ```bash
 git clone https://github.com/Shivanilarokar/DSA-Questions-
 ```
 
-## Usage 📖
-Feel free to dive in and start solving problems, and don't hesitate to contribute your solutions and improvements! 
+## Usage 🖥️
+Explore the structured problems and their solutions in the repository. Each problem comes with a detailed explanation to help you understand the concepts better.
 
-## Example 💻
-Here’s a simple example of how to implement a function:
-
+### Example
 ```python
-# Sample Python solution for a DSA problem
 def example_function():
     print("This is an example function.")
 ```
