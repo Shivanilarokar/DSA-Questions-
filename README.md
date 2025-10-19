@@ -1,12 +1,12 @@
 ```markdown
 # DSA Questions 🌐
 
+![GitHub repo size](https://img.shields.io/github/repo-size/Shivanilarokar/DSA-Questions-) ![GitHub contributors](https://img.shields.io/github/contributors/Shivanilarokar/DSA-Questions-) ![GitHub stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-)
+
 Welcome to the DSA Questions repository! This repository contains a collection of data structure and algorithm problems to enhance your coding skills.
 
 ## Features
 - Comprehensive set of problems categorized by various data structures and algorithms.
-- Well-documented examples to help you understand the implementation.
-- Open for contributions to expand the problem set and improve the repository.
 
 ## Summary of Changes
 In this update, the README has been revised to improve clarity and conciseness. The following changes were made:
@@ -19,23 +19,17 @@ In this update, the README has been revised to improve clarity and conciseness. 
 Here’s a simple example of how to clone the repository:
 
 ```bash
-git clone https://github.com/Shivanilarokar/DSA-Questions-.git
+git clone https://github.com/Shivanilarokar/DSA-Questions-
 ```
 
 ## Installation
-To get started with this repository, clone it to your local machine:
-
-```bash
-git clone https://github.com/Shivanilarokar/DSA-Questions-.git
-```
+To get started with the DSA Questions repository, simply clone the repository to your local machine using the command provided above.
 
 ## Usage
-Explore the repository to find various problems categorized by data structure and algorithm types. 
+After cloning, navigate into the project directory and explore the various algorithm and data structure problems available.
 
-## Contribution 🤝
-We welcome contributions to this repository. Feel free to fork the repository and submit a pull request with your improvements!
+## Example
+You can start solving problems right away! Check out the provided examples in the repository to understand the problem formats and solutions.
 
----
-
-Thank you for visiting the DSA Questions repository! Happy coding! 🎉
+For more information, feel free to explore the repository or contribute by submitting your own questions and solutions!
 ```
