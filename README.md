@@ -14,10 +14,10 @@ This repository provides a structured approach to learning and practicing Data S
 ## Summary of the Changes
 ### Recent Updates
 In the latest update, the following changes were made:
-- The title was updated for clarity 🤖.
-- Minor grammatical changes in the description ✍️.
-- Added a new section on usage 📖.
-- Improved the overall structure and readability 📊.
+
+- Updated the repository name in the header for clarity.
+- Improved the installation instructions to include step-by-step commands.
+- Clarified usage instructions to facilitate easier navigation through the repository.
 
 ### Here are the snippets of the updated sections:
 ```diff
@@ -38,6 +38,8 @@ cd DSA-Questions-
 ## Usage
 You can start exploring the questions and solutions directly in the repository. Each question includes a detailed explanation and a code implementation.
 
+## Example
+Here’s a simple example of how to solve a problem using the provided code snippets:
 ```python
 def example_function(data):
     return [x * 2 for x in data]
@@ -46,4 +48,8 @@ print(example_function([-1, 2, 0, 3]))
 ```
 
 Feel free to explore the repository and contribute by adding new questions or improving existing solutions! 🚀
+
+----
+
+For more information, visit the [GitHub Repository](https://github.com/Shivanilarokar/DSA-Questions-).
 ```
