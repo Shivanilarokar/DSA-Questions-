@@ -1,9 +1,8 @@
 ```markdown
-# DSA Questions Repository
+# DSA Questions Repository 🌟
 
 [![GitHub stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-?style=social)](https://github.com/Shivanilarokar/DSA-Questions-) 
-[![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-?style=social)](https://github.com/Shivanilarokar/DSA-Questions-) 
-[![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)](https://github.com/Shivanilarokar/DSA-Questions-)
+[![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-?style=social)](https://github.com/Shivanilarokar/DSA-Questions-)
 
 This repository contains a comprehensive collection of Data Structures and Algorithms (DSA) questions along with solutions and explanations to facilitate learning and practice for developers at all levels.
 
@@ -30,8 +29,8 @@ In the latest commit, the `README.md` file has been updated to enhance clarity a
 
 ### Specific Changes Made:
 ```diff
-- This repository is designed to help developers enhance their problem-solving skills through a rich set of DSA questions categorized by difficulty and topic.
-+ This repository is designed to help developers enhance their problem-solving skills through a wide array of Data Structures and Algorithms (DSA) questions.
+- This repository is designed to help developers enhance their problem-solving skills through a wide array of Data Structures and Algorithms (DSA) questions.
++ This repository is designed to help developers enhance their problem-solving skills through a rich set of DSA questions categorized by difficulty and topic.
 ```
 
 Additional badges have been added to improve visibility and engagement with the repository.
@@ -55,6 +54,5 @@ Explore the questions, attempt the problems, and refer to the solutions and expl
 We welcome contributions from the community! Please feel free to open issues and submit pull requests to improve the repository.
 
 ---
-
-Happy Coding! 🚀
 ```
+This README.md file provides a structured, clear, and engaging overview of the DSA Questions repository, incorporating the recent changes effectively.
