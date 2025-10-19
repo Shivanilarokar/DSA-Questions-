@@ -1,9 +1,9 @@
 ```markdown
 # DSA Questions Repository
 
-![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
-
 Welcome to the **DSA Questions** repository! This repository contains a collection of Data Structures and Algorithms (DSA) problems designed to help you enhance your coding skills.
+
+![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
 
 ## Features
 - 📚 A comprehensive collection of DSA problems.
@@ -11,10 +11,7 @@ Welcome to the **DSA Questions** repository! This repository contains a collecti
 - 🤝 Community contributions are encouraged!
 
 ## Summary of the Changes
-In the latest update, the README.md file has been modified to enhance clarity and usability. Key changes include:
-
-### Changes Made:
-- Added a **Features** section to outline the key offerings of the repository.
+In the latest update, the README.md file has been modified to enhance clarity and user experience:
 - Improved description of the usage instructions for better user experience.
 - Updated example code to provide a clearer demonstration of how to solve a DSA problem.
 
@@ -25,20 +22,26 @@ To set up the repository locally, follow these steps:
    ```bash
    git clone https://github.com/Shivanilarokar/DSA-Questions-
    ```
-2. Navigate to the project directory:
+
+2. Navigate into the directory:
    ```bash
    cd DSA-Questions-
    ```
 
-## Usage
-To work with the DSA problems, simply select a problem from the repository and follow the provided solution and explanations. Each problem is designed to help you understand various algorithms and data structures.
+3. Install any dependencies if required (e.g., using `pip` for Python projects):
+   ```bash
+   pip install -r requirements.txt
+   ```
 
-## Example
-Here is a simple example of how you might solve a DSA problem:
+## Usage
+To use the solutions in this repository, simply navigate to the desired problem folder and run the corresponding script. 
+
+### Example
+Here’s an example of how to use one of the problem solutions:
 
 ```python
 def example_problem(input):
-    # Your solution logic here
+    # Your implementation here
     return output
 ```
 
