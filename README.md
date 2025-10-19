@@ -1,9 +1,9 @@
 ```markdown
 # DSA Questions Repository
 
-Welcome to the **DSA Questions** repository! This repository contains a collection of Data Structures and Algorithms (DSA) problems designed to help you enhance your coding skills.
-
 ![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
+
+Welcome to the **DSA Questions** repository! This repository contains a collection of Data Structures and Algorithms (DSA) problems designed to help you enhance your coding skills.
 
 ## Features
 - 📚 A comprehensive collection of DSA problems.
@@ -12,34 +12,27 @@ Welcome to the **DSA Questions** repository! This repository contains a collecti
 
 ## Summary of the Changes
 In the latest commit, the `README.md` file has been updated to enhance clarity and organization:
+- Added a new **Features** section to highlight key aspects of the repository.
+- Updated example code for better clarity.
+- Minor formatting adjustments for improved readability.
 
-- Added a **Features** section to highlight key aspects of the repository.
-- Improved phrasing for clarity in the **Installation** section.
-- Added a new **Example** section to illustrate how to solve a DSA problem.
-- Minor formatting adjustments for better readability.
-
-### Here are the specific changes:
-```diff
-- Welcome to the **DSA Questions** repository! This repository contains a collection of Data Structures and Algorithms (DSA) problems designed to help you enhance your coding skills.
-+ Welcome to the **DSA Questions** repository! This repository contains a collection of Data Structures and Algorithms (DSA) problems designed to help you enhance your coding skills.
-
-+## Features
-```
-
-### Installation Instructions
+## Installation Instructions
 To get started with the DSA Questions repository, clone the repository and navigate to the project directory:
 
 ```bash
-git clone https://github.com/Shivanilarokar/DSA-Questions-
+git clone https://github.com/Shivanilarokar/DSA-Questions-.git
 cd DSA-Questions-
 ```
 
-### Example
-To illustrate how to solve a DSA problem, you can use the following example code:
+## Usage
+Feel free to explore the repository and contribute to the collection of DSA problems! 🚀
+
+## Example
+Here’s a simple example of a problem structure:
 
 ```python
 def example_problem():
-    # Example problem solution
+    # Example problem logic goes here
     pass
 ```
 
