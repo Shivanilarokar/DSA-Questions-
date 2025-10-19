@@ -1,5 +1,5 @@
 ```markdown
-# DSA Questions 📚
+# DSA Questions 🤖
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
 
@@ -19,7 +19,7 @@ In the latest update, the README.md file has been auto-updated to enhance clarit
 
 - Updated the clone command to include the `.git` suffix.
 - Improved descriptions in the Usage section for better guidance.
-- Added an example section to demonstrate how to approach coding challenges.
+- Added an Example section to demonstrate how to approach coding challenges.
 
 ### Code Snippets from Changes
 
@@ -31,7 +31,7 @@ git clone https://github.com/Shivanilarokar/DSA-Questions-.git
 ```markdown
 ## Usage
 
-Explore the coding challenges available in the repository and choose one that interests you. Each challenge has a detailed description to guide you through the problem-solving process.
+Explore the coding challenges available in the repository and choose one that interests you. Each challenge has a detailed description to guide you through the problem-solving process. Feel free to contribute by adding your own solutions or challenges!
 ```
 
 ```markdown
@@ -65,8 +65,6 @@ Here’s a simple example of how to approach a coding challenge:
 def example_function():
     # Your code here
 ```
-
----
 
 We welcome contributions! If you have any questions or suggestions, feel free to create an issue or submit a pull request. Happy coding! 🚀
 ```
