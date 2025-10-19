@@ -1,5 +1,5 @@
 ```markdown
-# DSA Questions Repository 📚🤖
+# DSA Questions Repository
 
 ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![GitHub stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub license](https://img.shields.io/github/license/Shivanilarokar/DSA-Questions-)
 
@@ -8,8 +8,7 @@ Welcome to the DSA Questions repository! This repository is dedicated to helping
 
 ## Features
 - A curated list of DSA questions
-- Code snippets for each question
-- Easy to follow installation and usage instructions
+- Solutions in multiple programming languages
 - Open for contributions and suggestions
 
 ## Summary of the Changes
@@ -33,6 +32,11 @@ To set up the DSA Questions repository locally, follow these steps:
     git clone https://github.com/Shivanilarokar/DSA-Questions-.git
     ```
 
+2. Navigate into the project directory:
+    ```bash
+    cd DSA-Questions-
+    ```
+
 ## Usage
 After installation, you can start exploring the questions and their respective solutions. Each question is categorized for ease of navigation. Feel free to run the provided code snippets to test your understanding and implementation.
 
@@ -40,6 +44,7 @@ After installation, you can start exploring the questions and their respective s
 Here is a simple example function you might find in the repository:
 
 ```python
+# Example code for a simple DSA question
 def example_function():
     print("This is an example function.")
 ```
