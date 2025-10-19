@@ -1,7 +1,7 @@
 ```markdown
 # DSA Questions Repository 🚀
 
-![GitHub last commit](https://img.shields.io/github/last-commit/Shivanilarokar/DSA-Questions-)
+![GitHub last commit](https://img.shields.io/github/last-commit/Shivanilarokar/DSA-Questions-) 
 ![Issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
 ![License](https://img.shields.io/badge/license-MIT-brightgreen)
 
@@ -13,17 +13,15 @@ The DSA Questions repository offers a comprehensive collection of questions cove
 
 ## Features ✨
 - Comprehensive collection of DSA problems
-- Solutions written in Python
-- Clear explanations and example usages
+- Detailed solutions provided for each problem
+- Python implementations for easy understanding and usage
 
-## Summary of the Changes 🔄
-
-In the latest update, the following changes were made to the README.md file:
-- Enhanced the welcome message for clarity and engagement.
-- Added a badge for the MIT License.
-- Minor code adjustments in the Fibonacci function example to handle edge cases.
-
-### Code Snippet Changes 📝
+## Summary of the Changes
+In the latest commit, the following updates were made to the README.md file:
+- Improved clarity and professionalism in the repository description.
+- Refined the overview section to better highlight the repository's purpose.
+- Adjusted the installation and usage section headings for better readability.
+- Updated the example code snippet for the Fibonacci function to enhance clarity.
 
 Here are some snippets from the updated README.md:
 
@@ -56,9 +54,5 @@ cd DSA-Questions-
 
 You can explore the various algorithms and data structure implementations available in this repository. Each algorithm is provided with example usages to help you understand its functionality.
 
-Feel free to contribute by adding more problems or improving existing solutions!
-
----
-
-Happy Coding! 💻
+Feel free to contribute by submitting issues or pull requests. Happy coding! 🎉
 ```
