@@ -13,33 +13,34 @@ This repository serves as a collaborative platform for Data Structures and Algor
 
 ## Summary of the Changes
 In this update, the `README.md` file has been enhanced for better readability and presentation. Key changes include:
-
-### Key Changes:
 - Improved formatting and clarity in the README.
 - Enhanced Fibonacci function implementation example.
 
+### Updated Fibonacci Function:
 ```python
 def fibonacci(n):
+    """Returns a list of Fibonacci numbers up to n"""
     fib_sequence = []
-    a, b = 0, 1
     for _ in range(n):
         fib_sequence.append(a)
         a, b = b, a + b
     return fib_sequence
 ```
 
-## Installation 💻
+## Installation
 To get started with this repository, clone it using the following command:
 ```bash
 git clone https://github.com/Shivanilarokar/DSA-Questions-
 ```
 
-## Usage 🚀
-After cloning the repository, navigate to the directory and explore the various DSA problems and their solutions.
+## Usage
+Navigate to the desired directory and run the code or contribute with your own solutions to the DSA problems listed.
 
-Feel free to contribute by adding more questions and solutions or improving existing ones!
+## Example
+Here’s how you can use the Fibonacci function:
+```python
+print(fibonacci(10))  # Output: [0, 1, 1, 2, 3, 5, 8]
+```
 
----
-
-Thank you for checking out the DSA Questions repository! We hope you find it useful and informative. Happy coding! 🎉
+We encourage you to explore the repository, contribute with your solutions, and enhance your DSA skills!
 ```
