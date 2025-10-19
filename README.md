@@ -18,15 +18,14 @@ In the recent update, the `README.md` file has been modified to improve clarity 
 - Enhanced the introductory text for better understanding.
 - Improved formatting of sections and added emojis for a more engaging appearance.
 
-### Code Snippets of Changes
 Here are some snippets highlighting the modifications made:
 
 ```markdown
 -# DSA Questions Repository 🚀
-++# DSA Questions 📚
++# DSA Questions 🚀
 
 -Welcome to the DSA Questions repository! This repository provides a variety of DSA questions aimed at helping you improve your data structures and algorithms skills.
-++This repository contains a collection of data structures and algorithms (DSA) questions designed to help you enhance your coding skills.
++This repository contains a collection of data structures and algorithms (DSA) questions designed to help you enhance your coding skills.
 ```
 
 ## Installation
@@ -36,6 +35,7 @@ To get started with the DSA Questions repository, clone the repository using the
 git clone https://github.com/Shivanilarokar/DSA-Questions-.git
 ```
 
+## Usage 💻
 To use the resources available in this repository, navigate to the cloned directory and explore the questions and solutions provided.
 
 ## Example
@@ -47,5 +47,5 @@ def example_function():
     pass
 ```
 
-Thank you for visiting the DSA Questions repository! We appreciate your interest and encourage contributions to enhance the collection further. Happy coding! 🖥️
+Thank you for visiting the DSA Questions repository! We appreciate your interest and encourage contributions to enhance the collection further. Happy coding! 🧑‍💻
 ```
