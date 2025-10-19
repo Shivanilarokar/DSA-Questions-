@@ -1,9 +1,9 @@
 ```markdown
 # DSA Questions Repository
 
-![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
-
 Welcome to the **DSA Questions** repository! This repository contains a collection of Data Structures and Algorithms (DSA) problems designed to help you enhance your coding skills.
+
+![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
 
 ## Features
 - A comprehensive collection of DSA problems.
@@ -12,7 +12,7 @@ Welcome to the **DSA Questions** repository! This repository contains a collecti
 
 ## Summary of Changes
 In the latest update, the README.md file has been enhanced to improve clarity and provide better structure. The following changes were made:
-- Added a new **Features** section to highlight key aspects of the repository.
+- Added a **Features** section to highlight key aspects of the repository.
 - Improved the overall wording for better readability.
 - Introduced an **Example** section with a code snippet to demonstrate a DSA problem.
 
@@ -28,14 +28,20 @@ cd DSA-Questions-
 Feel free to navigate through the repository and test your skills against various DSA challenges!
 
 ## Example
-Here’s a quick example of how to solve a DSA problem:
+Here’s a simple example of a DSA problem you might encounter:
 
 ```python
-# Example code snippet for solving a DSA problem
-def example_function():
-    # Your solution logic here
-    pass
+def fibonacci(n):
+    if n <= 0:
+        return 0
+    elif n == 1:
+        return 1
+    else:
+        return fibonacci(n - 1) + fibonacci(n - 2)
+
+# Example usage
+print(fibonacci(5))  # Output: 5
 ```
 
-We hope you find this repository helpful in your learning journey! Happy coding! 🚀
+Happy coding! 😊
 ```
