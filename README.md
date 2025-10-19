@@ -1,9 +1,7 @@
 ```markdown
-# DSA Questions Repository
+# DSA Questions Repository 🚀
 
-![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-?style=social)
-![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-?style=social)
-![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
+![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-?style=social) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-?style=social) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
 
 ## Overview
 Welcome to the DSA Questions Repository! This repository is dedicated to providing a collection of Data Structures and Algorithms (DSA) problems, along with solutions and discussions. It's a great place for both beginners and experienced developers to enhance their problem-solving skills.
@@ -14,13 +12,29 @@ Welcome to the DSA Questions Repository! This repository is dedicated to providi
 - Contribution-friendly: you can add your own solutions or improve existing ones.
 
 ## Summary of the Changes
-In the latest update, the README.md file has been modified to enhance clarity and conciseness. Two lines were removed to streamline the message and improve readability.
+In this update, the `README.md` file has been modified to enhance clarity and conciseness. The following changes were made:
 
-### Changes Made:
-- Removed the closing thank you note for checking out the repository and the encouragement for contributions.
+### Key Changes:
+- Improved the overall description for better engagement.
+- Enhanced the example of the Fibonacci function implementation.
+- Streamlined the message by removing unnecessary lines.
 
+### Code Snippet Example
+Here’s a glimpse of how the Fibonacci function is implemented:
+
+```python
+def fibonacci(n):
+    if n <= 0:
+        return 0
+    elif n == 1:
+        return 1
+    else:
+        return fibonacci(n-1) + fibonacci(n-2)
+```
+
+### Removed Text
 ```diff
-- Thank you for checking out the DSA Questions Repository! We welcome contributions from everyone. Happy coding! 🤻
+- Thank you for checking out the DSA Questions Repository! We welcome contributions from everyone. Happy coding! 🤗
 ```
 
 ## Installation
@@ -33,8 +47,6 @@ cd DSA-Questions-
 
 ## Usage
 Explore the various DSA problems and try solving them! Feel free to contribute by adding your own solutions or improving existing ones.
-
----
 
 ## Example
 Here’s a simple example of how you can contribute:
