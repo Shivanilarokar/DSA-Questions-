@@ -1,7 +1,12 @@
 ```markdown
 # DSA Questions Repository 🚀
 
+![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-)
+
 Welcome to the DSA Questions repository! This project contains a collection of data structures and algorithms (DSA) questions designed to enhance your coding skills.
+
+## Overview
+This repository provides a variety of DSA questions aimed at helping you improve your programming abilities. Whether you are preparing for interviews or simply wish to enhance your skills, you'll find valuable resources here.
 
 ## Features 🌟
 - A variety of DSA questions across different difficulty levels.
@@ -11,8 +16,8 @@ Welcome to the DSA Questions repository! This project contains a collection of d
 
 ## Summary of the Changes
 In the latest commit, the `README.md` file has been updated to enhance clarity and usability. Key changes include:
-- Added a line encouraging community contributions.
 - Enhanced the installation and usage instructions for better understanding.
+- Added a line encouraging community contributions.
 - Included a closing statement to express appreciation for visitors and contributors.
 
 ## Installation 🛠️
@@ -22,13 +27,13 @@ To get started with the DSA Questions repository, clone the repository using the
 git clone https://github.com/Shivanilarokar/DSA-Questions-.git
 ```
 
-## Usage 📚
+## Usage 📖
 To utilize the DSA questions, navigate to the specific question directory and run the provided solution files.
 
-## Contributing 🤗
+## Contributing 🤖
 Feel free to explore, contribute, and enhance your coding skills with our DSA questions! 🚀
 
 ---
 
-Thank you for visiting the DSA Questions repository! We appreciate your interest and contributions. Happy coding! 🎉
+Thank you for visiting the DSA Questions repository! Your contributions are highly valued, and we look forward to your participation. 
 ```
