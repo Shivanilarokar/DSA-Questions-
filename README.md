@@ -1,5 +1,5 @@
 ```markdown
-# DSA Questions 📚
+# DSA Questions 📖
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
 
@@ -10,8 +10,8 @@ This repository aims to enhance your data structures and algorithms skills throu
 
 ## Features
 - Comprehensive DSA questions
-- Engaging and clear explanations for each question
 - Structured solutions for better understanding
+- Engaging and clear explanations for each question
 - Community contributions encouraged! 🎉
 
 ## Summary of the Changes
@@ -25,7 +25,6 @@ Here’s a snippet of the updated content:
 ```python
 def example_function(data):
     # Function implementation goes here
-    pass
 ```
 
 Feel free to explore, contribute, and enhance your DSA skills with our curated collection!
@@ -40,16 +39,11 @@ git clone https://github.com/Shivanilarokar/DSA-Questions-
 ```
 
 ## Usage
-You can navigate through the questions and solutions provided in this repository. Each question comes with a structured solution to help you understand the concept better.
+Once cloned, navigate into the repository and start exploring the DSA questions. Each question is structured with explanations and solutions to help you understand the concepts better.
 
-## Example
-Here is a simple example of how a function might look:
-
-```python
-def example_function(data):
-    # Function implementation goes here
-    pass
+```
+cd DSA-Questions-
 ```
 
-Explore the various DSA questions and solutions provided in this repository. Happy coding! 🎉
+Feel free to contribute by submitting pull requests or opening issues for any suggestions or improvements!
 ```
