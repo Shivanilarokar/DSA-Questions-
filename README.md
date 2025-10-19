@@ -3,10 +3,10 @@
 
 ![Stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-?style=social) ![Forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-?style=social)
 
-Welcome to the **DSA Questions** repository! This project contains a collection of Data Structures and Algorithms questions designed to help developers enhance their skills and understanding of fundamental concepts.
+Welcome to the **DSA Questions** repository! This project contains a collection of Data Structures and Algorithms questions designed to help developers enhance their coding skills.
 
-## Features 🚀
-- A comprehensive set of questions on Data Structures and Algorithms.
+## Features
+- A wide range of DSA questions to practice.
 - Code examples to illustrate solutions.
 - A collaborative environment for developers to contribute and learn.
 
@@ -29,8 +29,12 @@ To get started with the DSA Questions repository, clone the repository to your l
 ```bash
 git clone https://github.com/Shivanilarokar/DSA-Questions-
 ```
+Navigate to the project directory:
+```bash
+cd DSA-Questions-
+```
 
-## Usage
+## Usage 🎉
 Once cloned, navigate to the directory and explore the questions. You can also contribute by adding your own questions and solutions.
 
 ## Example
@@ -40,6 +44,9 @@ Here's how you might approach a sample question:
 def reverse_string(s):
     return s[::-1]
 ```
+Feel free to modify this function and contribute your solutions!
+
+---
 
 We encourage you to explore the repository and contribute your own questions and solutions. Happy coding! 🎉
 ```
