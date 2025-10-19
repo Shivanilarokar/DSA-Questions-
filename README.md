@@ -16,6 +16,11 @@ This repository is a valuable resource for anyone preparing for interviews or lo
 ## Summary of the Changes
 In the latest update, the README file has been enhanced to provide clearer information regarding installation, usage, and community contributions. The structure has been refined for better readability and engagement.
 
+### Changes Made:
+- Improved the overview and features sections for clarity.
+- Enhanced installation instructions with a clearer format.
+- Updated the usage section to be more user-friendly.
+
 ## Installation
 To get started with the DSA Questions repository, clone the repository to your local machine:
 
@@ -29,7 +34,7 @@ Here’s how you can use the solutions provided in this repository:
 
 ```python
 def example_solution():
-    # Your implementation here
+    # Your solution code here
     pass
 ```
 
