@@ -23,7 +23,7 @@ In the recent update, the following modifications were made to the `README.md` f
 ```diff
 -   git clone https://github.com/Shivanilarokar/DSA-Questions-
 +   git clone https://github.com/Shivanilarokar/DSA-Questions-.git
--# DSA Questions 📖
+-# DSA Questions 📚
 +# DSA Questions 📖
 ```
 
@@ -44,8 +44,4 @@ def example_function():
 ```
 
 Feel free to contribute to this project by adding more questions or improving existing solutions!
-
----
-
-Thank you for visiting the DSA Questions repository. Happy coding! 🚀
 ```
