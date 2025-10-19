@@ -1,17 +1,18 @@
 ```markdown
-# DSA Questions Repository 🚀
+# DSA Questions Repository 📚
 
-![GitHub last commit](https://img.shields.io/github/last-commit/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-) ![GitHub repo size](https://img.shields.io/github/repo-size/Shivanilarokar/DSA-Questions-)
+![GitHub repo size](https://img.shields.io/github/repo-size/Shivanilarokar/DSA-Questions-)
+![Last Commit](https://img.shields.io/github/last-commit/Shivanilarokar/DSA-Questions-)
+![Open Issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
 
-## Overview
-This repository contains a collection of Data Structures and Algorithms (DSA) questions designed to help you improve your coding skills and understanding of fundamental concepts.
+This repository contains a collection of Data Structures and Algorithms (DSA) questions and solutions designed to help you enhance your understanding and skills in DSA.
 
-## Features
+## Features ✨
 - Comprehensive collection of DSA questions
-- Example solutions to enhance understanding
-- Community contributions welcome! 🤝
+- Sample solutions in Python
+- Clear documentation and usage examples
 
-## Summary of the Changes 📝
+## Summary of Changes 📝
 In the recent update, the following modifications were made to the `README.md` file:
 - **Title Update**: Changed the title to better reflect the repository's purpose.
 - **Section Headers**: Enhanced section headers for improved clarity.
@@ -38,11 +39,10 @@ To utilize the repository, navigate through the provided questions and solutions
 ### Example
 Here’s a sample function demonstrating usage:
 ```python
+# Example function to demonstrate usage
 def sample_function():
     print("This is a sample function demonstrating usage!")
 ```
 
----
-
-We welcome contributions and feedback from the community. Happy coding! 💻
+Feel free to explore and contribute to the repository. Happy coding! 🚀
 ```
