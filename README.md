@@ -41,8 +41,6 @@ def fibonacci(n):
 print(fibonacci(5))  # Output: 5
 ```
 
-Feel free to open issues or submit pull requests to improve this repository!
-
 ## Example
 Here’s a simple example of how to use the Fibonacci function:
 
