@@ -35,13 +35,12 @@ Here’s a simple example function:
 
 ```python
 def example_function():
+    # Your code here
     pass
 ```
 
 This README.md file provides a clear overview of the repository and highlights the recent changes made to enhance user experience. It serves as an effective guide for developers looking to improve their skills in Data Structures and Algorithms.
 
-## Badges 📊
-![Stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-?style=social) ![Forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-?style=social)
-
-Thank you for visiting the DSA Questions Repository! Happy coding! 🎉
+---
+Feel free to explore, contribute, and enhance your DSA skills with this repository. Your contributions are always welcome!
 ```
