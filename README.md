@@ -8,26 +8,24 @@ Welcome to the DSA Questions repository! This repository is designed to help you
 
 ## Features
 - Comprehensive DSA questions
-- Structured solutions for better understanding
 - Engaging and clear explanations for each question
+- Structured solutions for better understanding
 - Community contributions encouraged! 🎉
 
 ## Summary of the Changes
-In this update, the README.md file has been enhanced to improve clarity and engagement. Key changes include:
+In this update, the `README.md` file has been enhanced to improve clarity and engagement. Key changes include:
 - Updated the title for better context: **"DSA Questions Repository"**.
 - Enhanced the overview section for a clearer description of the repository's purpose.
 - Added a new **Usage** section encouraging users to explore questions and solutions for skill improvement.
 - Adjusted formatting for a more professional presentation.
 
-```diff
-- # DSA Questions 📖
-+ # DSA Questions Repository
+### Example Code Snippet
+Here’s an example of how to implement a sample DSA question:
 
-- Welcome to the DSA Questions repository! This repository is designed to help you improve your Data Structures and Algorithms (DSA) skills through a collection of questions and solutions.
-+ Welcome to the DSA Questions repository! This repository is designed to help you improve your Data Structures and Algorithms (DSA) skills by providing comprehensive questions and structured solutions.
-
-+ ## Usage
-+ Explore the questions and solutions to improve your DSA skills. Each question is designed to provide a comprehensive learning experience.
+```python
+def sample_question():
+    # Sample implementation of DSA question
+    print("This is a sample question implementation")
 ```
 
 ## Installation
@@ -37,6 +35,9 @@ To get started with the DSA Questions repository, clone the repository using the
 git clone https://github.com/Shivanilarokar/DSA-Questions-
 ```
 
+## Usage
+Explore the questions and solutions to improve your DSA skills. Each question is designed to provide a comprehensive learning experience.
+
 ## Contributing
 We welcome contributions from the community! Feel free to fork the repository and submit a pull request.
 
@@ -44,7 +45,6 @@ We welcome contributions from the community! Feel free to fork the repository an
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
-
 This README.md provides a clear and concise overview of the DSA Questions repository, highlighting the key changes made, and maintaining a professional and engaging tone for potential contributors and users.
 
 Thank you for checking out the DSA Questions repository! Happy Coding! 🎉
