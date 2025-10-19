@@ -1,9 +1,9 @@
 ```markdown
 # DSA Questions Repository
 
-Welcome to the DSA Questions repository! This repository contains a collection of Data Structures and Algorithms (DSA) problems designed to help you enhance your coding skills.
-
 ![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
+
+Welcome to the DSA Questions repository! This repository contains a collection of Data Structures and Algorithms (DSA) problems designed to help you enhance your coding skills.
 
 ## Features
 - A comprehensive collection of DSA problems.
@@ -12,12 +12,13 @@ Welcome to the DSA Questions repository! This repository contains a collection o
 
 ## Summary of the Changes
 In the latest update, the `README.md` file has been improved to enhance the information and clarity for users. Key changes include:
-- Added a clearer section on usage instructions.
-- Updated example code to better reflect the functionality of the Fibonacci sequence solution.
-- Improved overall formatting and readability.
+- Added a "Features" section to highlight the repository's offerings.
+- Improved clarity in the "Usage" instructions.
+- Updated the example section to provide a clearer demonstration of a DSA problem solution.
 
 ## Installation
 To get started with the DSA Questions repository, clone the repository to your local machine using the following command:
+
 ```bash
 git clone https://github.com/Shivanilarokar/DSA-Questions-
 ```
@@ -27,6 +28,7 @@ Once you have cloned the repository, navigate to the desired problem directory a
 
 ### Example
 Here is a simple example demonstrating a Fibonacci sequence solution in Python:
+
 ```python
 def fibonacci(n):
     if n <= 0:
