@@ -1,5 +1,5 @@
 ```markdown
-# DSA Questions Repository 📚
+# DSA Questions Repository 📖
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
 
@@ -8,15 +8,15 @@ The DSA Questions repository is a collection of data structures and algorithms p
 
 ## Features
 - Comprehensive collection of DSA problems
-- Code examples in Python 🐍
-- Clear explanations for each problem
-- Community-driven contributions 🤝
+- Solutions in Python
+- Well-documented code and examples
 
 ## Summary of the Changes
-In the latest update, the README.md file has been enhanced to improve clarity and usability. Key changes include:
-- Simplified language for better understanding
-- Updated features list to reflect current offerings
-- Improved example usage section
+In the latest update, the README.md file has been enhanced to improve clarity and readability. Key changes include:
+- Updated badges for better visibility.
+- Minor formatting adjustments for a cleaner layout.
+- Enhanced example usage for the `two_sum` function.
+- Improved phrasing in various sections for a more professional tone.
 
 ### Example Usage
 Here’s a quick example of how to use the `two_sum` function:
