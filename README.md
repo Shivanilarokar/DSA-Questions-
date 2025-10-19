@@ -11,27 +11,27 @@ This repository aims to assist developers and learners in enhancing their unders
 ## Features ✨
 - A rich collection of DSA questions, categorized for easy navigation.
 - Comprehensive solutions to enhance understanding.
-- Community contributions are welcome!
+- Clear installation and usage instructions.
 
-## Summary of the Changes 📝
+## Summary of the Changes
 In the latest update, the README file has been enhanced to provide clearer information regarding installation and usage. Key changes include:
 
 - Updated the repository title for consistency.
-- Added badges for better visibility of repository metrics.
 - Improved the clarity of the installation instructions.
+- Added badges for better visibility of repository metrics.
 - Expanded the usage section to guide users on exploring the questions and solutions.
 
 ### Changes Made:
 Here are some snippets illustrating the modifications made:
 
 ```markdown
-- # DSA Questions Repository 📖
-+ # DSA Questions Repository 📜
+- # DSA Questions Repository 📚
++ # DSA Questions Repository 📖
 ```
 
 ```markdown
-- Thank you for checking out the DSA Questions repository! Happy coding! 🤖
-+ Thank you for checking out the DSA Questions repository! Happy coding! 🎉
+- Thank you for checking out the DSA Questions repository! Happy coding! 🎉
++ Thank you for checking out the DSA Questions repository! Happy coding! 🤖
 ```
 
 ## Installation 🚀
@@ -42,13 +42,13 @@ git clone https://github.com/Shivanilarokar/DSA-Questions-
 cd DSA-Questions-
 ```
 
-## Usage
+## Usage 📖
 You can explore the questions and solutions by navigating through the directory structure. Here’s a simple example to demonstrate how to use the solutions provided in this repository:
 
 ```python
 # Example implementation
 def example_function():
-    print("Hello, DSA World!")
+    print("This is an example function!")
 ```
 
 Feel free to contribute to this repository by adding more questions and solutions! Together, we can build a more comprehensive resource for DSA learning. 😃
