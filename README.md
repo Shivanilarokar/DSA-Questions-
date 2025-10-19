@@ -1,6 +1,8 @@
 ```markdown
 # DSA Questions Repository 🚀
 
+![GitHub repo size](https://img.shields.io/github/repo-size/Shivanilarokar/DSA-Questions-) ![GitHub contributors](https://img.shields.io/github/contributors/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
+
 Welcome to the DSA Questions repository! This repository contains a collection of Data Structures and Algorithms (DSA) questions aimed at helping developers and students enhance their problem-solving skills.
 
 ## Overview
@@ -8,9 +10,9 @@ This repository serves as a collaborative platform for DSA enthusiasts. It is de
 
 ## Features
 - Extensive collection of DSA questions.
+- Clear explanations and code snippets.
+- Organized sections for easy navigation.
 - Community-driven contributions.
-- Clear and concise explanations for each question.
-- Code snippets for better understanding.
 
 ## Summary of the Changes
 In this update, the following changes were made:
@@ -36,20 +38,6 @@ def fibonacci(n):
         fib_sequence.append(fib_sequence[i-1] + fib_sequence[i-2])
     return fib_sequence
 
-print(fibonacci(10))  # Output: [0, 1, 1, 2, 3, 5, 8, 13, 21, 34]
-```
-
-## Installation
-To get started with this repository, clone it to your local machine using the following command:
-
-```bash
-git clone https://github.com/Shivanilarokar/DSA-Questions-
-```
-
-## Usage
-To use the Fibonacci function, simply call it with the desired number as shown below:
-
-```python
 print(fibonacci(10))  # Output: [0, 1, 1, 2, 3, 5, 8, 13, 21, 34]
 ```
 
