@@ -15,7 +15,7 @@ This repository contains a collection of Data Structures and Algorithms (DSA) qu
 ## Summary of the Changes
 Recent updates to the `README.md` include:
 - 🎉 Changed the title emoji for a more celebratory tone.
-- 📄 Added an example input for the `two_sum` function to demonstrate usage clearly.
+- 📖 Added an example input for the `two_sum` function to demonstrate usage clearly.
 - ✨ Enhanced formatting and organization for better readability.
 - 🔗 Added social media badges for stars and forks.
 - 🔍 Enhanced the overview section for clarity.
@@ -24,6 +24,7 @@ Recent updates to the `README.md` include:
 
 ## Installation
 To get started with this repository, clone it using the command:
+
 ```bash
 git clone https://github.com/Shivanilarokar/DSA-Questions-
 ```
@@ -35,6 +36,7 @@ To use the solutions provided in this repository, follow these steps:
 
 ### Example
 Here’s how you can use the `two_sum` function:
+
 ```python
 def two_sum(nums, target):
     # Example input
@@ -44,6 +46,10 @@ def two_sum(nums, target):
         for j in range(i + 1, len(nums)):
             if nums[i] + nums[j] == target:
                 return [i, j]
+
+nums = [2, 7, 11, 15]
+target = 9
+print(two_sum(nums, target))  # Output: [0, 1]  # Because nums[0] + nums[1] == 9
 ```
 
 Feel free to explore the repository and contribute by adding more questions and solutions!
