@@ -15,9 +15,9 @@ This repository is aimed at aspiring developers and students who wish to enhance
 ## Summary of the Changes ⚡
 Recent updates to the `README.md` include:
 - Changed the title emoji for better representation.
-- Minor adjustments to the structure for clarity.
 - Added a note encouraging contributions to expand the collection.
 - Introduced an **Example Question** section to illustrate how challenges are structured.
+- Minor adjustments to the structure for clarity.
 
 ## Installation 🔧
 To get started, clone the repository using:
@@ -46,5 +46,6 @@ def two_sum(nums, target):
         num_map[num] = i
 ```
 
-Feel free to explore and contribute! 😊
+Feel free to explore and contribute! 😃
+
 ```
