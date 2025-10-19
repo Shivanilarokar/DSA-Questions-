@@ -1,15 +1,16 @@
 ```markdown
 # DSA Questions Repository 🚀
 
-![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
+This repository contains a comprehensive collection of Data Structures and Algorithms (DSA) questions along with solutions and explanations to facilitate learning and practice for developers at all levels.
 
-## Overview
-This repository contains a comprehensive collection of Data Structures and Algorithms (DSA) questions along with solutions and explanations to facilitate learning and practice for developers at all levels. The DSA Questions Repository is designed to help developers enhance their problem-solving skills through a wide array of DSA questions.
+![GitHub repo size](https://img.shields.io/github/repo-size/Shivanilarokar/DSA-Questions-) 
+![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-) 
+![GitHub pull requests](https://img.shields.io/github/issues-pr/Shivanilarokar/DSA-Questions-) 
 
 ## Features
 - Extensive collection of DSA questions.
 - Clear explanations and solutions for each question.
-- Encouragement for community contributions.
+- Encouragement for community contributions. 🎉
 
 ## Summary of the Changes
 In the latest commit, the `README.md` file has been updated to enhance clarity and provide a more streamlined experience for users. The following changes were made:
@@ -20,7 +21,8 @@ In the latest commit, the `README.md` file has been updated to enhance clarity a
 
 ### Specific Changes Made:
 ```diff
-- This repository is designed to help developers enhance their problem-solving skills through a wide array of Data Structures and Algorithms (DSA) questions.
+- # DSA Questions Repository
++ This repository is designed to help developers enhance their problem-solving skills through a wide array of Data Structures and Algorithms (DSA) questions.
 + This repository contains a comprehensive collection of DSA questions along with solutions and explanations to facilitate learning and practice for developers at all levels.
 ```
 
@@ -39,9 +41,11 @@ Feel free to explore the repository and contribute to enhancing the collection o
 Here is a simple example of a function that could be part of your DSA practice:
 ```python
 def example_function():
+    # Example code snippet for demonstration
     pass
 ```
 
 ---
+
 Happy coding! 🎉
 ```
