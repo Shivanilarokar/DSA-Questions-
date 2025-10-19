@@ -21,6 +21,7 @@ In the latest commit, the README.md file has been updated to enhance its present
 To clone this repository, run:
 ```bash
 git clone https://github.com/Shivanilarokar/DSA-Questions-
+cd DSA-Questions-
 ```
 
 ## Usage
