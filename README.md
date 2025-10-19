@@ -7,10 +7,10 @@
 Welcome to the DSA Questions repository! This repository is dedicated to providing a collection of Data Structures and Algorithms (DSA) questions to help aspiring developers enhance their problem-solving skills and prepare for coding interviews.
 
 ## Features
-- Comprehensive collection of DSA questions.
-- Solutions provided for each question.
-- Contribution guidelines to encourage community engagement.
-- Well-structured code examples to facilitate understanding.
+- 📚 Comprehensive collection of DSA questions.
+- 💡 Solutions provided for each question.
+- 🤝 Contribution guidelines to encourage community engagement.
+- 🏗️ Well-structured code examples to facilitate understanding.
 
 ## Summary of Changes
 In the latest commit, the `README.md` file has been updated to enhance clarity and visibility:
@@ -28,9 +28,13 @@ cd DSA-Questions-
 ```
 
 ## Usage
+Once you have cloned the repository, you can navigate through the directory and start exploring the questions and solutions provided. Feel free to enhance your skills by contributing to the repository!
+
+## Example
 Here's a quick example of how to use a solution from this repository:
 
 ```python
+# Example code snippet
 def example_solution():
     # Your code logic here
     pass
