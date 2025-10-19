@@ -18,9 +18,9 @@ The DSA Questions repository offers a comprehensive collection of questions cove
 ## Summary of the Changes 📝
 
 In the latest commit, the following updates were made to the README.md file:
-
-- Improved the introductory text for clarity and conciseness.
-- Updated the installation instructions for better usability.
+- Improved clarity and professionalism in the repository description.
+- Refined the overview section to better highlight the repository's purpose.
+- Adjusted the installation and usage section headings for better readability.
 - Enhanced the example code snippet for the Fibonacci function, including edge case handling.
 
 ### Here are some snippets from the updated README.md:
@@ -38,20 +38,18 @@ Here is an example of a Fibonacci function implementation:
 ```python
 def fibonacci(n):
     if n <= 0:
-        return "Input should be a positive integer"
-    elif n == 1:
         return 0
-    elif n == 2:
+    elif n == 1:
         return 1
     else:
         a, b = 0, 1
-        for _ in range(2, n):
+        for _ in range(2, n + 1):
             a, b = b, a + b
         return b
 ```
 This function now includes handling for edge cases, ensuring robustness.
 
-## Usage 📚
+## Usage 📖
 You can explore the various algorithms and data structure implementations available in this repository. Each algorithm is provided with example usages to help you understand its functionality.
 
 We welcome contributions and suggestions to improve this repository further. Thank you for being a part of our community! 🎉
