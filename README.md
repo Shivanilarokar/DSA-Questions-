@@ -1,5 +1,5 @@
 ```markdown
-# DSA Questions 🤖
+# DSA Questions Repository 🚀
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
 
@@ -11,7 +11,7 @@ This repository serves as a comprehensive collection of Data Structures and Algo
 - **Code Examples**: Clear and concise code examples in Python for easy understanding.
 - **Community Contributions**: Contributions from the community are encouraged, making this repository a collaborative learning space.
 
-## Summary of the Changes ⚠️
+## Summary of Changes 📝
 Recent updates to the `README.md` file include:
 - Updated the title emoji for better representation.
 - Enhanced formatting of badges for improved visual appeal.
@@ -48,7 +48,7 @@ result = two_sum(nums, target)
 print(result)  # Output: [0, 1] since nums[0] + nums[1] equals target
 ```
 
-Feel free to explore the repository, contribute your own solutions, and improve the learning experience for everyone!
+This function takes a list of numbers and a target value, returning the indices of the two numbers that add up to the target.
 
 ## Contributing 🤝
 We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING.md) for more information on how to get involved.
