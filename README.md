@@ -11,7 +11,7 @@ Welcome to the DSA Questions repository! This repository is a valuable resource 
 - Clear and concise instructions for usage and contribution.
 - Community-driven platform for learning and practicing DSA.
 
-## Summary of the Changes
+## Summary of the Changes 📝
 
 In the latest update, the README.md file has been auto-updated to improve clarity and conciseness:
 
@@ -22,7 +22,7 @@ In the latest update, the README.md file has been auto-updated to improve clarit
 
 ## Installation
 
-To get started, clone this repository to your local machine using:
+To get started, clone the repository using the following command:
 
 ```bash
 git clone https://github.com/Shivanilarokar/DSA-Questions-
@@ -38,5 +38,5 @@ def reverse_string(s):
     return s[::-1]
 ```
 
-Feel free to explore and enhance your coding skills with our curated DSA questions! Your input is valuable and helps the community grow. Happy coding! 💻
+Feel free to explore the repository and enhance your coding skills! Happy coding! 🎉
 ```
