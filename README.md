@@ -26,8 +26,7 @@ To get started with this repository, clone it to your local machine:
 git clone https://github.com/Shivanilarokar/DSA-Questions-
 ```
 
-## Usage
-Navigate to the desired challenge folder and run the code examples provided. For example, here’s a simple implementation of the Fibonacci function:
+Navigate to the desired challenge folder and run the code examples provided. For instance, to calculate the Fibonacci sequence:
 
 ```python
 def fibonacci(n):
@@ -36,13 +35,17 @@ def fibonacci(n):
     elif n == 1:
         return 1
     else:
-        return fibonacci(n-1) + fibonacci(n-2)
+        return fibonacci(n - 1) + fibonacci(n - 2)
 
 print(fibonacci(5))  # Output: 5
 ```
 
-Feel free to contribute and improve the repository by adding new challenges or enhancing existing ones. Happy coding! 🎉
+## Usage
+Explore the various DSA challenges and implement your solutions. Contributions are encouraged to help expand the repository and enhance learning for all users.
+
+Feel free to open issues or submit pull requests to improve this repository!
 
 ---
-This README.md file provides a clear and professional overview of the DSA Questions repository while summarizing the recent changes made in a concise manner. It includes structured sections, code examples, and encourages contributions.
+
+Thank you for visiting the DSA Questions repository! Happy coding! 🚀
 ```
