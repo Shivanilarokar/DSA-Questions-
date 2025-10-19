@@ -16,10 +16,6 @@ The DSA Questions repository is designed to help users improve their coding skil
 ## Summary of the Changes
 In the latest update, the README.md file has been modified to improve clarity and usability. The changes include:
 
-- Enhanced formatting and clarity in the repository description.
-- Added instructions to navigate into the cloned directory and install dependencies.
-- Encouraged community involvement and contributions.
-
 ### Key Changes:
 ```markdown
 - Updated repository description for clarity.
@@ -49,9 +45,6 @@ After cloning the repository, navigate to the project directory and explore the 
 cd DSA-Questions-
 ```
 
-Feel free to dive into the code and enhance your skills while contributing to the community!
-
-## Example
 Here's an example of how to solve a DSA problem:
 
 ```python
@@ -59,6 +52,8 @@ def example_problem(input_data):
     # Implement your logic here
     return output_data
 ```
+
+---
 
 Thank you for visiting the DSA Questions repository! Happy coding! 🎉
 ```
