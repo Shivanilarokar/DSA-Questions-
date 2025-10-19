@@ -1,9 +1,9 @@
 ```markdown
 # DSA Questions Repository
 
-![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
-
 Welcome to the **DSA Questions** repository! This repository contains a collection of Data Structures and Algorithms (DSA) problems designed to help you enhance your coding skills.
+
+![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
 
 ## Features
 - 📚 A comprehensive collection of DSA problems.
@@ -20,32 +20,27 @@ Recent updates to the `README.md` include:
 
 ```diff
 - To get started, clone the repository using the following command:
-+ To get started, clone the repository to your local machine:
 ```
 
 ## Installation
-To get started, clone the repository to your local machine:
+To get started, clone the repository using the following command:
 
 ```bash
 git clone https://github.com/Shivanilarokar/DSA-Questions-
 ```
 
 ## Usage
-After cloning the repository, navigate to the directory and explore the various DSA problems and their solutions.
-
-## Example
-Here’s a brief example of how you might solve a DSA problem:
+After cloning the repository, navigate to the project directory and follow the instructions provided in the individual problem folders.
 
 ```python
 def example_problem_solution(input_data):
-    # Your solution logic here
-    return output_data
+    # Sample code demonstrating a solution
+    pass
 ```
 
 Feel free to explore the repository, contribute, and enhance your understanding of Data Structures and Algorithms!
 
-This README.md captures the essence of the changes made to the project, provides clear instructions, and is formatted for easy readability and navigation.
-
 ---
+
 Feel free to contribute by submitting issues or pull requests!
 ```
