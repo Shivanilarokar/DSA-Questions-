@@ -7,9 +7,10 @@
 Welcome to the DSA Questions repository! This repository contains a collection of data structures and algorithms questions designed to help you practice and enhance your coding skills.
 
 ## Features
-- Comprehensive collection of DSA questions.
-- Solutions with explanations for better understanding.
-- Community contributions are welcome!
+- Extensive collection of DSA questions.
+- Community-driven contributions.
+- Clear and concise explanations for each question.
+- Code snippets for better understanding.
 
 ## Summary of the Changes
 In this update, the following changes were made:
@@ -25,21 +26,21 @@ To get started with this repository, clone it to your local machine using the fo
 git clone https://github.com/Shivanilarokar/DSA-Questions-.git
 ```
 
-After cloning, navigate into the directory:
+## Usage
+Navigate into the cloned repository directory:
 
 ```bash
 cd DSA-Questions-
 ```
 
-## Usage
-Once you have cloned the repository and navigated into the directory, you can run the examples provided in the code files. For instance, to see the Fibonacci function in action, you can use:
+You can run the Fibonacci function as follows:
 
 ```python
 def fibonacci(n):
     fib_sequence = [0, 1]
     for i in range(2, n):
         fib_sequence.append(fib_sequence[i-1] + fib_sequence[i-2])
-    return fib_sequence
+    return fib_sequence[:n]
 
 print(fibonacci(10))  # Output: [0, 1, 1, 2, 3, 5, 8, 13, 21, 34]
 ```
