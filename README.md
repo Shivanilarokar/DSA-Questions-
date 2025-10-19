@@ -1,9 +1,9 @@
 ```markdown
 # DSA Questions Repository
 
-Welcome to the DSA Questions repository! This repository contains a collection of Data Structures and Algorithms (DSA) problems designed to help you enhance your coding skills.
-
 ![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
+
+Welcome to the DSA Questions repository! This repository contains a collection of Data Structures and Algorithms (DSA) problems designed to help you enhance your coding skills.
 
 ## Features
 - A comprehensive collection of DSA problems.
@@ -12,9 +12,9 @@ Welcome to the DSA Questions repository! This repository contains a collection o
 
 ## Summary of the Changes
 In the latest update, the following modifications were made to the `README.md` file:
-- Added a "Features" section to highlight the repository's offerings.
-- Enhanced the "Usage" section for better clarity on how to utilize the repository.
-- Updated the "Example" section to provide a clearer and more relevant code snippet.
+- Added a **Features** section to highlight the repository's offerings.
+- Enhanced the **Usage** section for better clarity on how to utilize the repository.
+- Updated the **Example** section to provide a clearer and more relevant code snippet.
 
 ## Installation
 To get started with this repository, clone it to your local machine:
@@ -25,10 +25,7 @@ cd DSA-Questions-
 ```
 
 ## Usage
-Explore the repository and utilize the various DSA problems provided. Each problem includes a detailed explanation and solution to help you understand the concepts better.
-
-## Example
-Here’s a sample implementation of a DSA problem:
+Here’s an example of a simple DSA problem implementation:
 
 ```python
 def fibonacci(n):
@@ -39,7 +36,6 @@ def fibonacci(n):
     else:
         return fibonacci(n-1) + fibonacci(n-2)
 
-# Example usage
 print(fibonacci(10))  # Output: 55
 ```
 
