@@ -1,11 +1,11 @@
 ```markdown
 # DSA Questions 📚
 
-This repository focuses on providing a comprehensive collection of Data Structures and Algorithms (DSA) problems, helping you to strengthen your coding skills and prepare for technical interviews.
-
 ![GitHub stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-?style=social) 
 ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-) 
 ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-?style=social)
+
+This repository focuses on providing a comprehensive collection of Data Structures and Algorithms (DSA) problems, helping you to strengthen your coding skills and prepare for technical interviews.
 
 ## Features ✨
 - Extensive collection of DSA problems
@@ -15,14 +15,11 @@ This repository focuses on providing a comprehensive collection of Data Structur
 
 ## Summary of the Changes 📝
 In the latest update:
-- Added a **Features** section to highlight key aspects of the repository.
-- Enhanced the **Usage** section to provide clearer instructions on exploring the repository.
-- Introduced an **Example** section with a sample algorithm to demonstrate usage.
-- Updated the title emoji from 📓 to 📖 for a more relevant representation.
-- Added badges for GitHub stars, issues, and forks to enhance visibility and engagement.
-- Improved formatting and clarity in the installation and usage sections.
+- Added a **Features** section to highlight the key aspects of the repository.
+- Improved the **Installation** instructions for clarity.
+- Added a friendly closing remark to encourage contributions.
 
-## Installation 🚀
+## Installation
 To get started with this repository, clone it using the following command:
 
 ```bash
@@ -30,27 +27,21 @@ git clone https://github.com/Shivanilarokar/DSA-Questions-.git
 cd DSA-Questions-
 ```
 
-## Usage 💻
-Explore the various DSA problems organized by topics. Each problem includes a description, sample inputs/outputs, and solutions.
+## Usage
+Once you have cloned the repository, you can start exploring the DSA problems provided. 
 
-## Example
-Here’s a simple algorithm example to demonstrate usage:
+### Example
+Here’s a simple example of how to use one of the functions:
 
 ```python
 def fibonacci(n):
-    if n <= 0:
-        return []
-    elif n == 1:
-        return [0]
-    elif n == 2:
-        return [0, 1]
-    
-    fib_seq = [0, 1]
-    for i in range(2, n):
-        fib_seq.append(fib_seq[-1] + fib_seq[-2])
-    return fib_seq
+    a, b = 0, 1
+    result = []
+    for _ in range(n):
+        result.append(a)
+        a, b = b, a + b
+    return result
 
-# Example usage
 print(fibonacci(10))  # Output: [0, 1, 1, 2, 3, 5, 8, 13, 21, 34]
 ```
 
