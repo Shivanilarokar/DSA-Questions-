@@ -14,7 +14,7 @@ This repository aims to equip developers with a diverse array of Data Structures
 In the latest update, the following changes were made to the `README.md` file:
 
 - **Updated Badges**: Added badges for repository size, contributors, issues, and license for better visibility.
-  
+
 - **Enhanced the project description** for clarity and engagement.
 
 - **Improved the overall structure** and wording for better readability.
@@ -25,11 +25,14 @@ In the latest update, the following changes were made to the `README.md` file:
     +# DSA Questions Repository 📖
     ```
 
-- **Enhanced the structure and readability** of the installation instructions.
+- **Enhanced the structure and readability** of the installation instructions:
+    ```bash
+    git clone https://github.com/Shivanilarokar/DSA-Questions-
+    cd DSA-Questions-
+    ```
 
 ## Installation ⚙️
 To get a copy of this repository up and running on your local machine, clone it using the following command:
-
 ```bash
 git clone https://github.com/Shivanilarokar/DSA-Questions-
 cd DSA-Questions-
@@ -40,4 +43,6 @@ Feel free to explore the problems, and don’t hesitate to contribute by submitt
 
 ## License 📜
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+Thank you for checking out the DSA Questions Repository! We welcome contributions and feedback. Happy coding! 🎉
 ```
