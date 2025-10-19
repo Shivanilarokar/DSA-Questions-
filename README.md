@@ -1,9 +1,9 @@
 ```markdown
 # DSA Questions 🚀
 
-This repository is dedicated to helping developers and students improve their skills in Data Structures and Algorithms (DSA) through a collection of curated questions and solutions.
-
 ![GitHub Repo Size](https://img.shields.io/github/repo-size/Shivanilarokar/DSA-Questions-) ![Contributors](https://img.shields.io/github/contributors/Shivanilarokar/DSA-Questions-) ![Issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
+
+This repository is dedicated to helping developers and students improve their skills in Data Structures and Algorithms (DSA) through a collection of curated questions and solutions.
 
 ## Features ✨
 - A collection of DSA questions to practice and enhance your skills.
@@ -18,34 +18,32 @@ In the latest update, the README.md file has been auto-updated to enhance clarit
 ### Specific Changes
 ```diff
 -- Feel free to explore, contribute, and enhance your DSA skills! 😃
--+ Feel free to contribute, and happy coding! 🎉
+++ Feel free to contribute, and happy coding! 🎉
 ```
 
 ## Installation
 To get started with this repository, follow these steps:
 
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/Shivanilarokar/DSA-Questions-.git
-   ```
+    ```bash
+    git clone https://github.com/Shivanilarokar/DSA-Questions-.git
+    ```
 2. Navigate into the project directory:
-   ```bash
-   cd DSA-Questions-
-   ```
+    ```bash
+    cd DSA-Questions-
+    ```
 
 ## Usage
-You can find various DSA questions and their solutions in the respective files. Each solution is accompanied by explanations to help you understand the concepts better.
+You can explore various DSA questions and their solutions. Feel free to contribute by adding more questions or improving the existing solutions.
 
 ## Example
-Here’s a quick example of how to use one of the solutions:
-```python
-def example_function(data):
-    # Sample code logic
-    return data * 2
+Here’s a simple example of how you can add a new question to the repository:
 
-result = example_function(5)
-print(result)  # Output: 10
+```python
+def example_question():
+    # Example question description
+    return "This is a sample question."
 ```
 
-Feel free to contribute, and happy coding! 🎉
+Happy coding! 🎉
 ```
