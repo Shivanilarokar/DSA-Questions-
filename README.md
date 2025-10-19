@@ -14,7 +14,7 @@ This repository provides an extensive collection of problems and solutions for D
 - Easy navigation of the directory structure.
 - Community contributions are encouraged!
 
-## Summary of Changes 🔄
+## Summary of Changes 💥
 
 In the latest update, the README file has been modified to improve clarity and engagement. Key changes include:
 - Enhanced introductory text to better describe the purpose of the repository.
@@ -28,7 +28,7 @@ def example_solution():
     print("This is an example solution!")
 ```
 
-## Installation
+## Installation ⚙️
 
 To get started, clone the repository using the following command:
 ```bash
@@ -43,12 +43,11 @@ Explore the directory structure to find questions and their corresponding soluti
 ## Example 📝
 
 Here’s an example function that demonstrates how to use one of the solutions:
-
 ```python
 def example_solution():
     # Example code demonstrating a solution
     print("This is an example solution!")
 ```
 
-Feel free to explore, learn, and contribute to the DSA Questions repository! Happy coding! 🎉
+Feel free to explore and contribute to the DSA Questions repository!
 ```
