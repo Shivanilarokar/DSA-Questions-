@@ -23,6 +23,8 @@ This repository aims to provide a wide range of DSA problems and their solutions
 
 In the latest update, the README.md file has been modified to enhance clarity and organization while maintaining a professional tone. Key changes include:
 
+- **Title Update**: Changed to "DSA Questions Repository 🤖" for better clarity.
+- **Content Enhancement**: Improved the introductory text to better explain the repository's purpose.
 - **Section Renaming**:
   - Updated the emoji in the Overview section from 🤩 to 🤖.
   - Changed the emoji in the Features section from 🤩 to 🌟.
@@ -31,23 +33,29 @@ In the latest update, the README.md file has been modified to enhance clarity an
 ### Code Changes
 
 ```diff
-----## Overview 🤩
-++## Overview 🤖
-----## Features 🤩
-++## Features 🌟
-----## Summary of the Changes 💧
-++## Summary of the Changes 🔄
+--# DSA Questions 🤩
+-+## Overview 🤖
+-+## Features 🌟
+-+## Summary of the Changes 🔄
++----## Overview 🤩
++++## Overview 🤖
++----## Features 🤩
++++## Features 🌟
++----## Summary of the Changes 💧
++++## Summary of the Changes 🔄
 ```
 
 ## Installation 💻
 
-To get started with this repository, clone it using the following command:
+To get started with the DSA Questions repository, clone it using the following command:
 
 ```bash
 git clone https://github.com/Shivanilarokar/DSA-Questions-
 ```
 
-## Usage 📚
+## Usage 📖
 
 Explore the repository to practice DSA problems and refer to the solutions provided. Dive in and enhance your coding skills!
+
+Thank you for checking out the DSA Questions repository! Happy coding! 🚀
 ```
