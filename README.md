@@ -1,10 +1,8 @@
 ```markdown
-# DSA Questions Repository 📚
+# DSA Questions 📚
 
 [![GitHub stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-?style=social)](https://github.com/Shivanilarokar/DSA-Questions-) 
 [![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-?style=social)](https://github.com/Shivanilarokar/DSA-Questions-)
-
-Welcome to the DSA Questions repository! This repository contains a collection of Data Structures and Algorithms (DSA) questions along with their solutions. It is designed to help developers improve their problem-solving skills and prepare for technical interviews.
 
 ## Overview
 This repository is a comprehensive resource for developers looking to enhance their coding skills through practical examples of data structures and algorithms.
@@ -22,14 +20,14 @@ In the latest commit, the README.md file has been updated to enhance clarity and
 
 ### Code Changes
 ```diff
----# DSA Questions 📖
---+# DSA Questions Repository
-+- Feel free to contribute by adding more questions or improving the existing solutions!
+-- Feel free to contribute by adding more questions or improving the existing solutions!
 ++ Feel free to explore the repository, contribute, and improve your skills!
+---# DSA Questions 📖
++++# DSA Questions Repository
 ```
 
 ## Installation
-To get started with this repository, simply clone it to your local machine using the following command:
+To get started, clone the repository using the following command:
 ```bash
 git clone https://github.com/Shivanilarokar/DSA-Questions-
 ```
@@ -41,22 +39,17 @@ Navigate through the repository and explore the various DSA questions and their 
 Here’s an example of a binary search function included in the repository:
 ```python
 def binary_search(arr, target):
-    low = 0
-    high = len(arr) - 1
-    while low <= high:
-        mid = (low + high) // 2
+    left, right = 0, len(arr) - 1
+    while left <= right:
+        mid = (left + right) // 2
         if arr[mid] == target:
             return mid
         elif arr[mid] < target:
-            low = mid + 1
+            left = mid + 1
         else:
-            high = mid - 1
+            right = mid - 1
     return -1
 ```
 
-Feel free to explore the repository, contribute, and improve your skills! 🚀
-
-```
-Happy coding! 🎉
-```
+Feel free to explore the repository, contribute, and improve your skills!
 ```
