@@ -13,7 +13,7 @@ Welcome to the DSA Questions repository! This project aims to provide a collecti
 - Code examples implemented in Python.
 - Well-structured and easy to understand.
 
-## Summary of Changes 🛠️
+## Summary of Changes ⚙️
 
 In the latest update, the following changes were made:
 
@@ -48,12 +48,6 @@ class BankAccount:
 
     def show_balance(self):
         print(f"Account Balance for {self.owner}: ₹{self.balance}")
-
-# Example Usage
-# acc = BankAccount("Shivani", 5000)
-# acc.deposit(1000)
-# acc.withdraw(2000)
-# acc.show_balance()
 ```
 
 ## Installation
