@@ -19,52 +19,25 @@ This repository contains implementations of various data structures and algorith
 
 In the latest update, the following changes were made:
 
-1. **Updated Header**: Enhanced the header for the "Summary of Changes" section for clarity.
-2. **Removed Notebook File**: The `Day1.ipynb` file containing initial DSA questions and their explanations was removed.
-3. **Improved Functionality**: 
-   - Enhanced the `BankAccount` class in `function.py` to handle deposits and withdrawals more effectively.
-   - Added a default balance parameter to the `BankAccount` constructor.
-   - Included print statements to provide feedback on deposit and withdrawal actions.
-   - Enhanced error handling for insufficient funds during withdrawals.
+- Updated the introduction to make it more welcoming and informative.
+- Changed the section title from "Summary of Changes" to "Summary of the Changes".
+- Minor adjustments to improve the readability and structure of the README.
 
-### Code Snippet
+Here are some snippets from the modified sections:
 
-Here's a glimpse of the updated `BankAccount` class:
-
-```python
-class BankAccount:
-    def __init__(self, owner, balance=0):
-        self.owner = owner
-        self.balance = balance
-
-    def deposit(self, amount):
-        self.balance += amount
-        print(f"{amount} deposited. New balance: ₹{self.balance}")
-
-    def withdraw(self, amount):
-        if amount > self.balance:
-            print("Insufficient funds!")
-        else:
-            self.balance -= amount
-            print(f"{amount} withdrawn. New balance: ₹{self.balance}")
-
-    def show_balance(self):
-        print(f"Account Balance for {self.owner}: ₹{self.balance}")
+```markdown
+- Welcome to the DSA Questions repository! This project aims to provide a collection of data structures and algorithms questions along with their solutions.
++ This repository offers a comprehensive collection of data structures and algorithms to help you enhance your coding skills. 📚
 ```
 
-### Example Usage
-
-```python
-# Example Usage
-acc = BankAccount("John Doe", 1000)
-acc.deposit(500)
-acc.withdraw(2000)
-acc.show_balance()
+```markdown
+-## Summary of Changes ⚙️
++## Summary of the Changes 📝
 ```
 
-## Installation 🛠️
+## Installation
 
-To get started with this repository, clone it using:
+To get started with this repository, clone it to your local machine:
 
 ```bash
 git clone https://github.com/Shivanilarokar/DSA-Questions-
@@ -76,7 +49,7 @@ Then, navigate to the project directory:
 cd DSA-Questions-
 ```
 
-## Usage 📘
+## Usage 📖
 
 You can use the provided implementations by importing the respective classes or functions into your own Python scripts.
 
