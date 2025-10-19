@@ -1,52 +1,50 @@
 ```markdown
-# DSA Questions Repository 📚
+# DSA Questions Repository 🤖
 
-![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
-
-The DSA Questions repository is designed to help you improve your problem-solving skills through a collection of coding challenges and solutions. This repository serves as a resource for practicing Data Structures and Algorithms (DSA) questions, providing detailed explanations and code snippets for each problem. Whether you're preparing for interviews or just looking to sharpen your skills, this repository is a great place to start.
+![GitHub repo size](https://img.shields.io/github/repo-size/Shivanilarokar/DSA-Questions-) ![GitHub contributors](https://img.shields.io/github/contributors/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
 
 ## Overview 🚀
 This repository is aimed at aspiring developers and students who wish to enhance their understanding of data structures and algorithms through hands-on problem-solving.
 
+## Features 🌟
+- A variety of DSA questions covering multiple topics.
+- In-depth explanations and code snippets for each challenge.
+- Easy navigation and structure for efficient learning.
 - Contributions are welcome to expand the collection.
 
-## Summary of the Changes 💡
+## Summary of the Changes ⚡
 Recent updates to the `README.md` include:
 - Changed the title emoji for better representation.
-- Added a note encouraging contributions to expand the collection.
 - Minor adjustments to the structure for clarity.
-- Introduced an example question section to illustrate how challenges are structured.
+- Added a note encouraging contributions to expand the collection.
+- Introduced an **Example Question** section to illustrate how challenges are structured.
 
 ## Installation 🔧
 To get started, clone the repository using:
 
 ```bash
-git clone https://github.com/Shivanilarokar/DSA-Questions-
-cd DSA-Questions-
+git clone https://github.com/Shivanilarokar/DSA-Questions-.git
 ```
 
-## Usage 💻
-Here is an example of how a typical question is structured within the repository:
+## Usage 📖
+To use the resources in this repository, navigate through the directories and choose the problems that interest you. You can also contribute by adding your own questions or improving existing ones.
 
-### Example Question: Two Sum Problem
-**Description**: Given an array of integers, return indices of the two numbers such that they add up to a specific target.
+## Example Question 💡
+Here's an example of how challenges are structured:
 
-**Code Snippet**:
+### Problem: Two Sum
+**Description:** Given an array of integers, return indices of the two numbers such that they add up to a specific target.
+
+**Example:**
 ```python
 def two_sum(nums, target):
     num_map = {}
     for i, num in enumerate(nums):
-        if target - num in num_map:
-            return [num_map[target - num], i]
+        complement = target - num
+        if complement in num_map:
+            return [num_map[complement], i]
         num_map[num] = i
 ```
 
-Feel free to explore the repository, try out the problems, and contribute your solutions!
-
-## Contributions 🤝
-We welcome contributions! If you would like to add new questions or improve existing ones, please submit a pull request.
-
----
-
-Happy Coding! 🎉
+Feel free to explore and contribute! 😊
 ```
