@@ -1,9 +1,9 @@
 ```markdown
 # DSA Questions 📖
 
-![GitHub repo size](https://img.shields.io/github/repo-size/Shivanilarokar/DSA-Questions-) 
-![GitHub contributors](https://img.shields.io/github/contributors/Shivanilarokar/DSA-Questions-) 
-![GitHub last commit](https://img.shields.io/github/last-commit/Shivanilarokar/DSA-Questions-) 
+![GitHub repo size](https://img.shields.io/github/repo-size/Shivanilarokar/DSA-Questions-)
+![GitHub contributors](https://img.shields.io/github/contributors/Shivanilarokar/DSA-Questions-)
+![GitHub last commit](https://img.shields.io/github/last-commit/Shivanilarokar/DSA-Questions-)
 
 This repository serves as a comprehensive collection of Data Structures and Algorithms (DSA) questions and solutions to help you practice and improve your coding skills.
 
@@ -21,7 +21,6 @@ Recent updates to the `README.md` file include:
 
 ## Installation ⚙️
 To get started with this repository, simply clone it to your local machine using:
-
 ```bash
 git clone https://github.com/Shivanilarokar/DSA-Questions-.git
 ```
@@ -30,20 +29,6 @@ git clone https://github.com/Shivanilarokar/DSA-Questions-.git
 Here’s an example of how to approach a DSA question:
 
 ### Example Question: Two Sum
-Given an array of integers, return indices of the two numbers such that they add up to a specific target.
-
-**Input:**
-```python
-nums = [2, 7, 11, 15]
-target = 9
-```
-
-**Output:**
-```python
-[0, 1]  # Because nums[0] + nums[1] = 2 + 7 = 9
-```
-
-### Example Function
 ```python
 def two_sum(nums, target):
     hashmap = {}
@@ -54,8 +39,10 @@ def two_sum(nums, target):
         hashmap[num] = i
 ```
 
-## Contributing 🤝
-We welcome contributions from the community! Feel free to submit a pull request or open an issue if you have suggestions or improvements.
+This function takes a list of numbers and a target value, returning the indices of the two numbers that add up to the target.
 
-Thank you for checking out this repository! Happy coding! 🚀
+## Contribution 🤝
+We welcome contributions from the community! If you have a solution to a DSA question or want to suggest improvements, feel free to fork the repository and submit a pull request.
+
+Thank you for checking out the DSA Questions repository! Happy coding! 🚀
 ```
