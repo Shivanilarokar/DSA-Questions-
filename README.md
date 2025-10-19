@@ -1,7 +1,9 @@
 ```markdown
-# DSA Questions 📖
+# DSA Questions 📚
 
-![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-?style=social) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-?style=social)
+![GitHub repo size](https://img.shields.io/github/repo-size/Shivanilarokar/DSA-Questions-) 
+![GitHub contributors](https://img.shields.io/github/contributors/Shivanilarokar/DSA-Questions-) 
+![GitHub last commit](https://img.shields.io/github/last-commit/Shivanilarokar/DSA-Questions-) 
 
 This repository serves as a comprehensive collection of Data Structures and Algorithms (DSA) questions and solutions to help you practice and improve your coding skills.
 
@@ -26,14 +28,24 @@ To get started with this repository, simply clone it to your local machine using
 git clone https://github.com/Shivanilarokar/DSA-Questions-.git
 ```
 
-Once you have cloned the repository, you can navigate through the questions and start practicing!
-
-## Usage 📚
+## Usage 📖
 Here’s an example of how to approach a DSA question:
 
 ### Example Question: Two Sum
 Given an array of integers, return indices of the two numbers such that they add up to a specific target.
 
+**Input:**
+```python
+nums = [2, 7, 11, 15]
+target = 9
+```
+
+**Output:**
+```python
+[0, 1]  # Because nums[0] + nums[1] = 2 + 7 = 9
+```
+
+### Example Function
 ```python
 def two_sum(nums, target):
     hashmap = {}
@@ -45,7 +57,7 @@ def two_sum(nums, target):
 ```
 
 ## Contributing 🤝
-Feel free to explore, contribute, and enhance your DSA skills with this repository. Happy coding! 🎉
+We welcome contributions from the community! Feel free to submit a pull request or open an issue if you have suggestions or improvements.
 
-This README.md file incorporates the latest changes and presents a clear, professional overview of the repository, ensuring it is appealing to developers and contributors.
+Thank you for checking out this repository! Happy coding! 🚀
 ```
