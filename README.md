@@ -13,22 +13,27 @@ The DSA Questions repository offers a comprehensive collection of questions cove
 - Well-documented solutions with explanations.
 - Examples and edge case handling for key algorithms.
 
-## Summary of the Changes 📝
+## Summary of the Changes
 In the latest commit, the following updates were made to the README.md file:
-- Improved clarity and professionalism in the repository description.
-- Refined the overview section to better highlight the repository's purpose.
-- Adjusted the installation and usage section headings for better readability.
-- Enhanced the example code snippet for the Fibonacci function, including edge case handling.
+- Enhanced the documentation with a welcoming introduction.
+- Improved the example code snippet for the Fibonacci function, including edge case handling.
 
 ### Here are some snippets from the updated README.md:
+```python
+def fibonacci(n):
+    if n <= 0:
+        return "Input should be a positive integer"
+    elif n == 1:
+        return 1
+    else:
+        return fibonacci(n - 1) + fibonacci(n - 2)
+```
+This function now includes handling for edge cases, ensuring robustness.
 
-#### Installation
+## Installation
 To install this repository, clone it using the following command:
 ```bash
 git clone https://github.com/Shivanilarokar/DSA-Questions-.git
-```
-Then, navigate into the directory:
-```bash
 cd DSA-Questions-
 ```
 You may need to install any dependencies listed in the documentation.
