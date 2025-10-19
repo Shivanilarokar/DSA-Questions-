@@ -1,9 +1,9 @@
 ```markdown
 # DSA Questions Repository
 
-Welcome to the **DSA Questions** repository! This repository contains a collection of Data Structures and Algorithms (DSA) problems designed to help you enhance your coding skills.
-
 ![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
+
+Welcome to the **DSA Questions** repository! This repository contains a collection of Data Structures and Algorithms (DSA) problems designed to help you enhance your coding skills.
 
 ## Features
 - A comprehensive collection of DSA problems.
@@ -24,12 +24,12 @@ git clone https://github.com/Shivanilarokar/DSA-Questions-
 ```
 
 ## Usage
-This repository is designed for users looking to practice and improve their coding skills through various DSA problems. 
+This repository is designed for users looking to practice and improve their coding skills through various DSA problems.
 
 ## Example
 Here's a sample problem structure to illustrate how you can document your DSA problems effectively.
 
-### Example Problem: Two Sum
+### Problem Title
 - **Input**: An array of integers and a target integer.
 - **Output**: Indices of the two numbers such that they add up to the target.
 
