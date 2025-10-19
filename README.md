@@ -1,13 +1,14 @@
 ```markdown
 # DSA Questions Repository
 
-![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
-
 Welcome to the **DSA Questions** repository! This repository contains a collection of Data Structures and Algorithms (DSA) problems designed to help you enhance your coding skills.
+
+![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
 
 ## Features
 - A comprehensive collection of DSA problems.
 - Solutions and explanations for each problem.
+- User-friendly structure for easy navigation.
 
 ## Summary of the Changes
 In the latest update, the `README.md` file has been modified to enhance clarity and provide a better overview of the repository's purpose and structure. Key updates include:
@@ -23,16 +24,16 @@ cd DSA-Questions-
 ```
 
 ## Usage
-To get started with the DSA problems, navigate through the directory structure to find problems categorized by data structures and algorithms. Each problem comes with a solution and detailed explanation.
+To get started with solving DSA problems, navigate through the repository structure and select a problem that interests you. Each problem comes with detailed explanations and solutions to guide you through the learning process.
 
 ## Example
-Here’s a simple example to illustrate how to use a specific DSA problem:
+Here’s an example of how you can structure your solution:
 
 ```python
-def example_problem():
-    # Your code here
-    pass
+def example_problem(input):
+    # Your solution here
+    return output
 ```
 
-Feel free to explore the repository and contribute to the collection of DSA problems. Happy coding! 🚀
+Feel free to contribute to this repository by submitting your own solutions or enhancing existing ones. Happy coding! 🚀
 ```
