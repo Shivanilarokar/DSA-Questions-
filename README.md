@@ -21,7 +21,7 @@ In the latest update, the README.md file has been enhanced to improve its aesthe
 To get started with this repository, clone it to your local machine using the following command:
 
 ```bash
-git clone https://github.com/Shivanilarokar/DSA-Questions-
+git clone https://github.com/Shivanilarokar/DSA-Questions-.git
 ```
 
 ## Usage
@@ -35,6 +35,4 @@ def example_function(data):
 ```
 
 Enjoy exploring and contributing to the DSA Questions repository! If you have any questions or suggestions, feel free to open an issue or submit a pull request.
-
-Happy coding! 🎉
 ```
