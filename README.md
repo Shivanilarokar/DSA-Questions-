@@ -1,6 +1,7 @@
 ```markdown
 # DSA Questions Repository
 
+[![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-.svg)](https://github.com/Shivanilarokar/DSA-Questions-/issues) 
 [![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-.svg)](https://github.com/Shivanilarokar/DSA-Questions-/network) 
 [![GitHub stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-.svg)](https://github.com/Shivanilarokar/DSA-Questions-/stargazers)
 
@@ -11,19 +12,18 @@ This repository contains a collection of Data Structures and Algorithms (DSA) qu
 
 ## Features
 - Comprehensive collection of DSA questions.
-- Well-documented solutions with explanations.
-- Community-driven contributions are encouraged!
+- Detailed solutions and explanations for each question.
+- Regular updates to ensure relevance and clarity.
 
-## Summary of the changes
-Recently, minor updates were made to the README.md file to enhance clarity and presentation.
+## Summary of the Changes
+Recently, minor updates were made to the README.md file to enhance clarity and professionalism. 
 
 ### Key Changes:
 - Enhanced the formatting for improved readability.
 - Updated the overview section to better reflect the purpose of the repository.
-
+  
 ## Installation
 To get started, clone the repository and install the necessary dependencies:
-
 ```bash
 git clone https://github.com/Shivanilarokar/DSA-Questions-
 cd DSA-Questions-
@@ -33,7 +33,12 @@ cd DSA-Questions-
 You can explore the various DSA questions and their solutions provided in this repository. Each question is documented with its respective solution and explanation.
 
 ## Example
-Feel free to explore and contribute to this repository! Your contributions are highly appreciated.
+Here's a simple example of how to solve a question:
+```python
+def example_solution():
+    # Your solution logic here
+    pass
+```
 
-Happy coding! 🚀
+Feel free to contribute to this repository by submitting your own questions and solutions!
 ```
