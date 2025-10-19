@@ -18,7 +18,7 @@ In this update, the README.md file has been modified to provide a clearer and mo
 - Improved usage instructions with a more inviting tone.
 - Encouragement for contributions has been added.
 
-## Installation 🔧
+## Installation ⛓️
 To get started with the DSA Questions repository, clone the repository to your local machine:
 
 ```bash
@@ -31,20 +31,17 @@ Navigate to the project directory:
 cd DSA-Questions-
 ```
 
-## Usage 🎉
-Once cloned, navigate to the directory and explore the questions. You can also contribute by adding your own questions and solutions.
+## Usage 💻
+Once cloned, navigate to the directory and explore the questions. You can also contribute your solutions!
 
 ## Example
 Here's how you might approach a sample question:
 
 ```python
+# Sample question: Implement a function to reverse a string
 def reverse_string(s):
     return s[::-1]
 ```
 
 Feel free to modify this function and contribute your solutions!
-
----
-
-We encourage you to explore the repository and contribute your own questions and solutions. Happy coding! 🎉
 ```
