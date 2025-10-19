@@ -1,9 +1,9 @@
 ```markdown
 # DSA Questions Repository
 
-![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
-
 Welcome to the **DSA Questions** repository! This repository contains a collection of Data Structures and Algorithms (DSA) problems designed to help you enhance your coding skills.
+
+![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
 
 ## Features
 - A comprehensive collection of DSA problems.
@@ -29,20 +29,14 @@ Feel free to explore the various DSA problems available in this repository. You 
 
 ## Example
 Below is a sample snippet of code to illustrate how a problem might be structured:
+
 ```python
 def example_problem():
     # Sample code for demonstration
-    print("This is an example problem!")
-```
-
-We welcome contributions! Please feel free to submit issues or pull requests to help improve this repository.
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-```
-Happy Coding! 🚀
-```
+    print("This is an example problem.")
 ```
 
 This README.md file now reflects the latest changes and provides a clear, professional overview of the repository, making it appealing for both users and contributors.
+
+Happy Coding! 🚀
+```
