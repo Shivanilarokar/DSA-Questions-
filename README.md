@@ -1,54 +1,55 @@
 ```markdown
-# DSA Questions 🤖
+# DSA Questions 📚
 
-![Stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![Forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-)
+![GitHub repo size](https://img.shields.io/github/repo-size/Shivanilarokar/DSA-Questions-) 
+![GitHub stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-?style=social) 
+![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-?style=social)
 
-The DSA Questions repository is a comprehensive resource designed to provide a collection of Data Structures and Algorithms (DSA) questions to help you enhance your coding skills and prepare for technical interviews. This repository serves as a resource for individuals looking to practice and refine their DSA knowledge. It includes a variety of questions, solutions, and guidance to aid in your learning journey. Happy coding! 🎉
+The DSA Questions repository is a comprehensive resource designed to provide a collection of Data Structures and Algorithms (DSA) questions to help you enhance your coding skills and prepare for technical interviews. 
 
-## Features
-- Comprehensive collection of DSA questions.
-- Detailed solutions and explanations.
-- A diverse collection of DSA questions.
-- Contribution guidelines for collaborative improvement.
-- Community contributions and suggestions are welcome! 🤝
+## Features ✨
+- A variety of DSA questions with solutions.
+- Detailed explanations and guidance for each question.
+- Community-driven contributions and suggestions.
 
-## Summary of the Changes
+## Summary of the Changes 📝
 In the latest update, the `README.md` file has been auto-updated to reflect the following changes:
 - Enhanced description of the repository's purpose.
 - Clarified features of the repository.
 - Improved formatting and code examples for better readability.
 
+### Notable Changes:
 ```diff
 - The DSA Questions repository is designed to provide a collection of Data Structures and Algorithms (DSA) questions to help you enhance your coding skills and prepare for technical interviews.
 + This repository serves as a resource for individuals looking to practice and refine their DSA knowledge. It includes a variety of questions, solutions, and guidance to aid in your learning journey. Happy coding! 🎉
 ```
 
-## Installation
-To get started with the DSA Questions repository, follow these steps:
+For more questions, check out the repository and start practicing!
 
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/Shivanilarokar/DSA-Questions-
-    ```
+## Installation 💻
+To get started, clone the repository using the following command:
+```bash
+git clone https://github.com/Shivanilarokar/DSA-Questions-
+```
+Then, navigate to the project directory:
+```bash
+cd DSA-Questions-
+```
 
-## Usage
-Explore the questions and solutions in the repository to improve your DSA skills. Each question is designed to challenge your understanding of various concepts.
+## Usage 📖
+Explore the various DSA questions available in the repository and practice coding solutions. You can also contribute by adding your own questions or improving existing solutions.
 
-### Example
-Here’s a quick code snippet demonstrating how to reverse a linked list:
+## Example 🧩
+Here's a simple class implementation to get you started:
 
 ```python
 class Node:
-    def reverse_linked_list(head):
-        prev = None
-        current = head
-        while current:
-            next_node = current.next
-            current.next = prev
-            prev = current
-            current = next_node
-        return prev
+    def __init__(self, data):
+        self.data = data
+        self.next = None
 ```
 
-For more questions, check out the repository and start practicing!
+We welcome contributions and suggestions! If you have any questions, feel free to open an issue or submit a pull request.
+
+Feel free to explore and contribute! Happy coding! 🚀
 ```
