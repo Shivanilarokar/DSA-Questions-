@@ -1,13 +1,14 @@
 ```markdown
 # DSA Questions Repository
 
-![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
-
 Welcome to the **DSA Questions** repository! This repository contains a collection of Data Structures and Algorithms (DSA) problems designed to help you enhance your coding skills.
+
+![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
 
 ## Features
 - A comprehensive collection of DSA problems.
 - Solutions and explanations for each problem.
+- Enhanced overall organization of the content for better readability. 📚
 
 ## Summary of the Changes
 In this update, the README.md file has been enhanced to improve clarity and provide better examples:
@@ -24,23 +25,34 @@ git clone https://github.com/Shivanilarokar/DSA-Questions-
 ```
 
 ## Usage
-Once cloned, navigate to the repository directory and explore the DSA problems and their solutions.
+After cloning the repository, navigate into the project directory:
 
-## Example
-Here’s a quick example of how to get started with the problems:
-
-```python
-# Example of a simple DSA problem solution
-def fibonacci(n):
-    if n <= 0:
-        return 0
-    elif n == 1:
-        return 1
-    else:
-        return fibonacci(n-1) + fibonacci(n-2)
-
-print(fibonacci(5))  # Output: 5
+```bash
+cd DSA-Questions-
 ```
 
-Feel free to explore the problems and contribute to the repository. Happy coding! 🚀
+You can then explore the various DSA problems and their solutions.
+
+## Example
+Here’s a sample solution for the Fibonacci sequence problem:
+
+```python
+def fibonacci(n):
+    if n <= 0:
+        return []
+    elif n == 1:
+        return [0]
+    elif n == 2:
+        return [0, 1]
+    else:
+        fib_sequence = [0, 1]
+        for i in range(2, n):
+            fib_sequence.append(fib_sequence[-1] + fib_sequence[-2])
+        return fib_sequence
+
+# Example usage
+print(fibonacci(10))  # Outputs: [0, 1, 1, 2, 3, 5, 8, 13, 21, 34]
+```
+
+Feel free to contribute to the repository by adding more problems or improving existing solutions!
 ```
