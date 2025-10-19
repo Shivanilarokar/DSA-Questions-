@@ -1,25 +1,23 @@
 ```markdown
 # DSA Questions Repository
 
-![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
-
 Welcome to the **DSA Questions** repository! This repository contains a collection of Data Structures and Algorithms (DSA) problems designed to help you enhance your coding skills.
+
+![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
 
 ## Features
 - 📚 A comprehensive collection of DSA problems.
 - ⚡ Solutions and explanations for each problem.
-- 🤝 Open for contributions to enhance the repository.
 
 ## Summary of the Changes
-In the latest update, the README.md file has been modified to improve clarity and user engagement. The notable changes include:
-- Addition of a **Features** section to highlight the repository's offerings.
-- Updated the installation instructions to include the `.git` extension for cloning.
-- Enhanced clarity in the usage instructions.
-- Revised the example code block to provide a clearer structure.
-- Encouragement for users to contribute directly to the repository.
+In the latest update, the README.md has been enhanced with clearer instructions and improved formatting. The following changes were made:
+- Added a dedicated **Contribution** section encouraging users to contribute.
+- Updated the wording in the **Usage** section for clarity.
+- Modified the **Example** section to provide a more relevant code snippet.
+- Improved overall formatting and readability.
 
 ## Installation
-To get started with the DSA Questions repository, clone it to your local machine using the following command:
+To get started, clone the repository using the following command:
 
 ```bash
 git clone https://github.com/Shivanilarokar/DSA-Questions-.git
