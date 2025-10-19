@@ -15,16 +15,14 @@ The DSA Questions repository is designed to help developers enhance their proble
 ## Summary of the Changes
 In the latest commit, the `README.md` file has been updated to enhance clarity and improve the overall presentation of the repository. Below are the specific changes made:
 
-```diff
-- This repository is designed to help developers enhance their problem-solving skills through a wide array of Data Structures and Algorithms (DSA) questions.
-+ The DSA Questions repository is designed to help developers enhance their problem-solving skills through a rich set of DSA questions categorized by difficulty and topic.
-```
+- Updated the repository name emoji from 🌟 to 🚀 for a more dynamic representation.
+- Streamlined the text for better coherence in the usage section.
 
-Additionally, the usage section has been updated for better coherence:
-
+### Changes in Usage Section:
 ```diff
-- Explore the questions, attempt the problems, and refer to the solutions and explanations provided.
-+ Explore the questions, attempt the problems, and refer to the solutions and explanations provided.
+-## Usage 📖
++## Usage 📖
+ Explore the questions, attempt the problems, and refer to the solutions and explanations provided.
 ```
 
 ## Installation 💻
@@ -40,9 +38,9 @@ Explore the questions, attempt the problems, and refer to the solutions and expl
 Here’s a quick example of how to get started with a sample question:
 
 ```python
-# Sample code snippet for a DSA question
 def example_function():
-    return "Hello, DSA!"
+    # Sample code for demonstration
+    print("Hello, DSA!")
 ```
 
 ## Contributing 🤝
