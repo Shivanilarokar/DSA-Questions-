@@ -1,5 +1,5 @@
 ```markdown
-# DSA Questions Repository 👨‍💻
+# DSA Questions Repository 🤖👩‍💻
 
 [![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-.svg)](https://github.com/Shivanilarokar/DSA-Questions-/issues)
 [![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-.svg)](https://github.com/Shivanilarokar/DSA-Questions-/network)
@@ -20,6 +20,7 @@ In this latest commit, the README.md file has been updated for improved clarity 
 
 ```python
 def example_solution():
+    # Your solution code here
     pass
 ```
 
@@ -32,6 +33,7 @@ To get started with the DSA Questions repository, clone the repository using the
 
 ```bash
 git clone https://github.com/Shivanilarokar/DSA-Questions-
+cd DSA-Questions-
 ```
 
 ## Usage
