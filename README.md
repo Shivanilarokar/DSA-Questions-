@@ -8,9 +8,9 @@
 The DSA Questions repository is a comprehensive resource designed to provide a collection of Data Structures and Algorithms (DSA) questions to help you enhance your coding skills and prepare for technical interviews. This repository is perfect for both beginners and experienced programmers looking to improve their understanding of DSA concepts.
 
 ## Features
-- A wide array of DSA questions categorized by difficulty.
-- Solutions and explanations for each question.
-- Community contributions are welcome! 
+- A wide range of DSA questions categorized for ease of access.
+- Code snippets and solutions to help you understand the concepts better.
+- Community-driven contributions to expand the repository.
 
 ## Summary of the Changes
 In the latest update, the `README.md` file has been auto-updated to enhance clarity and readability. The changes include:
@@ -19,8 +19,8 @@ In the latest update, the `README.md` file has been auto-updated to enhance clar
 
 ### Code Snippet of Changes
 ```diff
-- The DSA Questions repository is designed to provide a collection of Data Structures and Algorithms (DSA) questions to help you enhance your coding skills and prepare for technical interviews.
-+ The DSA Questions repository is a comprehensive resource designed to provide a collection of Data Structures and Algorithms (DSA) questions to help you enhance your coding skills and prepare for technical interviews.
+- The DSA Questions repository is a comprehensive resource designed to provide a collection of Data Structures and Algorithms (DSA) questions to help you enhance your coding skills and prepare for technical interviews.
++ The DSA Questions repository is designed to provide a collection of Data Structures and Algorithms (DSA) questions to help you enhance your coding skills and prepare for technical interviews.
 ```
 
 ## Installation
