@@ -1,10 +1,7 @@
 ```markdown
 # DSA Questions Repository 📚
 
-![GitHub repo size](https://img.shields.io/github/repo-size/Shivanilarokar/DSA-Questions-) ![License](https://img.shields.io/badge/license-MIT-blue.svg)
-
-## Overview
-This repository provides a structured approach to learning and practicing Data Structures and Algorithms (DSA). It includes a variety of questions that cover essential topics in DSA, complete with detailed explanations and code snippets to enhance your understanding.
+This repository provides a structured approach to learning and practicing Data Structures and Algorithms (DSA). Whether you're a beginner or an experienced coder, you'll find valuable resources to enhance your skills.
 
 ## Features
 - A wide range of DSA questions covering various topics.
@@ -14,19 +11,15 @@ This repository provides a structured approach to learning and practicing Data S
 ## Summary of the Changes
 ### Recent Updates
 In the latest update, the following changes were made:
-- The title was updated for clarity 🆕.
+- The title was updated for clarity 🤖.
 - Minor grammatical changes in the description ✍️.
 - Added a new section on usage 📖.
-- Improved the overall structure and readability 📈.
+- Improved the overall structure and readability 📊.
 
 ### Here are the snippets of the updated sections:
 ```diff
-----# DSA Questions 📚
----+# DSA Questions Repository 📚
--+-# DSA Questions 📖
--++# DSA Questions Repository 📖
-+-# DSA Questions 📖
-++# DSA Questions Repository 📚
+-# DSA Questions 📖
++# DSA Questions Repository 📖
 ```
 
 ## Installation
@@ -48,7 +41,7 @@ def example_function(data):
 print(example_function([-1, 2, 0, 3]))
 ```
 
-Feel free to explore the repository and contribute by adding new questions or improving existing solutions!
+Feel free to explore the repository and contribute by adding new questions or improving existing solutions! 🚀
 
 ---
 
