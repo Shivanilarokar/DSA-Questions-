@@ -1,9 +1,9 @@
 ```markdown
 # DSA Questions Repository
 
-![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
-
 Welcome to the **DSA Questions** repository! This repository contains a collection of Data Structures and Algorithms (DSA) problems designed to help you enhance your coding skills.
+
+![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
 
 ## Features
 - A comprehensive collection of DSA problems.
@@ -19,27 +19,26 @@ In this recent update, the README.md file has been auto-updated to enhance clari
 
 ### Code Snippet Example:
 To get started with this repository, clone it to your local machine using the following command:
-
 ```bash
-git clone https://github.com/Shivanilarokar/DSA-Questions-
-```
-
-#### Example code for a simple DSA problem solution
-```python
-# Example code for a simple DSA problem solution
-def example_problem():
-    print("Solving a simple DSA problem!")
-
-example_problem()
+git clone https://github.com/Shivanilarokar/DSA-Questions-.git
 ```
 
 ## Installation
-To install the repository, simply clone it as shown in the code snippet above. Follow the instructions in the individual problem directories for further setup if required.
+1. Ensure you have Git installed on your machine.
+2. Clone the repository as shown above.
+3. Navigate to the directory.
+4. Follow the instructions in the respective problem folders for setup.
 
 ## Usage
-Explore the various DSA problems provided in the repository and try out the solutions. Feel free to contribute by adding your own problems and solutions!
+Once cloned, you can explore the various DSA problems and their solutions. Each problem is well-documented with explanations and usage examples.
 
----
+## Example
+Here’s a simple example of how to use one of the solutions:
+```python
+def example_function():
+    # Example code demonstrating usage
+    pass
+```
 
-We appreciate your interest in the DSA Questions repository! Happy coding! 🚀
+Feel free to contribute by submitting issues or pull requests! Happy coding! 🚀
 ```
