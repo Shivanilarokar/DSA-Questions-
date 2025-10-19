@@ -1,14 +1,13 @@
 ```markdown
 # DSA Questions Repository
 
-![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
-
 Welcome to the **DSA Questions** repository! This repository contains a collection of Data Structures and Algorithms (DSA) problems designed to help you enhance your coding skills.
+
+![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
 
 ## Features
 - 📚 A comprehensive collection of DSA problems.
 - ⚡ Solutions and explanations for each problem.
-- ✨ Improved formatting for better visual appeal.
 
 ## Summary of the Changes
 In the latest update, the README.md file has been enhanced to improve clarity and engagement. Here are the key changes made:
@@ -25,12 +24,14 @@ git clone https://github.com/Shivanilarokar/DSA-Questions-
 ```
 
 ## Usage
-You can explore the various DSA problems and their solutions. Below is a quick look at an example function:
+Navigate through the repository to find a variety of DSA problems. Each problem contains a detailed explanation and solution.
+
+## Example
+Here’s a simple example of how to use one of the functions in the repository:
 
 ```python
-# Example function usage
-def example_function(param):
-    return param * 2
+def example_function(x):
+    return x * 2
 
 result = example_function(5)
 print(result)  # Output: 10
