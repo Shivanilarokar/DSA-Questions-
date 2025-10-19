@@ -8,11 +8,12 @@ Welcome to the DSA Questions repository! This repository contains a collection o
 
 ## Features
 - A wide variety of DSA questions
+- Solutions and explanations for each question
 - Code examples in Python
 - Contribution guidelines for adding new questions and solutions
 
 ## Summary of the Changes
-In the latest commit, the README.md was updated to:
+In the latest commit, the `README.md` was updated to:
 - Correctly represent the example user as a female developer 👩‍💻.
 - Enhance the overall structure for better clarity and professionalism.
 
@@ -43,12 +44,7 @@ Here's an example of how to use one of the questions in the repository:
 
 ```python
 def example_function():
+    # Your implementation here
     pass
 ```
-
----
-
-This README.md file has been structured to provide a clear and concise overview of the DSA Questions repository, highlighting recent changes while maintaining a professional and appealing format.
-
-Feel free to contribute to this repository by submitting issues or pull requests! Happy coding! 💻
 ```
