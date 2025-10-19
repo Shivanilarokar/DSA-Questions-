@@ -1,14 +1,16 @@
 ```markdown
-# DSA Questions Repository 🤖
-
-[![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-.svg)](https://github.com/Shivanilarokar/DSA-Questions-/issues) 
-[![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-.svg)](https://github.com/Shivanilarokar/DSA-Questions-/network) 
-[![GitHub stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-.svg)](https://github.com/Shivanilarokar/DSA-Questions-/stargazers)
+# DSA Questions Repository 🚀
 
 Welcome to the DSA Questions repository! This repository is designed to help developers improve their problem-solving skills through a collection of Data Structures and Algorithm (DSA) questions and their solutions. Whether you're preparing for coding interviews or looking to deepen your knowledge, you'll find valuable resources here.
 
 ## Overview
 This repository serves as a valuable resource for learners and developers looking to enhance their understanding of Data Structures and Algorithms through practical examples and challenges.
+
+## Features
+- A comprehensive collection of DSA questions.
+- Solutions to each question with detailed explanations.
+- Organized by topic for easy navigation.
+- Community-driven contributions are encouraged! 🤝
 
 ## Summary of the Changes
 In the latest update, the `README.md` file has been enhanced with the following changes:
@@ -40,5 +42,5 @@ def example_function():
 
 ---
 
-Thank you for visiting the DSA Questions repository! We hope you find it helpful in your journey to mastering Data Structures and Algorithms. Happy coding! 🚀
+Thank you for visiting the DSA Questions repository! We hope you find it helpful in your journey to mastering Data Structures and Algorithms. Happy coding! 🎉
 ```
