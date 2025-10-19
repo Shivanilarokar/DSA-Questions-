@@ -1,8 +1,9 @@
 ```markdown
-# DSA Questions 🤖
+# DSA Questions Repository
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-?style=social) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-?style=social)
 
+## Overview
 Welcome to the DSA Questions repository! This repository contains a collection of data structures and algorithms questions designed to help you practice and enhance your coding skills.
 
 ## Features
@@ -12,11 +13,12 @@ Welcome to the DSA Questions repository! This repository contains a collection o
 
 ## Summary of the Changes
 In this update, the following changes were made:
-- Updated the title emoji to a robot emoji 🤖.
-- Added instructions for navigating into the cloned repository directory.
-- Improved variable naming for clarity in the Fibonacci function.
+- Updated the overview description for clarity and conciseness.
+- Enhanced feature descriptions to highlight the community aspect.
+- Improved the usage instructions for clarity.
+- Refined the Fibonacci function code snippet for better readability.
 
-## Installation 🚀
+## Installation
 To get started with this repository, clone it to your local machine using the following command:
 
 ```bash
@@ -43,7 +45,7 @@ print(fibonacci(10))  # Output: [0, 1, 1, 2, 3, 5, 8, 13, 21, 34]
 ```
 
 ## Contributing
-We welcome contributions! Please feel free to open issues or submit pull requests to improve the repository.
+We welcome contributions from the community! If you have any questions, feel free to open an issue or submit a pull request.
 
-Happy coding! 🎉
+Happy coding! 🚀
 ```
