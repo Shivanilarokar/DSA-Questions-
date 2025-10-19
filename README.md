@@ -1,5 +1,5 @@
 ```markdown
-# DSA Questions Repository 🤖
+# DSA Questions Repository 
 
 Welcome to the DSA Questions repository! This project is designed to help you sharpen your data structures and algorithms skills through a comprehensive collection of problems and solutions.
 
@@ -12,20 +12,18 @@ Welcome to the DSA Questions repository! This project is designed to help you sh
 ## Features 🌟
 - 📚 Extensive collection of DSA problems
 - 🤖 Detailed solutions and explanations
-- 📖 Organized into categories for easy navigation
+- 📂 Organized into categories for easy navigation
 - 🙌 Community contributions are welcome!
 
-## Summary of the Changes 📜
-In the latest commit, the README.md file has been updated to enhance the clarity and presentation of the features available in this repository. The following changes were made:
-- Updated bullet points for better readability and consistency.
-- Enhanced the title emoji for better representation.
+## Summary of the Changes 📝
+In the latest commit, the README.md file has been updated to enhance clarity and improve the presentation of features.
 
 ### Changes Made:
 ```diff
-- 📖 Detailed solutions and explanations
-- 📚 Organized into categories for easy navigation
+- 📚 Detailed solutions and explanations
+- 📂 Organized into categories for easy navigation
 + 🤖 Detailed solutions and explanations
-+ 📖 Organized into categories for easy navigation
++ 📚 Organized into categories for easy navigation
 ```
 
 ## Installation 🚀
@@ -34,15 +32,15 @@ To get started with this repository, clone it to your local machine using the co
 git clone https://github.com/Shivanilarokar/DSA-Questions-
 ```
 
-## Usage 📘
+## Usage 📖
 Navigate into the cloned directory:
 ```bash
 cd DSA-Questions-
 ```
 
-Feel free to explore and contribute! If you encounter any issues or have suggestions, please open an issue or a pull request. Let's build a great repository together! 🚀
+Feel free to explore the repository and contribute to the collection of DSA questions!
 
-For more details or to contribute, visit [DSA Questions Repository](https://github.com/Shivanilarokar/DSA-Questions-).
+---
 
-Happy coding! 🎉
+Thank you for checking out the DSA Questions repository! Happy coding! 🎉
 ```
