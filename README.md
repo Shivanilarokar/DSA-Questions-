@@ -1,8 +1,6 @@
 ```markdown
 # DSA Questions 🤖
 
-This repository contains a collection of Data Structures and Algorithms (DSA) questions with their corresponding solutions implemented in various programming languages.
-
 ![GitHub Repo Size](https://img.shields.io/github/repo-size/Shivanilarokar/DSA-Questions-) 
 ![Last Commit](https://img.shields.io/github/last-commit/Shivanilarokar/DSA-Questions-) 
 ![Open Issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
@@ -53,7 +51,6 @@ def fibonacci(n):
     else:
         return fibonacci(n-1) + fibonacci(n-2)
 
-# Example usage
 print(fibonacci(5))  # Output: 5
 ```
 
