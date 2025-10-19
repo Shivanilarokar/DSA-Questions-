@@ -46,17 +46,17 @@ git clone https://github.com/Shivanilarokar/DSA-Questions-
 
 ## Usage
 
-After cloning the repository, navigate to the directory and explore the various DSA questions and their respective solutions. Feel free to contribute by adding more questions or improving the existing solutions.
+After cloning the repository, navigate to the directory and explore the DSA questions provided. Each question includes a detailed solution to help you understand the concepts better.
 
 ## Example
 
-Here's an example of how you might use one of the DSA solutions:
+Here’s how you can use the provided code snippets:
 
 ```python
-def example_function():
-    # Example code goes here
-    pass
+# Example function usage
+result = example_function()
+print(result)
 ```
 
-We encourage contributions to enhance the quality and quantity of the questions and solutions available in this repository. Happy coding! 💻
+Feel free to contribute by adding new questions or improving existing solutions. Happy coding! 🎉
 ```
