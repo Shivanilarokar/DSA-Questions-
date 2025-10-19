@@ -1,9 +1,9 @@
 ```markdown
 # DSA Questions Repository
 
-![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
-
 Welcome to the DSA Questions repository! This repository contains a collection of Data Structures and Algorithms (DSA) problems designed to help you enhance your coding skills.
+
+![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
 
 ## Features
 - A comprehensive collection of DSA problems.
@@ -19,20 +19,6 @@ In the latest update, the following modifications were made to the `README.md` f
 - **User Engagement**: Encouraged users to explore the repository after cloning.
 - **Usage Section Improvement**: Added a section header for **Usage** to improve organization.
 
-### Code Snippet Changes
-```markdown
-- To get started with the DSA Questions repository, clone the repository using the following command:
-+ To get started with this repository, clone it to your local machine:
-```
-
-```markdown
-- Then navigate into the cloned directory:
-- ```bash
-- cd DSA-Questions-
-- # Install dependencies if any
-- ```
-```
-
 ## Installation
 To get started with this repository, clone it to your local machine:
 
@@ -42,14 +28,19 @@ cd DSA-Questions-
 ```
 
 ## Usage
-Explore the problems and solutions provided in this repository. Feel free to interact with the code and modify it to enhance your understanding of DSA concepts.
+Explore the problems, contribute solutions, and enhance your understanding of data structures and algorithms!
 
-```python
-# Example function to encourage user interaction
-def example_function():
-    # Your code here
-    pass
+```
+# Example usage of a DSA problem
+# Problem: Find the maximum element in an array
+def find_max(arr):
+    return max(arr)
+
+arr = [1, 3, 5, 7, 9]
+print("Maximum element:", find_max(arr))
 ```
 
-Happy coding! 🚀
+Feel free to contribute and enhance the content of this repository!
+
+Happy Coding! 🚀
 ```
