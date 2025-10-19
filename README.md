@@ -1,12 +1,10 @@
 ```markdown
-# DSA Questions Repository
+# DSA Questions Repository 📖
 
 ![Stars Badge](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![Forks Badge](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![Issues Badge](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
 
-Welcome to the DSA Questions repository! This repository contains a collection of Data Structures and Algorithms (DSA) questions designed to help you improve your coding skills and prepare for technical interviews.
-
 ## Overview
-This repository features a comprehensive collection of DSA questions and solutions to help you practice and enhance your coding skills.
+This repository features a comprehensive collection of Data Structures and Algorithms (DSA) questions and solutions to help you practice and enhance your coding skills.
 
 ## Features
 - A diverse set of DSA questions and solutions.
@@ -20,8 +18,8 @@ In the recent update, the `README.md` file has been modified to enhance clarity 
 - Added a sample question to demonstrate usage.
 - Revised the closing note to encourage community engagement.
 
-## Installation 🚀
-To get started with this repository, simply clone it using the following command:
+## Installation
+To get started with this repository, clone it using the following command:
 
 ```bash
 git clone https://github.com/Shivanilarokar/DSA-Questions-
@@ -34,7 +32,13 @@ Explore the various DSA questions and their solutions available in this reposito
 # Sample question: Implement a function to reverse a string
 def reverse_string(s):
     return s[::-1]
+
+# Example usage
+print(reverse_string("Hello, World!"))  # Output: !dlroW ,olleH
 ```
 
-Feel free to contribute your solutions and enhance your coding skills! Happy coding! 🎉
+## Contributing
+We welcome contributions! Please feel free to submit issues, pull requests, or suggestions to improve this repository. Together, we can create a valuable resource for learners and developers alike.
+
+Happy coding! 🚀
 ```
