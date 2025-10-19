@@ -1,10 +1,9 @@
 ```markdown
-# DSA Questions Repository 🧠
+# DSA Questions Repository 🚀
+
+![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-?style=social) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-?style=social) ![GitHub repo size](https://img.shields.io/github/repo-size/Shivanilarokar/DSA-Questions-) ![GitHub contributors](https://img.shields.io/github/contributors/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
 
 Welcome to the **DSA Questions** repository! This repository contains a collection of data structures and algorithms questions, along with their solutions to help enhance your problem-solving skills.
-
-![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-?style=social)
-![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-?style=social)
 
 ## Overview
 
@@ -22,12 +21,32 @@ This repository is designed for learners and enthusiasts of data structures and 
 In the latest update, the README file has been enhanced to provide clearer information about the repository. Notable changes include:
 
 ### Changes Made:
-- Updated the overview section to emphasize the repository's purpose.
-- Refined the features list for clarity and impact.
-- Enhanced the installation and usage instructions for better user experience.
-- Updated the cloning command to point to the correct repository URL.
-- Added a placeholder comment in the example solution code for clarity.
+- Improved the introduction to better reflect the repository's purpose.
+- Enhanced feature descriptions for clarity and detail.
+- Added a section on the license for better transparency.
 - Revised the closing statement to encourage exploration and contributions.
+
+### Code Snippets
+Here are some specific changes made to the README.md:
+
+1. **Cloning the Repository:**
+   ```bash
+   git clone https://github.com/Shivanilarokar/DSA-Questions-.git
+   cd DSA-Questions-
+   ```
+
+2. **Example Solution Code:**
+   ```python
+   def example_solution():
+       # Your solution code here
+       pass
+   ```
+
+3. **Encouraging Contributions:**
+   - From:
+     > We welcome contributions! Feel free to fork the repository and submit pull requests for any improvements or additional questions.
+   - To:
+     > Feel free to explore, contribute, and enhance the repository. Happy coding! 😃
 
 ## Installation
 
