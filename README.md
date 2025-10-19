@@ -1,5 +1,5 @@
 ```markdown
-# DSA Questions Repository
+# DSA Questions Repository 📚
 
 ![GitHub Repo Size](https://img.shields.io/github/repo-size/Shivanilarokar/DSA-Questions-) ![GitHub Last Commit](https://img.shields.io/github/last-commit/Shivanilarokar/DSA-Questions-) ![GitHub Issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
 
@@ -18,12 +18,6 @@ In the latest update, the `README.md` file has been auto-updated to enhance clar
 - **Enhanced Features**: The features section has been updated to improve clarity and presentation.
 - **Updated Usage Instructions**: Simplified usage instructions for better understanding.
 
-### Code Snippet of Changes
-```diff
-- The DSA Questions repository is designed to provide a collection of Data Structures and Algorithms (DSA) questions to help you enhance your coding skills and prepare for technical interviews.
-+ The DSA Questions repository is a comprehensive resource designed to provide a collection of Data Structures and Algorithms (DSA) questions to help you enhance your coding skills and prepare for technical interviews.
-```
-
 ## Installation 💻
 To get started with the DSA Questions repository, clone the repository to your local machine:
 
@@ -35,12 +29,13 @@ git clone https://github.com/Shivanilarokar/DSA-Questions-
 To explore the questions, navigate through the directory structure and find the relevant files. Here's an example function for how to access a question:
 
 ```python
-def example_question():
-    # Your code to access a question goes here
-    pass
+# Your code to access a question goes here
+pass
 ```
 
 Feel free to explore the categorized questions, select a question to view its details and solution, and review the provided solutions and code snippets for a better understanding.
+
+----
 
 For more information, please check the repository [here](https://github.com/Shivanilarokar/DSA-Questions-).
 ```
