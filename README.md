@@ -11,9 +11,11 @@ Welcome to the DSA Questions repository! This project is a curated collection of
 
 - Comprehensive collection of DSA problems
 - Code solutions in multiple programming languages
-- Community engagement and contribution welcome
+- Community engagement and contribution welcome 🎉
 
 ## Summary of the Changes
+
+### Recent Updates
 
 In the recent update, the README.md file has been enhanced to improve clarity and engagement. Key changes include:
 
@@ -28,9 +30,11 @@ To get started with this repository, clone it using the following command:
 git clone https://github.com/Shivanilarokar/DSA-Questions-
 ```
 
+Explore the various DSA questions and solutions available in this repository. Feel free to contribute by adding new problems or improving existing solutions.
+
 ## Usage
 
-Explore the various DSA questions and solutions available in this repository. Feel free to contribute by adding new problems or improving existing solutions.
+Once you have cloned the repository, you can start practicing by running the example functions provided and implementing your solutions.
 
 ## Example
 
