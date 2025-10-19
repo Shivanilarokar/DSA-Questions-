@@ -26,11 +26,12 @@ Recent updates to the README.md include:
 - Removed some redundant text for conciseness.
 - Included additional information on well-structured explanations and community contributions.
 
-## Installation 🛠️
+## Installation 🔧
 To get started, clone the repository and navigate to the project directory:
 
 ```bash
 git clone https://github.com/Shivanilarokar/DSA-Questions-
+cd DSA-Questions-
 ```
 
 ## Usage
@@ -45,5 +46,5 @@ def example_solution():
     pass
 ```
 
-Feel free to explore, contribute, and enhance your DSA skills with our collection! 🚀
+Feel free to contribute and enhance this repository with your own solutions and explanations!
 ```
