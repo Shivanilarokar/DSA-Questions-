@@ -1,22 +1,19 @@
 ```markdown
-# DSA Questions 📚
+# DSA Questions Repository 🧠
 
-![GitHub repo size](https://img.shields.io/github/repo-size/Shivanilarokar/DSA-Questions-) 
-![GitHub contributors](https://img.shields.io/github/contributors/Shivanilarokar/DSA-Questions-)
+![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-?style=social) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-?style=social)
 
-This repository focuses on providing a comprehensive collection of Data Structures and Algorithms (DSA) problems, organized into various topics for easy navigation and learning.
+## Overview
+This repository contains a collection of Data Structures and Algorithms (DSA) questions and solutions implemented in Python. Each function is designed to help developers understand and practice algorithms efficiently.
 
-## Features ✨
-- Extensive collection of DSA problems
-- Organized by topics for easy access
-- Clear installation and usage instructions
-- Contribution guide for collaborative enhancement
+## Features
+- Comprehensive DSA problem solutions.
+- Well-documented code for easy understanding.
+- Examples and usage instructions provided for each function.
 
-## Summary of the Changes 📝
-In this update, we've made minor adjustments to the README file to improve clarity and formatting:
-- Enhanced the description of the repository's focus.
-- Updated the wording in the features section for better accessibility.
-- Adjusted the heading levels for the "Example" section for consistency.
+## Summary of the Changes
+In this update, we've made minor adjustments to the README file to improve clarity and consistency:
+- Adjusted the heading levels for the **Usage** section for consistency.
 - Minor code refactoring in the Fibonacci function for improved readability.
 
 ## Installation 🚀
@@ -24,11 +21,6 @@ To get started with this repository, clone it to your local machine using the fo
 
 ```bash
 git clone https://github.com/Shivanilarokar/DSA-Questions-
-```
-
-After cloning, navigate into the directory:
-
-```bash
 cd DSA-Questions-
 ```
 
@@ -37,7 +29,9 @@ Here’s a simple example of how to use the updated Fibonacci function:
 
 ```python
 def fibonacci(n):
-    if n == 1:
+    if n <= 0:
+        return []
+    elif n == 1:
         return [0]
     elif n == 2:
         return [0, 1]
@@ -50,5 +44,13 @@ def fibonacci(n):
 print(fibonacci(10))  # Output: [0, 1, 1, 2, 3, 5, 8, 13, 21, 34]
 ```
 
-Feel free to explore the repository, contribute, and enhance the collection of DSA problems!
+## Contributing
+Contributions are welcome! Please feel free to submit a pull request or open an issue for any suggestions or improvements.
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
+Thank you for checking out this repository! Happy coding! 🎉
 ```
