@@ -23,9 +23,6 @@ In the latest commit, the `README.md` file was updated to reflect the following 
 
 ### Updated Example Code
 ```python
-# Example usage of a solution
-from dsa_solutions import example_function
-
 result = example_function(parameters)
 print(result)
 ```
@@ -34,24 +31,16 @@ print(result)
 To get started, clone the repository using the following command:
 
 ```bash
-git clone https://github.com/Shivanilarokar/DSA-Questions-
+git clone https://github.com/Shivanilarokar/DSA-Questions-.git
 ```
 
 ## Usage
-To use the solutions provided in this repository, follow these simple steps:
-1. Clone the repository to your local machine.
-2. Import the function in your project.
-3. Call the function with the required parameters.
+To utilize the DSA questions, navigate to the specific question directory and run the corresponding solution file.
 
-Here is a code snippet demonstrating how to use a solution from this repository:
+## Contributing
+Feel free to explore, contribute, and enhance your coding skills with our DSA questions! 🚀
 
-```python
-# Example usage of a solution
-from dsa_solutions import example_function
-
-result = example_function(parameters)
-print(result)
-```
+---
 
 Thank you for visiting the DSA Questions repository! We appreciate your interest and contributions. Happy coding! 🎉
 ```
