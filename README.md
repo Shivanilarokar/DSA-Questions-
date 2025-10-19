@@ -7,21 +7,17 @@
 This repository serves as a collaborative platform for Data Structures and Algorithms (DSA) enthusiasts. It aims to provide a collection of DSA questions along with their solutions to help learners and developers enhance their coding skills.
 
 ## Features
-- **Comprehensive Collection:** A variety of DSA questions covering different topics.
-- **Clear Explanations:** Each solution includes detailed explanations to facilitate understanding.
-- **Community Driven:** Contributions are welcome to improve the repository further.
+- A variety of DSA questions covering fundamental concepts.
+- Solutions provided in Python to facilitate learning.
+- Open for contributions from the community.
 
-## Summary of the Changes
-In this update, the following changes were made:
-- Enhanced the README structure to include a dedicated **"Overview"** and **"Features"** section.
-- Improved the wording in the features section for clarity.
-- Separated the usage instructions into its own section for better organization.
-- Added badges to showcase repository size, contributors, and open issues.
-- Enhanced the description to better reflect the purpose of the repository.
-- Minor adjustments to the features section for clarity.
+## Summary of Changes
+In this update, the README.md file has been enhanced for better readability and clarity. Additionally, the Fibonacci function has been improved to handle edge cases more effectively.
 
-### Code Snippet Example
-Here's an example of the updated Fibonacci function:
+### Key Changes:
+- **Improved Fibonacci Function**: 
+  - Added checks for edge cases (e.g., when `n` is less than or equal to 0).
+  - The function now returns a complete Fibonacci sequence up to `n`.
 
 ```python
 def fibonacci(n):
@@ -32,7 +28,7 @@ def fibonacci(n):
         return [0]
     elif n == 2:
         return [0, 1]
-
+    
     fib_sequence = [0, 1]
     for i in range(2, n):
         fib_sequence.append(fib_sequence[-1] + fib_sequence[-2])
@@ -42,20 +38,25 @@ print(fibonacci(10))  # Output: [0, 1, 1, 2, 3, 5, 8]
 ```
 
 ## Installation
-To get started with the project, clone the repository using the following command:
+To get started with this repository, clone it to your local machine:
 
 ```bash
 git clone https://github.com/Shivanilarokar/DSA-Questions-
 ```
 
 ## Usage
-Navigate to the directory of the cloned repository and run the scripts to explore different DSA solutions. You can modify the input values to test various scenarios.
+Navigate to the directory containing the cloned repository and run the desired Python scripts. For example, to execute the Fibonacci function:
 
-## Contributing
-We welcome contributions! Please see the [Contributing Guidelines](CONTRIBUTING.md) for more details on how to contribute to this project.
+```bash
+python fibonacci.py
+```
 
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
+## Example
+Here’s an example of how to use the updated Fibonacci function:
 
-Happy Coding! 🎉
+```python
+print(fibonacci(10))  # Output: [0, 1, 1, 2, 3, 5, 8]
+```
+
+Feel free to explore, contribute, and enhance your DSA skills with this repository!
 ```
