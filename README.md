@@ -28,15 +28,13 @@ cd DSA-Questions-
 ## Usage
 Feel free to explore the repository and contribute to enhancing the DSA learning experience! 🤝
 
+## Example
+Here's a simple function to demonstrate the coding style used in this repository:
+
 ```python
 def example_function():
     print("This is an example function.")
 ```
 
-```
 Enjoy coding and happy learning! 🚀
-```
-```
-
-This README.md file provides a clear and concise overview of the DSA Questions repository, highlighting the recent changes made to the documentation while ensuring that it remains inviting and professional for developers and contributors alike.
 ```
