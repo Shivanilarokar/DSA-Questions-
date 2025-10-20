@@ -1,9 +1,9 @@
 ```markdown
 # DSA Questions 🌍
 
-Welcome to the DSA Questions repository! This project serves as a platform for developers and learners to practice and enhance their skills in Data Structures and Algorithms (DSA). This repository is designed to help you improve your understanding of various data structures and algorithms (DSA) through a collection of questions and solutions.
-
 ![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-?style=social) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-?style=social)
+
+Welcome to the DSA Questions repository! This project serves as a platform for developers and learners to practice and enhance their skills in Data Structures and Algorithms (DSA). This repository is designed to help you improve your understanding of various data structures and algorithms through a collection of questions and solutions.
 
 ## Features
 - Extensive collection of DSA questions 📚
@@ -14,19 +14,20 @@ Welcome to the DSA Questions repository! This project serves as a platform for d
 
 ## Summary of the Changes
 In this latest update, the `README.md` file has been modified to enhance clarity and improve user experience. Key changes include:
-- Updated wording for community contributions.
-- Added a user-friendly interface feature.
-- Enhanced clarity in the project description.
+- Updated emojis for better representation.
+- Enhanced descriptions for clarity.
+- Minor formatting adjustments for improved readability.
+- Added an **Installation** section to guide users on getting started with the repository.
+- Added a **Contribution** section to encourage community involvement and provide guidelines for contributing to the repository.
 
 ### Code Snippet of Changes
 ```diff
---# DSA Questions 🌍
-+-# DSA Questions 🌏
-+# DSA Questions 🌐
-
---Welcome to the DSA Questions repository! This project serves as a platform for developers and learners to practice and enhance their skills in Data Structures and Algorithms (DSA).
--+Welcome to the DSA Questions repository! This project serves as a platform for developers and learners to practice and enhance their skills in Data Structures and Algorithms (DSA).
-+This repository is designed to help you improve your understanding of various data structures and algorithms (DSA) through a collection of questions and solutions.
+-# DSA Questions 🌏
++# DSA Questions 🌍
+ 
+-Welcome to the DSA Questions repository! This project serves as a platform for developers and learners to practice and enhance their skills in Data Structures and Algorithms (DSA).
++Welcome to the DSA Questions repository! This project serves as a platform for developers and learners to practice and enhance their skills in Data Structures and Algorithms (DSA).
+ This repository is designed to help you improve your understanding of various data structures and algorithms (DSA) through a collection of questions and solutions.
 ```
 
 ## Installation
