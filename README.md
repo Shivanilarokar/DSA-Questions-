@@ -1,9 +1,9 @@
 ```markdown
 # DSA Questions 🚀
 
-![GitHub stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-?style=social) ![Forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-?style=social)
-
 Welcome to the DSA Questions repository! This project serves as a platform for developers and learners to practice and enhance their skills in Data Structures and Algorithms (DSA). This repository is designed to help you improve your understanding of various data structures and algorithms through a collection of questions and solutions.
+
+![GitHub stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-?style=social) ![Forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-?style=social)
 
 ## Features
 - Comprehensive collection of DSA questions
@@ -36,19 +36,16 @@ cd DSA-Questions-
 ```
 
 ## Usage
-After cloning the repository, you can navigate to the respective question folders and start practicing. We encourage contributions! Feel free to add new questions or improve existing ones.
+To contribute to the repository, please follow these steps:
+
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature/YourFeature`).
+3. Make your changes and commit them (`git commit -m 'Add some feature'`).
+4. Push to the branch (`git push origin feature/YourFeature`).
+5. Open a Pull Request.
 
 ## Example
-To add a new question, simply follow the structure of existing questions in the repository. Ensure to provide a detailed explanation and solution for clarity. Here's a snippet of how to format a new question:
+To illustrate how to add a new question, you can refer to the existing structure of the questions in the repository. Ensure to follow the guidelines provided in the **Usage** section for contributions.
 
-```markdown
-# Question Title
-## Description
-Provide a brief description of the problem.
-
-## Solution
-Explain the approach and provide code snippets.
-```
-
-We hope this repository helps you in your journey to mastering Data Structures and Algorithms! Happy coding! 🎉
+Thank you for your interest in contributing to the DSA Questions repository! Together, we can build a comprehensive resource for learning and mastering Data Structures and Algorithms.
 ```
