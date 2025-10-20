@@ -1,17 +1,17 @@
 ```markdown
-# DSA Questions 📚
+# DSA Questions 📖
 
-![GitHub repo size](https://img.shields.io/github/repo-size/Shivanilarokar/DSA-Questions-) ![GitHub stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-)
-
-Welcome to the **DSA Questions** repository! This repository contains various questions and solutions designed to help learners and developers improve their data structures and algorithms (DSA) skills.
+[![GitHub stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-)](https://github.com/Shivanilarokar/DSA-Questions-/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-)](https://github.com/Shivanilarokar/DSA-Questions-/network/members)
+[![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)](https://github.com/Shivanilarokar/DSA-Questions-/issues)
 
 ## Overview
-This repository is designed to assist learners and developers in enhancing their data structures and algorithms (DSA) skills through a comprehensive collection of questions and solutions.
+This repository is designed to assist learners and developers in enhancing their understanding of Data Structures and Algorithms (DSA) through a collection of questions and solutions. 
 
 ## Features
-- A wide range of DSA questions.
-- Detailed solutions and explanations.
-- Practical examples to demonstrate concepts.
+- Comprehensive collection of DSA questions.
+- Practical examples and implementations.
+- Clear installation and usage instructions.
 
 ## Summary of the Changes
 In the latest update, the following changes were made to the `README.md` file:
@@ -39,9 +39,8 @@ def fibonacci(n):
     if n <= 1:
         return n
     else:
-        return fibonacci(n - 1) + fibonacci(n - 2)
+        return fibonacci(n-1) + fibonacci(n-2)
 
-# Example usage
 print(fibonacci(10))  # Output: 55
 ```
 
