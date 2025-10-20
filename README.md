@@ -1,9 +1,9 @@
 ```markdown
 # DSA Questions Repository 🤖
 
-The DSA Questions repository is designed to help you practice and improve your coding skills through a comprehensive collection of Data Structures and Algorithms (DSA) problems.
-
 ![GitHub stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-.svg?style=social) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-.svg?style=social)
+
+The DSA Questions repository is designed to help you practice and improve your coding skills through a comprehensive collection of Data Structures and Algorithms (DSA) problems.
 
 ## Features ✨
 - **Diverse Questions**: Explore a wide range of DSA problems.
@@ -12,6 +12,10 @@ The DSA Questions repository is designed to help you practice and improve your c
 
 ## Summary of Changes
 In the latest update, the README has been enhanced to include a dedicated **Features** section, highlighting the core advantages of the repository. Minor formatting adjustments were also made for improved readability.
+
+### Key Changes:
+- Added a **Features** section to emphasize repository strengths.
+- Minor formatting changes for clarity and presentation.
 
 ## Installation
 To get started with the DSA Questions repository, clone it to your local machine using the following command:
@@ -22,17 +26,12 @@ cd DSA-Questions-
 ```
 
 ## Usage
-You can explore the various DSA problems available in this repository and utilize the solutions provided in multiple programming languages to enhance your understanding of data structures and algorithms.
-
-## Example
-Here is a simple example of a DSA problem and its solution:
+Here's a simple example demonstrating how to use a function from the repository:
 
 ```python
-# Example problem: Find the maximum element in an array
-def find_max(arr):
-    return max(arr)
+def find_max(numbers):
+    return max(numbers)
 
-# Sample usage
 numbers = [1, 2, 3, 4, 5]
 print(find_max(numbers))  # Output: 5
 ```
