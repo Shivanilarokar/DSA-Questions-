@@ -13,13 +13,12 @@ Welcome to the **DSA Questions** repository! This repository contains a collecti
 ## Summary of the Changes
 Recent updates to the `README.md` include:
 - Added a new **Features** section to highlight the repository's offerings.
-- Updated the **Usage** section to encourage exploration of the problems and solutions.
 - Enhanced the **Installation** section with a code snippet for cloning the repository.
+- Updated the **Usage** section to encourage exploration of the problems and solutions.
 - Added a new **Example Problem** section to illustrate how to solve a DSA problem.
 
 ## Installation
-To get started with the DSA Questions repository, clone it using the following command:
-
+To get started, clone the repository using the following command:
 ```bash
 git clone https://github.com/Shivanilarokar/DSA-Questions-.git
 ```
@@ -27,14 +26,15 @@ git clone https://github.com/Shivanilarokar/DSA-Questions-.git
 ## Usage
 Explore the various DSA problems and their solutions available in this repository. 
 
+## Example Problem
 Here is a simple example problem to illustrate how to solve a DSA problem:
 
 ```python
-# Example Python code for a basic DSA problem
+# Example Python code for a DSA problem
 def example_problem():
-    # Your code implementation here
+    # Your solution here
     pass
 ```
 
-Feel free to contribute and enhance this repository further! Happy coding! 🚀
+Feel free to dive into the code and experiment with different approaches!
 ```
