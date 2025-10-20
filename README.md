@@ -1,9 +1,9 @@
 ```markdown
 # DSA Questions 🤖
 
-![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
-
 A comprehensive collection of Data Structures and Algorithms (DSA) problems to help developers and learners practice and enhance their coding skills through a variety of algorithmic challenges.
+
+![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
 
 ## Features
 - 🚀 **Categorized DSA problems** for easy navigation
@@ -13,18 +13,20 @@ A comprehensive collection of Data Structures and Algorithms (DSA) problems to h
 In this update, the README.md file has been refined for better clarity and structure. The following changes were made:
 - Added a **Features** section to highlight the main offerings of the repository.
 - Removed the **Example Code Snippet** section as it was deemed unnecessary for the current context.
-- Minor formatting adjustments to improve the overall readability and aesthetic of the document.
 
 ## Installation
-To get started with the DSA Questions repository, clone it to your local machine:
-
+To get started with this repository, clone it to your local machine using:
 ```bash
 git clone https://github.com/Shivanilarokar/DSA-Questions-
-cd DSA-Questions-
 ```
 
 ## Usage
-Explore the collection of DSA problems and practice your coding skills. Each problem includes a detailed explanation and solution.
+Navigate through the categorized DSA problems and utilize the clear explanations and solutions to enhance your understanding and skills in data structures and algorithms.
 
-Feel free to explore, contribute, and improve your coding skills with this collection! Happy coding! 🎉
+## Contributing
+Contributions are welcome! Please feel free to submit a pull request or open an issue for any improvements or suggestions.
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 ```
