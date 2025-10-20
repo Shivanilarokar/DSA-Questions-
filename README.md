@@ -1,7 +1,7 @@
 ```markdown
-# DSA Questions Repository 🧠
+# DSA Questions Repository 🚀
 
-![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-) 
+![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
 
 ## Overview
 Welcome to the DSA Questions repository! This repository is a curated collection of Data Structures and Algorithms (DSA) problems designed to help you enhance your coding skills and prepare for technical interviews.
@@ -27,14 +27,12 @@ git clone https://github.com/Shivanilarokar/DSA-Questions-
 Explore the various folders and files within this repository to find DSA problems that you can solve and learn from.
 
 ## Example
-Here's an example of a DSA problem solution:
+Here's a simple example of a DSA problem solution:
+
 ```python
-# Example of a DSA problem solution
 def fibonacci(n):
-    if n <= 0:
-        return 0
-    elif n == 1:
-        return 1
+    if n <= 1:
+        return n
     else:
         return fibonacci(n-1) + fibonacci(n-2)
 ```
