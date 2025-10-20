@@ -1,15 +1,14 @@
 ```markdown
-# DSA Questions Repository
+# DSA Questions 📚
 
-![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/Shivanilarokar/DSA-Questions-) ![License](https://img.shields.io/badge/license-MIT-blue.svg)
+![GitHub repo size](https://img.shields.io/github/repo-size/Shivanilarokar/DSA-Questions-)
+![GitHub contributors](https://img.shields.io/github/contributors/Shivanilarokar/DSA-Questions-)
+![GitHub stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-?style=social)
 
-Welcome to the DSA Questions repository! This repository serves as a comprehensive resource for anyone looking to practice Data Structures and Algorithms (DSA). It includes a variety of problems ranging from basic to advanced levels, along with detailed solutions.
+This repository contains a collection of problems and solutions aimed at helping developers improve their data structures and algorithms (DSA) skills.
 
-## Overview
-This repository contains a collection of problems and solutions aimed at helping you enhance your understanding of Data Structures and Algorithms (DSA). Whether you are a beginner or looking to sharpen your skills, this repository has something for you!
-
-## Features
-- A variety of DSA problems with solutions
+## Features ✨
+- Comprehensive collection of DSA problems
 - Detailed explanations and code examples
 - Suitable for all skill levels
 
@@ -26,14 +25,16 @@ To get started with this repository, clone it to your local machine:
 git clone https://github.com/Shivanilarokar/DSA-Questions-.git
 ```
 
-## Usage 💡
 Explore the problems and solutions within this repository to practice and improve your coding skills.
 
 ## Example Problem 💡
+Here is a simple example problem to illustrate how to solve a DSA problem:
+
 ```python
+# Your solution logic here
 def example_problem():
     pass
 ```
 
-Feel free to contribute by adding new problems or solutions!
+Feel free to explore the repository, contribute, and enhance your DSA knowledge!
 ```
