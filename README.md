@@ -7,10 +7,9 @@
 Welcome to the DSA Questions repository! This repository is dedicated to providing a comprehensive collection of Data Structures and Algorithms (DSA) problems for practice and learning.
 
 ## Features
-- A wide variety of DSA problems categorized for easy navigation.
-- Detailed solutions and explanations for each problem.
-- Code snippets to help you understand the implementation.
-- Community contributions are welcome! 🎉
+- A wide range of DSA problems categorized by topic.
+- Code snippets and explanations for practical understanding.
+- Community contributions to enhance the collection.
 
 ## Summary of the Changes
 In the latest update, the `README.md` file was modified to enhance clarity and structure. Notable changes include:
@@ -19,12 +18,12 @@ In the latest update, the `README.md` file was modified to enhance clarity and s
 
 ### Code Changes
 ```diff
-- Navigate through a variety of DSA problems in the repository.
-+ Navigate through the various DSA problems in the repository and utilize the code snippets provided.
+- Navigate through the various DSA problems in the repository and utilize the code snippets provided.
++ Navigate through a variety of DSA problems in the repository.
 ```
 
 ## Installation
-To get started, clone the repository:
+To get started with this repository, clone it using the following command:
 ```bash
 git clone https://github.com/Shivanilarokar/DSA-Questions-
 ```
