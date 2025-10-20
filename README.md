@@ -7,8 +7,7 @@
 This repository contains a collection of Data Structure and Algorithm (DSA) questions aimed at helping you prepare for technical interviews. Whether you're a beginner or an experienced developer, you'll find a variety of problems to practice and enhance your skills.
 
 ## Features
-- A wide range of DSA questions organized by topics.
-- Solutions provided in multiple programming languages.
+- A comprehensive collection of DSA questions.
 - Helpful for both beginners and experienced developers preparing for technical interviews.
 
 ## Summary of the Changes
@@ -27,21 +26,30 @@ In the latest update, the `README.md` file has been enhanced with additional inf
 +This repository contains a collection of Data Structure and Algorithm (DSA) questions aimed at helping you prepare for technical interviews. Whether you're a beginner or an experienced developer, you'll find a variety of problems to practice and enhance your skills.
 +
 +## Installation
- To get started with this repository, simply clone it to your local machine:
++ To get started with this repository, simply clone it to your local machine:
 +
- ```bash
- git clone https://github.com/Shivanilarokar/DSA-Questions-.git
- ```
++ ```bash
++ git clone https://github.com/Shivanilarokar/DSA-Questions-.git
++ ```
+```
+
+## Installation
+To get started with this repository, simply clone it to your local machine:
+
+```bash
+git clone https://github.com/Shivanilarokar/DSA-Questions-.git
+```
 
 ## Usage 🚀
 Once you have cloned the repository, navigate to the directory and start exploring the DSA questions. You can run the solutions in your preferred programming environment.
 
 ### Example
 Here’s a quick example of how to navigate through the repository:
+
 ```bash
 cd DSA-Questions-
 ls
 ```
 
-Feel free to explore the various folders and start solving problems!
+Feel free to contribute to this repository by submitting your own DSA questions or solutions! Happy coding! 💻
 ```
