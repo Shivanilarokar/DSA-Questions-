@@ -19,31 +19,21 @@ In the latest update, the README.md file has been modified to enhance clarity an
 - Minor text adjustments for clarity and flow.
 - Added a friendly closing line to promote engagement.
 
-```diff
--Once you have the repository cloned and the dependencies installed, you can run the examples provided in the repository.
-+Once you have the repository cloned and the dependencies installed, you can run the examples provided in the repository.
-```
-
-```diff
--For more information, visit the [repository](https://github.com/Shivanilarokar/DSA-Questions-).
-+For more information, visit the [repository](https://github.com/Shivanilarokar/DSA-Questions-). Happy coding! 🤓
-```
-
 ## Installation
 To get started with the DSA Questions repository, follow these steps:
 
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/Shivanilarokar/DSA-Questions-
-   ```
+    ```bash
+    git clone https://github.com/Shivanilarokar/DSA-Questions-
+    ```
 2. Navigate into the directory:
-   ```bash
-   cd DSA-Questions-
-   ```
+    ```bash
+    cd DSA-Questions-
+    ```
 3. Install the necessary dependencies (if any):
-   ```bash
-   # Add installation commands here if required
-   ```
+    ```bash
+    # Add installation commands here if required
+    ```
 
 ## Usage
 Once you have the repository cloned and the dependencies installed, you can run the examples provided in the repository. 
@@ -62,5 +52,3 @@ def example_question():
 
 For more information, visit the [repository](https://github.com/Shivanilarokar/DSA-Questions-). Happy coding! 🤓
 ```
-
-This README.md file now provides a clear and concise overview of the DSA Questions repository, highlights recent changes, and encourages user engagement while maintaining a professional format.
