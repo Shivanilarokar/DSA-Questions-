@@ -14,8 +14,8 @@ Welcome to the **DSA Questions** repository! This project serves as a platform f
 ## Summary of the Changes 📝
 In the latest update, the README.md file has been enhanced to improve clarity and usability. Key changes include:
 - Addition of a new **Features** section for improved organization.
-- Updated the **Installation** section to facilitate easier setup.
 - Updated the code snippet for a simple DSA question solution using the Fibonacci sequence for better clarity and performance.
+- Updated the **Installation** section to facilitate easier setup.
 
 ### Example Code Snippet
 Here's an improved example of a Fibonacci function:
@@ -29,23 +29,31 @@ def fibonacci(n):
     else:
         return fibonacci(n-1) + fibonacci(n-2)
 
+# Example usage
 print(fibonacci(10))  # Output: 55
 ```
 
-## Installation ⚙️
-To get started, clone the repository and install the necessary dependencies:
+## Installation 🛠️
+To set up the project locally, follow these steps:
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/Shivanilarokar/DSA-Questions-
+    ```
+2. Navigate to the project directory:
+    ```bash
+    cd DSA-Questions-
+    ```
+3. Install the required dependencies (if any):
+    ```bash
+    pip install -r requirements.txt
+    ```
 
-```bash
-git clone https://github.com/Shivanilarokar/DSA-Questions-
-cd DSA-Questions-
-```
+## Usage 📖
+Once installed, you can explore the various DSA questions and solutions. Each question is well-documented to help you understand the underlying concepts.
 
-## Usage 💻
-Once you have the repository cloned, you can navigate through the questions and start practicing with the provided solutions. Each question is designed to enhance your understanding of DSA concepts.
-
-Feel free to contribute by submitting pull requests or opening issues for improvements!
+Feel free to contribute to this project by adding more questions or improving existing solutions!
 
 ---
 
-Thank you for checking out the DSA Questions repository! Happy coding! 🎉
+Thank you for visiting the DSA Questions repository! Happy coding! 💻
 ```
