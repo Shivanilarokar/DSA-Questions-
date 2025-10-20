@@ -20,11 +20,9 @@ This repository is designed for both beginners and experienced developers lookin
 The README.md file has been auto-updated to enhance clarity and engagement:
 - Added badges to display GitHub stars and forks.
 - Revised the overview section to better highlight the repository's purpose and audience.
-- Updated the usage section title for improved clarity.
-- Enhanced the closing statement to encourage user engagement and contribution.
 - Minor formatting adjustments for improved readability.
 
-## Installation 🔧
+## Installation 💻
 
 To clone this repository, use the following command:
 
