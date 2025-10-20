@@ -7,27 +7,25 @@
 The DSA Questions repository is designed to help developers and learners enhance their data structures and algorithms knowledge. It provides a collection of questions and solutions aimed at improving coding skills through practice.
 
 ## Features
-- Comprehensive collection of DSA questions and solutions.
-- Easy to navigate and contribute to.
+- Comprehensive collection of DSA questions.
+- Solutions provided for each question.
+- Easy to follow structure for learning.
 
 ## Summary of the Changes
 The README.md file has been updated to improve clarity and organization. The following changes were made:
 - Streamlined text for better readability.
 - Added an **Example** section to showcase a simple function.
+- Removed redundant text to streamline the document.
 
 ## Installation
 To get started with the DSA Questions repository, clone it using the following command:
 
 ```bash
 git clone https://github.com/Shivanilarokar/DSA-Questions-
-cd DSA-Questions-
 ```
 
 ## Usage
-After cloning the repository, feel free to explore the questions and solutions provided, and contribute by adding your own!
-
-## Example
-Here's a simple function to demonstrate the coding style used in this repository:
+You can explore the questions and their solutions in the repository. For example, here is a simple function that demonstrates usage:
 
 ```python
 def example_function():
