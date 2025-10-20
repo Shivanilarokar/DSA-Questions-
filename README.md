@@ -1,15 +1,14 @@
 ```markdown
 # DSA Questions 🚀
 
-![GitHub stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-?style=social) ![Forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-?style=social)
-
 Welcome to the **DSA Questions** repository! This project serves as a platform for developers and learners to practice and enhance their skills in Data Structures and Algorithms (DSA). This repository is designed to help you improve your understanding of various data structures and algorithms through a collection of questions and solutions.
+
+![GitHub stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-?style=social) ![Forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-?style=social)
 
 ## Features
 - 📚 **Comprehensive collection of DSA questions**
 - ✍️ **Detailed solutions and explanations**
-- 🔍 **Structured example format for better understanding**
-- ⚙️ **Installation instructions for easy setup**
+- 🚀 **Efficient algorithm implementations**
 
 ## Summary of the Changes
 In the latest update, the README.md file has been enhanced to improve clarity and usability. Key changes include:
@@ -19,24 +18,14 @@ In the latest update, the README.md file has been enhanced to improve clarity an
 - Updated the code snippet for a simple DSA question solution using the Fibonacci sequence for better clarity and performance.
 
 ### Example Code Snippet
-Here’s an updated example of a simple DSA question solution using the Fibonacci sequence:
+Here’s a revised example of how to implement the Fibonacci function:
 
 ```python
 def fibonacci(n):
-    if n <= 0:
-        return []
-    elif n == 1:
-        return [0]
-    elif n == 2:
-        return [0, 1]
-    
-    fib_sequence = [0, 1]
-    for i in range(2, n):
-        fib_sequence.append(fib_sequence[-1] + fib_sequence[-2])
-    return fib_sequence
-
-# Example usage
-print(fibonacci(10))  # Output: [0, 1, 1, 2, 3, 5, 8, 13, 21, 34]
+    a, b = 0, 1
+    for _ in range(n):
+        yield a
+        a, b = b, a + b
 ```
 
 ## Installation
@@ -50,11 +39,9 @@ cd DSA-Questions-
 Then, navigate to the project directory and follow any additional setup instructions provided in the repository.
 
 ## Usage
-After cloning the repository, you can explore the various data structure and algorithm questions available. Each question comes with a detailed explanation and sample solutions to help you understand the concepts better.
-
-Feel free to contribute by adding more questions and solutions!
+Explore the various DSA questions and utilize the solutions provided to deepen your understanding and practice your skills.
 
 ---
 
-Thank you for visiting the DSA Questions repository! Happy coding! 🎉
+Feel free to contribute and enhance this repository! Happy coding! 💻
 ```
