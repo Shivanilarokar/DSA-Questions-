@@ -15,15 +15,13 @@ This repository contains a variety of Data Structures and Algorithms (DSA) probl
 ## Summary of the Changes
 In this commit, the README.md file has been updated to improve clarity and presentation. The following changes were made:
 - Modified the title from "DSA Questions 📖" to "DSA Questions Repository" for better clarity.
-- Changed the badge for license to specifically indicate "MIT" and modified the description for open pull requests.
+- Consolidated badges for repository stars, last commit, license type, and open pull requests for better visibility.
+- Enhanced the description for open pull requests and specified the license type as "MIT".
 
 ### Code Snippet of Changes
 ```diff
 -# DSA Questions 📖
 +# DSA Questions Repository
-
--![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![Last commit](https://img.shields.io/github/last-commit/Shivanilarokar/DSA-Questions-) ![License](https://img.shields.io/github/license/Shivanilarokar/DSA-Questions-) ![GitHub Pull Requests](https://img.shields.io/github/issues-pr/Shivanilarokar/DSA-Questions-)
-+![GitHub stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![Last commit](https://img.shields.io/github/last-commit/Shivanilarokar/DSA-Questions-) ![License](https://img.shields.io/badge/license-MIT-blue) ![Open Pull Requests](https://img.shields.io/github/issues-pr/Shivanilarokar/DSA-Questions-)
 ```
 
 ## Installation
