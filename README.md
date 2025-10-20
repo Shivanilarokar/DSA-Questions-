@@ -14,7 +14,7 @@ The DSA Questions repository is a curated collection of data structures and algo
 - **Community Contributions**: Open for contributions to expand the repository and improve resources.
 
 ## Summary of Changes
-In the latest update, the README.md file has been modified to enhance clarity and engagement. The following changes were made:
+In the latest update, the `README.md` file has been modified to enhance clarity and engagement. The following changes were made:
 - Removed redundant lines to streamline the text.
 - Updated the concluding statement to encourage exploration and contribution.
 
@@ -24,7 +24,7 @@ In the latest update, the README.md file has been modified to enhance clarity an
 + Feel free to explore, contribute, and enhance your DSA skills with this repository!
 ```
 
-## Installation
+## Installation ⚙️
 To get started with the DSA Questions repository, clone it to your local machine:
 ```bash
 git clone https://github.com/Shivanilarokar/DSA-Questions-
@@ -36,11 +36,11 @@ Navigate to the desired problem folder and run the solutions in your preferred p
 ## Example
 Here’s a simple example function included in the repository:
 ```python
+# Example code demonstrating a DSA problem
 def example_function():
+    # Your code here
     pass
 ```
-
-Feel free to explore, contribute, and enhance your DSA skills with this repository!
 
 ---
 
