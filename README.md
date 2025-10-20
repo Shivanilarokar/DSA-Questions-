@@ -3,15 +3,16 @@
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
 
-Welcome to the **DSA Questions** repository! This repository provides a comprehensive collection of Data Structures and Algorithms (DSA) problems accompanied by detailed implementations.
+This repository contains a wide array of DSA problems, each with structured code and detailed explanations to help you improve your data structures and algorithms skills.
 
 ## Overview
-This repository contains a wide array of DSA problems, each with structured code snippets and clear explanations to enhance your problem-solving skills.
+The DSA Questions repository is designed to provide a comprehensive collection of data structures and algorithms problems. Each problem includes a solution, explanations, and examples to help you understand the concepts better.
 
 ## Features
-- A wide array of DSA problems with detailed implementations.
-- Structured code snippets for better understanding.
-- Contribution guidelines for easy navigation.
+- Extensive collection of DSA problems.
+- Well-structured code and explanations.
+- Easy navigation and usage instructions.
+- Contribution guidelines for community involvement.
 
 ## Summary of the Changes
 In the latest commit, the `README.md` file has been updated to improve clarity and usability. Key enhancements include:
@@ -25,6 +26,14 @@ In the latest commit, the `README.md` file has been updated to improve clarity a
 Here's an example of how the code snippets were modified for clarity:
 
 **Before:**
+```python
+def example_function():
+    # Your code here
+    pass
+example_function()
+```
+
+**After:**
 ```diff
 ---------- Here's a sample Python code for a DSA problem:
 -----------
@@ -33,14 +42,6 @@ def example_function():
     pass
 -----------
 example_function()
-```
-
-**After:**
-```python
-# Here's a sample Python code for a DSA problem:
-def example_function():
-    # Your implementation here
-    pass
 ```
 
 ## Installation
