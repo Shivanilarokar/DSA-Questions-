@@ -1,17 +1,14 @@
 ```markdown
-# DSA Questions 📊
+# DSA Questions 📚
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/Shivanilarokar/DSA-Questions-) ![GitHub stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-)
 
-Welcome to the **DSA Questions** repository! This repository contains various questions and solutions related to Data Structures and Algorithms (DSA), aimed at helping developers improve their coding skills.
-
-## Overview
-This repository is designed to assist learners and developers in enhancing their data structures and algorithms (DSA) skills through a comprehensive collection of questions and solutions.
+Welcome to the **DSA Questions** repository! This repository contains various questions and solutions designed to assist learners and developers in enhancing their data structures and algorithms (DSA) skills through a comprehensive collection.
 
 ## Features
 - A variety of DSA questions categorized by difficulty.
-- Detailed solutions for each question.
-- Community-driven contributions welcome!
+- Detailed solutions for each question. ✨
+- Community-driven contributions welcome! 🤝
 
 ## Summary of Changes
 In the latest update, the following changes were made to the `README.md` file:
@@ -19,6 +16,7 @@ In the latest update, the following changes were made to the `README.md` file:
 - Added detail about solutions being provided for each question.
 - Revised the installation instructions for clarity.
 - Updated the usage section for better understanding.
+- Enhanced the example section to include a practical implementation of a Fibonacci function.
 
 ## Installation
 To get started, clone the repository using the following command:
@@ -29,16 +27,20 @@ cd DSA-Questions-
 ```
 
 ## Usage
-Here is an example of how to use the Fibonacci function:
+Explore the various DSA questions and their solutions. You can run the provided Python examples to deepen your understanding of the concepts.
+
+### Example: Fibonacci Function
+Here is a simple example of a Fibonacci function implementation:
 
 ```python
 def fibonacci(n):
-    if n <= 1:
-        return n
+    if n <= 0:
+        return 0
+    elif n == 1:
+        return 1
     else:
         return fibonacci(n-1) + fibonacci(n-2)
 
-# Example usage:
 print(fibonacci(5))  # Output: 5
 ```
 
