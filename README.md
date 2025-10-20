@@ -1,6 +1,6 @@
-```markdown
-# DSA Questions 📚
+# DSA Questions 📖
 
+[![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-.svg)](https://github.com/Shivanilarokar/DSA-Questions-/network) 
 [![GitHub stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-.svg)](https://github.com/Shivanilarokar/DSA-Questions-/stargazers)
 
 ## Overview
@@ -45,10 +45,7 @@ After cloning the repository, navigate to the directory and run your desired DSA
 arr = [1, 2, 3, 4, 5]
 target = 3
 result = binary_search(arr, target)
-print(f'Target found at index: {result}')  # Output: Target found at index: 2
+print(f'Target found at index: {result}')
 ```
 
----
-
-Feel free to contribute to the repository by submitting pull requests or reporting issues. Happy coding! 🚀
-```
+Feel free to explore the repository and contribute to enhancing the collection of DSA problems! Happy coding! 😊
