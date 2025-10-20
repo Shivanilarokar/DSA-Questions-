@@ -1,14 +1,13 @@
 ```markdown
 # DSA Questions 🚀
 
-![GitHub stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-?style=social) ![Forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-?style=social)
-
 Welcome to the **DSA Questions** repository! This project serves as a platform for developers and learners to practice and enhance their skills in Data Structures and Algorithms (DSA). This repository is designed to help you improve your understanding of various data structures and algorithms through a collection of questions and solutions.
+
+![GitHub stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-?style=social) ![Forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-?style=social)
 
 ## Features
 - 📚 **Comprehensive collection of DSA questions**
 - ✍️ **Detailed solutions and explanations**
-- 📊 **User-friendly structure for easy navigation**
 
 ## Summary of the Changes
 In the recent update, the `README.md` file has been enhanced to improve clarity and usability:
@@ -28,12 +27,14 @@ Navigate through the directory to find various DSA questions and their solutions
 ## Example
 Here's a brief example of how you might structure a question in the repository:
 
-### Question: Two Sum
-Given an array of integers, return indices of the two numbers such that they add up to a specific target.
+```markdown
+## Question Title
+*Description of the question goes here.*
 
-**Example:**
-Input: `nums = [2,7,11,15]`, target = `9`  
-Output: `[0, 1]`
+### Example Input/Output
+- **Input**: [example input]
+- **Output**: [expected output]
+```
 
-Feel free to explore, contribute, and enhance your DSA skills! Happy coding! 🎉
+Feel free to contribute by adding your own questions or improving existing solutions!
 ```
