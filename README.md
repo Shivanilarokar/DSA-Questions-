@@ -19,11 +19,12 @@ This repository contains a collection of Data Structures and Algorithms (DSA) qu
 
 ## Summary of the Changes
 The recent updates to the `README.md` file include:
+- Updated the title emoji from 📜 to 📖 for better relevance.
 - Improved the description of the repository's purpose.
 - Enhanced the usage section with clearer instructions.
 - Added code snippets for better demonstration of solutions.
 
-## Installation 🚀
+## Installation
 To get started, clone the repository to your local machine using the following command:
 
 ```bash
@@ -44,9 +45,7 @@ def fibonacci(n):
         return n
     else:
         return fibonacci(n-1) + fibonacci(n-2)
-
-print(fibonacci(10))  # Output: 55
 ```
 
-Feel free to explore, contribute, and enhance your DSA skills with this repository! 🚀
+Feel free to explore and contribute to this repository as you enhance your DSA skills!
 ```
