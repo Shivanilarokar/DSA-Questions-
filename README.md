@@ -1,5 +1,5 @@
 ```markdown
-# DSA Questions 🤖
+# DSA Questions 📊
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/Shivanilarokar/DSA-Questions-) ![GitHub contributors](https://img.shields.io/github/contributors/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
 
@@ -13,7 +13,7 @@ This repository aims to provide developers with a structured set of DSA problems
 - Detailed descriptions and solutions for each problem.
 - Community contributions to enhance learning.
 
-## Summary of the Changes
+## Summary of the Changes 📝
 In the latest update, the `README.md` file has been auto-updated with the following changes:
 - Enhanced description of the repository's purpose.
 - Improved clarity and structure in the features list.
@@ -22,20 +22,20 @@ In the latest update, the `README.md` file has been auto-updated with the follow
 ## Installation
 To clone the repository, run:
 ```bash
-git clone https://github.com/Shivanilarokar/DSA-Questions-.git
-cd DSA-Questions-
+git clone https://github.com/Shivanilarokar/DSA-Questions-
 ```
 
 ## Usage
-Once you have cloned the repository, you can navigate through the problems and start practicing DSA concepts.
+Once you have cloned the repository, follow the instructions in the respective problem directories to solve the DSA challenges.
 
 ## Example
-Here’s a quick example of how you might solve a DSA problem in this repository:
+Here's a quick example of how to tackle a problem in this repository:
+
 ```python
-def example_function(input):
-    # Your implementation here
+def example_problem_solution():
+    # Your solution code here
     pass
 ```
 
-Feel free to contribute to the repository and help us grow this resource for all developers! 🚀
+Feel free to explore and contribute to the repository. Happy coding! 🚀
 ```
