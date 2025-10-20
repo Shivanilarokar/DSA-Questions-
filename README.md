@@ -18,24 +18,10 @@ The DSA Questions repository is designed to help you enhance your coding abiliti
 
 ## Summary of Changes 🔥
 In this latest update, the README.md file has been enhanced for better readability and clarity. Here are the key changes made:
-
-- Improved the overall structure and formatting of the README.
-- Added emojis for a more engaging presentation.
-- Updated the installation instructions for clarity.
-- Enhanced the usage section to provide a better understanding of the problem structure.
-
-### Code Changes
-Here are some snippets of the changes made in the README:
-
-```diff
--# DSA Questions Repository
-+# DSA Questions Repository 🚀
-## Overview 🌍
-## Summary of the Changes 🔥
-+## Summary of Changes 🔥
-```
-
-Feel free to explore the repository, contribute, and enhance your DSA skills!
+- Added badges for stars, forks, and license to improve visibility.
+- Improved the overview section for better context.
+- Enhanced the installation instructions for clarity.
+- Minor formatting adjustments for consistency.
 
 ## Installation 🔧
 To get started with the DSA Questions repository, clone the repository using the following command:
@@ -49,7 +35,6 @@ After cloning the repository, navigate to the directory and follow the instructi
 ## Usage 📖
 Each problem is structured with a clear explanation, example inputs, and expected outputs. You can use the provided code snippets as a reference to solve the problems effectively.
 
-## Example 📚
 Here's a simple example of how a problem is structured:
 
 ```python
@@ -58,6 +43,8 @@ def example_problem():
     # Your code here
     pass
 ```
+
+Feel free to explore the repository, contribute, and enhance your DSA skills!
 
 Happy coding! 🎉
 ```
