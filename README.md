@@ -1,18 +1,14 @@
 ```markdown
-# DSA Questions Repository
+# DSA Questions Repository 🚀
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
 
-Welcome to the **DSA Questions** repository! This repository is dedicated to providing solutions and resources for various Data Structures and Algorithms (DSA) problems. Our goal is to help developers improve their problem-solving skills and understanding of DSA concepts.
-
-## Overview
-
-The DSA Questions repository is designed to provide a comprehensive collection of Data Structures and Algorithms problems for practice. Whether you are a beginner or an experienced developer, this repository aims to enhance your coding skills through a variety of challenges.
+The DSA Questions repository is designed to provide a comprehensive collection of Data Structures and Algorithms (DSA) problems to help developers enhance their coding skills. 
 
 ## Features
 
 - 📚 A wide range of DSA problems categorized by difficulty.
-- 📖 Detailed solutions and explanations for each problem.
+- 📝 Detailed solutions and explanations for each problem.
 - 🔄 Regular updates to include new challenges and resources.
 - 🤝 Community contributions are welcome!
 
@@ -38,10 +34,9 @@ cd DSA-Questions
 
 ## Usage
 
-After cloning the repository, you can explore the various DSA problems and their solutions. Here’s a sample function call to get you started:
+After cloning the repository, you can explore the various DSA problems and their solutions. Here’s an example of how you might start implementing your own solution:
 
 ```python
-# Here's a sample Python code for a DSA problem:
 def sample_problem_solution():
     # Place your solution here
     pass
@@ -50,12 +45,4 @@ sample_problem_solution()
 ```
 
 Feel free to contribute to the repository by submitting pull requests or reporting issues!
-
-## Contributing
-
-We welcome contributions! Please check our [contributing guidelines](CONTRIBUTING.md) for more details on how to get involved.
-
----
-
-Thank you for visiting the DSA Questions repository! Happy coding! 🎉
 ```
