@@ -23,18 +23,32 @@ In the latest update, the `README.md` file has been refined with the following c
 - Improved the introduction for clarity and conciseness.
 - Enhanced the overview section to better explain the repository's purpose.
 - Streamlined the usage instructions for better readability.
+- Added an example section illustrating how to implement a basic algorithm.
+
+## Example
+
+Here’s a simple example of how you could implement a basic algorithm:
+
+```python
+def example_function():
+    # Your code here
+    print("This is a sample function.")
+    pass
+```
 
 ## Installation
 
-To clone the repository, use the following command:
+To get started, clone the repository using the following command:
 
 ```bash
 git clone https://github.com/Shivanilarokar/DSA-Questions-
 ```
 
-## Usage
-
 Once cloned, navigate to the repository directory and run the desired scripts or solutions related to DSA problems.
 
 Feel free to modify and enhance the solutions provided in this repository!
+
+---
+
+Happy coding! 🎉
 ```
