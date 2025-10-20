@@ -1,14 +1,14 @@
 ```markdown
 # DSA Questions Repository 🤖
 
-![GitHub stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-.svg?style=social) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-.svg?style=social)
-
 The DSA Questions repository is designed to help you practice and improve your coding skills through a comprehensive collection of Data Structures and Algorithms (DSA) problems.
+
+![GitHub stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-.svg?style=social) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-.svg?style=social)
 
 ## Features ✨
 - **Diverse Questions**: Explore a wide range of DSA problems.
-- **Clear Explanations**: Each solution includes detailed explanations for better understanding.
 - **Multiple Languages**: Solutions provided in various programming languages.
+- **Clear Explanations**: Each solution includes detailed explanations for better understanding.
 
 ## Summary of Changes 💖
 In the latest commit, the `README.md` file has been updated to improve clarity and conciseness. The following changes were made:
@@ -22,25 +22,29 @@ In the latest commit, the `README.md` file has been updated to improve clarity a
 
 ### Code Snippet Changes
 ```markdown
-- The DSA Questions repository is designed to help you practice and improve your coding skills in Data Structures and Algorithms (DSA).
-+ The DSA Questions repository is designed to help you practice and improve your coding skills through a comprehensive collection of Data Structures and Algorithms (DSA) problems.
+# DSA Questions Repository 🤖
 ```
 
-## Installation ⚙️
-To get started, clone the repository using the following command:
+## Installation
+To get started with the DSA Questions repository, clone the repository and install the necessary dependencies:
 ```bash
-git clone https://github.com/Shivanilarokar/DSA-Questions-.git
+git clone https://github.com/Shivanilarokar/DSA-Questions-
 cd DSA-Questions-
-# Install dependencies if any
 ```
 
 ## Usage
-Once you have cloned the repository, you can explore the various DSA problems provided in different programming languages.
+Follow the instructions provided in the respective problem files to run the solutions in your preferred programming language.
+
+## Example
+Here’s a simple example of how to use one of the solutions:
+```python
+def example_function():
+    # Your code here
+    pass
+```
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
-
-Thank you for checking out the DSA Questions Repository! Feel free to contribute and improve the collection! 🚀
+Feel free to contribute to this repository by submitting issues or pull requests. Happy coding! 🚀
 ```
