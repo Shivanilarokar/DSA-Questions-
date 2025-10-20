@@ -1,9 +1,9 @@
 ```markdown
 # DSA Questions 🚀
 
-Welcome to the DSA Questions repository! This project serves as a platform for developers and learners to practice and enhance their skills in Data Structures and Algorithms (DSA). This repository is designed to help you improve your understanding of various data structures and algorithms through a collection of questions and solutions.
-
 ![GitHub stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-?style=social) ![Forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-?style=social)
+
+Welcome to the DSA Questions repository! This project serves as a platform for developers and learners to practice and enhance their skills in Data Structures and Algorithms (DSA). This repository is designed to help you improve your understanding of various data structures and algorithms through a collection of questions and solutions.
 
 ## Features
 - Comprehensive collection of DSA questions
@@ -18,39 +18,27 @@ In this update, the README.md file has been auto-updated to improve clarity and 
 - Updated **Usage** guidelines to encourage contributions.
 - Changed the **Example** section to illustrate how to add a new question.
 
-### Code Changes
-```diff
-- Welcome to the DSA Questions repository! This project serves as a platform for developers and learners to practice and enhance their skills in Data Structures and Algorithms (DSA). This repository is designed to help you improve your understanding of various data structures and algorithms through a collection of questions and solutions.
-+ ## Features
-+ - Comprehensive collection of DSA questions
-+ - Detailed solutions and explanations
-+ - Regular updates and improvements
-
 ## Installation
 To get started with the DSA Questions repository, clone the repository using the following command:
 
 ```bash
-git clone https://github.com/Shivanilarokar/DSA-Questions-
-```
-
-Navigate to the project directory:
-
-```bash
-cd DSA-Questions-
+git clone https://github.com/Shivanilarokar/DSA-Questions-.git
 ```
 
 ## Usage
-Feel free to explore the questions and solutions. You can also contribute by adding new questions or improving existing solutions. To contribute, please follow the standard pull request process.
+After cloning the repository, you can navigate to the respective question folders and start practicing. We encourage contributions! Feel free to add new questions or improve existing ones.
 
 ## Example
-To add a new question, please follow this format:
+To add a new question, simply follow the structure of existing questions in the repository. Ensure to provide a detailed explanation and solution for clarity. Here's a snippet of how to format a new question:
 
 ```markdown
-### Question Title
-- **Description:** Brief description of the question.
-- **Difficulty:** Easy/Medium/Hard
-- **Solution:** [Link to solution or code]
+# Question Title
+## Description
+Provide a brief description of the problem.
+
+## Solution
+Explain the approach and provide code snippets.
 ```
 
-Feel free to explore and contribute! Happy coding! 🎉
+We hope this repository helps you in your journey to mastering Data Structures and Algorithms! Happy coding! 🎉
 ```
