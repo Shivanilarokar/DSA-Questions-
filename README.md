@@ -7,7 +7,7 @@
 
 This repository is designed for both beginners and experienced developers looking to enhance their data structures and algorithms (DSA) skills. It contains a collection of DSA-related questions, solutions, and resources to aid in your learning journey.
 
-## Features
+## Features ✨
 
 - Comprehensive collection of DSA questions
 - Solutions available in multiple programming languages
