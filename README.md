@@ -1,9 +1,9 @@
 ```markdown
 # DSA Questions 🚀
 
-![GitHub stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-?style=social) ![Forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-?style=social)
-
 Welcome to the **DSA Questions** repository! This project serves as a platform for developers and learners to practice and enhance their skills in Data Structures and Algorithms (DSA). This repository is designed to help you improve your understanding of various data structures and algorithms through a collection of questions and solutions.
+
+![GitHub stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-?style=social) ![Forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-?style=social)
 
 ## Features
 - 📚 **Comprehensive collection of DSA questions**
@@ -48,9 +48,10 @@ Here's a quick example to illustrate the question format:
 - **Description**: Brief description of the problem.
 - **Input**: Details about the input format.
 - **Output**: Details about the output format.
+- **Example**: 
+  - **Input**: Sample input
+  - **Output**: Expected output
 ```
 
 Feel free to contribute to this repository by submitting your questions and solutions. Together, we can enhance the DSA learning experience for everyone! 🎉
-
-Happy coding! 🎈
 ```
