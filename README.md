@@ -1,19 +1,19 @@
 ```markdown
 # DSA Questions 🚀
 
-![GitHub stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-?style=social) ![Forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-?style=social)
-
 Welcome to the DSA Questions repository! This project serves as a platform for developers and learners to practice and enhance their skills in Data Structures and Algorithms (DSA). This repository is designed to help you improve your understanding of various data structures and algorithms through a collection of questions and solutions.
+
+![GitHub stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-?style=social) ![Forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-?style=social)
 
 ## Features
 - Comprehensive collection of DSA questions
 - Detailed solutions and explanations
+- User-friendly structure for easy navigation
 
 ## Summary of the Changes
 In the latest update, the README file has been enhanced for better clarity and presentation. Key changes include:
-- Added a new **Features** section to highlight the repository's capabilities.
-- Improved phrasing in the **Usage** section for better readability.
-- Streamlined the closing remarks to encourage exploration and contribution.
+- Added a new **Features** section to highlight the repository's strengths.
+- Improved formatting and structure for better readability.
 
 ## Installation
 To get started, clone the repository to your local machine:
@@ -24,13 +24,19 @@ cd DSA-Questions-
 ```
 
 ## Usage
-Once you have cloned the repository, you can explore the various DSA questions and their solutions. Here is a basic example of how to implement a function for a DSA question:
+Explore the various DSA questions and solutions provided in the repository. Contribute your own questions or solutions to help others learn!
 
-```python
-def example_function():
-    # Your implementation here
-    pass
+## Example
+Here’s a brief example of how you might structure a question in the repository:
+
+```markdown
+### Problem: Two Sum
+Given an array of integers, return indices of the two numbers such that they add up to a specific target.
+
+#### Example
+Input: nums = [2, 7, 11, 15], target = 9  
+Output: [0, 1]
 ```
 
-Feel free to contribute to this repository by submitting issues or pull requests. Let's enhance our DSA skills together! 🎉
+We appreciate your contributions and feedback! Happy coding! 💻
 ```
