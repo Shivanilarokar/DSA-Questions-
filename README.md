@@ -1,31 +1,31 @@
 ```markdown
 # DSA Questions 🚀
 
-Welcome to the **DSA Questions** repository! This project serves as a platform for developers and learners to practice and enhance their skills in Data Structures and Algorithms (DSA). This repository is designed to help you improve your understanding of various data structures and algorithms through a collection of questions and solutions.
-
 ![GitHub stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-?style=social) ![Forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-?style=social)
+
+Welcome to the **DSA Questions** repository! This project serves as a platform for developers and learners to practice and enhance their skills in Data Structures and Algorithms (DSA). This repository is designed to help you improve your understanding of various data structures and algorithms through a collection of questions and solutions.
 
 ## Features
 - 📚 **Comprehensive collection of DSA questions**
 - ✍️ **Detailed solutions and explanations**
-- 🖥️ **User-friendly interface for learning**
 
 ## Summary of the Changes
-In the latest update, the README.md file has been auto-updated with the following changes:
-- Added a new section for **Features** to highlight the key aspects of the repository.
-- Included a sample Python function to demonstrate a DSA question.
+In this update, the README.md file has been enhanced to improve clarity and provide additional examples. The following changes were made:
+- Added a new section for a sample Python function demonstrating a DSA question.
+- Included an example of the Fibonacci function with an explanation of its output.
+- Minor formatting adjustments to improve readability.
 
 ## Installation
-To get started with this repository, clone it using the following command:
+To get started with this repository, clone it to your local machine using the following command:
 
 ```bash
 git clone https://github.com/Shivanilarokar/DSA-Questions-
 ```
 
 ## Usage
-Navigate to the directory of the cloned repository and execute the relevant Python scripts to practice various DSA questions and their solutions.
+Navigate to the directory of the cloned repository and execute the relevant Python scripts to practice the DSA questions.
 
-### Code Snippet
+## Example
 Here's a code snippet demonstrating the Fibonacci function:
 
 ```python
