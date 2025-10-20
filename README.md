@@ -1,9 +1,9 @@
 ```markdown
 # DSA Questions 🚀
 
-Welcome to the **DSA Questions** repository! This project serves as a platform for developers and learners to practice and enhance their skills in Data Structures and Algorithms (DSA). This repository is designed to help you improve your understanding of various data structures and algorithms through a collection of questions and solutions.
-
 ![GitHub stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-?style=social) ![Forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-?style=social)
+
+Welcome to the **DSA Questions** repository! This project serves as a platform for developers and learners to practice and enhance their skills in Data Structures and Algorithms (DSA). This repository is designed to help you improve your understanding of various data structures and algorithms through a collection of questions and solutions.
 
 ## Features
 - 📚 **Comprehensive collection of DSA questions**
@@ -17,7 +17,7 @@ In the latest update, the `README.md` file has been modified to improve its stru
 - Revised the wording in the contribution section to encourage more community involvement.
 
 ## Installation
-To get started with this repository, you can clone it using the following command:
+To get started with this repository, you can clone it using the following commands:
 
 ```bash
 git clone https://github.com/Shivanilarokar/DSA-Questions-
@@ -32,16 +32,9 @@ You can explore the questions and solutions available in this repository. Here's
 def example_function():
     # Your code here
     pass
-
-example_function()
 ```
 
-## Contribution
-Feel free to contribute to the repository by submitting pull requests or opening issues. Happy coding! 🎉
-
-```
-This README.md provides a clear and concise overview of the DSA Questions repository, highlights the recent changes, and encourages community contributions while maintaining a professional appearance.
-```
-``` 
+Feel free to contribute to the repository by submitting pull requests or opening issues. 
 
 This structured README not only captures the essence of the repository but also highlights the recent changes made to enhance user experience and promote community engagement.
+```
