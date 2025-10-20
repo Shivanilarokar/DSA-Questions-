@@ -1,5 +1,5 @@
 ```markdown
-# DSA Questions 📊
+# DSA Questions 📘
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/Shivanilarokar/DSA-Questions-) ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
@@ -17,7 +17,7 @@ The recent updates to the `README.md` file include:
 - Added code snippets for better demonstration of solutions.
 
 ## Installation 🔧
-To get started with this repository, clone it using the following command:
+To clone the repository, run the following command:
 ```bash
 git clone https://github.com/Shivanilarokar/DSA-Questions-
 ```
