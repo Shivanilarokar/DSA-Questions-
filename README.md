@@ -1,14 +1,13 @@
 ```markdown
 # DSA Questions Repository 🤖
 
-The DSA Questions repository is designed to help you practice and improve your coding skills through a comprehensive collection of Data Structures and Algorithms (DSA) problems.
-
 ![GitHub stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-.svg?style=social) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-.svg?style=social)
+
+The DSA Questions repository is designed to help you practice and improve your coding skills through a comprehensive collection of Data Structures and Algorithms (DSA) problems.
 
 ## Features ✨
 - **Diverse Questions**: Explore a wide range of DSA problems.
 - **Multiple Languages**: Solutions are provided in various programming languages.
-- **Clear Documentation**: Easy-to-follow instructions and examples for each problem.
 
 ## Summary of Changes
 In the latest update, the README has been enhanced to include a dedicated **Features** section, highlighting the core advantages of the repository. Minor formatting adjustments were also made for improved readability.
@@ -25,13 +24,12 @@ git clone https://github.com/Shivanilarokar/DSA-Questions-
 ```
 
 ## Usage
-Navigate to the directory and start exploring the various DSA problems. Each problem includes detailed instructions and example solutions.
+This repository contains various DSA problems along with their solutions. You can navigate through the directory structure to find questions categorized by data structures and algorithms.
 
-## Example
-Here's a quick look at how a problem might be structured:
+### Example
+Here is a simple example of a function that implements the Two Sum problem:
 
 ```python
-# Example Problem: Two Sum
 def two_sum(nums, target):
     num_map = {}
     for i, num in enumerate(nums):
