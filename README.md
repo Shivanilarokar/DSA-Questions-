@@ -1,26 +1,24 @@
 ```markdown
 # DSA Questions Repository 🤖
 
-![GitHub stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-.svg?style=social) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-.svg?style=social)
-
 The DSA Questions repository is designed to help you practice and improve your coding skills through a comprehensive collection of Data Structures and Algorithms (DSA) problems.
+
+![GitHub stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-.svg?style=social) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-.svg?style=social)
 
 ## Features ✨
 - **Diverse Questions**: Explore a wide range of DSA problems.
-- **Clear Explanations**: Each solution includes detailed explanations for better understanding.
 - **Multiple Languages**: Solutions provided in various programming languages.
+- **Clear Explanations**: Each solution includes detailed explanations for better understanding.
 
 ## Summary of Changes 💖
 In the latest commit, the `README.md` file has been updated to improve clarity and conciseness. The following changes were made:
 - **Title Update**: Changed from **"DSA Questions"** to **"DSA Questions Repository"** for better context.
 - **Enhanced Introduction**: Improved readability of the repository description.
 - **Added Badges**: Included badges for GitHub stars and forks to enhance visibility and engagement.
-- **Updated Usage Section**: Refined the description to make it more engaging.
-- **Minor Text Adjustments**: Improved readability throughout the document.
-- **Updated Header Emoji**: Changed to maintain a consistent style.
-- **Added License Section**: Included a new section for License information.
 - **Improved Installation Instructions**: Clarified the installation steps.
 - **Added Examples Section**: Included a new section for examples to demonstrate usage.
+- **Minor Text Adjustments**: Improved readability throughout the document.
+- **Updated Header Emoji**: Changed to maintain a consistent style.
 
 ### Code Snippet Changes
 ```markdown
@@ -33,12 +31,10 @@ To get started with the DSA Questions repository, clone the repository and insta
 ```bash
 git clone https://github.com/Shivanilarokar/DSA-Questions-
 cd DSA-Questions-
-# Install dependencies if any
 ```
 
 ## Usage
-- Explore the various DSA problems provided in this repository.
-- Refer to the examples for guidance on how to approach solving these problems.
+Explore the various DSA problems provided in this repository. Refer to the examples for guidance on how to approach solving these problems.
 
 ## Example
 Here is a simple example of how to use one of the solutions:
