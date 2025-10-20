@@ -1,21 +1,19 @@
 ```markdown
 # DSA Questions 🚀
 
-![GitHub stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-?style=social) ![Forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-?style=social)
-
 Welcome to the DSA Questions repository! This project serves as a platform for developers and learners to practice and enhance their skills in Data Structures and Algorithms (DSA). This repository is designed to help you improve your understanding of various data structures and algorithms through a collection of questions and solutions.
+
+![GitHub stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-?style=social) ![Forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-?style=social)
 
 ## Features
 - Comprehensive collection of DSA questions
 - Detailed solutions and explanations
-- User-friendly structure for easy navigation
 
-## Summary of the Changes
-In the latest update, the README.md file has been modified to enhance its structure and clarity. Key updates include:
-- Addition of a new **Features** section to highlight repository capabilities.
-- Minor wording adjustments for improved clarity.
-- Inclusion of a specific example function with a more descriptive title.
-- Introduction of a **Contributing** section to encourage community involvement.
+## Summary of Changes
+In the latest update, the README has been enhanced with the following modifications:
+- Added a new **Usage** section to guide users on how to navigate through the collection of questions.
+- Minor formatting improvements for better readability.
+- Updated the concluding message to encourage exploration and contribution.
 
 ## Installation
 To get started with the DSA Questions repository, clone the repository to your local machine:
@@ -29,8 +27,10 @@ You can navigate through the collection of questions and try solving them. Here'
 
 ```python
 def fibonacci(n):
-    if n <= 1:
-        return n
+    if n <= 0:
+        return 0
+    elif n == 1:
+        return 1
     else:
         return fibonacci(n-1) + fibonacci(n-2)
 ```
