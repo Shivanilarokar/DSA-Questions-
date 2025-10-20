@@ -7,19 +7,21 @@
 Welcome to the DSA Questions repository! This repository contains a collection of Data Structures and Algorithms questions along with their solutions to help you enhance your coding skills and prepare for technical interviews.
 
 ## Features ✨
-- Comprehensive collection of DSA questions.
-- Well-structured code implementations.
-- Clear usage instructions for each question.
-- Encouragement for exploration and learning.
+- Comprehensive collection of DSA questions and solutions.
+- Clear and structured documentation.
+- Encourages exploration and learning through coding.
 
-## Summary of Changes 📝
+## Summary of the Changes
 In the latest update, the README.md file has been enhanced to provide a clearer and more structured overview of the repository. Key changes include:
 - **Updated Title:** Improved clarity of the repository title.
 - **Enhanced Usage Instructions:** Encouraged exploration and learning.
+- **New Summary Section:** Summarizes the purpose and updates of the README.
 
 ### Updated README Snippet
 ```markdown
 # DSA Questions Repository
+...
+Refer to the individual question files for usage instructions and code implementations. You can explore the various DSA questions and their solutions in the repository. Feel free to run the code snippets and modify them as you learn!
 ```
 
 ## Installation 🔧
@@ -27,27 +29,33 @@ To get started with this repository, clone it using the following command:
 ```bash
 git clone https://github.com/Shivanilarokar/DSA-Questions-
 ```
-Then navigate to the directory:
-```bash
-cd DSA-Questions-
-```
 
 ## Usage 🚀
-Refer to the individual question files for usage instructions and code implementations. You can explore the various DSA questions and their solutions in the repository. Feel free to run the code snippets and modify them as you learn!
+You can explore the various DSA questions and their solutions in the repository. Refer to the individual question files for usage instructions and code implementations. Feel free to run the code snippets and modify them as you learn!
 
-## Example 💻
-Here’s a simple example of how to use one of the DSA solutions:
+## Example 💡
+Below is a simple example of how to implement a basic data structure:
+
 ```python
-def example_function():
-    # Your code here
-    pass
+class Node:
+    def __init__(self, data):
+        self.data = data
+        self.next = None
 
-# Call the function
-example_function()
+class LinkedList:
+    def __init__(self):
+        self.head = None
+
+    def append(self, data):
+        new_node = Node(data)
+        if not self.head:
+            self.head = new_node
+            return
+        last = self.head
+        while last.next:
+            last = last.next
+        last.next = new_node
 ```
 
-## Contributing 🤝
-Contributions are welcome! Please feel free to submit a pull request or open an issue to discuss improvements or modifications.
-
-Happy coding! 🎉
+Feel free to contribute to this repository by adding more questions and solutions!
 ```
