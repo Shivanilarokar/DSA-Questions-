@@ -1,5 +1,5 @@
 ```markdown
-# DSA Questions 📚
+# DSA Questions 📖
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/Shivanilarokar/DSA-Questions-) ![Issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-) ![License](https://img.shields.io/github/license/Shivanilarokar/DSA-Questions-)
 
@@ -13,7 +13,7 @@ This repository serves as a valuable resource for both beginners and experienced
 - Solutions in various programming languages.
 - Community contributions welcome! ✨
 
-## Summary of the Changes 📊
+## Summary of the Changes 📄
 In this update, the **README.md** file has been slightly modified to improve clarity and conciseness. The following changes were made:
 - The introductory text was refined for better readability.
 - Unnecessary installation instructions were removed to streamline the content.
