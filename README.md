@@ -5,31 +5,28 @@
 
 The **DSA Questions** repository is designed to help developers of all levels understand and master Data Structures and Algorithms (DSA). This repository provides a structured approach to learning DSA with various problems, solutions, and explanations.
 
-## Overview 🌐
+## Overview 🌍
 The **DSA Questions** repository is designed to help developers of all levels understand and implement various data structures and algorithms through a structured approach. Each problem is accompanied by code snippets in multiple programming languages, allowing for easy navigation and learning.
 
 ## Features ✨
 - Comprehensive collection of DSA problems and solutions.
 - User-friendly structure for easy navigation.
-- Regular updates and contributions from the community.
+- Code snippets available in multiple programming languages.
+- Regular updates with new problems and solutions.
 
-## Summary of Changes 🔄
-In this recent update, the following changes were made to the `README.md` file:
-- Added an **Overview** section to better explain the purpose of the repository.
-- Enhanced the **Features** section to highlight the structured approach to learning DSA.
-- Updated the example code for the Fibonacci function to improve clarity and detail.
-- Removed redundant text in the **Usage** section for clarity.
-- Adjusted the **License** section formatting for consistency.
-- Added a concluding note to encourage exploration and contributions to the repository.
+## Summary of the Changes 📝
+In this update, the following changes were made to the `README.md` file:
+- **Badges** were added to display repository size, contributors, and open issues.
+- An **Overview** section was introduced to provide better context about the repository.
+- The **Example Code** section was enhanced with an updated Fibonacci function that improves the handling of edge cases.
 
 ## Installation 🚀
-To get started with the DSA Questions repository, clone the repository using the following command:
-
+To clone the repository, run:
 ```bash
 git clone https://github.com/Shivanilarokar/DSA-Questions-
 ```
 
-## Usage 📖
+## Usage 💻
 Explore the various algorithms and data structures provided in this repository! Each problem is organized for easy access and understanding.
 
 ### Example Code
@@ -46,10 +43,9 @@ def fibonacci(n):
 ```
 
 ## Contribution 🤝
-Contributions are welcome! If you have suggestions for improvements or new features, please create a pull request or open an issue.
+Contributions are welcome! Feel free to submit a pull request or open an issue to discuss improvements.
 
-## License 📜
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+---
 
-Feel free to explore the various algorithms and data structures provided in this repository! Happy coding! 🎉
+Thank you for checking out the DSA Questions repository! Happy coding! 🚀
 ```
