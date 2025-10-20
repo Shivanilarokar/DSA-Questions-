@@ -1,19 +1,17 @@
 ```markdown
-# DSA Questions Repository
+# DSA Questions Repository  🚀
 
 ![GitHub stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-?style=social) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-?style=social) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
-
-Welcome to the **DSA Questions** repository! This repository contains a collection of programming challenges designed to help developers practice and improve their Data Structures and Algorithms skills.
 
 ## Overview
 
 The DSA Questions repository offers a variety of problems that help you sharpen your coding skills through hands-on practice. Whether you are a beginner or an experienced developer, this repository has something for everyone.
 
 ## Features
-
 - 📚 A collection of diverse DSA problems.
 - 📝 Each problem includes a statement and corresponding solutions.
 - 🚀 Step-by-step guidance to improve your coding proficiency.
+- 🤝 Community contributions are welcome!
 
 ## Summary of the Changes
 
@@ -26,12 +24,12 @@ In the latest update, the `README.md` file has undergone some enhancements to im
 
 ### Changes Made:
 ```diff
-+## Overview
-+
-+The DSA Questions repository offers a variety of problems that help you sharpen your coding skills through hands-on practice. Whether you are a beginner or an experienced developer, this repository has something for everyone.
-+
-+ - Each problem includes a statement and corresponding solutions.
-+ - Step-by-step guidance to improve your coding proficiency.
+- Each problem includes a statement and corresponding solutions.
++ Each problem includes a statement and corresponding solutions.
+- ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
++ ![GitHub stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-?style=social) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-?style=social)
+- Step-by-step guidance to improve your coding proficiency.
++ Step-by-step guidance to improve your coding proficiency.
 ```
 
 ## Installation
@@ -56,5 +54,7 @@ def example_problem():
     pass
 ```
 
-Feel free to explore, contribute, and enhance your coding skills with the DSA Questions repository!
+Feel free to explore, contribute, and enhance your coding skills with the DSA Questions repository! 
+
+Thank you for visiting the DSA Questions repository! Happy coding! 🎉
 ```
