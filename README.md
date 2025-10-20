@@ -13,36 +13,28 @@ This repository contains a collection of Data Structures and Algorithms (DSA) qu
 - Enhanced usage instructions for improved accessibility.
 - Updated examples with accurate implementations.
 
-## Summary of the Changes 📜
+## Summary of the Changes 📝
 The recent updates to the `README.md` file include:
 - Updated the title to **"DSA Questions 📖"** for better clarity.
 - Added a badge displaying the last commit date.
-- Enhanced the feature list with more specific details.
-- Improved the usage instructions for better accessibility.
-- Updated the example section with a modified Fibonacci function implementation for improved accuracy.
-- Added a license badge for better visibility.
-- Enhanced clarity in the features section.
-- Minor formatting improvements for better readability.
 
-## Installation 💻
-To use this repository, simply clone it to your local machine:
+## Installation
+To get started, clone the repository using the following command:
 
 ```bash
 git clone https://github.com/Shivanilarokar/DSA-Questions-
 ```
 
-## Usage 📖
-Explore the various folders and files to find DSA questions and their corresponding solutions. You can run the solutions in your preferred environment.
+## Usage
+Navigate through the repository to find various DSA questions and their corresponding solutions. You can run the code snippets in your local environment.
 
-## Example Code Snippet ⚡
-Here's an updated example of a simple Fibonacci function included in the repository:
+### Example Code
+Here is an example of a Fibonacci function included in the repository:
 
 ```python
 def fibonacci(n):
-    if n <= 0:
-        return 0
-    elif n == 1:
-        return 1
+    if n <= 1:
+        return n
     else:
         return fibonacci(n-1) + fibonacci(n-2)
 
