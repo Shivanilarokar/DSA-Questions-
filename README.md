@@ -19,7 +19,7 @@ The README file has been updated to enhance clarity and organization. Notable ch
 
 ### Code Snippet Changes
 ```diff
--# DSA Questions Repository 📖
+-# DSA Questions Repository
 +# DSA Questions 📖
 ```
 ```diff
@@ -28,7 +28,7 @@ The README file has been updated to enhance clarity and organization. Notable ch
 ```
 
 ## Installation
-To get started with this repository, simply clone it using:
+To get started, clone the repository using the following command:
 ```bash
 git clone https://github.com/Shivanilarokar/DSA-Questions-
 ```
