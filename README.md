@@ -3,7 +3,7 @@
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-?style=social) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-?style=social) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
 
-The DSA Questions repository serves as a comprehensive resource for anyone looking to enhance their understanding of Data Structures and Algorithms through a variety of questions and solutions.
+Welcome to the **DSA Questions** repository! This repository serves as a comprehensive resource for anyone looking to enhance their understanding of Data Structures and Algorithms through a variety of questions and solutions.
 
 ## Overview 🌟
 This repository provides a collection of Data Structures and Algorithms questions along with their solutions. It is designed to help learners and developers practice and improve their coding skills.
@@ -27,11 +27,12 @@ git clone https://github.com/Shivanilarokar/DSA-Questions-
 cd DSA-Questions-
 ```
 
+## Usage 💡
 After cloning the repository, you can navigate through the questions and begin solving them using the provided solutions as a guide.
 
 Feel free to contribute by adding more questions or improving existing solutions!
 
-## Example 🧩
+## Example 🐍
 Here's an updated example of a Fibonacci function included in the repository:
 
 ```python
