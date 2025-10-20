@@ -22,7 +22,7 @@ Recent updates have enhanced the `README.md` file with clearer instructions and 
   git clone https://github.com/Shivanilarokar/DSA-Questions-.git
   cd DSA-Questions-
   ```
-  
+
 - **Fibonacci Function Logic Update:**
   ```python
   def fibonacci(n):
@@ -30,17 +30,24 @@ Recent updates have enhanced the `README.md` file with clearer instructions and 
           return 0
       elif n == 1:
           return 1
+      else:
+          return fibonacci(n-1) + fibonacci(n-2)
   ```
 
 ## Installation
 To get started with the DSA Questions repository, clone the repo to your local machine:
+
 ```bash
 git clone https://github.com/Shivanilarokar/DSA-Questions-.git
 cd DSA-Questions-
 ```
 
 ## Usage
+Feel free to explore, contribute, and enhance the collection of DSA questions and solutions!
+
+## Example: Fibonacci Sequence
 Here’s a simple example of how to use the Fibonacci function included in this repository:
+
 ```python
 def fibonacci(n):
     if n <= 0:
@@ -49,6 +56,8 @@ def fibonacci(n):
         return 1
     else:
         return fibonacci(n-1) + fibonacci(n-2)
+
+print(fibonacci(10))  # Output: 55
 ```
 
 ## Contributing
@@ -57,7 +66,6 @@ We welcome contributions! Please feel free to fork the repository and submit a p
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-----
-
-Happy coding! 🎉
+---
 ```
+This README.md provides a structured overview of the repository, highlights recent changes, and offers clear instructions and examples for users and contributors.
