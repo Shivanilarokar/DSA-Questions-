@@ -1,9 +1,10 @@
 ```markdown
 # DSA Questions 📚
 
-Welcome to the **DSA Questions** repository! This repository contains a variety of DSA problems categorized by difficulty level, aimed at helping developers enhance their data structures and algorithms skills.
-
 ![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![License](https://img.shields.io/badge/license-MIT-blue.svg)
+
+## Overview
+Welcome to the **DSA Questions** repository! This repository contains a variety of DSA problems categorized by difficulty level, aimed at helping developers enhance their data structures and algorithms skills.
 
 ## Features
 - Comprehensive collection of DSA questions
@@ -25,17 +26,19 @@ In the latest update, the README file has been modified to enhance clarity and p
 ```
 
 ## Installation
-To get started, clone the repository and explore the provided sample problems and their solutions.
+To get started with the DSA Questions repository, simply clone the repo and install any required dependencies.
 
 ```bash
 git clone https://github.com/Shivanilarokar/DSA-Questions-
+cd DSA-Questions-
+# Install dependencies if applicable
 ```
 
 ## Usage
-After cloning the repository, navigate to the directory and open the problem files to start solving the challenges. You can also contribute by adding your own solutions!
+Feel free to explore the repository and enhance your DSA skills! Happy coding! 🎉
 
 ## Example
-Here’s a simple example of how you might structure a problem:
+Here's a simple example of a problem structure:
 
 ```python
 def example_problem():
@@ -43,5 +46,5 @@ def example_problem():
     pass
 ```
 
-Feel free to explore the repository and enhance your DSA skills! Happy coding! 🎉
+Feel free to contribute and share your solutions!
 ```
