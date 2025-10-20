@@ -1,9 +1,9 @@
 ```markdown
-# DSA Questions Repository 🎉
+# DSA Questions Repository
 
 ![GitHub stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
 
-Welcome to the **DSA Questions** repository! This repository features a comprehensive collection of Data Structures and Algorithms (DSA) questions designed to help developers enhance their problem-solving skills.
+Welcome to the **DSA Questions** repository! This repository features a comprehensive collection of Data Structures and Algorithms (DSA) questions designed to help developers enhance their problem-solving skills. 🚀
 
 ## Overview
 
@@ -22,16 +22,15 @@ This repository is designed to help developers enhance their problem-solving ski
 
 In the latest update, the `README.md` file has been auto-updated to include:
 
-- Improved introduction and overview.
-- Enhanced readability with the addition of emojis.
-- Streamlined example of how to approach a DSA problem.
-
 ### Key Changes:
 
-```markdown
 - Improved introduction and overview.
 - Enhanced readability with the addition of emojis.
 - Streamlined example of how to approach a DSA problem.
+
+```diff
+- Welcome to the **DSA Questions** repository! This repository contains a collection of Data Structures and Algorithms (DSA) problems designed to enhance your programming skills.
++ Welcome to the **DSA Questions** repository! This repository features a comprehensive set of DSA questions 🤖, solutions, and explanations aimed at providing a structured learning path for developers. 🚀
 ```
 
 ## Installation
@@ -57,9 +56,5 @@ def example_problem(input_data):
     return result
 ```
 
-Feel free to explore the repository and contribute to the growing collection of DSA questions! Contributions are welcome! Please feel free to submit a pull request or open an issue.
-
----
-
-Thank you for visiting the DSA Questions repository! Happy coding! 🎉
+Feel free to dive in and start solving problems! Happy coding! 💻
 ```
