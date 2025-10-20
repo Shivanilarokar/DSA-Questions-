@@ -1,9 +1,9 @@
 ```markdown
 # DSA Questions 🤖
 
-Welcome to the **DSA Questions** repository! This repository is a collection of data structure and algorithm problems, complete with well-structured solutions to facilitate learning and practice.
+![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-?style=social) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
 
-![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-?style=social)
+Welcome to the **DSA Questions** repository! This repository is a collection of data structure and algorithm problems designed to help you improve your coding skills. It serves as a valuable resource for both beginners and experienced developers looking to practice their problem-solving abilities.
 
 ## Overview
 
@@ -11,32 +11,26 @@ The DSA Questions repository offers a comprehensive collection of data structure
 
 ## Features
 
-- A wide variety of data structure and algorithm problems.
-- Well-structured solutions for each problem.
-- Easy navigation and contribution guidelines.
+- 📚 A wide variety of data structure and algorithm problems.
+- 🛠️ Well-structured solutions for each problem.
+- 📝 Easy navigation and contribution guidelines.
 
 ## Summary of the Changes
 
 Recent updates to the README.md include:
 
-- Improved the title for better visual appeal.
 - Enhanced the section on exploring the repository and contributing solutions.
+- Improved the title for better visual appeal.
 - Included an example usage of a sorting algorithm with code snippets for clarity.
 
 ## Installation
 
-To get started, clone the repository to your local machine:
-
-```bash
-git clone https://github.com/Shivanilarokar/DSA-Questions-
-cd DSA-Questions-
-```
-
-Navigate to the directory and explore the various DSA problems available. You can structure your solution as follows:
+Clone the repository and navigate to the directory to explore the various DSA problems available. You can run the solutions in a Python environment.
 
 ```python
 # Example of a sample solution
 def example_solution():
+    # Your solution code here
     pass
 ```
 
@@ -45,6 +39,7 @@ def example_solution():
 Here's how you might use one of the algorithms provided in this repository:
 
 ```python
+# Example usage of a sorting algorithm
 def bubble_sort(arr):
     n = len(arr)
     for i in range(n):
