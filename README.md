@@ -1,15 +1,14 @@
 ```markdown
-# DSA Questions Repository 🚀
-
-This repository contains a collection of Data Structures and Algorithms (DSA) questions and solutions aimed at helping developers enhance their problem-solving skills.
+# DSA Questions 📚
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/Shivanilarokar/DSA-Questions-) ![License](https://img.shields.io/badge/license-MIT-blue.svg)
+
+This repository contains a collection of Data Structures and Algorithms (DSA) questions and solutions aimed at helping developers enhance their problem-solving skills.
 
 ## Features ✨
 - Comprehensive collection of DSA questions.
 - Clear and concise solutions.
-- Easy navigation through folders and files.
-- Contribution guidelines for aspiring developers.
+- Well-structured code snippets for demonstration.
 
 ## Summary of the Changes 📝
 The recent updates to the `README.md` file include:
@@ -31,18 +30,18 @@ Explore the various folders and files to find DSA questions and their correspond
 
 Feel free to explore and contribute to this repository as you enhance your DSA skills!
 
-## Example 📚
+## Example 📖
 Here’s a simple example of a Fibonacci function implemented in Python:
 
 ```python
 def fibonacci(n):
-    if n <= 1:
-        return n
+    if n <= 0:
+        return 0
+    elif n == 1:
+        return 1
     else:
         return fibonacci(n-1) + fibonacci(n-2)
-
-print(fibonacci(10))  # Output: 55
 ```
 
-Happy coding! 🚀
+Happy Coding! 🚀
 ```
