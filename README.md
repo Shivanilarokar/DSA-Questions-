@@ -1,10 +1,9 @@
-```markdown
 # DSA Questions Repository 📚
 
-![GitHub repo size](https://img.shields.io/github/repo-size/Shivanilarokar/DSA-Questions-) ![GitHub contributors](https://img.shields.io/github/contributors/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
+![GitHub repo size](https://img.shields.io/github/repo-size/Shivanilarokar/DSA-Questions-) ![GitHub contributors](https://img.shields.io/github/contributors/Shivanilarokar/DSA-Questions-) ![GitHub stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-?style=social)
 
 ## Overview 🌟
-This repository serves as a comprehensive resource for anyone looking to enhance their understanding of Data Structures and Algorithms through practical coding questions.
+This repository serves as a comprehensive resource for anyone looking to enhance their understanding of Data Structures and Algorithms through practical coding questions. 
 
 ## Features 🚀
 - A wide range of DSA questions categorized for easy navigation.
@@ -13,13 +12,12 @@ This repository serves as a comprehensive resource for anyone looking to enhance
 
 ## Summary of the Changes 📝
 The recent updates to the `README.md` file include enhancements in the introduction and formatting for improved clarity and engagement. Key modifications are as follows:
-- Updated the repository overview to better reflect its purpose.
-- Enhanced the features section to highlight the range of DSA questions and community engagement.
-- Added an example function to demonstrate how to run a solution for a DSA question.
+- Improved the feature list for better readability.
+- Enhanced the usage section with clear instructions.
+- Added code snippets for better demonstration of solutions.
 
-## Installation 🚀
-To get a local copy of this repository up and running, follow these simple steps:
-
+## Installation ⚙️
+To get started with this repository, clone it using the following command:
 ```bash
 git clone https://github.com/Shivanilarokar/DSA-Questions-
 ```
@@ -27,16 +25,7 @@ git clone https://github.com/Shivanilarokar/DSA-Questions-
 ## Usage 💻
 To solve a DSA question, navigate to the specific directory and run the code as follows:
 
-```python
-# Example function to run a DSA solution
-def example_solution():
-    # Your solution logic here
-    print("Running example solution...")
-
-example_solution()
-```
-
-## Example 🔍
+### Example
 Here is a quick example of how to utilize one of the DSA solutions provided in this repository:
 
 ```python
@@ -54,7 +43,8 @@ sorted_array = bubble_sort([64, 34, 25, 12, 22, 11, 90])
 print("Sorted array:", sorted_array)
 ```
 
----
-
 We hope these changes enhance your experience while using the DSA Questions repository. Happy coding! 🎉
-```
+
+--- 
+
+Feel free to contribute and help improve this repository!
