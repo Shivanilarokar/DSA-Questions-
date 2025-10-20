@@ -1,8 +1,7 @@
 ```markdown
 # DSA Questions Repository 🚀
 
-![Last Commit](https://img.shields.io/github/last-commit/Shivanilarokar/DSA-Questions-)
-![License](https://img.shields.io/badge/license-MIT-blue)
+![Last Commit](https://img.shields.io/github/last-commit/Shivanilarokar/DSA-Questions-) ![License](https://img.shields.io/badge/license-MIT-blue)
 
 ## Overview
 Welcome to the DSA Questions repository! This project contains a collection of Data Structures and Algorithms (DSA) questions along with their solutions. It aims to help developers and learners practice and enhance their problem-solving skills.
@@ -26,12 +25,7 @@ To get started with this repository, simply clone it to your local machine:
 git clone https://github.com/Shivanilarokar/DSA-Questions-
 ```
 
-Once cloned, navigate to the desired directory and explore the DSA questions and their solutions.
-
 ## Usage
-Explore the various DSA problems and their solutions available in this repository. You can contribute by adding more solutions or improving existing ones.
-
-### Example
 Here’s a simple example of a Fibonacci function:
 
 ```python
@@ -41,20 +35,13 @@ def fibonacci(n):
     elif n == 2:
         return [0, 1]
     else:
-        fib_seq = [0, 1]
-        for i in range(2, n):
-            fib_seq.append(fib_seq[i-1] + fib_seq[i-2])
-        return fib_seq
-
-print(fibonacci(10))  # Output: [0, 1, 1, 2, 3, 5, 8, 13, 21, 34]
+        fib_sequence = fibonacci(n - 1)
+        fib_sequence.append(fib_sequence[-1] + fib_sequence[-2])
+        return fib_sequence
 ```
 
-Feel free to modify and enhance this function based on your understanding!
-
-## Contributing
-We welcome contributions! Please feel free to open issues or submit pull requests to help improve this repository.
-
----
+## Contribution
+We welcome contributions! Please feel free to open issues or submit pull requests. 
 
 Thank you for checking out the DSA Questions Repository! Happy coding! 🎉
 ```
