@@ -1,15 +1,19 @@
 ```markdown
 # DSA Questions Repository 🚀
 
-The DSA Questions repository is designed to help you enhance your coding abilities through a curated set of data structures and algorithms challenges.
+![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![License](https://img.shields.io/badge/license-MIT-blue)
+
+Welcome to the **DSA Questions** repository! This repository provides a comprehensive collection of DSA questions that will help you improve your problem-solving skills and prepare for coding interviews.
 
 ## Overview 🌍
 
-This repository provides a comprehensive collection of DSA questions that will help you improve your problem-solving skills and prepare for coding interviews. 
+The DSA Questions repository is designed to help you enhance your coding abilities through a curated set of data structures and algorithms challenges.
 
 ## Features ✨
 - A variety of DSA problems categorized by difficulty level.
 - Detailed explanations and solutions for each problem.
+- Code snippets to enhance understanding.
+- Clear instructions for installation and usage.
 - Regular updates and community contributions.
 
 ## Summary of Changes 🔥
@@ -26,7 +30,7 @@ Here are some snippets of the changes made in the README:
 +# DSA Questions Repository 🚀
 -## Overview
 +## Overview 🌍
--## Summary of Changes 🔥
+-## Summary of the Changes 🔥
 +## Summary of Changes 🔥
 ```
 
@@ -47,8 +51,9 @@ After cloning the repository, navigate to the directory and follow the instructi
 Here's a simple example of how a problem is structured:
 
 ```python
+# This is a sample problem structure
 def example_problem():
-    # This is a sample problem structure
+    # Your code here
     pass
 ```
 
