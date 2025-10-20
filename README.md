@@ -1,7 +1,5 @@
 ```markdown
-# DSA Questions 📚
-
-![GitHub last commit](https://img.shields.io/github/last-commit/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-) ![GitHub stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-?style=social)
+# DSA Questions 🚀
 
 Welcome to the **DSA Questions** repository! This project serves as a platform for practicing and enhancing your Data Structures and Algorithms (DSA) skills.
 
@@ -16,8 +14,8 @@ This repository contains a collection of DSA questions along with their solution
 ## Summary of the Changes 📝
 In the latest update, the README.md file has been enhanced to improve clarity and usability. Key changes include:
 - Addition of a new **Features** section for improved organization.
-- Updated the **Installation** section to facilitate easier setup.
 - Improved code snippet for a simple DSA question solution using the Fibonacci sequence for better clarity and performance.
+- Updated the **Installation** section to facilitate easier setup.
 
 ### Example Code Snippet
 Here's an improved example of a Fibonacci function:
@@ -31,6 +29,7 @@ def fibonacci(n):
     else:
         return fibonacci(n-1) + fibonacci(n-2)
 
+# Example usage
 print(fibonacci(10))  # Output: 55
 ```
 
@@ -38,21 +37,21 @@ print(fibonacci(10))  # Output: 55
 To set up the project locally, follow these steps:
 1. Clone the repository:
     ```bash
-    git clone https://github.com/Shivanilarokar/DSA-Questions-.git
+    git clone https://github.com/Shivanilarokar/DSA-Questions-
     ```
-2. Navigate into the project directory:
+2. Navigate to the project directory:
     ```bash
     cd DSA-Questions-
     ```
-3. Install the required packages:
+3. Install the required dependencies:
     ```bash
     pip install -r requirements.txt
     ```
 
-## Usage 🖥️
+## Usage 📚
 Once the installation is complete, you can explore the various DSA questions and their solutions provided in the repository. Feel free to contribute by adding more questions or improving existing solutions!
 
 ---
 
-Thank you for visiting the DSA Questions repository! Happy coding! 🎉
+Thank you for checking out this repository! Happy coding! 🎉
 ```
