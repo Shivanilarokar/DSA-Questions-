@@ -1,5 +1,5 @@
 ```markdown
-# DSA Questions Repository 📚
+# DSA Questions Repository
 
 ![GitHub stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
 
@@ -29,33 +29,24 @@ To get started with this repository, clone it using the following command:
 git clone https://github.com/Shivanilarokar/DSA-Questions-.git
 ```
 
-## Usage 💻
-Once you have cloned the repository, you can explore the various problems and their solutions. The directory structure is organized as follows:
+Once you have cloned the repository, you can explore the various problems and their solutions structured as follows:
 
 ```
 DSA-Questions-/
-    ├── Problem1/
-    │   ├── README.md
-    │   └── solution.ext
-    ├── Problem2/
-    │   ├── README.md
-    │   └── solution.ext
-    └── ...
+├── Problem1/
+│   ├── README.md
+│   └── solution.ext
+├── Problem2/
+│   ├── README.md
+│   └── solution.ext
+└── ...
 ```
 
-Each problem is organized in its own folder with a description and solution.
-
-## Example 📖
-Here is an example of how to approach a problem from the repository:
-
-1. Navigate to the desired problem folder.
-2. Read the description provided in the `README.md`.
-3. Review the solution provided in the respective language file.
+## Usage 💻
+You can navigate to each problem folder to find the problem statement and the corresponding solution in various programming languages. Feel free to explore and practice!
 
 ## Contributing 🤝
-We welcome contributions! If you have suggestions for improvements or new problems to add, please submit a pull request.
+We welcome contributions from the community! If you'd like to contribute, please fork the repository and submit a pull request. Your input is invaluable in improving this repository.
 
----
-
-Thank you for visiting the DSA Questions repository! Happy coding! 🎉
+Happy coding! 🎉
 ```
