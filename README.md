@@ -1,8 +1,9 @@
 ```markdown
-# DSA Questions 📚
+# DSA Questions 📖
 
 [![GitHub stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-?style=social)](https://github.com/Shivanilarokar/DSA-Questions-/stargazers) [![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-?style=social)](https://github.com/Shivanilarokar/DSA-Questions-/network/members)
 
+## Overview 🚀
 This repository provides a comprehensive collection of Data Structures and Algorithms (DSA) questions aimed at helping you enhance your programming skills. Whether you are preparing for interviews or looking to sharpen your understanding, this repository has something for everyone!
 
 ## Features ✨
@@ -30,7 +31,6 @@ git clone https://github.com/Shivanilarokar/DSA-Questions-
 Navigate through the repository to find various DSA questions. Each question comes with a clear solution and code examples for different programming languages.
 
 ## Example 💻
-Here’s a simple example of how to use one of the solutions provided in the repository:
 ```python
 def example_function():
     print("This is an example function!")
