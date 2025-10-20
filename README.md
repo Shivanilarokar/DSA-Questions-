@@ -11,12 +11,13 @@ The DSA Questions repository provides a collection of algorithmic challenges tha
 ## Features
 - 📚 A wide variety of algorithmic challenges.
 - 📝 Solutions and explanations to enhance learning.
-- 👶 Suitable for beginners and advanced programmers alike.
+- 👩‍💻 Suitable for beginners and advanced programmers alike.
 
 ## Summary of the Changes ⚙️
 In the latest commit, the README.md file has been updated with the following enhancements:
 - Improved the introduction for clarity and engagement.
 - Added a new "Overview" section to provide a clearer understanding of the repository's purpose.
+- Enhanced the title emoji for improved visual appeal.
 
 ## Installation
 To get started, clone the repository using the following command:
@@ -33,8 +34,6 @@ Explore the various algorithmic challenges available.
 
 ## Example
 Here are some snippets of the code that were modified:
-
-#### Title Update
 ```markdown
 # DSA Questions 🤖
 ```
