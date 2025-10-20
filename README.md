@@ -26,7 +26,6 @@ To get started with the DSA Questions repository, simply clone the repo and inst
 ```bash
 git clone https://github.com/Shivanilarokar/DSA-Questions-
 cd DSA-Questions-
-# Install dependencies if needed
 ```
 
 ## Usage
@@ -41,6 +40,6 @@ def example_problem(input):
     # Your solution here
     return output
 ```
-```
-This README provides a comprehensive overview of the DSA Questions repository, highlighting key features and summarizing the latest changes to enhance user experience. Feel free to explore, contribute, and improve your DSA skills!
+
+This README provides a comprehensive overview of the DSA Questions repository, highlighting key features and summarizing the latest changes to enhance user experience. Feel free to explore, contribute, and improve your DSA skills! 🎉
 ```
