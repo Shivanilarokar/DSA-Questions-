@@ -1,9 +1,9 @@
 ```markdown
 # DSA Questions Repository
 
-Welcome to the **DSA Questions** repository! This repository contains a collection of Data Structures and Algorithms (DSA) problems designed to help you enhance your coding skills.
-
 ![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
+
+Welcome to the **DSA Questions** repository! This repository contains a collection of Data Structures and Algorithms (DSA) problems designed to help you enhance your coding skills.
 
 ## Features
 - 📚 A comprehensive collection of DSA problems.
@@ -13,27 +13,25 @@ Welcome to the **DSA Questions** repository! This repository contains a collecti
 ## Summary of the Changes
 Recent updates to the `README.md` include:
 - Added a new **Features** section to highlight the repository's offerings.
-- Enhanced the **Installation** section with a code snippet for cloning the repository.
 - Updated the **Usage** section to encourage exploration of the problems and solutions.
+- Enhanced the **Installation** section with a code snippet for cloning the repository.
 - Added a new **Example Problem** section to illustrate how to solve a DSA problem.
 
 ## Installation
-To get started, clone the repository using the following command:
+To get started with the DSA Questions repository, clone it using the following command:
 
 ```bash
-git clone https://github.com/Shivanilarokar/DSA-Questions-.git
+git clone https://github.com/Shivanilarokar/DSA-Questions-
 ```
 
 ## Usage
-Explore the various DSA problems and their solutions. Each problem is designed to help you practice and improve your coding skills.
+Explore the various DSA problems and their solutions available in this repository. Feel free to dive into the code and experiment with different approaches!
 
 ## Example Problem
-Here's a simple example problem to illustrate how to solve a DSA problem:
+Here is a simple example problem to illustrate how to solve a DSA problem:
 
 ```python
-# Example Python code for a basic DSA problem
 def example_problem():
-    # Your code implementation here
     pass
 ```
 
