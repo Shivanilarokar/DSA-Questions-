@@ -1,9 +1,9 @@
 ```markdown
 # DSA Questions 🤖
 
-![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
-
 A comprehensive collection of Data Structures and Algorithms (DSA) problems to help developers and learners practice and enhance their coding skills through a variety of algorithmic challenges.
+
+![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
 
 ## Features
 - 🚀 **Categorized DSA problems** for easy navigation
@@ -22,10 +22,9 @@ To clone the repository, run the following command in your terminal:
 git clone https://github.com/Shivanilarokar/DSA-Questions-
 ```
 
-## Usage
-After cloning the repository, navigate to the directory and start exploring the DSA problems. You can run the provided solutions to test your understanding.
+After cloning the repository, navigate to the directory and start exploring the DSA problems!
 
-### Example
+## Usage
 Here's a sample function to illustrate the structure:
 
 ```python
@@ -35,5 +34,5 @@ def example_problem():
     pass
 ```
 
-Feel free to explore, contribute, and enhance your DSA skills!
+Feel free to explore, contribute, and enhance your DSA skills! 🎉
 ```
