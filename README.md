@@ -1,9 +1,9 @@
 ```markdown
 # DSA Questions 🚀
 
-![GitHub stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-?style=social) ![Forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-?style=social)
-
 Welcome to the **DSA Questions** repository! This project serves as a platform for developers and learners to practice and enhance their skills in Data Structures and Algorithms (DSA). This repository is designed to help you improve your understanding of various data structures and algorithms through a collection of questions and solutions.
+
+![GitHub stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-?style=social) ![Forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-?style=social)
 
 ## Features
 - 📚 **Comprehensive collection of DSA questions**
@@ -31,28 +31,26 @@ To get started with the DSA Questions repository, follow these simple steps:
 3. Install any dependencies (if applicable).
 
 ## Usage
-Once you have the repository cloned, you can explore the various DSA questions and their solutions. Here’s how to use it:
+Feel free to explore the various questions and solutions provided in this repository. You are encouraged to contribute by adding more questions or improving existing solutions!
+
+### Example Code
+Here is a simple example of how to use a solution from this repository:
 
 ```python
-# Example usage of a specific DSA question solution
-from dsa_questions import some_solution
-
 result = some_solution(input_data)
 print(result)
 ```
-
-Feel free to explore the various questions and solutions provided in this repository. You are encouraged to contribute by adding more questions or improving existing solutions!
 
 ## Contributing
 We welcome contributions from the community! If you would like to contribute, please follow these steps:
 
 1. Fork the repository.
-2. Create a new branch (`git checkout -b feature/YourFeature`).
-3. Make your changes and commit them (`git commit -m 'Add your feature'`).
-4. Push to the branch (`git push origin feature/YourFeature`).
-5. Create a pull request.
+2. Create your feature branch (`git checkout -b feature/AmazingFeature`).
+3. Commit your changes (`git commit -m 'Add some AmazingFeature'`).
+4. Push to the branch (`git push origin feature/AmazingFeature`).
+5. Open a pull request.
 
-Thank you for your interest in contributing to the DSA Questions repository! 🌟
+Thank you for your interest in contributing to the DSA Questions repository! 🎉
 
-Happy coding! 🎉
+Happy coding! 🎈
 ```
