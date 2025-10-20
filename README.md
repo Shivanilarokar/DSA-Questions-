@@ -18,19 +18,23 @@ Welcome to the **DSA Questions** repository! This repository contains a collecti
 
 In the latest update, the `README.md` file has been modified to enhance clarity and correctness. Here are the key changes made:
 
+### Changes Made
+
 - Improved the instructions for cloning the repository.
 - Ensured the correct URL format for cloning.
 
-### Changes Made
-
 ```diff
-- To get started with this repository, clone it to your local machine:
-+ To get started with this repository, clone it to your local machine:
+-## Summary of Changes 📝
++## Summary of Changes 📝
+
+-To get started with this repository, clone it to your local machine:
++To get started with this repository, clone it to your local machine:
 ```
 
 ```bash
-- git clone https://github.com/Shivanilarokar/DSA-Questions-
-+ git clone https://github.com/Shivanilarokar/DSA-Questions-.git
+-git clone https://github.com/Shivanilarokar/DSA-Questions-
++git clone https://github.com/Shivanilarokar/DSA-Questions-.git
+ cd DSA-Questions-
 ```
 
 ## Installation
