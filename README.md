@@ -11,8 +11,8 @@ The DSA Questions repository offers a variety of problems that help you sharpen 
 
 ## Features
 
-- 📚 A collection of diverse DSA problems.
-- 📑 Each problem includes a statement and corresponding solutions.
+- 📖 A collection of diverse DSA problems.
+- 📝 Each problem includes a statement and corresponding solutions.
 - 🚀 Step-by-step guidance to improve your coding proficiency.
 - 🤝 Community contributions are welcome!
 
@@ -22,17 +22,19 @@ In the latest update, the `README.md` file has undergone some enhancements to im
 
 ### Changes Made:
 ```diff
--## Overview
-+
+- Each problem includes a statement and corresponding solutions.
++ Each problem includes a statement and corresponding solutions.
+- ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
++ ![GitHub stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-?style=social) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-?style=social)
+- Step-by-step guidance to improve your coding proficiency.
++ Step-by-step guidance to improve your coding proficiency.
 +## Overview
 +
 +The DSA Questions repository offers a variety of problems that help you sharpen your coding skills through hands-on practice. Whether you are a beginner or an experienced developer, this repository has something for everyone.
 +
 + - Each problem includes a statement and corresponding solutions.
 + - Step-by-step guidance to improve your coding proficiency.
-+ 
 ```
-
 - Added a welcoming emoji to the repository title.
 - Improved the readability of the overview and features sections.
 - Encouraged community contributions with a dedicated point.
@@ -59,7 +61,5 @@ def example_problem():
     pass
 ```
 
-Feel free to explore, contribute, and enhance your coding skills with the DSA Questions repository! 
-
-Thank you for visiting the DSA Questions repository! Happy coding! 🎉
+Feel free to dive in, explore the problems, and contribute your solutions! Happy coding! 🎉
 ```
