@@ -7,16 +7,15 @@ Welcome to the **DSA Questions** repository! This repository is dedicated to pro
 
 ## Features 🌟
 - Extensive collection of DSA problems.
-- Detailed explanations and code snippets for each problem.
-- Easy navigation through different problems and solutions.
-- Regular updates with new problems and solutions.
+- Regular updates to ensure the latest algorithms and techniques are covered.
+- Clear and concise problem statements to aid learning.
 
 ## Summary of Changes 🔄
 In this update, the README.md file has been modified to enhance its presentation and clarify the content. Key changes include:
+- Added badges for GitHub issues, forks, and stars to improve visibility.
 - Improved introduction text for clarity.
-- Added a feature highlighting regular updates.
-- Changed the title format to be more concise.
-- Updated example section to provide better clarity on usage.
+- Updated the example section to better illustrate a sample problem.
+- Minor formatting adjustments for improved readability.
 
 ## Installation 🛠️
 To clone the repository, run the following command:
@@ -24,12 +23,8 @@ To clone the repository, run the following command:
 git clone https://github.com/Shivanilarokar/DSA-Questions-
 ```
 
-## Usage 🚀
-You can navigate through the different problems and solutions provided in this repository. Each problem includes a detailed explanation and code snippets to help you understand the concepts better.
-
-## Example 📖
+## Usage 📚
 Here’s a simple example of a problem you might find in this repository:
-
 ```python
 def example_problem():
     # This is a sample problem function
