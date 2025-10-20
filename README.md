@@ -23,14 +23,14 @@ In the latest update, the README.md file has been enhanced to improve clarity an
 
 ## Installation
 To clone this repository, use the following command:
+
 ```bash
 git clone https://github.com/Shivanilarokar/DSA-Questions-.git
 ```
 
 ## Usage
-Explore the various algorithmic challenges available in this repository. We encourage contributions from all developers to solve problems and enhance the repository. 🚀
+Explore the various algorithmic challenges available in this repository. We encourage contributions from all developers to enhance the repository further!
 
-## Example
 Here’s a simple example problem to get you started:
 
 ```python
