@@ -1,6 +1,9 @@
 ```markdown
-# DSA Questions 📊
+# DSA Questions 📘
 
+![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-?style=social) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-?style=social)
+
+## Overview
 The DSA Questions repository is a collection of data structure and algorithm problems designed to help developers improve their coding skills and problem-solving abilities.
 
 ## Features 🎉
@@ -9,8 +12,8 @@ The DSA Questions repository is a collection of data structure and algorithm pro
 - Well-commented code snippets for easy understanding and reference.
 - Community-driven contributions and improvements are welcome!
 
-## Summary of the Changes ⚡
-In the latest update, the `README.md` file has been enhanced to improve clarity and organization. Key changes include:
+## Summary of Changes
+In the latest update, the `README.md` file has been enhanced to improve clarity and user engagement:
 - Updated the main title emoji for a more engaging appearance.
 - Added a new **Overview** section to provide a clearer introduction.
 - Improved the structure and formatting for better readability.
@@ -25,12 +28,14 @@ cd DSA-Questions-
 ```
 
 ## Usage
+Once you have cloned the repository, you can explore various DSA problems and solutions.
+
+### Example
 Here’s an example of running a solution:
 
 ```python
-# Sample Python code for a DSA problem
 def example_function():
-    print("Hello, DSA!")
+    print("Hello, DSA World!")
 
 example_function()
 ```
