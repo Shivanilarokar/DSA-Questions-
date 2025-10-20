@@ -1,9 +1,9 @@
 ```markdown
-# DSA Questions Repository 📚
+# DSA Questions Repository
+
+Welcome to the **DSA Questions** repository! This repository contains a comprehensive set of Data Structures and Algorithms (DSA) questions designed to help you improve your coding skills.
 
 ![Last Commit](https://img.shields.io/github/last-commit/Shivanilarokar/DSA-Questions-) ![License](https://img.shields.io/badge/license-MIT-blue) ![GitHub Repo size](https://img.shields.io/github/repo-size/Shivanilarokar/DSA-Questions-) ![GitHub stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-?style=social) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-?style=social)
-
-Welcome to the **DSA Questions** repository! This repository contains a comprehensive set of Data Structures and Algorithms (DSA) questions designed to help you master the fundamentals.
 
 ## Features
 - ✅ Comprehensive set of DSA questions
@@ -11,7 +11,7 @@ Welcome to the **DSA Questions** repository! This repository contains a comprehe
 - 🌍 Community-driven enhancements
 
 ## Summary of the Changes
-In this recent update, the README.md has been auto-updated to enhance its presentation and clarity. Notable changes include:
+In this recent update, the `README.md` has been auto-updated to enhance its presentation and clarity. Notable changes include:
 - Added badges for the last commit, license, repository size, stars, and forks to improve visibility and engagement.
 - Improved formatting and structure for better readability.
 
@@ -43,5 +43,4 @@ def example_function():
 ```
 
 Feel free to contribute by adding new questions or improving existing ones. Your contributions are greatly appreciated! 🚀
-
 ```
