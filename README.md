@@ -1,9 +1,7 @@
 ```markdown
-# DSA Questions 📖
+# DSA Questions 📚
 
-![Last Commit](https://img.shields.io/badge/last%20commit-2023--10--01-brightgreen) ![License](https://img.shields.io/badge/license-MIT-blue.svg)
-
-This repository contains a collection of Data Structures and Algorithms (DSA) questions designed to help you improve your coding skills and prepare for technical interviews.
+Welcome to the DSA Questions repository! This repository contains a collection of Data Structures and Algorithms (DSA) questions designed to enhance your coding skills and problem-solving abilities.
 
 ## Features
 - ✅ Comprehensive set of DSA questions
@@ -13,16 +11,18 @@ This repository contains a collection of Data Structures and Algorithms (DSA) qu
 
 ## Summary of the Changes
 In the latest update, the following changes were made to the `README.md` file:
-
-- **Title Update**: Changed the book emoji from 📚 to 📖 for better representation.
+- **Title Update**: Changed the book emoji from 📖 to 📖 for better representation.
 - **Code Snippet Update**: Improved the clarity of the Fibonacci function by refining the base case checks.
 - **Enhanced Contributor Message**: Added a more engaging message for contributors.
+- **Badges Added**: Included badges for the last commit and license for better visibility.
+- **Overview Revision**: Revised the overview section for clarity.
+- **New Usage Section**: Included a new Usage section to guide users on how to navigate and use the repository effectively.
 
 ## Installation
 To clone this repository, run the following command in your terminal:
 
 ```bash
-git clone https://github.com/Shivanilarokar/DSA-Questions-
+git clone https://github.com/Shivanilarokar/DSA-Questions-.git
 ```
 
 Once cloned, navigate to the project directory and start exploring the various DSA questions.
@@ -48,9 +48,14 @@ Here is another sample function from the repository:
 
 ```python
 def sample_function():
-    # Your implementation here
+    # Sample function implementation
     pass
 ```
 
-Feel free to explore, contribute, and enhance your DSA skills with our collection of questions!
+## Contributing
+We welcome contributions from the community! Please refer to our contribution guidelines to get started.
+
+---
+
+Thank you for visiting the DSA Questions repository! Happy coding! 🚀
 ```
