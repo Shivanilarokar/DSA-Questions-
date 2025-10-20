@@ -12,14 +12,15 @@ Welcome to the DSA Questions repository! This project is dedicated to providing 
 - Comprehensive DSA problem sets
 - Solutions with detailed explanations
 - User-friendly examples
+- Regular updates and community contributions
 
 ## Summary of the Changes 📝
 In the latest update, the `README.md` file has been modified to enhance clarity and improve presentation. Key changes include:
-- Enhanced descriptions for better user guidance
-- Streamlined content by removing unnecessary lines
-- Improved formatting for better readability
+- Added an overview section for better context.
+- Improved formatting and structure for easier navigation.
+- Updated example code to reflect a more descriptive function name.
 
-## Installation ⚙️
+## Installation
 To get started with the DSA Questions repository, clone the repository to your local machine:
 
 ```bash
