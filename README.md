@@ -19,13 +19,12 @@ In the latest update, the README.md file has been refined to improve clarity and
 
 ## Installation ⚙️
 To get started with this repository, clone it using the following command:
-
 ```bash
 git clone https://github.com/Shivanilarokar/DSA-Questions-
 ```
 
-## Usage 💡
-Explore the various folders and files within this repository to find DSA problems and their solutions. Each problem is categorized for your convenience.
+## Usage 📖
+Explore the various folders and files within this repository to find DSA problems that you can solve and learn from.
 
 ## Example 📖
 Here's a glimpse of how the README.md looks after the latest changes:
