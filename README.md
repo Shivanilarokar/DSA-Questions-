@@ -1,5 +1,5 @@
 ```markdown
-# DSA Questions Repository
+# DSA Questions Repository 📚
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
 
@@ -7,9 +7,11 @@
 Welcome to the DSA Questions repository! This repository contains a collection of Data Structures and Algorithms (DSA) questions along with their solutions in Python. Enhance your coding skills and deepen your understanding of DSA concepts through practical examples.
 
 ## Features
-- 📚 Comprehensive set of DSA questions.
+- 📖 Comprehensive set of DSA questions.
 - 🐍 Solutions provided in Python.
-- 💡 Clear and concise explanations of algorithms.
+- ⚡ Clear and concise explanations of algorithms.
+- 🔄 Easy to navigate and contribute to.
+- 🚀 Continuous updates and improvements.
 
 ## Summary of the Changes
 In the latest update, the README has been enhanced to provide clearer information about the repository. The following changes were made:
@@ -17,15 +19,13 @@ In the latest update, the README has been enhanced to provide clearer informatio
 - Enhanced the explanation of the Fibonacci function with an example snippet.
 - Improved installation instructions to include navigation to the directory.
 
+### Code Changes
 Here's a snippet of the updated code:
 
 ```python
-# Example of a Fibonacci function
 def fibonacci(n):
-    if n <= 0:
-        return 0
-    elif n == 1:
-        return 1
+    if n <= 1:
+        return n
     else:
         return fibonacci(n-1) + fibonacci(n-2)
 ```
