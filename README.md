@@ -3,6 +3,8 @@
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-?style=social) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-?style=social)
 
+The DSA Questions repository is designed to help developers and students enhance their understanding of data structures and algorithms through practical questions and solutions. Each question is carefully curated, providing a solid foundation for mastering DSA concepts.
+
 ## Overview
 This repository provides a comprehensive collection of Data Structures and Algorithms (DSA) questions, along with solutions and explanations to help you learn effectively.
 
@@ -16,20 +18,8 @@ In the latest update, the **README.md** file has been modified to enhance clarit
 - Added a rocket emoji to the repository title for a more engaging appearance.
 - Revised the overview section to emphasize learning effectiveness.
 
-### Code Changes
-Here are the specific changes made in the README.md file:
-
-```diff
--# DSA Questions Repository
-+# DSA Questions 🚀
-
--This repository provides a comprehensive collection of Data Structures and Algorithms (DSA) questions aimed at helping both beginners and experienced developers enhance their understanding through practical examples and solutions.
-+This repository provides a comprehensive collection of Data Structures and Algorithms (DSA) questions, along with solutions and explanations to help you learn effectively.
-```
-
 ## Installation
 To get started with the DSA Questions repository, clone it to your local machine:
-
 ```bash
 git clone https://github.com/Shivanilarokar/DSA-Questions-
 ```
@@ -49,9 +39,7 @@ def fibonacci(n):
         return n
     else:
         return fibonacci(n-1) + fibonacci(n-2)
-
-print(fibonacci(5))  # Output: 5
 ```
 
-Feel free to explore and contribute to enhance the repository! Happy coding! 🎉
+Feel free to explore, contribute, and enhance your DSA skills!
 ```
