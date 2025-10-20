@@ -1,5 +1,5 @@
 ```markdown
-# DSA Questions 📊
+# DSA Questions 📚
 
 ![Repository Size](https://img.shields.io/github/repo-size/Shivanilarokar/DSA-Questions-) 
 ![Last Commit](https://img.shields.io/github/last-commit/Shivanilarokar/DSA-Questions-) 
@@ -26,16 +26,6 @@ In the latest update, the README.md file has been enhanced with additional infor
 - Improved wording in the Features section for clarity.
 - Updated example function name and structure to reflect a more standard convention.
 
-### Code Snippet Changes
-Here’s an example of the code snippet that was modified:
-
-```python
-# Example implementation for a DSA problem
-def example_function(data):
-    # Function logic goes here
-    pass
-```
-
 ## Installation
 To get started with the DSA Questions repository, simply clone the repository to your local machine:
 
@@ -46,4 +36,16 @@ cd DSA-Questions-
 
 ## Usage
 Explore the various problems and contribute your solutions! Feel free to check out the repository and start contributing! Your contributions are welcome and appreciated. Happy coding! 🎉
+
+## Example
+Here’s a simple example of a function that demonstrates DSA principles:
+
+```python
+def example_function(data):
+    # A simple example function that prints each element
+    for item in data:
+        print(item)
+```
+
+Feel free to modify and enhance this repository with your own solutions and examples!
 ```
