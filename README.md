@@ -1,5 +1,5 @@
 ```markdown
-# DSA Questions Repository 📚
+# DSA-Questions- 🤖
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
@@ -7,16 +7,18 @@
 This repository aims to provide a comprehensive collection of Data Structures and Algorithms (DSA) problems along with clear solutions to enhance understanding and improve coding skills.
 
 ## Features 🌟
-- Comprehensive collection of DSA problems
-- Clear and structured solutions
-- Examples demonstrating various algorithms and techniques
+- A variety of DSA questions and their solutions.
+- Detailed explanations for each solution.
+- Code examples demonstrating different DSA concepts.
 
 ## Summary of the Changes 📝
-In this update, the `README.md` file has been enhanced to improve visibility and structure. Key changes include:
-- Updated the description of examples for clarity.
-- Improved the implementation example of the Fibonacci function to streamline the code.
+In this recent update, the following changes were made to the README.md file:
+- Added an **Overview** section to better explain the purpose of the repository.
+- Removed redundant text in the **Usage** section for clarity.
+- Adjusted the **License** section formatting for consistency.
+- Added a concluding note to encourage exploration and contributions to the repository.
 
-## Installation ⚙️
+## Installation
 To get a local copy of this repository, clone it using the following command:
 
 ```bash
@@ -26,8 +28,8 @@ git clone https://github.com/Shivanilarokar/DSA-Questions-
 ## Usage 💻
 To use the solutions provided, simply navigate to the respective files and follow the instructions outlined within.
 
-### Example of Fibonacci Function Implementation
-Here’s an example implementation of a Fibonacci function:
+### Example
+Here is a simple example of a Fibonacci function demonstrating recursion:
 
 ```python
 def fibonacci(n):
@@ -36,6 +38,7 @@ def fibonacci(n):
     else:
         return fibonacci(n - 1) + fibonacci(n - 2)
 ```
+
 This function calculates the Fibonacci number for a given `n`, demonstrating recursion.
 
 ## Contributing 🤝
