@@ -8,14 +8,11 @@ Welcome to the **DSA Questions** repository! This repository provides a collecti
 ## Overview
 This repository is designed for both beginners and advanced programmers to practice and improve their understanding of data structures and algorithms through a variety of challenges.
 
-## Features
-- 📚 A wide variety of algorithmic challenges.
-- 📝 Solutions and explanations to enhance learning.
-- 👩‍💻👨‍💻 Suitable for beginners and advanced programmers alike.
-
 ## Summary of the Changes ⚙️
 In the latest commit, the README.md file has been updated with the following enhancements:
 - Improved clarity and conciseness in the introductory text.
+- Added a new "Overview" section to provide a clearer understanding of the repository's purpose.
+- Enhanced the title emoji for improved visual appeal.
 - Minor formatting adjustments for better readability.
 
 ## Installation
@@ -37,7 +34,6 @@ Explore the various algorithmic challenges available.
 ## Example
 Here are some snippets of the code that were modified:
 
-#### Title Update
 ```markdown
 # DSA Questions 🤖
 ```
