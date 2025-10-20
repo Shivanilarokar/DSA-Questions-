@@ -1,5 +1,5 @@
 ```markdown
-# DSA Questions 📖
+# DSA Questions Repository
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
 
@@ -19,7 +19,9 @@ In the latest update, we have made a small yet significant enhancement to the Fi
 ### Code Changes
 Here are the key changes made to the Fibonacci function:
 
+### Updated Code Snippet:
 ```python
+# Example of a Fibonacci function
 def fibonacci(n):
     if n <= 1:
         return n
