@@ -8,13 +8,12 @@ Welcome to the **DSA Questions** repository! This project serves as a platform f
 ## Features
 - 📚 **Comprehensive collection of DSA questions**
 - ✍️ **Detailed solutions and explanations**
-- 🚀 **Efficient algorithm implementations**
 
 ## Summary of the Changes
 In the latest update, the README.md file has been enhanced to improve clarity and usability. Key changes include:
 - Addition of a new **Features** section for improved organization.
-- Updated the **Installation** section to facilitate easier setup.
 - Updated the code snippet for a simple DSA question solution using the Fibonacci sequence for better clarity and performance.
+- Updated the **Installation** section to facilitate easier setup.
 
 ### Example Code Snippet
 Here's an improved example of a Fibonacci function:
@@ -30,14 +29,7 @@ print(fibonacci(10))  # Output: 55
 ```
 
 ## Installation
-To get started with this repository, clone it using the following command:
-
-```bash
-git clone https://github.com/Shivanilarokar/DSA-Questions-
-cd DSA-Questions-
-```
-
-Install any required dependencies, and you're ready to start practicing!
+To get started, clone the repository and install any required dependencies, and you're ready to start practicing!
 
 ## Usage
 Explore the various DSA questions available in this repository, attempt to solve them, and check the provided solutions for guidance. Happy coding! 🎉
