@@ -1,21 +1,21 @@
 ```markdown
 # DSA Questions 🚀
 
-![GitHub stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-?style=social) ![Forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-?style=social)
-
 Welcome to the **DSA Questions** repository! This project serves as a platform for developers and learners to practice and enhance their skills in Data Structures and Algorithms (DSA). This repository is designed to help you improve your understanding of various data structures and algorithms through a collection of questions and solutions.
+
+![GitHub stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-?style=social) ![Forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-?style=social)
 
 ## Features
 - 📚 **Comprehensive collection of DSA questions**
-- 📝 **Detailed solutions and explanations**
+- ✍️ **Detailed solutions and explanations**
 - 🤖 **User-friendly structure for easy navigation**
 
 ## Summary of the Changes
 In the latest update, the README file has been enhanced to improve clarity and provide additional guidance on the Fibonacci function. The changes include:
-- Added a section for examples demonstrating how to use the Fibonacci function.
-- Updated phrasing in the installation instructions for better clarity.
 
-### Code Snippet of the Fibonacci Function
+- Improved instructions for cloning the repository.
+- Added an example for the Fibonacci function usage.
+
 Here is a snippet showing the changes made:
 
 ```python
