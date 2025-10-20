@@ -22,23 +22,19 @@ In the latest update, the README file has been enhanced to improve clarity and e
 To get started with the DSA Questions repository, simply clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/Shivanilarokar/DSA-Questions-
+git clone https://github.com/Shivanilarokar/DSA-Questions-.git
 ```
 
 ## Usage
-Once you have cloned the repository, navigate to the directory and start exploring the various DSA problems and solutions!
+Navigate to the project directory and explore the various DSA problems available. Each problem includes a detailed explanation and example solutions.
 
-```bash
-cd DSA-Questions-
-```
-
-## Example
-Here’s a simple example of how to solve a problem from the repository:
+### Example Code Snippet
+Here's a sample structure of how a problem solution can be organized:
 
 ```python
 def example_problem():
-    # Sample function to demonstrate usage
-    print("This is an example problem solution!")
+    # Your solution code here
+    pass
 ```
 
 Feel free to explore, contribute, and enjoy coding! Happy problem-solving! 🎉
@@ -48,5 +44,4 @@ Contributions are welcome! Please feel free to submit pull requests or open issu
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ```
