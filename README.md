@@ -24,6 +24,18 @@ Recent updates to the `README.md` file include:
 - Added a **Usage** section to provide clarity on how to engage with the repository.
 - Enhanced the concluding remarks to encourage skill enhancement through DSA challenges. 🎉
 
+### Here’s a glimpse of the changes made in the `README.md` file:
+```diff
+-## Features 🚀
+-- **Comprehensive guide** to various DSA problems.
+-- **Detailed explanations**, examples, and solutions.
+-- Designed for both beginners and experienced developers.
++## Features ✨
++- Comprehensive guide to various DSA problems.
++- Explanations, examples, and solutions to enhance your coding skills.
++- Community-driven contributions to improve the repository.
+```
+
 ## Installation 🔧
 To get started with this repository, clone it using:
 ```bash
