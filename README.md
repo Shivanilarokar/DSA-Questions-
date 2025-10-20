@@ -1,5 +1,5 @@
 ```markdown
-# DSA Questions Repository
+# DSA Questions 📊
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/Shivanilarokar/DSA-Questions-) ![GitHub stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-)
 
@@ -9,10 +9,9 @@ Welcome to the **DSA Questions** repository! This repository contains various qu
 This repository is designed to assist learners and developers in enhancing their data structures and algorithms (DSA) skills through a comprehensive collection of questions and solutions.
 
 ## Features
-- A wide range of DSA questions categorized by difficulty.
-- Solutions provided for each question. ✨
-- Easy navigation through the repository.
-- Community contributions are encouraged! 🤝
+- A variety of DSA questions categorized by difficulty.
+- Detailed solutions for each question.
+- Community-driven contributions welcome!
 
 ## Summary of Changes
 In the latest update, the following changes were made to the `README.md` file:
@@ -20,13 +19,12 @@ In the latest update, the following changes were made to the `README.md` file:
 - Added detail about solutions being provided for each question.
 - Revised the installation instructions for clarity.
 - Updated the usage section for better understanding.
-- Enhanced the example section to include a practical implementation of a Fibonacci function.
 
 ## Installation
-To get started with the DSA Questions repository, clone the repository to your local machine:
+To get started, clone the repository using the following command:
 
 ```bash
-git clone https://github.com/Shivanilarokar/DSA-Questions-
+git clone https://github.com/Shivanilarokar/DSA-Questions-.git
 cd DSA-Questions-
 ```
 
@@ -44,5 +42,5 @@ def fibonacci(n):
 print(fibonacci(5))  # Output: 5
 ```
 
-Feel free to explore the repository and contribute with your own solutions and questions!
+Feel free to explore the repository and contribute with your own solutions and questions! 🎉
 ```
