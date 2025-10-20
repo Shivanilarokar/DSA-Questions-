@@ -1,7 +1,8 @@
 ```markdown
-# DSA Questions Repository 🚀
+# DSA Questions Repository
 
-![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
+![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-?style=social) 
+![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-?style=social)
 
 Welcome to the **DSA Questions** repository! This repository offers a comprehensive collection of data structure and algorithm problems designed to enhance your coding skills and problem-solving abilities.
 
@@ -32,7 +33,6 @@ Navigate to the directory to explore the various DSA problems available. You can
 Here’s how you can use the bubble sort function from this repository:
 
 ```python
-# Example usage
 def bubble_sort(arr):
     n = len(arr)
     for i in range(n):
@@ -46,5 +46,5 @@ sorted_array = bubble_sort(example_array)
 print("Sorted array:", sorted_array)
 ```
 
-Feel free to explore, contribute, and enhance your coding skills with our collection of DSA questions!
+Feel free to explore, contribute, and enhance your coding skills with our collection of DSA questions! 🎉
 ```
