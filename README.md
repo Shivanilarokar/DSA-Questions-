@@ -7,7 +7,7 @@ Welcome to the **DSA Questions** repository! This repository is a collection of 
 
 ## Overview
 
-The DSA Questions repository offers a comprehensive collection of data structures and algorithms problems for practice and learning.
+The DSA Questions repository offers a comprehensive collection of data structure and algorithm problems, complete with well-structured solutions to facilitate learning and practice.
 
 ## Features
 
@@ -19,23 +19,20 @@ The DSA Questions repository offers a comprehensive collection of data structure
 
 Recent updates to the README.md include:
 
-- Improved the title for better visual appeal.
 - Enhanced the section on exploring the repository and contributing solutions.
+- Improved the title for better visual appeal.
 - Included an example usage of a sorting algorithm with code snippets for clarity.
 
 ## Installation
 
-To get started with the DSA Questions repository, clone the repository to your local machine:
+To get started, clone the repository to your local machine:
 
 ```bash
 git clone https://github.com/Shivanilarokar/DSA-Questions-
+cd DSA-Questions-
 ```
 
-Navigate to the directory and explore the various DSA problems available. You can also contribute by adding your own solutions.
-
-## Usage
-
-Here's an example of how to structure your solution:
+Navigate to the directory and explore the various DSA problems available. You can structure your solution as follows:
 
 ```python
 # Example of a sample solution
@@ -43,8 +40,6 @@ def example_solution():
     # Your solution code here
     pass
 ```
-
-## Example
 
 Here's how you might use one of the algorithms provided in this repository:
 
@@ -56,6 +51,7 @@ def bubble_sort(arr):
             if arr[j] > arr[j+1]:
                 arr[j], arr[j+1] = arr[j+1], arr[j]
 
+# Sample array
 sample_array = [64, 34, 25, 12, 22, 11, 90]
 bubble_sort(sample_array)
 print("Sorted array is:", sample_array)
