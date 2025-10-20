@@ -1,9 +1,9 @@
 ```markdown
 # DSA Questions 🤖
 
-Welcome to the **DSA Questions** repository! This repository is dedicated to providing a comprehensive collection of Data Structures and Algorithms (DSA) problems to help you enhance your coding skills.
+![GitHub Issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-) ![GitHub Forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![GitHub Stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-)
 
-![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![GitHub stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-)
+Welcome to the **DSA Questions** repository! This repository is dedicated to providing a comprehensive collection of Data Structures and Algorithms (DSA) problems to help you enhance your coding skills.
 
 ## Features 🌟
 - Extensive collection of DSA problems.
@@ -13,13 +13,13 @@ Welcome to the **DSA Questions** repository! This repository is dedicated to pro
 
 ## Summary of Changes 🔄
 In this update, the README.md file has been modified to enhance its presentation and clarify the content. Key changes include:
-- Added badges for GitHub issues, forks, and stars to improve visibility.
-- Updated the example section to better illustrate a sample problem.
-- Minor formatting adjustments for improved readability.
+- Improved introduction text for clarity.
+- Added a feature highlighting regular updates.
+- Changed the title format to be more concise.
+- Updated example section to provide better clarity on usage.
 
-## Installation ⚙️
-To get started, clone the repository to your local machine using the following command:
-
+## Installation 🛠️
+To clone the repository, run the following command:
 ```bash
 git clone https://github.com/Shivanilarokar/DSA-Questions-
 ```
@@ -34,6 +34,8 @@ Here’s a simple example of a problem you might find in this repository:
 def example_problem():
     # This is a sample problem function
     print("This is an example problem!")
+
+example_problem()
 ```
 
 Feel free to explore and contribute to the repository. Happy coding! 🎉
