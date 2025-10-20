@@ -1,15 +1,15 @@
 ```markdown
 # DSA Questions 🤖
 
-![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
-
 A comprehensive collection of Data Structures and Algorithms (DSA) problems to help developers and learners practice and enhance their coding skills through a variety of algorithmic challenges.
+
+![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
 
 ## Features
 - 🚀 **Categorized DSA problems** for easy navigation
-- 📖 **Clear explanations and solutions** for each problem
+- 📚 **Clear explanations and solutions** for each problem
 
-## Summary of the Changes
+## Summary of the changes
 In the latest update, the README.md file has been modified to enhance clarity and organization. The following changes were made:
 - Added a new section to highlight the features of the repository.
 - Updated wording for clarity and improved readability.
@@ -22,11 +22,16 @@ git clone https://github.com/Shivanilarokar/DSA-Questions-
 ```
 
 ## Usage
-Navigate through the categorized DSA problems and explore the explanations and solutions provided for each problem. Here is a brief example of how the problems are categorized:
-
-- Problem 1: Two Sum
-- Problem 2: Merge Two Sorted Lists
+Explore the various DSA problems categorized for your convenience. Each problem comes with a clear explanation and solution to help you understand the underlying concepts.
 
 ## Example
-This README.md file has been structured to provide clear and concise information about the DSA Questions repository and its latest updates. Feel free to contribute and enhance this project further! 🎉
+Here’s a quick example of how you might structure your approach to a DSA problem:
+
+```python
+def example_problem():
+    # This is an example function for demonstration
+    pass
+```
+
+Feel free to browse through the repository and contribute to the discussions or add your own solutions!
 ```
