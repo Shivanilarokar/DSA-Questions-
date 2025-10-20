@@ -47,19 +47,16 @@ git clone https://github.com/Shivanilarokar/DSA-Questions-
 
 ## Usage
 
-Explore the different algorithms provided in this repository. Each algorithm is accompanied by clear explanations and code examples. 
+Explore the different algorithms provided in this repository. Each algorithm is accompanied by clear explanations and code examples.
 
 ```python
+# Implementation of the algorithm
 def example_algorithm(data):
-    # Implementation of the algorithm
+    # Implement your algorithm here
     pass
 ```
 
 Feel free to explore and contribute to the repository. Happy coding! 🚀
-
-### Additional Information
-- **Badges**: Consider adding badges for stars, forks, and issues at the top of the README for immediate visibility.
-- **Contribution Guidelines**: You may want to add a section for contribution guidelines to encourage community involvement. 
 
 This README serves as a concise and professional introduction to your DSA Questions repository, highlighting the latest changes effectively.
 ```
