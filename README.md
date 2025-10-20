@@ -1,7 +1,8 @@
 ```markdown
-# DSA Questions 🤖
+# DSA Questions Repository 🤖
 
-![GitHub Issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-) ![GitHub Stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-)
+![GitHub Issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
+![GitHub Stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-)
 
 Welcome to the DSA Questions repository! This repository is dedicated to providing a comprehensive collection of algorithmic challenges designed to enhance your problem-solving skills.
 
@@ -12,25 +13,13 @@ The DSA Questions repository offers a comprehensive collection of data structure
 - Extensive collection of algorithmic challenges.
 - Solutions available in multiple programming languages.
 - Community-driven contributions welcome!
+- Regular updates with new challenges and solutions.
 
 ## Summary of Changes
 In the latest commit, the `README.md` file has been updated to improve clarity and formatting. Key changes include:
 - Updated the header and improved the introductory text.
 - Enhanced badges for better visibility of repository issues and stars.
 - Clarified the instructions for getting started with the repository.
-
-### Code Snippet of Changes
-```diff
--# DSA Questions Repository 🤖
-+![GitHub Issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
-
-+Welcome to the DSA Questions repository! This repository is dedicated to providing a comprehensive collection of algorithmic challenges designed to enhance your problem-solving skills.
-
--## Installation
--To get started, clone the repository using the following command:
-+## Overview
-+To get started with the DSA Questions repository, clone the repository using the following command:
-```
 
 ## Installation
 To get started with the DSA Questions repository, clone the repository using the following command:
@@ -51,4 +40,6 @@ def example_problem():
     # Your solution here
     pass
 ```
+
+Feel free to explore the problems, attempt to solve them, and submit your solutions. This repository is designed to encourage learning and sharing!
 ```
