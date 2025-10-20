@@ -1,5 +1,5 @@
 ```markdown
-# DSA Questions Repository 🤖
+# DSA Questions Repository
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
 
@@ -11,6 +11,7 @@ This repository contains a wide array of DSA problems with detailed implementati
 ## Features
 - A wide array of DSA problems with detailed implementations.
 - Clear explanations and structured code snippets.
+- Easy-to-follow installation and usage instructions.
 - Contribution guidelines for easy navigation.
 
 ## Summary of the Changes
@@ -18,29 +19,26 @@ In the latest commit, the `README.md` file has been updated to improve clarity a
 - Enhanced clarity in the overview and features sections.
 - Improved formatting of code snippets for better readability.
 - Modified installation and usage instructions for clarity.
-- Enhanced clarity in code snippets.
-- Updated installation instructions for better readability.
-- Added contribution guidelines for easy navigation.
 
-### Code Snippet Changes
 Here's an example of how the code snippets were modified for clarity:
 
 **Before:**
-```diff
-------- Here's a sample Python code for a DSA problem:
--------- ```python
-----------def example_function():
-----------    # Your code here
-----------    pass
---------+-    example_function()
----------```
+```python
+def example_function():
+    # Your code here
+    pass
+example_function()
 ```
 
 **After:**
+```diff
+------- Here's a sample Python code for a DSA problem:
+-------- 
 ```python
 def example_function():
     # Your logic here
     pass
+```
 ```
 
 ## Installation
@@ -55,13 +53,11 @@ To use the repository, navigate to the specific problem directory and run the as
 
 ## Example
 Here's a simple example of how to define a function for a DSA problem:
-
-### Example usage of a DSA problem
 ```python
 def example_function():
     # Your logic here
     pass
 ```
 
-Feel free to explore, contribute, and enhance your coding skills! 🌟
+Feel free to explore, contribute, and enhance your problem-solving skills with this repository! 🚀
 ```
