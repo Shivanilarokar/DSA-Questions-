@@ -1,5 +1,5 @@
 ```markdown
-# DSA Questions 📚
+# DSA Questions 📖
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/Shivanilarokar/DSA-Questions-) ![GitHub stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-)
 
@@ -9,9 +9,9 @@ Welcome to the **DSA Questions** repository! This repository contains various qu
 This repository is designed to help learners and developers improve their data structures and algorithms (DSA) skills through a collection of questions and solutions.
 
 ## Features
-- A variety of DSA questions categorized by difficulty.
-- Detailed solutions for each question. ✨
-- Community-driven contributions welcome! 🤝
+- A wide range of DSA questions.
+- Detailed solutions and explanations.
+- Code examples in Python.
 
 ## Summary of the Changes
 In the latest update, the following changes were made to the `README.md` file:
@@ -19,21 +19,17 @@ In the latest update, the following changes were made to the `README.md` file:
 - Added an overview section to better explain the purpose of the repository.
 - Improved the overall structure and clarity of the README content.
 - Enhanced the example section to include a practical implementation of a Fibonacci function.
-- Revised the installation instructions for clarity.
-- Updated the usage section for better understanding.
 
 ## Installation
-To get started, clone the repository using the following command:
-
+To clone this repository, run the following command in your terminal:
 ```bash
-git clone https://github.com/Shivanilarokar/DSA-Questions-.git
-cd DSA-Questions-
+git clone https://github.com/Shivanilarokar/DSA-Questions-
 ```
 
 ## Usage
-Explore the various DSA questions and their solutions. You can run the provided Python examples to deepen your understanding of the concepts.
+Navigate to the directory containing the cloned repository and run your desired Python scripts to explore the various DSA questions and solutions.
 
-### Example: Fibonacci Function
+## Example
 Here’s an example of how to use one of the solutions provided in this repository:
 
 ```python
@@ -49,5 +45,5 @@ def fibonacci(n):
 print(fibonacci(10))  # Output: 55
 ```
 
-Feel free to explore, contribute, and enhance your DSA skills!
+Feel free to explore, contribute, and enhance your DSA skills! 🚀
 ```
