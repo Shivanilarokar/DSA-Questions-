@@ -47,10 +47,12 @@ cd DSA-Questions-
 Explore the various DSA questions and their solutions. Here’s an example of a Fibonacci function:
 
 ```python
-# Example of a Fibonacci function
 def fibonacci(n):
     if n <= 1:
         return n
+    return fibonacci(n-1) + fibonacci(n-2)
+
+print(fibonacci(5))  # Output: 5
 ```
 
 Feel free to explore the repository and contribute to the growing collection of data structures and algorithms!
@@ -58,4 +60,6 @@ Feel free to explore the repository and contribute to the growing collection of 
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a pull request or open an issue if you have suggestions for improvements or additional questions.
+
+Happy coding! 💻
 ```
