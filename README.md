@@ -12,9 +12,9 @@ The DSA Questions repository offers a variety of problems that help you sharpen 
 ## Features
 
 - 📚 A collection of diverse DSA problems.
-- 📄 Each problem includes a statement and corresponding solutions.
+- 📝 Each problem includes a statement and corresponding solutions.
 - 🚀 Step-by-step guidance to improve your coding proficiency.
-- 🤝 Community contributions are welcome!
+- 🙌 Community contributions are welcome!
 
 ## Summary of Changes
 
@@ -24,13 +24,11 @@ In the latest update, the `README.md` file has undergone some enhancements to im
 ```diff
 - Each problem includes a statement and corresponding solutions.
 + Each problem includes a statement and corresponding solutions.
-- Step-by-step guidance to improve your coding proficiency.
-+ Step-by-step guidance to improve your coding proficiency.
+- Added a welcoming emoji to the repository title.
++ Improved readability of the overview and features sections.
++ Enhanced community engagement by encouraging contributions.
++ Added social badges for GitHub stars and forks.
 ```
-
-- Improved readability of the overview and features sections.
-- Enhanced community engagement by encouraging contributions.
-- Added social badges for GitHub stars and forks.
 
 ## Installation
 
@@ -44,13 +42,11 @@ git clone https://github.com/Shivanilarokar/DSA-Questions-
 
 Navigate to the cloned repository and explore the various DSA problems available.
 
+### Example
+
 ```bash
 cd DSA-Questions-
 ```
-
-Feel free to dive in, explore the problems, and contribute your solutions! Happy coding! 🎉
-
-## Example
 
 Here’s a simple example of how a problem function might look:
 
@@ -59,6 +55,8 @@ def example_problem():
     # Your code here
     pass
 ```
+
+Feel free to dive in, explore the problems, and contribute your solutions! Happy coding! 🎉
 
 ---
 
