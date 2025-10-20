@@ -1,9 +1,9 @@
 ```markdown
 # DSA Questions 🚀
 
-Welcome to the DSA Questions repository! This project serves as a platform for developers and learners to practice and enhance their skills in Data Structures and Algorithms (DSA). This repository is designed to help you improve your understanding of various data structures and algorithms through a collection of questions and solutions.
-
 ![GitHub stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-?style=social) ![Forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-?style=social)
+
+Welcome to the DSA Questions repository! This project serves as a platform for developers and learners to practice and enhance their skills in Data Structures and Algorithms (DSA). This repository is designed to help you improve your understanding of various data structures and algorithms through a collection of questions and solutions.
 
 ## Features
 - Comprehensive collection of DSA questions
@@ -12,8 +12,8 @@ Welcome to the DSA Questions repository! This project serves as a platform for d
 
 ## Summary of the Changes
 In this latest update, the `README.md` file has been modified to enhance clarity and provide a better user experience. Key changes include:
-- Addition of a "Features" section to highlight the repository's capabilities.
-- Improved clarity in the "Usage" section.
+- Addition of a **Features** section to highlight the repository's capabilities.
+- Improved clarity in the **Usage** section.
 - Updated example code for better accuracy and readability.
 
 ## Installation
@@ -31,7 +31,7 @@ Here is a simple example of a Fibonacci function implementation:
 
 ```python
 def fibonacci(n):
-    if n <= 0:
+    if n == 0:
         return 0
     elif n == 1:
         return 1
@@ -41,7 +41,5 @@ def fibonacci(n):
 print(fibonacci(10))  # Output: 55
 ```
 
-Feel free to contribute by submitting your own questions and solutions to help grow this repository!
-
-We encourage you to explore, contribute, and enhance your skills in Data Structures and Algorithms! Happy coding! 😃
+Feel free to contribute to this repository and help build a comprehensive resource for DSA learners!
 ```
