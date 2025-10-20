@@ -1,19 +1,24 @@
 ```markdown
-# DSA Questions Repository 🚀
+# DSA Questions Repository
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![License](https://img.shields.io/badge/license-MIT-blue)
+
+## Overview
 
 The DSA Questions repository is a collection of data structures and algorithms questions aimed at helping developers and students enhance their coding skills. 
 
 ## Features
+
 - Comprehensive collection of DSA questions.
 - Solutions and explanations for various algorithms and data structures.
 - Easy navigation and contribution guidelines.
 
 ## Summary of Changes
+
 In the latest update, the README.md file has been modified to improve clarity and conciseness. The installation and usage instructions have been streamlined to provide a better onboarding experience for new users.
 
 ### Key Changes:
+
 - Simplified the installation instructions.
 - Enhanced the usage section to provide clearer guidance.
 
