@@ -1,7 +1,9 @@
 ```markdown
-# DSA Questions Repository
+# DSA Questions Repository 📚
 
-![GitHub repo size](https://img.shields.io/github/repo-size/Shivanilarokar/DSA-Questions-) ![GitHub contributors](https://img.shields.io/github/contributors/Shivanilarokar/DSA-Questions-) ![GitHub stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-?style=social)
+![GitHub repo size](https://img.shields.io/github/repo-size/Shivanilarokar/DSA-Questions-) 
+![GitHub contributors](https://img.shields.io/github/contributors/Shivanilarokar/DSA-Questions-) 
+![GitHub stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-?style=social)
 
 ## Overview
 Welcome to the DSA Questions repository! This repository contains a collection of data structures and algorithms (DSA) designed to help you master coding interviews and improve your problem-solving skills.
@@ -10,8 +12,9 @@ Welcome to the DSA Questions repository! This repository contains a collection o
 - Comprehensive collection of data structures and algorithms.
 - Clear explanations and code examples for each algorithm.
 - Easy navigation for quick reference and learning.
+- Open for contributions to enhance the repository further.
 
-## Summary of the Changes
+## Summary of the Changes 📝
 In the recent update, the `README.md` file has been modified to enhance clarity and user engagement.
 
 ### Key Changes:
@@ -50,5 +53,3 @@ def example_algorithm(input):
 
 Feel free to explore and contribute to this repository. Happy coding! 🚀
 ```
-
-This README.md file provides a clear and structured overview of the DSA Questions repository, summarizes recent changes, and maintains a professional tone while being visually appealing.
