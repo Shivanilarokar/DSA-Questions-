@@ -4,8 +4,10 @@
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg) 
 ![Issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-.svg)
 
+Welcome to the **DSA Questions** repository! This repository contains a variety of DSA problems categorized by difficulty level, aimed at helping developers enhance their data structures and algorithms skills.
+
 ## Overview
-Welcome to the DSA Questions repository! This repository contains a variety of DSA problems categorized by difficulty level, aimed at helping developers enhance their data structures and algorithms skills.
+This repository serves as a comprehensive resource for anyone looking to improve their understanding of data structures and algorithms. It includes a variety of DSA problems, complete with explanations and sample solutions.
 
 ## Features
 - A wide range of DSA problems
@@ -36,9 +38,12 @@ Here’s a snippet of a sample solution:
 
 ```python
 def example_solution(problem_input):
-    # Sample implementation
-    return problem_input
+    # Your solution logic here
+    pass
 ```
 
 Feel free to contribute by adding new problems or improving existing solutions!
+
+---
+For more information, check the [Contributing Guidelines](CONTRIBUTING.md) and [License](LICENSE).
 ```
