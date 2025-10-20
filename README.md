@@ -9,9 +9,8 @@ Welcome to the **DSA Questions** repository! This repository contains a collecti
 This repository is intended for students, educators, and anyone interested in enhancing their programming skills through practical problem-solving. Each problem includes a statement and corresponding solutions, along with step-by-step guidance to improve your coding proficiency.
 
 ## Features
-- Improved readability of the overview and features sections.
-- Each problem includes a statement and corresponding solutions.
-- Step-by-step guidance to improve your coding proficiency.
+- Comprehensive collection of DSA questions.
+- Solutions provided for each problem.
 - Enhanced community engagement by encouraging contributions.
 - Added social badges for GitHub stars and forks.
 
@@ -27,11 +26,10 @@ To get started with the DSA Questions repository, clone the repository using the
 
 ```bash
 git clone https://github.com/Shivanilarokar/DSA-Questions-
-cd DSA-Questions-
 ```
 
 ## Usage
-You can explore the various DSA questions and solutions available in this repository. Each question is structured to facilitate your learning process.
+You can explore the various DSA questions and solutions available in this repository. 
 
 ## Example
 Here’s a snippet of how you might structure a question and its solution:
