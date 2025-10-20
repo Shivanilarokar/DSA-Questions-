@@ -1,19 +1,17 @@
 ```markdown
 # DSA Questions 🤖
 
-![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-)
-
-Welcome to the **DSA Questions** repository! This repository is designed to help developers enhance their problem-solving skills through a structured set of Data Structures and Algorithms (DSA) problems.
+Welcome to the **DSA Questions** repository! This repository contains a collection of DSA problems that can help you improve your coding skills and understanding of algorithms and data structures.
 
 ## Overview
-This repository contains a collection of DSA problems that can help you improve your coding skills and understanding of algorithms and data structures.
+This repository provides developers with a structured set of DSA problems to enhance their problem-solving skills.
 
 ## Features
 - A wide variety of DSA problems to solve
 - Detailed instructions and examples for each problem
 - Community contributions are welcome!
 
-## Summary of the Changes
+## Summary of the Changes 📜
 In the latest update, the `README.md` file has been auto-updated with the following improvements:
 - Enhanced description of the repository's purpose.
 - Improved clarity and structure in the features list.
@@ -39,7 +37,7 @@ Here’s a simple example function you might find in the codebase:
 
 ```python
 def example_function(data):
-    processed_data = process(data)
+    # Process data
     return processed_data
 ```
 
