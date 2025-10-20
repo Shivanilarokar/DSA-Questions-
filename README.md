@@ -1,9 +1,9 @@
 ```markdown
 # DSA Questions 🚀
 
-Welcome to the **DSA Questions** repository! This project serves as a platform for developers and learners to practice and enhance their skills in Data Structures and Algorithms (DSA). This repository is designed to help you improve your understanding of various data structures and algorithms through a collection of questions and solutions.
-
 ![GitHub stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-?style=social) ![Forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-?style=social)
+
+Welcome to the **DSA Questions** repository! This project serves as a platform for developers and learners to practice and enhance their skills in Data Structures and Algorithms (DSA). This repository is designed to help you improve your understanding of various data structures and algorithms through a collection of questions and solutions.
 
 ## Features
 - 📚 Comprehensive collection of DSA questions
@@ -16,32 +16,24 @@ In the latest commit, the `README.md` file has been auto-updated to enhance clar
 - Improved wording for clarity in the **Installation** and **Usage** sections.
 - Updated the **Example** section to provide a more straightforward illustration of how to use the solutions.
 
-```markdown
 ## Installation
 To get started with the DSA Questions repository, clone the repository and install the necessary dependencies.
 
 ```bash
 git clone https://github.com/Shivanilarokar/DSA-Questions-
 cd DSA-Questions-
-# Install dependencies (if any)
 ```
 
 ## Usage
-Explore the questions, attempt to solve them, and check the provided solutions for guidance.
-
-## Example
-Here's a simple example of how to use the solutions provided in this repository:
+You can navigate through various DSA questions and their solutions provided in this repository. The structure is designed to facilitate easy access to the questions and their corresponding solutions.
 
 ```python
-# Example problem solution
 def example_solution():
-    # Your code here
-    pass
+    # Example code illustrating how to use the solutions
+    print("This is an example solution.")
 ```
 
 Feel free to contribute to this repository by submitting your own questions and solutions!
-
----
 
 For more information, check out the repository or open an issue if you have any questions. Happy coding! 💻
 ```
