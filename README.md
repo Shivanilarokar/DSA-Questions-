@@ -11,26 +11,23 @@ This repository contains a variety of Data Structures and Algorithms (DSA) probl
 - Code snippets in multiple programming languages.
 - Contribution guidelines for community involvement.
 
-## Summary of Changes 📱
-In the latest commit, the README file was updated to enhance clarity and improve the overall presentation. Key changes include:
-- Renamed section headers for better clarity.
-- Enhanced installation and usage instructions.
-- Added a new example section to demonstrate how to implement a specific DSA problem.
+## Summary of the Changes 🔄
+In the latest update, the README.md file has been enhanced to provide clearer information and better organization. Key modifications include:
+- Added a license badge for better visibility of licensing information.
+- Updated the description of features to emphasize varying difficulty levels.
+- Changed the example section title from 📖 to 📖📖 for improved clarity.
+- Adjusted the section title for License from 📄 to 📜 for better representation.
 
-### Code Snippet from Changes
-```markdown
 ## Installation ⚙️
 To install the necessary packages, run:
-
 ```bash
 pip install -r requirements.txt
-```
 ```
 
 ## Usage 💻
 To use the DSA problems, simply navigate to the relevant folder and execute the code files. Make sure to have the required dependencies installed as mentioned in the Installation section.
 
-### Example 📖
+### Example 📖📖
 Here is an example demonstrating how to solve a DSA problem:
 ```python
 def example_function():
@@ -45,6 +42,5 @@ We welcome contributions from the community! If you would like to contribute, pl
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
-
-Feel free to explore the repository and enhance your coding skills with our DSA problems! 🎉
 ```
+This README.md file now provides a comprehensive overview of the repository, highlights the latest changes made, and maintains a professional and aesthetic format that encourages community engagement.
