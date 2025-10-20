@@ -1,10 +1,10 @@
 ```markdown
 # DSA Questions Repository 📚
 
-![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-) 
+![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
 
 ## Overview
-Welcome to the DSA Questions repository! This repository is a collection of Data Structures and Algorithms (DSA) questions designed to help you practice and enhance your coding skills. 
+Welcome to the DSA Questions repository! This repository is a collection of Data Structures and Algorithms (DSA) questions designed to help you practice and enhance your coding skills.
 
 ## Features
 - A variety of DSA questions categorized by different topics.
@@ -26,22 +26,27 @@ git clone https://github.com/Shivanilarokar/DSA-Questions-
 ```
 
 ## Usage
-Once cloned, navigate into the repository folder and start exploring the DSA questions categorized by different topics.
+Once cloned, navigate to the repository directory and start practicing with the DSA questions. 
 
 ```bash
 cd DSA-Questions-
 ```
 
 ## Example
-Here’s a quick example of how to use the questions provided in this repository:
+Here's a simple example of how to use the repository:
 
 ```python
-# Sample code snippet for a DSA question
-def example_function():
-    return "This is an example function."
+# Example of a DSA problem
+def fibonacci(n):
+    if n <= 0:
+        return 0
+    elif n == 1:
+        return 1
+    else:
+        return fibonacci(n-1) + fibonacci(n-2)
+
+print(fibonacci(10))  # Output: 55
 ```
 
-Feel free to contribute and enhance the repository by submitting your own DSA questions or improving existing ones!
-
-Happy coding! 🚀
+Feel free to contribute by adding your own DSA questions or enhancing the existing ones. Happy coding! 🚀
 ```
