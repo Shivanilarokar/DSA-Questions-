@@ -1,10 +1,9 @@
 ```markdown
 # DSA Questions 🤖
 
-![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
-![Python version](https://img.shields.io/badge/python-3.6%2B-blue.svg)
+![GitHub last commit](https://img.shields.io/github/last-commit/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-) ![GitHub stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-?style=social) ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg) ![Python version](https://img.shields.io/badge/python-3.6%2B-blue.svg)
 
-This repository contains a collection of Data Structures and Algorithms (DSA) questions along with their solutions.
+Welcome to the **DSA Questions** repository! This repository contains a collection of Data Structures and Algorithms (DSA) questions along with their solutions.
 
 ## Overview
 The DSA Questions repository aims to provide a comprehensive set of DSA problems that help users sharpen their problem-solving skills. Each question is accompanied by a detailed solution to facilitate understanding and learning.
@@ -17,12 +16,11 @@ The DSA Questions repository aims to provide a comprehensive set of DSA problems
 ## Summary of the Changes 📝
 In the latest update, the README.md file has been enhanced to improve clarity and usability. Key changes include:
 - Addition of a new **Features** section for improved organization.
-- Updated the **Installation** section to facilitate easier setup.
 - Improved code snippet for a simple DSA question solution using the Fibonacci sequence for better clarity and performance.
+- Updated the **Installation** section to facilitate easier setup.
 
 ### Example Code Snippet
 Here's an improved example of a Fibonacci function:
-
 ```python
 def fibonacci(n):
     if n <= 1:
@@ -37,14 +35,14 @@ print(fibonacci(10))  # Output: 55
 ## Installation 🚀
 To set up the project locally, follow these steps:
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/Shivanilarokar/DSA-Questions-
-   cd DSA-Questions-
-   ```
+    ```bash
+    git clone https://github.com/Shivanilarokar/DSA-Questions-
+    cd DSA-Questions-
+    ```
 2. Install the required dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
+    ```bash
+    pip install -r requirements.txt
+    ```
 
 ## Usage 📝
 Once the installation is complete, you can explore the various DSA questions and their solutions provided in the repository. Feel free to contribute by adding more questions or improving existing solutions!
