@@ -1,7 +1,12 @@
 ```markdown
 # DSA Questions 🚀
 
+![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![License](https://img.shields.io/badge/license-MIT-blue.svg)
+
 Welcome to the **DSA Questions** repository! This repository provides a comprehensive collection of data structures and algorithms problems designed to help developers and students alike to practice and master their skills.
+
+## Overview
+The DSA Questions repository is designed to help developers and students alike to practice and master data structures and algorithms. It includes a variety of problems, categorized by difficulty, with solutions available in multiple programming languages.
 
 ## Features 🌟
 - **Diverse Problem Set**: A wide range of DSA questions to choose from.
@@ -11,11 +16,13 @@ Welcome to the **DSA Questions** repository! This repository provides a comprehe
 
 ## Summary of the Changes 🔄
 In the latest update, the `README.md` file has been auto-updated to enhance clarity and structure. Notable changes include:
-- Simplification of feature descriptions for better readability.
-- Updated installation and usage instructions to improve user guidance.
-- Revision of example code snippets for clarity.
+- **Enhanced Title**: Added a rocket emoji to the repository title for a more engaging appearance.
+- **Improved Content**: Enhanced the description for better clarity and added a new feature highlighting the user-friendly documentation.
+- **Simplification of Feature Descriptions**: Improved readability by streamlining explanations.
+- **Updated Installation and Usage Instructions**: Enhanced user guidance for better understanding.
+- **Revision of Example Code Snippets**: Simplified snippets for clarity.
 
-## Installation 🛠️
+## Installation 🔧
 To get started with the DSA Questions repository, clone the repository using the following command:
 
 ```bash
@@ -34,11 +41,11 @@ def example_function():
     pass
 ```
 
-Feel free to contribute by adding new questions or improving existing solutions! 
+Feel free to contribute by adding new questions or improving existing solutions!
+
+Thank you for checking out the DSA Questions repository! Happy coding! 🎉
 
 ---
 
-Thank you for checking out the DSA Questions repository! Happy coding! 🎉
-```
-
 This README.md file is structured to provide a clear overview of the repository, highlight recent changes, and guide users on how to install and use the project effectively. The use of emojis and formatting enhances the visual appeal while maintaining professionalism.
+```
