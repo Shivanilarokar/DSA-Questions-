@@ -1,10 +1,6 @@
 ```markdown
-# DSA Questions Repository 📖✏️
+# 📚 DSA Questions 📖✏️
 
-![GitHub Repo size](https://img.shields.io/github/repo-size/Shivanilarokar/DSA-Questions-?style=flat-square) 
-![Contributors](https://img.shields.io/github/contributors/Shivanilarokar/DSA-Questions-?style=flat-square)
-
-## Overview
 Welcome to the DSA Questions repository! This repository contains various Data Structures and Algorithms (DSA) problems and their implementations in Python. Whether you are a beginner or an experienced developer, you can find useful resources to enhance your coding skills.
 
 ## Features
@@ -30,14 +26,18 @@ You can explore the various DSA problems and their implementations. Here's an ex
 ```python
 def binary_search(arr, target):
     left, right = 0, len(arr) - 1
-
     while left <= right:
         mid = left + (right - left) // 2
-        
         # Check if target is present at mid
         if arr[mid] == target:
             return mid
-    
+        # If target is greater, ignore left half
+        elif arr[mid] < target:
+            left = mid + 1
+        # If target is smaller, ignore right half
+        else:
+            right = mid - 1
+            
     return -1
 ```
 
