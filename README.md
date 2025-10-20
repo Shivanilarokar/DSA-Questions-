@@ -14,7 +14,7 @@ The **DSA Questions** repository is designed to help learners practice and maste
 - Examples and code snippets for practical understanding.
 - Contributions are welcome!
 
-## Summary of the Changes 💡
+## Summary of the Changes ⚡
 
 In the latest commit, the following changes were made to the README.md file:
 
@@ -24,9 +24,11 @@ In the latest commit, the following changes were made to the README.md file:
 ### Key Snippets of the Changes
 
 ```diff
-+# DSA Questions 🤖
-+ This repository serves as a learning platform to enhance your algorithmic skills and improve your understanding of Data Structures and Algorithms (DSA).
-+Enhanced the project description for better engagement and clarity.
+--# DSA Questions 🤖
+++# DSA Questions 🤖
+ + This repository serves as a learning platform to enhance your algorithmic skills and improve your understanding of Data Structures and Algorithms (DSA).
+--+Enhanced the project description for better engagement and clarity.
+++Enhanced project description for better engagement and clarity.
 ```
 
 ## Installation 💻
@@ -36,7 +38,6 @@ To set up the project locally, clone the repository and install the necessary de
 ```bash
 git clone https://github.com/Shivanilarokar/DSA-Questions-
 cd DSA-Questions-
-# Add installation commands here if applicable
 ```
 
 ## Usage 📖
@@ -49,12 +50,10 @@ Here’s a simple example to illustrate how to use the repository:
 
 ```python
 def example_function():
-    print("This is an example function from the DSA Questions repository.")
+    print("Hello, DSA World!")
 ```
 
 Feel free to explore the various DSA problems and contribute to the repository!
-
----
 
 For more details, visit the [GitHub Repository](https://github.com/Shivanilarokar/DSA-Questions-).
 ```
