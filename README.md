@@ -1,5 +1,5 @@
 ```markdown
-# DSA Questions Repository 🚀
+# DSA Questions Repository
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
 
@@ -11,15 +11,14 @@ This repository aims to provide a variety of DSA problems along with interactive
 ## Features
 - 📚 A comprehensive collection of DSA problems.
 - ⚙️ Interactive solutions to facilitate learning.
-- 🌐 User-friendly examples illustrating problem-solving techniques.
-- 📑 Well-structured documentation for easy navigation.
+- 📖 User-friendly examples illustrating problem-solving techniques.
+- 📝 Well-structured documentation for easy navigation.
 
 ## Summary of the Changes 📝
 In the latest update to the `README.md`, the following changes were made:
-- Updated the repository title for clarity.
-- Enhanced the feature list with emojis for better visual engagement.
-- Improved wording for clarity and engagement.
+- Added an "Overview" section to clarify the repository's purpose.
 - Included a note on user-friendly examples to illustrate problem-solving techniques.
+- Refined the installation and usage instructions for clarity.
 
 ## Installation
 To get started, clone the repository using the following command:
