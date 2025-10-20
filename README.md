@@ -1,9 +1,9 @@
 ```markdown
 # DSA Questions Repository 🤖🎉
 
-Welcome to the DSA Questions repository! This repository contains a collection of data structure and algorithm questions designed to help you improve your coding skills and prepare for coding interviews.
-
 ![Stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-?style=social) ![Forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-?style=social) ![Issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
+
+Welcome to the DSA Questions repository! This repository contains a collection of data structure and algorithm questions designed to help you improve your coding skills and prepare for coding interviews.
 
 ## Overview
 
@@ -11,9 +11,9 @@ This repository is designed to provide a comprehensive set of questions and solu
 
 ## Features
 
-- Collection of DSA questions
-- Code solutions for each question
-- Easy navigation and contribution guidelines
+- 📚 Collection of DSA questions
+- 💻 Code solutions for each question
+- 📝 Easy navigation and contribution guidelines
 
 ## Summary of the Changes
 
@@ -29,14 +29,12 @@ In the latest update, the `README.md` file underwent significant modifications t
 Here are some of the key updates made in the README:
 
 ```diff
--# DSA Questions Repository
-+# DSA Questions Repository 🤖
- 
--Welcome to the DSA Questions repository! This repository contains a collection of data structure and algorithm questions to help you master coding interviews and improve your problem-solving skills.
-+Welcome to the DSA Questions repository! This repository contains a collection of data structure and algorithm questions designed to help you improve your coding skills.
-```
+-# DSA Questions Repository 🎉
++# DSA Questions Repository 🤖🎉
 
-```diff
+- Welcome to the DSA Questions repository! This project contains a collection of Data Structure and Algorithm questions designed to help you improve your coding skills.
++ Welcome to the DSA Questions repository! This repository contains a collection of data structure and algorithm questions designed to help you improve your coding skills.
+
 -To get started with this repository, simply clone it using:
 +To get started, clone the repository using the following command:
 ```
