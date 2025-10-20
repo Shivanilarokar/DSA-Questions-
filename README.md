@@ -9,18 +9,18 @@ The DSA Questions repository is a collection of data structures and algorithms q
 
 ## Features
 
-- Comprehensive collection of DSA questions.
-- Solutions and explanations for various algorithms and data structures.
-- Easy navigation and contribution guidelines.
+- Comprehensive collection of DSA questions
+- Solutions provided for better understanding
+- Easy navigation through directories
 
-## Summary of Changes
+## Summary of the Changes
 
-In the latest update, the README.md file has been modified to improve clarity and conciseness. The installation and usage instructions have been streamlined to provide a better onboarding experience for new users.
+In the latest update, the README.md file has been modified to improve clarity and enhance user experience. Key changes include:
 
-### Key Changes:
-
-- Simplified the installation instructions.
-- Enhanced the usage section to provide clearer guidance.
+- Enhanced README title with an emoji for a more appealing look.
+- Improved installation instructions, emphasizing the use of `requirements.txt`.
+- Clarified usage instructions with explicit commands for cloning the repository.
+- Updated example code comments for better clarity.
 
 ## Installation
 
@@ -51,5 +51,5 @@ def example_function():
     pass
 ```
 
-Feel free to explore the repository and contribute to improving the collection of DSA questions!
+Feel free to explore the repository and contribute to improving the collection of DSA questions! Happy coding! 💻
 ```
