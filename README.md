@@ -14,13 +14,13 @@ This repository provides a comprehensive collection of Data Structures and Algor
 
 ## Summary of the Changes 📝
 In the latest commit, the following updates were made to the `README.md` file:
-- Changed the title emoji from 📚 to 📖 to better reflect the content.
+- Changed the title emoji from 📚 to 📖 for better relevance.
+- Added badges for GitHub stars and forks to enhance visual appeal and engagement.
+- Enhanced the description under Features for clarity and user-friendliness.
 - Added an **Overview** section to provide a brief description of the repository's purpose.
-- Enhanced the feature list with emojis for better visual engagement.
 - Improved wording for clarity and engagement.
 - Included a note on user-friendly examples to illustrate problem-solving techniques.
 - Updated the documentation to enhance clarity and structure.
-- Added badges for GitHub stars and forks to enhance visibility and engagement.
 - Encouraged users to navigate through the repository for various DSA questions.
 
 ## Installation 💻
@@ -38,9 +38,7 @@ Here is a sample code snippet demonstrating how to implement a basic algorithm:
 def example_algorithm(data):
     # Example implementation
     return sorted(data)
-
-print(example_algorithm([5, 2, 9, 1]))
 ```
 
-Feel free to explore, contribute, and make the most out of this repository! Happy coding! 💻
+Feel free to explore, contribute, and enhance your DSA skills! 🚀
 ```
