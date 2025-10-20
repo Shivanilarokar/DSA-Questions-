@@ -12,6 +12,7 @@ This repository is designed to help you enhance your coding abilities by providi
 ## Features ✨
 - A wide range of DSA problems with varying levels of difficulty.
 - Clear explanations, example inputs, and expected outputs for each problem.
+- Engaging and organized structure for easy navigation.
 - Community contributions are welcome! 🤝
 
 ## Summary of the Changes 📝
@@ -24,9 +25,11 @@ In this latest update, the README.md file has been enhanced for better readabili
 
 ## Installation ⚙️
 To clone the repository, use the following command:
+
 ```bash
 git clone https://github.com/Shivanilarokar/DSA-Questions-.git
 ```
+
 After cloning the repository, navigate to the directory and follow the instructions provided in the individual problem folders.
 
 ## Usage 📖
