@@ -1,5 +1,5 @@
 ```markdown
-# DSA Questions 🚀
+# DSA Questions 🌌
 
 ![Last Commit](https://img.shields.io/github/last-commit/Shivanilarokar/DSA-Questions-) ![License](https://img.shields.io/badge/license-MIT-blue)
 
@@ -10,12 +10,14 @@ This repository is designed to help you improve your understanding of various da
 
 ## Features
 - Extensive collection of DSA questions 📚
-- Clear and structured solutions for each question
-- Community-driven contributions
+- Clear and structured solutions for each question 💡
+- Community-driven contributions 🤝
+- Encourages learning through practical coding examples 💻
+- User-friendly setup for easy contribution and exploration 🌱
 
 ## Summary of the Changes
 In the latest update, the `README.md` file has been enhanced with the following changes:
-- Changed the repository title emoji from 🚀 to 🌟 for a more dynamic representation.
+- Changed the repository title emoji from 🚀 to 🌌 for a more dynamic representation.
 - Added a **Usage** section to guide users on how to explore and interact with the DSA questions and solutions.
 - Included a **Contribution** section to encourage community involvement and provide guidelines for contributing to the repository.
 
@@ -28,22 +30,12 @@ cd DSA-Questions-
 ```
 
 ## Usage
-After cloning the repository, navigate to the project directory and explore the various DSA questions and their solutions. Feel free to run the code snippets in your local environment to test and modify them as needed.
+You can explore the various DSA questions and their solutions. Feel free to run the code snippets in your local environment to test and modify them as needed.
 
-## Example
-Here's a brief example of how to implement a simple DSA question:
+## Contribution
+We welcome contributions! Please read our contribution guidelines before submitting pull requests.
 
-```python
-def fibonacci(n):
-    if n <= 0:
-        return 0
-    elif n == 1:
-        return 1
-    else:
-        return fibonacci(n-1) + fibonacci(n-2)
+---
 
-print(fibonacci(10))  # Output: 55
-```
-
-We hope you find this repository helpful for your DSA learning journey! Happy coding! 🎉
+Thank you for checking out the DSA Questions repository! Happy coding! 🚀
 ```
