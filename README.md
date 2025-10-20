@@ -1,9 +1,9 @@
 ```markdown
 # DSA Questions 🚀
 
-![GitHub stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-?style=social) ![Forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-?style=social)
-
 Welcome to the **DSA Questions** repository! This project serves as a platform for developers and learners to practice and enhance their skills in Data Structures and Algorithms (DSA). This repository is designed to help you improve your understanding of various data structures and algorithms through a collection of questions and solutions.
+
+![GitHub stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-?style=social) ![Forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-?style=social)
 
 ## Features
 - 📚 **Comprehensive collection of DSA questions**
@@ -12,8 +12,9 @@ Welcome to the **DSA Questions** repository! This project serves as a platform f
 
 ## Summary of the Changes
 In the latest update, the README.md file has been modified to improve clarity and engagement. Key changes include:
-- Added a new section highlighting interactive examples.
-- Enhanced the structure of the README for better readability.
+- Added a new section highlighting **interactive examples**.
+- Enhanced the overall structure of the README for better readability.
+- Simplified the usage instructions and example code for a more user-friendly experience.
 
 ## Installation
 To get started with this repository, clone it to your local machine using the following command:
