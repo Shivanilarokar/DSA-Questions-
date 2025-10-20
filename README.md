@@ -11,37 +11,35 @@ This repository aims to provide a comprehensive collection of DSA questions with
 ## Features
 - Comprehensive collection of DSA problems
 - Clear and structured solutions
-- Open for contributions from developers and learners alike
+- Examples for better understanding
 
 ## Summary of the Changes
-In the latest update, the README.md file has been enhanced with:
-- Added badges for GitHub Issues, Forks, and Stars to improve visibility and engagement.
-- Introduced an **Overview** section for better understanding of the repository's purpose.
-- Expanded the **Example** section to provide a clearer demonstration of the Fibonacci function implementation.
+In this update, the README.md file has been enhanced to improve visibility and structure. Key changes include:
+- Added badges for GitHub issues, forks, and stars for better project visibility.
+- Introduced a new "Overview" section to provide a quick understanding of the repository's purpose.
+- Streamlined the "Usage" section by removing repetitive information and focusing on examples.
 
-## Installation 🔧
+## Installation
 To get started with this repository, clone it to your local machine using the following command:
 
 ```bash
 git clone https://github.com/Shivanilarokar/DSA-Questions-
 ```
 
+## Usage 📈
 You can explore various DSA questions and their solutions within this repository.
 
 ### Example of Fibonacci Function Implementation
 ```python
 def fibonacci(n):
-    if n <= 1:
-        return n
+    """This function calculates the Fibonacci number for a given `n`, demonstrating recursion."""
+    if n <= 0:
+        return 0
+    elif n == 1:
+        return 1
     else:
-        return fibonacci(n-1) + fibonacci(n-2)
+        return fibonacci(n - 1) + fibonacci(n - 2)
 ```
-This function calculates the Fibonacci number for a given `n`, demonstrating recursion and base case handling.
 
 Feel free to explore the repository, contribute, and improve your coding skills! Happy coding! 😎
-
----
-[![Issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)](https://github.com/Shivanilarokar/DSA-Questions-/issues) 
-[![Forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-)](https://github.com/Shivanilarokar/DSA-Questions-/network/members) 
-[![Stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-)](https://github.com/Shivanilarokar/DSA-Questions-/stargazers) 
 ```
