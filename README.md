@@ -1,5 +1,5 @@
 ```markdown
-# DSA Questions Repository 🧠
+# DSA Questions Repository 🤖
 
 ![GitHub stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
 
@@ -41,7 +41,7 @@ In the latest update, the `README.md` file has been auto-updated to include:
 ### Example of Changes
 
 ```markdown
--@@ -29,23 +41,23 @@ The **DSA Questions** repository is designed to help developers enhance their pr
+-Welcome to the **DSA Questions** repository! This repository features a comprehensive set of DSA questions 🤖, solutions, and explanations aimed at providing a structured learning path for developers. 🚀
 +Welcome to the **DSA Questions** repository! This repository features a comprehensive set of DSA questions 🤖, solutions, and explanations aimed at providing a structured learning path for developers. 🚀
 ```
 
@@ -56,15 +56,6 @@ git clone https://github.com/Shivanilarokar/DSA-Questions-.git
 Once cloned, you can navigate through the repository and start solving the DSA problems. This repository is designed for developers looking to improve their coding skills, with each question accompanied by a solution and an explanation.
 
 ## Usage
-
-Here’s a simple example function:
-
-```python
-# This is a placeholder function for demonstration
-def example_function():
-    # Your code here
-    pass
-```
 
 Feel free to explore the repository and contribute to the growing collection of DSA problems!
 
