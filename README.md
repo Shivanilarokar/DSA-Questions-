@@ -3,16 +3,13 @@
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/Shivanilarokar/DSA-Questions-) ![GitHub contributors](https://img.shields.io/github/contributors/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
 
-Welcome to the DSA Questions repository! This repository contains a collection of Data Structures and Algorithms (DSA) problems designed to enhance your coding skills through detailed implementations.
+Welcome to the **DSA Questions** repository! This repository contains a collection of Data Structures and Algorithms (DSA) problems designed to enhance your coding skills through detailed implementations.
 
 ## Overview
 The DSA Questions repository aims to help developers improve their coding skills through a comprehensive collection of Data Structures and Algorithms (DSA) problems.
 
 ## Features
 - A wide array of DSA problems with detailed implementations.
-- Clear and concise code examples for better understanding.
-- Easy-to-follow installation and usage instructions.
-- Easy navigation and contribution guidelines.
 
 ## Summary of the Changes
 In the latest commit, the `README.md` file has been updated to improve clarity and formatting. Key changes include:
@@ -20,17 +17,15 @@ In the latest commit, the `README.md` file has been updated to improve clarity a
 - Improved formatting of code snippets for better readability.
 - Updated installation instructions for better guidance.
 
+### Code Snippet Changes
 Here's an example of how the code snippets were modified for clarity:
 
 **Before:**
-```diff
------ Here's a sample Python code for a DSA problem:
------ ```python
--------def example_function():
--------    # Your code here
--------    pass
------+-    example_function()
-------```
+```python
+def example_function():
+    # Your code here
+    pass
+example_function()
 ```
 
 **After:**
@@ -51,7 +46,7 @@ cd DSA-Questions-
 ```
 
 ## Usage
-To use the repository, navigate to the specific problem directory and run the associated Python scripts. Each problem will have its own README file with specific instructions.
+To use the repository, navigate to the specific problem directory and run the associated scripts.
 
 ## Example
 Here's a simple example of how to define a function for a DSA problem:
@@ -64,4 +59,6 @@ def example_function():
 ```
 
 Feel free to explore the various DSA problems available in this repository. Each problem file contains detailed implementations to help you understand the concepts better.
+
+Thank you for checking out the DSA Questions repository! We welcome any contributions and feedback. Happy coding! 🚀
 ```
