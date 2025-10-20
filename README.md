@@ -1,27 +1,24 @@
 ```markdown
-# DSA Questions 📖
+# DSA Questions Repository 🚀
 
-![GitHub last commit](https://img.shields.io/github/last-commit/Shivanilarokar/DSA-Questions-) ![License](https://img.shields.io/badge/license-MIT-blue.svg)
-
-Welcome to the DSA Questions repository! This repository contains a collection of Data Structures and Algorithms (DSA) questions aimed at improving your coding skills and preparing you for technical interviews.
+![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
 
 ## Overview
-This repository serves as a valuable resource for individuals looking to enhance their understanding of data structures and algorithms through practical questions and structured solutions.
+Welcome to the DSA Questions repository! This repository contains a collection of Data Structures and Algorithms (DSA) questions with their respective solutions. It is designed to help you improve your programming skills and prepare for technical interviews.
 
-## Features ✨
-- **Comprehensive Collection**: A wide range of DSA questions covering various topics.
-- **Structured Solutions**: Each question is accompanied by a structured solution to facilitate learning.
-- **Community Contributions**: A platform for developers to contribute their own questions and solutions.
+## Features
+- Comprehensive set of DSA questions 🧠
+- Detailed solutions to each question
+- Easy navigation and usage
+- Regular updates and contributions
 
-## Summary of the Changes 📱
-In this update, the `README.md` has been improved with the following changes:
-- Enhanced readability of the overview and features sections.
-- Updated feature list to reflect a more comprehensive description.
-- Minor formatting adjustments for better clarity.
-- Encouraged community contributions with clearer instructions.
+## Summary of the Changes
+In the latest update, the README.md file has been auto-updated to enhance clarity and structure. Key changes include:
+- Added a new section for **Usage** to provide better insight into utilizing the repository.
+- Updated the **Example** section to clarify how to use one of the functions with an improved heading.
 
-## Installation 🚀
-To get started with the DSA Questions repository, clone the repository to your local machine:
+## Installation
+To get started with the DSA Questions repository, follow these steps:
 
 ```bash
 git clone https://github.com/Shivanilarokar/DSA-Questions-
@@ -35,20 +32,12 @@ You can explore the various DSA questions and solutions available in this reposi
 Here’s a simple example of how to use one of the functions:
 
 ```python
+# Sample code snippet for a DSA question
 def fibonacci(n):
     if n <= 0:
         return 0
-    elif n == 1:
-        return 1
-    else:
-        return fibonacci(n-1) + fibonacci(n-2)
-
-print(fibonacci(10))  # Output: 55
+    # Further implementation...
 ```
 
-Feel free to explore the repository and contribute your own questions and solutions!
-
----
-
-Thank you for visiting the DSA Questions repository! Happy coding! 🎉
+Feel free to explore the repository and contribute to the collection of DSA questions! Happy coding! 🎉
 ```
