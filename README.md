@@ -1,5 +1,5 @@
 ```markdown
-# DSA Questions Repository 🚀
+# DSA Questions Repository
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
 
@@ -12,8 +12,8 @@ The DSA Questions repository is designed to provide a comprehensive collection o
 ## Features
 
 - 📚 A wide variety of DSA problems to practice.
-- 🔧 Solutions provided in multiple programming languages.
-- 💡 Sample code snippets to help you get started.
+- 💻 Solutions provided in multiple programming languages.
+- ⚡ Sample code snippets to help you get started.
 - 🌟 Community contributions are welcome!
 
 ## Summary of the Changes
@@ -23,6 +23,7 @@ In the latest update, the README.md file has been auto-updated to enhance clarit
 - Improved introductory text for better engagement.
 - Corrected the repository clone URL to remove the trailing dash.
 - Enhanced the **Features** list for clarity with emojis for better readability.
+- Added a placeholder comment in the sample Python code to indicate where users should place their solutions.
 - Added a friendly closing remark to encourage contributions.
 
 ## Installation
@@ -32,6 +33,7 @@ To set up the repository locally, clone the repository and install the necessary
 ```bash
 git clone https://github.com/Shivanilarokar/DSA-Questions.git
 cd DSA-Questions
+# (Install dependencies if needed)
 ```
 
 ## Usage
@@ -48,4 +50,6 @@ sample_problem_solution()
 ```
 
 Feel free to explore, contribute, and enhance your DSA skills with this repository!
+
+Thank you for visiting the DSA Questions repository! Happy coding! 🚀
 ```
