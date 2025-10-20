@@ -16,7 +16,7 @@ This repository is designed for anyone looking to enhance their understanding of
 - Clear and concise explanations of concepts.
 - Easy to navigate structure for quick access to problems.
 
-## Summary of Changes 📊
+## Summary of Changes 📌
 
 In the latest update, the `README.md` file has been modified to enhance clarity and correctness. Here are the key changes made:
 
@@ -28,12 +28,13 @@ In the latest update, the `README.md` file has been modified to enhance clarity 
 
 To install the necessary dependencies, follow these steps:
 
-1. Clone the repository.
-   ```bash
-   git clone https://github.com/Shivanilarokar/DSA-Questions-.git
-   ```
-2. Navigate to the repository folder.
-3. Install any required packages or dependencies as per the instructions provided in the individual problem folders.
+```bash
+# Clone the repository
+git clone https://github.com/Shivanilarokar/DSA-Questions-
+
+# Navigate into the directory
+cd DSA-Questions-
+```
 
 ## Usage
 
@@ -49,7 +50,15 @@ DSA-Questions-/
 │   ├── description.md
 │   ├── solution.py
 │   └── solution.java
+└── Problem2/
+    ├── description.md
+    ├── solution.cpp
+    └── solution.js
 ```
+
+Each `README.md` within the problem folders contains an explanation of the problem and the provided solutions.
+
+---
 
 Feel free to explore the repository, contribute, and enhance your coding skills! 🚀
 ```
