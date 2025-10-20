@@ -5,15 +5,14 @@
 ![GitHub contributors](https://img.shields.io/github/contributors/Shivanilarokar/DSA-Questions-)
 ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
 
-## Overview
-This repository contains a collection of Data Structure and Algorithm (DSA) questions aimed at helping you prepare for technical interviews. Whether you're a beginner or an experienced developer, you'll find a variety of problems to practice and enhance your skills.
+This repository contains a collection of Data Structure and Algorithm (DSA) questions with solutions in multiple programming languages. It is designed to be easy to navigate and contribute to.
 
-## Features ✨
-- A wide range of DSA questions.
+## Features
+- Comprehensive collection of DSA questions.
 - Solutions provided in multiple programming languages.
 - Easy to navigate and contribute to.
 
-## Summary of the Changes 🔄
+## Summary of the Changes 💄
 In this update, the `README.md` has been enhanced to provide clearer instructions and examples for users. Key changes include:
 - Added an **Overview** section to better describe the repository's purpose.
 - Improved **Usage** instructions for navigating the repository.
@@ -24,13 +23,7 @@ In this update, the `README.md` has been enhanced to provide clearer instruction
 To get started with this repository, simply clone it to your local machine:
 
 ```bash
-git clone https://github.com/Shivanilarokar/DSA-Questions-.git
-```
-
-## Usage
-After cloning the repository, navigate to the directory and start exploring the DSA questions.
-
-```bash
+git clone https://github.com/Shivanilarokar/DSA-Questions-
 cd DSA-Questions-
 ls
 ```
@@ -39,6 +32,7 @@ ls
 Here's a simple example of a Fibonacci function implemented in Python:
 
 ```python
+# Example of a DSA solution in Python
 def fibonacci(n):
     if n <= 0:
         return []
@@ -55,5 +49,8 @@ def fibonacci(n):
 print(fibonacci(10))  # Output: [0, 1, 1, 2, 3, 5, 8, 13, 21, 34]
 ```
 
+## Contributing
 Feel free to explore the repository and contribute by submitting pull requests or opening issues!
+
+Happy coding! 🚀
 ```
