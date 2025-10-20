@@ -7,8 +7,8 @@
 Welcome to the DSA Questions repository! This repository is designed to help you practice and enhance your Data Structures and Algorithms (DSA) skills. It includes a variety of questions along with their solutions to aid in your learning journey.
 
 ## Features
-- A collection of DSA questions with solutions
-- Well-organized structure for easy navigation
+- Comprehensive collection of DSA questions
+- Detailed solutions and explanations
 - Community contributions are encouraged
 
 ## Summary of Changes
@@ -23,19 +23,18 @@ To get started with the DSA Questions repository, clone the repository to your l
 
 ```bash
 git clone https://github.com/Shivanilarokar/DSA-Questions-
-cd DSA-Questions-
 ```
 
 ## Usage
-Feel free to dive into the questions and solutions provided in this repository. Your contributions are always welcome! 🤝
-
-## Example
-Here’s a simple example function for demonstration:
+Feel free to dive into the questions and solutions provided in this repository. Here’s a simple example function for demonstration:
 
 ```python
+# Example code snippet
 def example_function():
     print("This is an example function.")
 ```
+
+Feel free to explore the repository and contribute to enhancing the DSA learning experience!
 
 ---
 
