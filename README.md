@@ -1,14 +1,14 @@
 ```markdown
 # DSA Questions 🤖
 
-A comprehensive collection of Data Structures and Algorithms (DSA) problems to help developers and learners practice and enhance their coding skills through a variety of algorithmic challenges.
-
 ![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
 
+A comprehensive collection of Data Structures and Algorithms (DSA) problems to help developers and learners practice and enhance their coding skills through a variety of algorithmic challenges.
+
 ## Features
-- Categorized DSA problems for easy navigation
-- Clear explanations and solutions for each problem
-- Streamlined usage instructions
+- 🔍 Categorized DSA problems for easy navigation
+- 📚 Clear explanations and solutions for each problem
+- 🚀 Streamlined usage instructions
 
 ## Summary of the Changes
 In this update, the README file has been enhanced with the addition of a **Features** section to better highlight what the repository offers. The language has been refined for clarity, particularly in the **Installation** and **Usage** sections.
