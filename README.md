@@ -1,7 +1,7 @@
 ```markdown
 # DSA Questions Repository 📚
 
-Welcome to the DSA Questions repository! This project is designed to help you improve your data structures and algorithms (DSA) skills through a collection of questions and solutions. 
+Welcome to the **DSA Questions** repository! This project is designed to help you improve your data structures and algorithms (DSA) skills through a collection of questions and solutions.
 
 ## Features 🎉
 - A comprehensive set of DSA problems.
@@ -12,10 +12,10 @@ Welcome to the DSA Questions repository! This project is designed to help you im
 The recent updates to the `README.md` file include enhancements in the introduction and formatting. Here’s a glimpse of the changes made:
 
 ```diff
---## Features 🎮
--+## Features 📚
---## Summary of the Changes 📍
--+## Summary of the Changes 📝
+-## Features 🎮
++## Features 🎉
+-## Summary of the Changes
++## Summary of the Changes 📝
 ```
 
 ## Installation 💻
@@ -37,5 +37,5 @@ def example_problem():
     return "Solution to the problem"
 ```
 
-Feel free to contribute to this repository by submitting your own solutions or enhancements!
+Feel free to contribute to this repository by submitting your own solutions or enhancements! 🚀
 ```
