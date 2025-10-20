@@ -1,9 +1,9 @@
 ```markdown
 # DSA Questions 🚀
 
-Welcome to the **DSA Questions** repository! This project serves as a platform for developers and learners to practice and enhance their skills in Data Structures and Algorithms (DSA). This repository is designed to help you improve your understanding of various data structures and algorithms through a collection of questions and solutions.
-
 ![GitHub stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-?style=social) ![Forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-?style=social)
+
+Welcome to the **DSA Questions** repository! This project serves as a platform for developers and learners to practice and enhance their skills in Data Structures and Algorithms (DSA). This repository is designed to help you improve your understanding of various data structures and algorithms through a collection of questions and solutions.
 
 ## Features
 - 📚 **Comprehensive collection of DSA questions**
@@ -14,6 +14,7 @@ Welcome to the **DSA Questions** repository! This project serves as a platform f
 The README.md file has been updated to enhance clarity and usability:
 - Added a **Features** section to highlight the key aspects of the repository.
 - Corrected the repository clone command to include the `.git` extension.
+- Minor formatting adjustments for better readability.
 
 ## Installation
 To get a local copy up and running, follow these simple steps:
@@ -24,11 +25,12 @@ cd DSA-Questions-
 ```
 
 ## Usage
-To use this repository effectively, navigate to the specific question directory and explore the provided solutions.
+To use this repository effectively, navigate to the specific question directory and follow the provided instructions.
 
 ### Example
 Here’s an example of how to structure a new question in the repository:
 
+```markdown
 ### Question Title
 **Difficulty:** Easy/Medium/Hard
 
@@ -38,7 +40,11 @@ Here’s an example of how to structure a new question in the repository:
 ```python
 def example_solution():
     # Your solution code here
+    pass
+```
 ```
 
-Feel free to contribute by adding your own questions and solutions!
+Feel free to contribute by adding your own questions and solutions! 
+
+---
 ```
