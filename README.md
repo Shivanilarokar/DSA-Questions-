@@ -13,13 +13,14 @@ This repository aims to provide a comprehensive set of DSA questions that can he
 - Problem solutions with detailed explanations
 - Community contributions and collaboration
 
-## Summary of the Changes 📄
+## Summary of the Changes 📝
 In the latest update, the README.md file has been enhanced with:
 - Added an **Overview** section to provide clarity on the repository's purpose.
 - Revised the **Features** section to better highlight the offerings.
 - Streamlined the **Installation** instructions for better usability.
 - Introduced a **Usage** section to guide users on how to navigate the repository.
 - Included an **Example** section showcasing how the README.md looks after the latest changes.
+- Minor formatting adjustments to improve readability.
 
 ## Installation ⚙️
 To get started with this repository, clone it using the following command:
@@ -31,7 +32,7 @@ git clone https://github.com/Shivanilarokar/DSA-Questions-
 ## Usage 🚀
 Navigate through the directory to find various DSA problems categorized by topics. Feel free to explore and attempt the problems!
 
-## Example 📝
+## Example 📖
 Here's a glimpse of how the README.md looks after the latest changes:
 
 ```markdown
