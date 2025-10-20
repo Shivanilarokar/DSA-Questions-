@@ -19,6 +19,7 @@ This repository includes a collection of DSA questions with their respective sol
 ## Summary of the Changes
 
 In the latest update, the `README.md` file has been refined with the following changes:
+
 - Improved the introduction for clarity and conciseness.
 - Enhanced the overview section to better explain the repository's purpose.
 - Streamlined the usage instructions for better readability.
@@ -35,7 +36,7 @@ cd DSA-Questions-
 
 ## Usage
 
-To use the solutions provided in this repository, simply navigate to the respective question folder and run the solution file in your preferred programming language. 
+To use the solutions provided in this repository, simply navigate to the respective question folder and run the solution file in your preferred programming language.
 
 ## Example
 
