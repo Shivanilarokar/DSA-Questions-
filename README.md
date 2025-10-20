@@ -13,13 +13,12 @@ The DSA Questions repository offers a comprehensive collection of data structure
 
 - 📚 A wide variety of data structure and algorithm problems.
 - 🛠️ Well-structured solutions for each problem.
-- 📝 Easy navigation and contribution guidelines.
+- 📑 Easy navigation and contribution guidelines.
 
 ## Summary of the Changes
 
 Recent updates to the README.md include:
 
-- Enhanced the section on exploring the repository and contributing solutions.
 - Improved the title for better visual appeal.
 - Included an example usage of a sorting algorithm with code snippets for clarity.
 
@@ -27,11 +26,9 @@ Recent updates to the README.md include:
 
 Clone the repository and navigate to the directory to explore the various DSA problems available. You can run the solutions in a Python environment.
 
-```python
-# Example of a sample solution
-def example_solution():
-    # Your solution code here
-    pass
+```bash
+git clone https://github.com/Shivanilarokar/DSA-Questions-
+cd DSA-Questions-
 ```
 
 ## Usage
@@ -46,22 +43,19 @@ def bubble_sort(arr):
         for j in range(0, n-i-1):
             if arr[j] > arr[j+1]:
                 arr[j], arr[j+1] = arr[j+1], arr[j]
+    return arr
 
-# Sample array
-sample_array = [64, 34, 25, 12, 22, 11, 90]
-bubble_sort(sample_array)
-print("Sorted array is:", sample_array)
+# Sample input
+example_array = [64, 34, 25, 12, 22, 11, 90]
+sorted_array = bubble_sort(example_array)
+print("Sorted array:", sorted_array)
 ```
 
 ## Contributing
 
-We welcome contributions! Please feel free to submit a pull request or open an issue for any suggestions or improvements.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+We welcome contributions! Please read our contribution guidelines for more details on how to get involved.
 
 ---
 
-Thank you for visiting the DSA Questions repository! Happy coding! 🚀
+Happy coding! 🎉
 ```
