@@ -25,7 +25,7 @@ git clone https://github.com/Shivanilarokar/DSA-Questions-
 ```
 
 ## Usage
-Navigate through the various DSA problems in the repository and utilize the code snippets provided.
+Navigate through the various DSA problems in the repository and utilize the code snippets provided for practice and learning.
 
 ## Example
 Here’s a simple function example to illustrate how you might structure your code:
@@ -37,7 +37,5 @@ def example_function():
     print("Hello, DSA!")
 ```
 
-Feel free to explore and contribute to the repository!
-
-Thank you for checking out the DSA Questions repository! Happy coding! 🎉
+Feel free to explore, contribute, and enhance your data structures and algorithms skills!
 ```
