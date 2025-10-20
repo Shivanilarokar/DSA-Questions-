@@ -12,11 +12,12 @@ The **DSA Questions** repository is a collection of data structure and algorithm
 - Clear guidelines for contributing.
 
 ## Summary of the Changes
-In the latest update, the `README.md` file has been modified to enhance clarity and user engagement:
+In the latest update, the `README.md` file has been modified to enhance clarity and provide better guidance for users:
+- Added a badge for GitHub issues to improve visibility.
+- Improved the language for the **Installation** instructions.
 - Enhanced the **Example** section to clarify implementation expectations.
-- Improved the language for contributing to the repository.
 
-## Installation
+## Installation 📦
 To get started with the DSA Questions repository, follow these steps:
 
 ```bash
@@ -31,13 +32,11 @@ Once you have the repository cloned, you can run the examples provided in the re
 Here's a simple example of how you might implement a question from this repository:
 
 ```python
+# Sample implementation
 def example_question():
-    # Sample implementation
+    # Implement your solution here
     pass
 ```
 
-## Contributing
-We welcome contributions to improve this repository! Please feel free to submit a pull request or open an issue for discussion.
-
-Happy coding! 🚀
+For more information, visit the [repository](https://github.com/Shivanilarokar/DSA-Questions-). Happy coding! 🤖
 ```
