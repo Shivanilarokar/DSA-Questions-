@@ -1,33 +1,37 @@
 ```markdown
-# DSA Questions Repository 📚
+# DSA Questions Repository 📜
 
-![GitHub stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-?style=social) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-?style=social) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
+Welcome to the **DSA Questions** repository! This repository contains a collection of data structure and algorithm questions designed to help you master coding interviews and improve your problem-solving skills.
 
-Welcome to the DSA Questions repository! This repository contains a collection of Data Structure and Algorithm questions designed to help you master coding interviews and improve your problem-solving skills.
+![GitHub stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-?style=social) ![Forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-?style=social) ![Issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
+
+## Overview
+This repository is aimed at providing a wide range of questions and solutions related to data structures and algorithms, making it an excellent resource for coding interview preparation.
 
 ## Features
-- Comprehensive coverage of data structures and algorithms.
-- Structured problems to facilitate learning and practice.
-- Regular updates based on community feedback.
+- A comprehensive collection of DSA questions.
+- Solutions in multiple programming languages.
+- Easy to navigate structure.
 
 ## Summary of the Changes
-In the latest update, the README.md file underwent significant modifications to enhance clarity and organization:
-- Enhanced clarity in the **Overview** section.
+In the latest update, the README.md file underwent significant modifications to enhance clarity and engagement:
 - Improved phrasing in the **Installation** instructions.
 - Streamlined content for better organization.
-- Improved the introductory text for clarity and engagement.
+- Updated the title emoji for better representation 🎨.
+- Added badges to showcase repository statistics (stars, forks, issues, etc.).
+- Enhanced the introductory text for clarity and engagement.
 
 ### Code Snippet Changes
 Here are some of the key changes made in the README:
 
 ```diff
--# DSA Questions Repository 📖
-+# DSA Questions Repository 📚
-
+--- # DSA Questions Repository
++++ # DSA Questions Repository 📜
+@@ -1,5 +1,5 @@
 -Welcome to the DSA Questions repository! This project contains a collection of Data Structure and Algorithm questions designed to help you improve your coding skills.
 +Welcome to the DSA Questions repository! This repository contains a collection of data structure and algorithm questions to help you master coding interviews and improve your problem-solving skills.
 
--To get started, clone the repository using the following command:
+-To get started with this repository, simply clone it using:
 +To get started, clone the repository using the following command:
 ```
 
@@ -45,7 +49,7 @@ After cloning, navigate to the repository folder and explore the various questio
 Here’s how you can clone the repository:
 
 ```bash
-git clone https://github.com/Shivanilarokar/DSA-Questions-
+git clone https://github.com/Shivanilarokar/DSA-Questions-.git
 ```
 
 Once cloned, open the folder and start practicing!
