@@ -1,5 +1,5 @@
 ```markdown
-# DSA Questions 📖
+# DSA Questions 📚
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/Shivanilarokar/DSA-Questions-) ![GitHub stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-)
 
@@ -15,7 +15,7 @@ The DSA Questions repository provides a variety of problems with their respectiv
 - Detailed solutions to enhance understanding.
 - Interactive examples to practice coding skills.
 
-## Summary of the Changes
+## Summary of the Changes 📝
 
 In the latest commit, the README.md file has been updated to improve clarity and enhance the user experience. Key changes include:
 
@@ -25,11 +25,12 @@ In the latest commit, the README.md file has been updated to improve clarity and
 - Restructured the features section for improved readability.
 
 ### Code Changes
+
 Here are some snippets of the code that were modified:
 
 #### Title Update
 ```markdown
-# DSA Questions 📖
+# DSA Questions 📚
 ```
 
 #### Welcome Message
