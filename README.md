@@ -14,7 +14,7 @@ This repository contains a comprehensive collection of Data Structures and Algor
 - Community contributions welcome! ✨
 
 ## Summary of the Changes
-In this update, the README.md file has been slightly modified to improve clarity and conciseness. The following changes were made:
+In this update, the **README.md** file has been slightly modified to improve clarity and conciseness. The following changes were made:
 - The introductory text was refined for better readability.
 - Unnecessary installation instructions were removed to streamline the content.
 - The closing remarks were simplified for a more professional presentation.
