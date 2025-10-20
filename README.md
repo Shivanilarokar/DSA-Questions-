@@ -1,11 +1,10 @@
 ```markdown
 # DSA Questions 🤖
 
-[![Repo Size](https://img.shields.io/github/repo-size/Shivanilarokar/DSA-Questions-)](https://github.com/Shivanilarokar/DSA-Questions-) 
-[![Contributors](https://img.shields.io/github/contributors/Shivanilarokar/DSA-Questions-)](https://github.com/Shivanilarokar/DSA-Questions-/graphs/contributors) 
-[![Open Issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)](https://github.com/Shivanilarokar/DSA-Questions-/issues)
+![GitHub repo size](https://img.shields.io/github/repo-size/Shivanilarokar/DSA-Questions-) 
+![Contributors](https://img.shields.io/github/contributors/Shivanilarokar/DSA-Questions-) 
+![Open Issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-) 
 
-## Overview 📚
 The **DSA Questions** repository provides a structured approach to mastering Data Structures and Algorithms (DSA). It is designed for learners who want to enhance their problem-solving skills through practical examples and challenges.
 
 ## Features ✨
@@ -15,7 +14,7 @@ The **DSA Questions** repository provides a structured approach to mastering Dat
 - Regular updates with new problems and solutions.
 - Community contributions are welcome!
 
-## Summary of the Changes 📜
+## Summary of the Changes 📝
 In this update, the following changes were made to the `README.md` file:
 - **Badges** were added to display repository size, contributors, and open issues.
 - An **Overview** section was introduced to provide better context about the repository.
@@ -46,9 +45,5 @@ def fibonacci(n):
         return fibonacci(n-1) + fibonacci(n-2)
 ```
 
-This updated function improves the handling of edge cases, ensuring that it returns the correct Fibonacci number for inputs of 0 and 1.
-
----
-
-Feel free to contribute to this repository by submitting issues or pull requests. Happy coding! 🚀
+Feel free to explore and contribute to the repository. Happy coding! 🚀
 ```
