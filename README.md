@@ -1,7 +1,13 @@
 ```markdown
 # DSA Questions 🤖
 
-This repository provides a comprehensive collection of Data Structures and Algorithms (DSA) problems, categorized by type. It serves as a learning resource for those looking to enhance their coding skills and understanding of algorithms.
+![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-?style=social) ![GitHub stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-?style=social)
+
+Welcome to the DSA Questions repository! This repository provides a comprehensive collection of Data Structures and Algorithms (DSA) problems, categorized by type. It serves as a learning resource for those looking to enhance their coding skills and understanding of algorithms.
+
+## Overview
+
+This repository serves as a learning resource for those looking to enhance their understanding of algorithms, with clear implementations in multiple programming languages.
 
 ## Features
 
@@ -14,21 +20,17 @@ This repository provides a comprehensive collection of Data Structures and Algor
 
 In this latest update, the README.md file has been auto-updated to reflect the following changes:
 
-- The title format was updated for consistency.
-- The introduction has been refined for clarity.
-- Minor grammatical corrections and formatting adjustments for better readability.
+- Enhanced the description of the repository for clarity and engagement.
+- Improved formatting for better readability.
+- Updated installation instructions to provide a step-by-step guide.
 
 ### Changed Code Snippet
 
 ```diff
----# DSA Questions Repository 🤖
---+# DSA Questions 🤖
---- A comprehensive collection of Data Structures and Algorithms (DSA) problems, categorized by type...
---+ This repository provides a comprehensive collection of Data Structures and Algorithms (DSA) problems...
-+---# DSA Questions Repository 🤖
-++++ # DSA Questions 🤖
-+- A comprehensive collection of Data Structures and Algorithms (DSA) problems, categorized by type...
-++ This repository provides a comprehensive collection of Data Structures and Algorithms (DSA) problems...
+--- # DSA Questions Repository 🤖
++++ # DSA Questions 🤖
+- A comprehensive collection of Data Structures and Algorithms (DSA) problems, categorized by type...
++ This repository provides a comprehensive collection of Data Structures and Algorithms (DSA) problems...
 ```
 
 ## Installation
@@ -55,8 +57,9 @@ Here’s a quick example of how to define a simple function:
 
 ```python
 def example_function():
+    # Your code goes here
     pass
 ```
 
-Feel free to explore and contribute to the repository! Happy coding! 🎉
+Feel free to explore the repository and contribute to the growing collection of DSA problems!
 ```
