@@ -19,7 +19,9 @@ The README file has been updated to enhance clarity and organization. Key change
 
 ## Installation
 To get started with this repository, clone it using the following command:
+
 ```bash
+# Clone the repository
 git clone https://github.com/Shivanilarokar/DSA-Questions-.git
 ```
 
@@ -28,17 +30,14 @@ You can navigate to each problem folder to find the problem statement and the co
 
 ```plaintext
 DSA-Questions-/
-    ├── Problem1/
-    │   ├── README.md
-    │   └── solution.ext
-    ├── Problem2/
-    │   ├── README.md
-    │   └── solution.ext
-    └── ...
+├── Problem1/
+│   ├── README.md
+│   └── solution.ext
+├── Problem2/
+│   ├── README.md
+│   └── solution.ext
+└── ...
 ```
-
-## Contributing 🤝
-We welcome contributions from the community! If you'd like to contribute, please fork the repository and submit a pull request. Your input is invaluable in improving this repository.
 
 ---
 
