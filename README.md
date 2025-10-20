@@ -1,5 +1,5 @@
 ```markdown
-# DSA Questions Repository
+# DSA Questions Repository 🚀
 
 [![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-.svg)](https://github.com/Shivanilarokar/DSA-Questions-/network) 
 [![GitHub stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-.svg)](https://github.com/Shivanilarokar/DSA-Questions-/stargazers) 
@@ -21,8 +21,8 @@ Welcome to the **DSA Questions** repository! This project aims to provide a coll
 
 In the latest update, we have made significant improvements to the `README.md` file to enhance clarity and provide a better example of the binary search algorithm. Here are the key changes:
 
-- Updated the example of the binary search algorithm with improved code readability.
 - Enhanced the overall structure of the README to maintain professionalism and clarity.
+- Updated the example of the binary search algorithm with improved code readability.
 
 ### Updated Example of Binary Search Algorithm
 
@@ -65,9 +65,9 @@ def binary_search(arr, target):
     # Implementation as shown above
 ```
 
-Happy coding! ✨
-
 ---
 
 This README provides a structured and professional overview of the DSA Questions repository, highlighting the recent changes and maintaining clarity for users and potential contributors.
+
+Happy coding! ✨
 ```
