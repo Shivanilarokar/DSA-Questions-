@@ -25,16 +25,16 @@ In the latest update, the `README.md` file has been auto-updated with the follow
 - Changed the title emoji to 🤖 for better relevance.
 - Improved clarity and structure in the features list.
 - Revised the example code snippet for better clarity.
-- Added a section for contributing to the repository.
 
-## Installation 🔧
-To clone the repository, run the following command:
+## Installation
+To get started with this repository, clone it to your local machine:
 
 ```bash
 git clone https://github.com/Shivanilarokar/DSA-Questions-
 cd DSA-Questions-
 ```
 
+## Usage
 Once you have cloned the repository, navigate to the project directory and follow the usage instructions.
 
 ### Example Usage Snippet
@@ -43,6 +43,7 @@ Here's a simple example demonstrating how to use the functions available in this
 ```python
 # Example function call
 result = some_function(input_data)
+print(result)
 ```
 
 Feel free to explore the repository and contribute by adding more questions or improving existing solutions. We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING.md) for more information on how to get involved.
