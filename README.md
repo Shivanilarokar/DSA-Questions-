@@ -14,10 +14,10 @@ The recent updates to the `README.md` file include enhancements in the introduct
 ### Here’s a glimpse of the changes made in the `README.md` file:
 
 ```diff
--## Features 🎮
-+## Features 📖
--## Summary of the Changes 📝
-+## Summary of the Changes
+-## Features 🎨
++## Features 🎉
+-## Summary of the Changes
++## Summary of the Changes 📝
 ```
 
 ## Installation 💻
@@ -27,8 +27,8 @@ To get started with the DSA Questions repository, clone the repository to your l
 git clone https://github.com/Shivanilarokar/DSA-Questions-
 ```
 
-## Usage 📖
-Explore various DSA problems and utilize the provided solutions to practice your coding skills.
+## Usage 📚
+Explore the various DSA problems and solutions available in this repository to improve your coding abilities.
 
 ## Example
 Here's a simple example of how to solve a DSA problem:
