@@ -1,9 +1,10 @@
 ```markdown
-# DSA Questions 📊
-
-Welcome to the DSA Questions repository! This project aims to provide a comprehensive collection of Data Structures and Algorithms (DSA) problems, solutions, and resources. Whether you are a beginner looking to learn or an expert aiming to refine your skills, this repository has something for everyone.
+# DSA Questions 📚
 
 ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-?style=social) ![GitHub stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-?style=social)
+
+## Overview
+Welcome to the DSA Questions repository! This project aims to provide a comprehensive collection of Data Structures and Algorithms (DSA) problems, solutions, and resources. Whether you are a beginner looking to learn or an expert aiming to refine your skills, this repository has something for everyone.
 
 ## Features ✨
 - A wide array of DSA problems categorized for easy navigation.
@@ -11,7 +12,7 @@ Welcome to the DSA Questions repository! This project aims to provide a comprehe
 - Example code snippets to illustrate the implementations.
 - Regular updates and contributions from the community.
 
-## Summary of the Changes 🛠️
+## Summary of the Changes 🔧
 Recent updates to the README.md include enhancements to clarify the project purpose and improve the code examples. Key modifications are as follows:
 
 - Consolidated badges for GitHub stars and forks.
@@ -45,7 +46,7 @@ def binary_search(arr, target):
 To get started with this repository, clone it to your local machine using:
 
 ```bash
-git clone https://github.com/Shivanilarokar/DSA-Questions-.git
+git clone https://github.com/Shivanilarokar/DSA-Questions-
 ```
 
 After cloning, navigate to the project directory:
