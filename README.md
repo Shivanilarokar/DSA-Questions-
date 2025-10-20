@@ -1,5 +1,5 @@
 ```markdown
-# DSA Questions Repository
+# DSA Questions Repository 🌟
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/Shivanilarokar/DSA-Questions-)
 ![GitHub contributors](https://img.shields.io/github/contributors/Shivanilarokar/DSA-Questions-)
@@ -17,14 +17,14 @@ This repository contains various data structures and algorithm questions designe
 - 📚 A comprehensive collection of DSA questions
 - 💡 Solutions and explanations for each problem
 - 🔄 Regular updates with new challenges
-- 🌟 Community contributions are welcome!
+- 🌍 Community contributions are welcome!
 
 ## Summary of Changes
 
-In the latest commit, minor adjustments were made to the `README.md` file to enhance clarity and presentation. Specifically, two lines were removed to streamline the content.
+In the latest commit, minor adjustments were made to the `README.md` file to enhance clarity and presentation. Specifically, the following changes were made:
 
-### Changes:
 - Removed the extra blank line for better formatting.
+- Simplified the initial greeting for a cleaner look.
 
 ## Installation
 
