@@ -1,8 +1,7 @@
 ```markdown
 # DSA Questions Repository 🚀
 
-![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-?style=social) 
-![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-?style=social) 
+![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-?style=social)
 ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
 
 Welcome to the **DSA Questions** repository! This repository offers a comprehensive collection of data structure and algorithm problems designed to enhance your coding skills and problem-solving abilities.
@@ -13,36 +12,34 @@ The DSA Questions repository aims to provide a wide range of algorithmic challen
 ## Features
 - A wide range of DSA problems categorized by difficulty.
 - Solutions provided in multiple programming languages.
-- Community-driven contributions and discussions.
+- Clear and concise documentation for each problem.
 
 ## Summary of the Changes
-In the latest commit, the `README.md` file has been updated to improve clarity and aesthetics. The following changes were made:
-- Improved the layout by adding a new badge for GitHub issues.
-- Cleaned up unnecessary lines and enhanced the overall presentation of the README.
+In the latest commit, the `README.md` file has been updated to improve clarity and organization. Notable changes include:
+- Added an **Overview** section to provide insights into the repository's purpose.
+- Enhanced formatting for better readability.
 
 ### Code Snippet of Changes
 ```diff
--# DSA Questions Repository 🚀
-+# DSA Questions Repository
-+![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
++-# DSA Questions Repository 🚀
+++# DSA Questions Repository
 ```
 
 ## Installation
-To get started with this repository, clone it using the following command:
+To get started with the DSA Questions repository, clone the repository using the following command:
 
 ```bash
-git clone https://github.com/Shivanilarokar/DSA-Questions-
+git clone https://github.com/Shivanilarokar/DSA-Questions-.git
 ```
 
 ## Usage
-Navigate to the directory and explore the DSA problems. Feel free to contribute by creating new issues or submitting pull requests!
+Explore the various DSA problems available in this repository to enhance your coding skills.
 
-## Example
-Here’s an example of how to solve a problem from this repository:
+### Example
+Here's a simple example of how to define a problem in Python:
 
 ```python
 def example_problem():
-    # Your code here
     pass
 ```
 
