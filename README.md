@@ -3,6 +3,12 @@
 
 Welcome to the DSA Questions repository! This repository is dedicated to providing a comprehensive collection of Data Structures and Algorithms (DSA) problems, designed to help you improve your coding skills and understanding of fundamental concepts.
 
+![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-?style=social) 
+![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-?style=social) 
+![GitHub repo size](https://img.shields.io/github/repo-size/Shivanilarokar/DSA-Questions-?style=flat-square) 
+![GitHub language count](https://img.shields.io/github/languages/count/Shivanilarokar/DSA-Questions-?style=flat-square) 
+![GitHub last commit](https://img.shields.io/github/last-commit/Shivanilarokar/DSA-Questions-?style=flat-square)
+
 ## Overview
 In the latest update, the `README.md` file was modified to enhance clarity and showcase the repository's offerings more effectively.
 
@@ -17,10 +23,8 @@ In the latest update, the `README.md` file was modified to enhance clarity and s
 
 ### Code Changes
 ```diff
--- Navigate through a variety of DSA problems in the repository.
--+ Navigate through a variety of DSA problems in the repository and utilize the code snippets provided.
-+-- Navigate through the various DSA problems in the repository and utilize the code snippets provided.
-++- Navigate through a variety of DSA problems in the repository.
+--- Navigate through the various DSA problems in the repository and utilize the code snippets provided.
++++ Navigate through a variety of DSA problems in the repository.
 ```
 
 ## Installation ⚙️
@@ -36,6 +40,7 @@ Here’s a simple example of how to use one of the algorithm implementations:
 ```python
 # Your code here
 def example_function():
+    # Sample code here
     pass
 ```
 
