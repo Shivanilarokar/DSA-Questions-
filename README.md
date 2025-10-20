@@ -1,5 +1,5 @@
 ```markdown
-# DSA Questions Repository 📚
+# DSA Questions Repository 📖
 
 ![GitHub stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-) ![GitHub repo size](https://img.shields.io/github/repo-size/Shivanilarokar/DSA-Questions-) ![GitHub contributors](https://img.shields.io/github/contributors/Shivanilarokar/DSA-Questions-) ![GitHub last commit](https://img.shields.io/github/last-commit/Shivanilarokar/DSA-Questions-)
 
@@ -19,15 +19,13 @@ The README file has been updated to enhance clarity and organization. Notable ch
 
 ### Code Snippet Changes
 ```diff
--# DSA Questions 📖
-+# DSA Questions Repository
-```
+-# DSA Questions Repository
++# DSA Questions Repository 📖
 
-```diff
---![GitHub repo size](https://img.shields.io/github/repo-size/Shivanilarokar/DSA-Questions-) 
---![GitHub contributors](https://img.shields.io/github/contributors/Shivanilarokar/DSA-Questions-)
---![GitHub last commit](https://img.shields.io/github/last-commit/Shivanilarokar/DSA-Questions-)
--+![GitHub stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-) ![GitHub repo size](https://img.shields.io/github/repo-size/Shivanilarokar/DSA-Questions-) ![GitHub contributors](https://img.shields.io/github/contributors/Shivanilarokar/DSA-Questions-) ![GitHub last commit](https://img.shields.io/github/last-commit/Shivanilarokar/DSA-Questions-)
+-## Installation
+-To get started with this repository, clone it using the following command:
++## Installation
++To get started with this repository, simply clone it using:
 ```
 
 ## Installation
@@ -46,10 +44,6 @@ Here is an example structure of the repository:
 DSA-Questions-/
     ├── Problem1/
     │   ├── README.md
-    │   └── solution.ext
-    ├── Problem2/
-    │   ├── README.md
-    │   └── solution.ext
     └── ...
 ```
 
