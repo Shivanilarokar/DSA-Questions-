@@ -14,7 +14,7 @@ Welcome to the DSA Questions repository! This repository is dedicated to providi
 - Easy to navigate and contribute.
 
 ## Summary of the Changes
-In the latest update, the README.md file has been refined with the following changes:
+In the latest update, the `README.md` file has been refined with the following changes:
 - Removed the emoji from the repository title for improved readability.
 - Updated the closing statement to encourage exploration and contributions without unnecessary embellishment.
 
@@ -40,6 +40,7 @@ Once cloned, navigate to the directory and open the Python files to explore the 
 Here is a simple example of how a function is structured in this repository:
 
 ```python
+# Your code here
 def example_function():
     # Your code here
     pass
