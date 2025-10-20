@@ -3,14 +3,12 @@
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-?style=social) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-?style=social) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
 
-The **DSA Questions** repository is designed to help learners practice and master their algorithmic skills while improving their understanding of Data Structures and Algorithms (DSA).
-
 ## Overview 🌍
-This repository serves as a comprehensive learning platform, providing a wide range of DSA problems with examples and code snippets for practical understanding. Contributions are welcome!
+The **DSA Questions** repository is designed to help learners practice and master their algorithmic skills while improving their understanding of Data Structures and Algorithms (DSA). This repository serves as a comprehensive learning platform, providing a wide range of DSA problems with examples and code snippets for practical understanding. Contributions are welcome!
 
 ## Features 🚀
 - A collection of diverse DSA problems
-- Detailed solutions and explanations
+- Code snippets for practical implementation
 - Community contributions for collaborative learning
 
 ## Summary of the Changes ⚡
@@ -21,9 +19,13 @@ In the latest commit, the following changes were made to the **README.md** file:
 
 ### Key Snippets of the Changes
 ```diff
---- # DSA Questions 🤖
-+++ ## DSA Questions 🤖
-+ This repository serves as a learning platform to enhance your algorithmic skills and improve your understanding of Data Structures and Algorithms (DSA).
+--# DSA Questions 🤖
++## DSA Questions 🤖
++--- # DSA Questions 🤖
+++++ ## DSA Questions 🤖
+ + This repository serves as a learning platform to enhance your algorithmic skills and improve your understanding of Data Structures and Algorithms (DSA).
+--Enhanced the project description for better engagement and clarity.
+-+Enhanced project description for better engagement and clarity.
 ```
 
 ## Installation 💻
