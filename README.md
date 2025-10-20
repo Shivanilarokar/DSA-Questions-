@@ -1,7 +1,6 @@
 ```markdown
-# DSA Questions Repository 🚀
+# DSA Questions 🌟
 
-![GitHub repo size](https://img.shields.io/github/repo-size/Shivanilarokar/DSA-Questions-) 
 ![Contributors](https://img.shields.io/github/contributors/Shivanilarokar/DSA-Questions-) 
 ![Open Issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
 
@@ -37,15 +36,14 @@ Here’s a simple example of a function from the repository:
 
 ```python
 def fibonacci(n):
-    """Returns the nth Fibonacci number."""
     if n <= 0:
         return 0
     elif n == 1:
         return 1
     else:
-        return fibonacci(n - 1) + fibonacci(n - 2)
+        return fibonacci(n-1) + fibonacci(n-2)
 ```
 This function computes the Fibonacci number for a given input `n`.
 
-Feel free to explore the repository and contribute to enhancing the collection of DSA problems!
+Feel free to explore the repository and contribute to enhancing the collection of DSA problems! 🚀
 ```
