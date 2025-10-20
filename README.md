@@ -1,21 +1,20 @@
 ```markdown
 # DSA Questions 📚
 
+![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-?style=social) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-?style=social) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
+
 Welcome to the **DSA Questions** repository! This repository serves as a comprehensive collection of Data Structures and Algorithms questions along with their solutions. It is designed to help learners and developers practice and improve their coding skills.
 
-## Overview 🌟
-This repository provides a collection of Data Structures and Algorithms questions along with their solutions. It is designed to help learners and developers practice and improve their coding skills.
+## Features
+- A wide range of Data Structures and Algorithms questions.
+- Solutions provided for each question.
+- User-friendly layout for easy navigation.
 
-## Features 🚀
-- A wide range of DSA questions.
-- Detailed solutions for each problem.
-- Easy navigation for users to find and solve questions.
-
-## Summary of the Changes 📡
+## Summary of the Changes
 In the latest commit, the README.md file has been updated to enhance clarity and improve user engagement. Key changes include:
 - The introduction was reformulated for better readability.
-- A new "Usage" section was added to guide users on how to utilize the repository effectively.
-- The "Example" section was updated to include a more engaging emoji.
+- A new **Usage** section was added to guide users on how to utilize the repository effectively.
+- The **Example** section was updated to include a more engaging emoji.
 
 ## Installation ⚙️
 To get started with the repository, clone it using the following command:
@@ -29,10 +28,11 @@ After cloning the repository, you can navigate through the questions and begin s
 
 Feel free to contribute by adding more questions or improving existing solutions!
 
-## Example 🐍
+## Example
 Here's an updated example of a Fibonacci function included in the repository:
 
 ```python
+# Updated Example of a Fibonacci function
 def fibonacci(n):
     if n <= 1:
         return n
@@ -40,5 +40,7 @@ def fibonacci(n):
         return fibonacci(n-1) + fibonacci(n-2)
 ```
 
-Happy coding! 🎉
+---
+
+Thank you for visiting the DSA Questions repository! We hope you find it helpful in your coding journey. Happy coding! 🚀
 ```
