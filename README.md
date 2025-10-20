@@ -1,5 +1,5 @@
 ```markdown
-# DSA Questions 🤖
+# DSA Questions 📊
 
 ![GitHub stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-?style=social) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-?style=social) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
 
@@ -16,14 +16,17 @@ This repository features a comprehensive set of DSA questions 🤖, solutions, a
 
 ## Summary of the Changes
 In the latest update, the README.md file has been auto-updated to include:
+- Enhanced the overview and features sections for clarity.
 - Improved structure and formatting for better readability.
 - Minor text adjustments for clarity and consistency.
+- Added badges for GitHub stars, forks, and issues for better visibility.
+- Removal of redundant headings for a cleaner look.
 
 ### Code Changes
 ```diff
 - Welcome to the **DSA Questions** repository! This repository contains a collection of Data Structures and Algorithms (DSA) problems designed to enhance your programming skills. 
 + This repository features a comprehensive set of DSA questions 🤖, solutions, and explanations aimed at providing a structured learning path for developers.
- 
+
 - Solutions and explanations for each question 📖
 + Solutions and explanations for each question 📖
 ```
@@ -40,6 +43,7 @@ Once cloned, navigate to the repository directory and start exploring the DSA qu
 ## Example
 Here's a simple example of how to structure your code for a DSA question:
 ```python
+# This is a placeholder function for demonstration
 def example_function():
     # Your code here
     pass
