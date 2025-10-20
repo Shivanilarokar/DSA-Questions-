@@ -3,7 +3,9 @@
 
 Welcome to the DSA Questions repository! This repository is designed to help you enhance your Data Structures and Algorithms (DSA) skills through a variety of problems and solutions.
 
-## Features ✨
+![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
+
+## ✨ Features
 - **Diverse Problems**: A wide range of DSA problems to solve.
 - **Easy Navigation**: Clear structure to help you find problems quickly.
 - **Helpful Examples**: Code snippets and explanations for better understanding.
@@ -15,18 +17,6 @@ In the recent updates, minor modifications have been made to enhance the readabi
 - Included a code example for better clarity on algorithm implementation.
 - Improved the overall tone to make it more engaging for users.
 
-Here are some snippets of the changes made:
-
-```markdown
-# DSA Questions Repository 🚀
-```
-
-```python
-def example_algorithm(data):
-    # Your algorithm implementation here
-    pass
-```
-
 ## Installation
 To get started with this repository, clone it using the following command:
 
@@ -35,10 +25,12 @@ git clone https://github.com/Shivanilarokar/DSA-Questions-
 ```
 
 ## Usage
-After cloning the repository, navigate to the directory and start practicing with the provided problems. Each problem comes with examples and explanations to help you along the way.
+1. Navigate to the repository directory.
+2. Explore the various DSA problems available.
+3. Implement your solutions based on the provided examples.
 
 ## Example
-Here's a simple example of how you can implement an algorithm:
+Here’s a simple example of an algorithm implementation in Python:
 
 ```python
 def example_algorithm(data):
@@ -46,5 +38,7 @@ def example_algorithm(data):
     pass
 ```
 
-We hope you find this repository helpful in your DSA learning journey! Happy coding! 😊
+Feel free to contribute to this repository by submitting your own DSA problems or improvements!
+
+Happy coding! 🎉
 ```
