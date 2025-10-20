@@ -1,13 +1,14 @@
 ```markdown
 # DSA Questions 🤖
 
-![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
-
 A comprehensive collection of Data Structures and Algorithms (DSA) problems to help developers and learners practice and enhance their coding skills through a variety of algorithmic challenges.
+
+![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
 
 ## Features
 - 🚀 **Categorized DSA problems** for easy navigation
 - 📖 **Clear explanations and solutions** for each problem
+- 🔍 **Interactive examples** to demonstrate problem-solving techniques
 
 ## Summary of Changes
 In this update, the README.md has been enhanced to include:
@@ -28,8 +29,7 @@ Navigate through the categorized problems and explore solutions and explanations
 ```javascript
 // Process the input and return the desired output
 function exampleProblem(input) {
-    // Your code here
-    return output;
+    // Your code logic here
 }
 ```
 
