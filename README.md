@@ -3,6 +3,7 @@
 
 ![GitHub Repo size](https://img.shields.io/github/repo-size/Shivanilarokar/DSA-Questions-) ![GitHub contributors](https://img.shields.io/github/contributors/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
 
+## Overview
 This repository aims to provide a comprehensive collection of Data Structures and Algorithms (DSA) questions, solutions, and explanations. It serves as a valuable resource for students and professionals looking to enhance their coding skills and understanding of DSA concepts.
 
 ## Features ✨
@@ -15,8 +16,8 @@ This repository aims to provide a comprehensive collection of Data Structures an
 In this recent update, the following changes were made to the `README.md` file:
 - Added an **Overview** section to better explain the purpose of the repository.
 - Enhanced the **Features** section to highlight the structured approach to learning DSA.
-- Removed redundant text in the **Usage** section for clarity.
 - Updated the example code for the Fibonacci function to improve clarity and detail.
+- Removed redundant text in the **Usage** section for clarity.
 - Adjusted the **License** section formatting for consistency.
 - Added a concluding note to encourage exploration and contributions to the repository.
 
@@ -27,6 +28,7 @@ To get a local copy of this repository, clone it using the following command:
 git clone https://github.com/Shivanilarokar/DSA-Questions-
 ```
 
+## Usage
 Follow the instructions in the repository to explore various DSA problems and solutions.
 
 ### Example 💡
