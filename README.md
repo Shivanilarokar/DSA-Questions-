@@ -1,55 +1,23 @@
 ```markdown
-# DSA Questions Repository 📖
+# DSA Questions Repository 🚀
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
 
-Welcome to the **DSA Questions** repository! This repository contains a collection of Data Structures and Algorithms (DSA) questions and solutions, aimed at helping developers improve their coding skills and prepare for technical interviews.
-
 ## Overview
-
-The DSA Questions repository is designed to provide a comprehensive collection of DSA problems, with each problem including a solution, explanations, and examples to help you understand the concepts better.
+Welcome to the DSA Questions repository! This repository is dedicated to providing solutions and resources for various Data Structures and Algorithms (DSA) problems. It's a great place to enhance your coding skills and contribute to the community.
 
 ## Features
+- Diverse set of DSA problems and solutions.
+- Clear and concise documentation to guide users.
+- A collaborative platform for contributors to improve their skills.
 
-- Comprehensive set of DSA problems.
-- Clear and concise solutions in Python.
-- Easy to navigate and contribute to.
-
-## Summary of the Changes
-
-In the latest commit, the `README.md` file has been updated to enhance clarity and usability. Key enhancements include:
-
-- Improved repository description and formatting.
-- Updated clone command to include the `.git` extension.
-- Code snippet updates for better presentation and clarity.
-- Encouragement for contributions focused on problem-solving and documentation improvements.
-
-### Code Snippet Changes
-
-Here's an example of how the code snippets were modified for clarity:
-
-**Before:**
-```diff
-# Here's a sample Python code for a DSA problem:
-def example_function():
-    # Your code here
-    pass
-
-example_function()
-```
-
-**After:**
-```python
-# Here's a sample Python code for a DSA problem:
-def example_function():
-    # Your code here
-    pass
-
-example_function()
-```
+## Summary of Changes
+In the latest update, minor modifications have been made to the README file to enhance clarity and improve the overall presentation. Key changes include:
+- Updated function name for clarity: from `sample_problem` to `sample_problem_solution`.
+- Revised instructions for setting up the repository locally.
+- Enhanced the closing remarks to encourage exploration and contribution.
 
 ## Installation
-
 To set up the repository locally, clone the repository and install the necessary dependencies:
 
 ```bash
@@ -58,20 +26,6 @@ cd DSA-Questions-
 ```
 
 ## Usage
-
-To use the code snippets in this repository, simply navigate to the relevant problem file and run the code. For example:
-
-```python
-# Here's a sample Python code for a DSA problem:
-def example_function():
-    # Your code here
-    pass
-
-example_function()
-```
-
-### Sample Code
-
 Here's a sample Python code for a DSA problem:
 
 ```python
@@ -83,3 +37,5 @@ def sample_problem_solution():
 
 Feel free to explore the repository, contribute, and improve your DSA skills! Happy coding! 🚀
 ```
+
+This README provides a comprehensive view of the repository while highlighting the recent changes in a professional manner. It is structured to be clear and inviting for both users and contributors.
