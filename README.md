@@ -20,16 +20,6 @@ Here’s a snippet of the changes made:
 ## Features
 - 🚀 **Categorized DSA problems** for easy navigation
 - 📚 **Clear explanations and solutions** for each problem
-
-## Usage
-You can explore the various DSA problems categorized in this repository. Here’s a simple example of how to use a function:
-```
-
-## Installation
-To get started, clone the repository using the following command:
-
-```bash
-git clone https://github.com/Shivanilarokar/DSA-Questions-.git
 ```
 
 ## Usage
@@ -37,8 +27,14 @@ You can explore the various DSA problems categorized in this repository. Here’
 
 ```python
 def example_function():
-    # Example code here
     pass
+```
+
+## Installation
+To get started, clone the repository using the following command:
+
+```bash
+git clone https://github.com/Shivanilarokar/DSA-Questions-.git
 ```
 
 Feel free to explore and contribute to this repository. Happy coding! 🚀
