@@ -10,6 +10,7 @@ The DSA Questions repository is a comprehensive collection of Data Structures an
 ## Features 🚀
 - A wide variety of DSA problems and solutions.
 - Well-structured and organized content for easy navigation.
+- Contribution guidelines for developers who wish to add their own solutions.
 
 ## Summary of the Changes
 In this update, the `README.md` file has been enhanced for clarity and presentation. Key updates include:
@@ -20,8 +21,8 @@ In this update, the `README.md` file has been enhanced for clarity and presentat
 
 ### Key Changes in Code
 ```diff
-- # DSA Questions 🤖
-+ # DSA Questions 📖
+--- # DSA Questions 🤖
+++ # DSA Questions 📖
 ```
 
 ## Installation
