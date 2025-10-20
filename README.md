@@ -1,13 +1,13 @@
 ```markdown
 # DSA Questions Repository 🚀
 
-![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-?style=social)
+![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-?style=social) 
 ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
 
 Welcome to the **DSA Questions** repository! This repository offers a comprehensive collection of data structure and algorithm problems designed to enhance your coding skills and problem-solving abilities.
 
 ## Overview
-The DSA Questions repository aims to provide a wide range of algorithmic challenges that help developers practice and improve their coding proficiency. Each problem is designed to reinforce different aspects of data structures and algorithms.
+The DSA Questions repository aims to provide a wide range of algorithmic challenges that cater to different skill levels. With solutions available in multiple programming languages, this repository is perfect for anyone looking to improve their coding proficiency.
 
 ## Features
 - A wide range of DSA problems categorized by difficulty.
@@ -18,11 +18,15 @@ The DSA Questions repository aims to provide a wide range of algorithmic challen
 In the latest commit, the `README.md` file has been updated to improve clarity and organization. Notable changes include:
 - Added an **Overview** section to provide insights into the repository's purpose.
 - Enhanced formatting for better readability.
+- Introduced a new badge for GitHub issues to improve visibility.
 
 ### Code Snippet of Changes
 ```diff
-+-# DSA Questions Repository 🚀
-++# DSA Questions Repository
+--# DSA Questions Repository 🚀
+-+# DSA Questions Repository
+-+![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
+++-# DSA Questions Repository 🚀
++++# DSA Questions Repository
 ```
 
 ## Installation
@@ -33,15 +37,18 @@ git clone https://github.com/Shivanilarokar/DSA-Questions-.git
 ```
 
 ## Usage
-Explore the various DSA problems available in this repository to enhance your coding skills.
+Explore the various DSA problems available in this repository to enhance your coding skills. Feel free to contribute by creating new issues or submitting pull requests!
 
 ### Example
 Here's a simple example of how to define a problem in Python:
 
 ```python
 def example_problem():
+    # Your code here
     pass
 ```
 
-Thank you for visiting the DSA Questions repository. We hope you find it useful and engaging! Happy coding! 🎉
+---
+
+Feel free to explore, contribute, and enhance your DSA skills! 🎉
 ```
