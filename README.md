@@ -11,9 +11,9 @@ This repository serves as a learning resource for those looking to enhance their
 
 ## Features
 
-- A wide range of DSA problems categorized for easy navigation.
-- Solutions provided in various programming languages.
-- Community contributions are welcome! 🤝
+- A wide variety of DSA problems categorized by type.
+- Solutions implemented in multiple programming languages.
+- Clear instructions and examples for each problem.
 
 ## Summary of the Changes
 
@@ -21,14 +21,15 @@ In this latest update, the README.md file has been auto-updated to reflect the f
 
 - The title format was updated for consistency.
 - The introduction has been refined for clarity.
+- Minor grammatical corrections and formatting adjustments for better readability.
 
 ### Changed Code Snippet
 
 ```diff
---# DSA Questions Repository 🤖
--+# DSA Questions 🤖
--- A comprehensive collection of Data Structures and Algorithms (DSA) problems, categorized by type...
--+ This repository provides a comprehensive collection of Data Structures and Algorithms (DSA) problems...
+---# DSA Questions Repository 🤓
++++ # DSA Questions 🤖
+- A comprehensive collection of Data Structures and Algorithms (DSA) problems, categorized by type...
++ This repository provides a comprehensive collection of Data Structures and Algorithms (DSA) problems...
 ```
 
 ## Installation
@@ -53,5 +54,5 @@ def example_function():
     pass
 ```
 
-Feel free to explore and contribute to the repository!
+Feel free to explore and contribute to the repository! Happy coding! 🎉
 ```
