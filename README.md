@@ -8,9 +8,8 @@ Welcome to the **DSA Questions** repository! This repository is dedicated to pro
 ## Features ✨
 - A wide range of DSA problems to enhance your coding skills.
 - Detailed explanations and code snippets for each problem.
-- User-friendly structure for easy navigation.
 
-## Summary of the Changes 🔄
+## Summary of the Changes 📝
 Recent updates to the README.md include:
 - Enhanced introduction text to provide more clarity about the repository's purpose.
 - Improved formatting of badges for better visibility.
