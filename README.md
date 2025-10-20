@@ -5,12 +5,15 @@
 
 Welcome to the **DSA Questions** repository! This repository is designed to help developers enhance their problem-solving skills through a structured set of Data Structures and Algorithms (DSA) problems.
 
+## Overview
+This repository aims to provide developers with a structured set of DSA problems to enhance their problem-solving skills.
+
 ## Features
 - A collection of diverse DSA problems.
 - Detailed problem statements and solutions.
 - Community contributions welcome for learning and sharing.
 
-## Summary of the Changes 📝
+## Summary of the Changes 📜
 In the latest update, the `README.md` file has been auto-updated with the following changes:
 - Enhanced description of the repository's purpose.
 - Improved clarity and structure in the features list.
@@ -38,5 +41,5 @@ def example_function(data):
     return processed_data
 ```
 
-Feel free to explore and contribute to the repository to improve your DSA skills! 🚀
+Feel free to explore the repository and contribute to the community!
 ```
