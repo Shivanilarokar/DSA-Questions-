@@ -17,18 +17,23 @@ In this commit, the following changes were made to improve the README:
 - Enhanced clarity in the **Overview** section.
 - Improved phrasing in the **Installation** instructions.
 - Streamlined content for better organization.
+- Updated the title emoji from 📖 to 📚 for better representation.
+- Added badges to showcase repository statistics (stars, forks, issues, etc.).
+- Improved the introductory text for clarity and engagement.
 
 ## Features
 
-- A wide range of data structure and algorithm questions.
-- Solutions and explanations for each question.
-- Easy navigation and organization of topics.
-- Community contributions welcome! 🎉
+- Comprehensive collection of DSA questions.
+- Clear instructions for installation and usage.
+- Engaging and informative README.
 
 ## Summary of the Changes
 
 In the latest update, the README.md file underwent significant modifications to enhance clarity and organization. Key changes include:
 
+- Enhanced clarity in the **Overview** section.
+- Improved phrasing in the **Installation** instructions.
+- Streamlined content for better organization.
 - Updated the title emoji from 📖 to 📚 for better representation.
 - Added badges to showcase repository statistics (stars, forks, issues, etc.).
 - Improved the introductory text for clarity and engagement.
@@ -36,17 +41,13 @@ In the latest update, the README.md file underwent significant modifications to 
 ### Code Snippet Changes
 
 ```diff
--# DSA Questions Repository
+-# DSA Questions Repository 📖
 +# DSA Questions Repository 📚
 ```
 
 ```diff
-- To get started with this repository, simply clone it using:
-+ To get started, clone the repository using the following command:
-```
-
-```diff
 -## Overview
+- Welcome to the DSA Questions repository! This project contains a collection of Data Structure and Algorithm questions designed to help you improve your coding skills.
 +## Overview
 +Welcome to the DSA Questions repository! This repository contains a collection of data structure and algorithm questions to help you master coding interviews and improve your problem-solving skills.
 ```
