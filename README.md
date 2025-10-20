@@ -1,9 +1,7 @@
 ```markdown
-# DSA Questions Repository
+# DSA Questions Repository 📚
 
-![GitHub Repo size](https://img.shields.io/github/repo-size/Shivanilarokar/DSA-Questions-?style=flat-square)
-![Contributors](https://img.shields.io/github/contributors/Shivanilarokar/DSA-Questions-?style=flat-square)
-![Open Issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-?style=flat-square)
+![GitHub Repo size](https://img.shields.io/github/repo-size/Shivanilarokar/DSA-Questions-?style=flat-square) ![Contributors](https://img.shields.io/github/contributors/Shivanilarokar/DSA-Questions-?style=flat-square) ![Open Issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-?style=flat-square)
 
 ## Overview
 
@@ -15,10 +13,9 @@ The DSA Questions Repository is a collection of Data Structures and Algorithms (
 - Contribution guidelines for adding new questions and solutions.
 
 ## Summary of the Changes
-In the latest update, the README.md file has been modified to improve clarity and enhance the overall presentation. Key changes include:
-- Updated the repository title for better clarity.
-- Enhanced badge display for repository size, contributors, and open issues.
-- Revised the usage instructions to encourage contributions.
+In the latest update, the README.md file has been modified to improve clarity and visual appeal:
+- Enhanced badge visibility with updated styles.
+- Revised usage instructions to encourage contributions.
 - Updated the example code to showcase a specific solution (binary search) with a more detailed implementation.
 
 ## Installation 💻
@@ -50,17 +47,5 @@ def binary_search(arr, target):
     return -1
 ```
 
-Feel free to modify and adapt the examples to suit your learning needs!
-
-## Contributing
-
-We welcome contributions! Please feel free to submit a pull request or open an issue if you have suggestions or improvements.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Happy Coding! 🚀
+Feel free to explore the repository, solve the questions, and contribute your solutions. Your contributions are highly encouraged!
 ```
