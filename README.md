@@ -3,18 +3,16 @@
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
 
-Welcome to the **DSA Questions** repository! This repository is designed to help developers enhance their problem-solving skills by providing a structured set of Data Structures and Algorithms (DSA) problems, solutions, and explanations. 🤖
-
 ## Overview
 
-This repository features a comprehensive set of Data Structures and Algorithms (DSA) problems aimed at providing a structured learning path for developers. Each problem comes with solutions and detailed explanations to facilitate better understanding and learning.
+Welcome to the **DSA Questions** repository! This repository is designed to help developers enhance their problem-solving skills by providing a structured set of Data Structures and Algorithms (DSA) problems, solutions, and explanations. 🤖
 
 ## Features
 
-- Collection of DSA problems with solutions
-- Detailed explanations for each problem
-- Structured learning path for developers
-- Engaging examples to improve understanding
+- Comprehensive collection of DSA problems
+- Detailed solutions and explanations
+- Easy navigation through problem sets
+- Community contributions encouraged
 
 ## Summary of the Changes
 
@@ -27,8 +25,8 @@ In the latest update, the `README.md` file has been auto-updated with the follow
 ### Notable Code Changes
 
 ```diff
-- Welcome to the **DSA Questions** repository! This repository contains a collection of Data Structures and Algorithms (DSA) problems designed to enhance your programming skills.
-+ Welcome to the **DSA Questions** repository! This repository is designed to help developers enhance their problem-solving skills by providing a structured set of DSA problems, solutions, and explanations. 🤖
+- Welcome to the **DSA Questions** repository! This repository is designed to help developers enhance their problem-solving skills by providing a structured set of DSA problems, solutions, and explanations. 🤖
++ Welcome to the **DSA Questions** repository! This repository contains a collection of Data Structures and Algorithms (DSA) problems designed to enhance your programming skills.
 ```
 
 ## Installation
