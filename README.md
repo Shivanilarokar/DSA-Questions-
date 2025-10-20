@@ -1,10 +1,9 @@
 ```markdown
-# DSA Questions Repository 🚀
+# DSA Questions Repository
 
 ![Last Commit](https://img.shields.io/github/last-commit/Shivanilarokar/DSA-Questions-) ![License](https://img.shields.io/badge/license-MIT-blue)
 
-## Overview
-Welcome to the DSA Questions repository! This project contains a collection of Data Structures and Algorithms (DSA) questions along with their solutions. It aims to help developers and learners practice and enhance their problem-solving skills.
+Welcome to the DSA Questions repository! This project contains a comprehensive collection of Data Structures and Algorithms (DSA) questions along with their solutions. It aims to help developers and learners practice and enhance their problem-solving skills.
 
 ## Features
 - Comprehensive collection of DSA questions and solutions.
@@ -12,7 +11,7 @@ Welcome to the DSA Questions repository! This project contains a collection of D
 - Examples provided for better understanding of concepts.
 
 ## Summary of the Changes
-In this update, several modifications were made to enhance the README.md file:
+In this update, several modifications were made to enhance the `README.md` file:
 - Consolidated badge display for better aesthetics.
 - Removed redundant instructions regarding exploring the directory.
 - Updated the Fibonacci function example to improve clarity and functionality.
