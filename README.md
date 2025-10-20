@@ -10,8 +10,8 @@ This repository contains various DSA problems designed to enhance your coding sk
 
 ## Features ✨
 - Comprehensive collection of DSA problems
-- Detailed explanations and examples
-- Community-driven contributions
+- Detailed explanations and code snippets
+- Community contributions are welcomed
 
 ## Summary of the Changes
 In the latest update, the README.md file has been modified to enhance its presentation and clarity. Key changes include:
@@ -20,16 +20,17 @@ In the latest update, the README.md file has been modified to enhance its presen
 - Slight reformatting of the welcome message for improved readability.
 - Added a code snippet section to illustrate how to structure code for DSA problems.
 
-## Installation 🚀
-To get started with this repository, simply clone it using the following command:
+## Installation
+To get started, clone the repository using the following command:
 
 ```bash
 git clone https://github.com/Shivanilarokar/DSA-Questions-.git
 ```
 
 ## Usage
-Navigate through the various DSA problems in the repository and utilize the code examples provided.
+Navigate through the various DSA problems in the repository and utilize the code examples provided for practice and learning.
 
+## Example
 Here’s a simple function example to illustrate how you might structure your code:
 
 ```python
@@ -40,4 +41,6 @@ def example_function():
 ```
 
 Feel free to explore and contribute to the repository!
+
+Thank you for checking out the DSA Questions repository! Happy coding! 🚀
 ```
