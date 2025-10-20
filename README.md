@@ -21,21 +21,34 @@ In the recent updates, minor modifications have been made to enhance the readabi
 Here are some snippets of the changes made:
 
 ```markdown
--# DSA Questions Repository
-+# DSA Questions Repository 🚀
-
-## Features ✨
-- **Diverse Problems**: A wide range of DSA problems to solve.
-- **Easy Navigation**: Clear structure to help you find problems quickly.
-- **Helpful Examples**: Code snippets and explanations for better understanding.
+# DSA Questions Repository 🚀
 ```
 
 ```python
 def example_algorithm(data):
--    # Implementation goes here
-+    # Your algorithm implementation here
+    # Implementation goes here
+    # Your algorithm implementation here
     pass
 ```
 
-Feel free to explore, contribute, and enhance your DSA skills! Happy coding! 😃
+## Installation
+To get started with this repository, clone it using the following command:
+
+```bash
+git clone https://github.com/Shivanilarokar/DSA-Questions-
+```
+
+## Usage
+After cloning the repository, navigate to the directory and start practicing with the provided problems. Each problem comes with examples and explanations to help you along the way.
+
+## Example
+Here's a simple example of how you can implement an algorithm:
+
+```python
+def example_algorithm(data):
+    # Your algorithm implementation here
+    pass
+```
+
+We hope you find this repository helpful in your DSA learning journey! Happy coding! 😊
 ```
