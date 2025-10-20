@@ -1,5 +1,5 @@
 ```markdown
-# DSA Questions Repository 📚
+# DSA Questions Repository 📖
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
 
@@ -20,6 +20,11 @@ In the latest update, we have made a small yet significant enhancement to the Fi
 def fibonacci(n):
     if n <= 1:
         return n
+    else:  # Added else clause for clarity
+        return fibonacci(n-1) + fibonacci(n-2)
+
+result = fibonacci(10)
+print(f"The 10th Fibonacci number is: {result}")
 ```
 
 ## Installation
@@ -30,7 +35,6 @@ git clone https://github.com/Shivanilarokar/DSA-Questions-
 
 ## Usage
 Navigate to the folder containing the cloned repository and run the Python scripts to explore the DSA questions and their solutions.
-
 ```bash
 cd DSA-Questions-
 python your_script.py
@@ -44,6 +48,8 @@ print(f"The 10th Fibonacci number is: {result}")
 ```
 
 Feel free to explore, contribute, and enhance your understanding of Data Structures and Algorithms with this repository!
-```
 
 This README provides a clear overview of the repository, highlights the recent changes, and offers concise usage instructions, all while maintaining a professional and engaging tone.
+
+Happy coding! 🚀
+```
