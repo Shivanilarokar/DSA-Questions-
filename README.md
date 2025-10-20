@@ -32,13 +32,15 @@ Here are the key changes made in the `README.md` file:
 ```diff
 -## Summary of Changes 📝
 +## Summary of Changes 📝
- 
-To get started with this repository, clone it to your local machine:
+
+-To get started with this repository, clone it to your local machine:
++
++To get started with this repository, clone it to your local machine:
 
 ```bash
 -git clone https://github.com/Shivanilarokar/DSA-Questions-
 +git clone https://github.com/Shivanilarokar/DSA-Questions-.git
-cd DSA-Questions-
+ cd DSA-Questions-
 ```
 ```
 
@@ -61,7 +63,6 @@ Here’s an example function you might find in the repository:
 
 ```python
 def example_function():
-    # Example implementation
     print("This is an example function.")
 ```
 
