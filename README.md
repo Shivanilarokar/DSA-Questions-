@@ -1,5 +1,5 @@
 ```markdown
-# DSA Questions 📖
+# DSA Questions 🌐
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-?style=social) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-?style=social) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
 
@@ -11,7 +11,8 @@ This repository contains various questions and solutions related to Data Structu
 ## Features
 - A wide range of DSA questions categorized by difficulty.
 - Solutions provided for each question.
-- Community contributions are encouraged!
+- Easy navigation to quickly find relevant questions.
+- Community contributions are encouraged! 🤝
 
 ## Summary of the Changes
 In the latest update, the following changes were made to the README.md file:
@@ -31,23 +32,26 @@ cd DSA-Questions-
 ```
 
 ## Usage
-Navigate to the desired directory and open the relevant files to start solving questions. You can also contribute by adding new questions or improving existing solutions.
+Once you have cloned the repository, you can explore various DSA questions and solutions. 
 
-## Example
-Here’s a simple example of how to create a new question entry:
+### Example
+Here is a simple example demonstrating a Fibonacci function:
 
-```markdown
-## Question Title
-### Description
-Provide a brief description of the problem.
-
-### Solution
 ```python
-def example_solution():
-    # Your solution code here
-    pass
-```
+def fibonacci(n):
+    if n <= 0:
+        return 0
+    elif n == 1:
+        return 1
+    else:
+        return fibonacci(n-1) + fibonacci(n-2)
+
+print(fibonacci(5))  # Output: 5
 ```
 
-Feel free to explore and contribute to the repository! Happy coding! 🚀
+Feel free to contribute to the repository by submitting your own DSA questions or solutions!
+
+---
+
+Thank you for visiting the DSA Questions repository! Happy coding! 🎉
 ```
