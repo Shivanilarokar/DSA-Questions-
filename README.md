@@ -9,12 +9,12 @@ Welcome to the DSA Questions repository! This repository is designed to help you
 - **Easy Navigation**: Clear structure to help you find problems quickly.
 - **Helpful Examples**: Code snippets and explanations for better understanding.
 
-## Summary of the Changes
-In the latest update, the README.md file has been refined to enhance clarity and improve the overall presentation. Key changes include:
-- Updated the introduction for clarity and better engagement.
-- Revised the features section for a more concise overview.
-- Changed the usage section header to a more visually appealing format.
-- Improved the example code snippet for clarity.
+## Summary of Changes
+In this update, the README.md file has been enhanced to improve clarity and readability. The following modifications were made:
+- Improved the formatting of the repository title.
+- Added badges for stars, forks, and issues to provide quick insights into the repository's popularity and activity.
+- Refined the usage instructions to provide clearer steps for users.
+- Adjusted the example section to better convey the purpose of the code snippet.
 
 ## Installation
 To get started with this repository, clone it using the following command:
@@ -23,6 +23,7 @@ To get started with this repository, clone it using the following command:
 git clone https://github.com/Shivanilarokar/DSA-Questions-
 ```
 
+## 🛠️ Usage
 1. Navigate into the cloned directory.
 2. Explore the various DSA problems available.
 3. Implement your solutions based on the provided examples.
