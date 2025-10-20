@@ -1,7 +1,6 @@
 ```markdown
-# DSA Questions 📖
+# DSA Questions 📚
 
-[![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-.svg)](https://github.com/Shivanilarokar/DSA-Questions-/network) 
 [![GitHub stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-.svg)](https://github.com/Shivanilarokar/DSA-Questions-/stargazers)
 
 ## Overview
@@ -9,15 +8,15 @@ Welcome to the **DSA Questions** repository! This repository contains a collecti
 
 ## Features
 - Comprehensive list of DSA problems.
-- Clear and concise solutions with explanations.
-- Organized structure for easy navigation.
+- Well-documented solutions.
+- Easy-to-navigate directory structure.
 
 ## Summary of the Changes
-In the latest update, we have made significant improvements to the `README.md` file, including:
+In the latest update, we have made significant improvements to the `README.md` file to enhance clarity and usability. Key changes include:
 
-- Enhanced the descriptions under the **Features** section for improved clarity.
-- Refined the example code for the binary search algorithm for better readability.
-- Added an example of how to use the binary search function.
+- Improved introduction for better engagement.
+- Enhanced explanation of the binary search algorithm with updated code.
+- Simplified installation and usage instructions.
 
 ### Updated Binary Search Example
 ```python
@@ -26,7 +25,7 @@ def binary_search(arr, target):
     while left <= right:
         mid = left + (right - left) // 2
         if arr[mid] == target:
-            return mid
+            return mid  # Target found
         elif arr[mid] < target:
             left = mid + 1
         else:
