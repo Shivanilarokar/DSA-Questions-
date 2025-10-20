@@ -24,40 +24,38 @@ In the latest update, the `README.md` file underwent significant modifications t
 Here are some of the key updates made in the README:
 
 ```diff
---# DSA Questions Repository
--+# DSA Questions Repository 🎉
-+# DSA Questions Repository 🤖
+--# DSA Questions Repository 🎉
++-# DSA Questions Repository
++# DSA Questions Repository 🎉
  
---Welcome to the DSA Questions repository! This repository contains a collection of data structure and algorithm questions to help you master coding interviews and improve your problem-solving skills.
-+Welcome to the DSA Questions repository! This project contains a collection of data structure and algorithm questions designed to help you improve your coding skills.
-+Additionally, the formatting has been improved for better readability.
+--Welcome to the DSA Questions repository! This project contains a collection of Data Structure and Algorithm questions designed to help you improve your coding skills.
+++Welcome to the DSA Questions repository! This repository contains a collection of data structure and algorithm questions to help you master coding interviews and improve your problem-solving skills.
 ```
 
 ## Installation
 
-To get started, clone the repository using the following command:
+To get started with this repository, clone it using the following command:
 
 ```bash
 git clone https://github.com/Shivanilarokar/DSA-Questions-
 ```
 
-Once cloned, you can navigate through the questions and solutions provided.
-
 ## Usage
 
-Once you have cloned the repository, navigate into the directory and follow the provided guidelines to explore the questions and solutions.
+Once cloned, navigate to the directory and start solving the problems!
+
+```bash
+cd DSA-Questions-
+```
 
 ## Example
 
-Here’s a quick example of how to use the repository:
+Here’s how you can use the repository to practice a specific problem:
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Shivanilarokar/DSA-Questions-
-   ```
-2. Navigate to the questions directory and select a question to solve!
-
-Feel free to contribute by adding more questions or improving existing solutions!
+1. Open the problem file in your preferred code editor.
+2. Read the problem statement carefully.
+3. Implement your solution in the designated coding language.
+4. Test your solution against the provided test cases.
 
 Happy coding! 🚀
 ```
