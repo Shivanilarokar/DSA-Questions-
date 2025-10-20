@@ -1,17 +1,15 @@
 ```markdown
-# DSA Questions Repository 🤖
+# DSA Questions Repository 📚
 
-![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
-
-Welcome to the DSA Questions repository! This repository contains a collection of Data Structures and Algorithms (DSA) questions designed to help you practice and master your skills.
+![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![License](https://img.shields.io/badge/license-MIT-blue)
 
 ## Overview 🌟
-This repository aims to provide a comprehensive set of DSA questions that can help you in practicing and mastering data structures and algorithms. The collection is suitable for beginners as well as experienced programmers looking to brush up on their skills.
+This repository aims to provide a comprehensive set of Data Structures and Algorithms (DSA) questions that can help developers enhance their problem-solving skills and prepare for technical interviews.
 
-## Features ✔️
-- Collection of various DSA problems
-- Problem solutions with detailed explanations
-- Community contributions and collaboration
+## Features 🚀
+- A wide variety of DSA problems categorized by topics.
+- Problem solutions with detailed explanations.
+- Community contributions and collaboration.
 
 ## Summary of the Changes 📝
 In the latest update, the README.md file has been enhanced with:
@@ -36,14 +34,11 @@ Navigate through the directory to find various DSA problems categorized by topic
 Here's a glimpse of how the README.md looks after the latest changes:
 
 ```markdown
-# DSA Questions Repository 🤖
-
-## Overview 🌟
-This repository aims to provide a comprehensive set of DSA questions...
-
-## Features ✔️
-- Collection of various DSA problems...
+# DSA Questions Repository 📚
+...
+## Summary of the Changes 📝
+...
 ```
 
-We welcome contributions! Feel free to open issues or submit pull requests as you explore and improve the collection. Happy coding! 💻
+Thank you for checking out the DSA Questions repository! We welcome contributions and suggestions to make this repository even better. Happy coding! 💻
 ```
