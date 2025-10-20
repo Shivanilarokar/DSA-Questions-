@@ -20,7 +20,6 @@ In the latest commit, the README file has been updated to enhance its clarity an
 
 ## Installation 🛠️
 To get started, clone the repository to your local machine:
-
 ```bash
 git clone https://github.com/Shivanilarokar/DSA-Questions-
 cd DSA-Questions-
@@ -31,11 +30,6 @@ Once you have cloned the repository, you can explore the problems and solutions.
 
 ## Example Problem 💡
 Here's a code snippet for a common problem, the "Two Sum":
-
-**Problem Statement**: Given an array of integers, return indices of the two numbers such that they add up to a specific target.
-
-**Example Solution**:
-
 ```python
 def two_sum(nums, target):
     num_map = {}
@@ -47,4 +41,6 @@ Feel free to explore the repository, contribute, and enhance your skills in data
 ---
 
 ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![GitHub stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-)
+
+Happy coding! 🎉
 ```
