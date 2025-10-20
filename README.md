@@ -1,24 +1,20 @@
 ```markdown
-# DSA Questions Repository 📖
+# DSA Questions 📚
 
-![GitHub stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-?style=social) ![License](https://img.shields.io/badge/license-MIT-blue.svg)
-
-Welcome to the **DSA Questions** repository! This repository provides a collection of DSA-related questions, complete with solutions and explanations. It serves as a valuable resource for students and professionals looking to improve their understanding of data structures and algorithms. Problems are categorized by difficulty level, allowing developers to progress at their own pace.
+![GitHub repo size](https://img.shields.io/github/repo-size/Shivanilarokar/DSA-Questions-) ![GitHub last commit](https://img.shields.io/github/last-commit/Shivanilarokar/DSA-Questions-) ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ## Overview
-This repository contains a variety of data structure and algorithm problems designed to help you enhance your coding skills and problem-solving abilities.
+Welcome to the DSA Questions repository! This repository is dedicated to providing a collection of Data Structures and Algorithms (DSA) related questions, solutions, and examples. It aims to help developers enhance their coding skills and prepare for technical interviews.
 
 ## Features
-- **Diverse Problem Set**: A wide range of problems covering various data structures and algorithms.
-- **Solutions and Explanations**: Each problem includes detailed solutions to help you understand the concepts better.
+- Collection of DSA questions with categorized solutions.
+- Code snippets for better understanding.
+- Easy-to-follow structure for users of all skill levels.
 
 ## Summary of the Changes
-In the latest update, the README file has been modified to enhance clarity and presentation. Key changes include:
-- Improved descriptions for better understanding.
-- Enhanced structure and readability of the content.
-- Updated the features list for clarity and detail.
-- Enhanced the usage instructions to facilitate user engagement.
-- Revised code example for better illustration of problem-solving structure.
+In this update, the README.md file has been auto-updated to reflect the latest changes. The modifications include:
+- Minor text adjustments for clarity and conciseness.
+- Improved formatting for a better reading experience.
 
 ## Installation
 To get started with the DSA Questions repository, simply clone the repo and install any dependencies if needed:
@@ -29,17 +25,14 @@ cd DSA-Questions-
 ```
 
 ## Usage
-Explore the repository to find problems categorized by difficulty, and start solving them to improve your DSA skills. Feel free to contribute and enhance the repository further. Happy coding! 🚀
-
-## Example
-Here’s a simple example of how to structure your problem-solving code:
+Here’s how you can use the repository to solve a sample problem:
 
 ```python
-# Example code snippet for a DSA problem
 def example_problem(input):
     # Your solution here
     return output
 ```
 
+## Example
 This README provides a comprehensive overview of the DSA Questions repository, highlighting key features and summarizing the latest changes to enhance user experience. Feel free to explore, contribute, and improve your DSA skills! 🎉
 ```
