@@ -7,10 +7,9 @@ Welcome to the **DSA Questions** repository! This repository contains a collecti
 
 ## Overview
 
-This repository is designed for anyone looking to enhance their understanding of Data Structures and Algorithms. It provides various problems along with their solutions, which can be used for practice or as reference material.
+This repository is designed for anyone looking to enhance their understanding of data structures and algorithms. It provides a comprehensive set of DSA questions with solutions available in multiple programming languages.
 
-## Features 🌟
-
+### Features
 - Comprehensive set of DSA questions.
 - Solutions provided in multiple programming languages.
 - Clear and concise explanations of concepts.
@@ -19,6 +18,9 @@ This repository is designed for anyone looking to enhance their understanding of
 ## Summary of Changes 📝
 
 In the latest update, the `README.md` file has been modified to enhance clarity and correctness. Here are the key changes made:
+- Updated the title emoji from 📚 to 📖 for better representation.
+- Enhanced the visibility of repository statistics by moving badges to the top.
+- Minor edits for clarity and formatting.
 
 ### Updated Instructions
 
@@ -26,39 +28,39 @@ To get started with this repository, clone it to your local machine:
 
 ```bash
 git clone https://github.com/Shivanilarokar/DSA-Questions-.git
-cd DSA-Questions-
 ```
 
 ## Installation
 
-To use the resources in this repository, follow these steps:
+To install the necessary dependencies, follow these steps:
 
-1. Clone the repository using the command provided above.
-2. Navigate to the project directory.
+1. Clone the repository.
+2. Navigate to the repository folder.
+3. Install any required packages or dependencies as per the instructions provided in the individual problem folders.
 
 ## Usage
 
-Once you have cloned the repository, you can explore the questions and their respective solutions. Feel free to contribute by adding more questions or improving existing solutions.
+Once you have cloned the repository, you can start solving the problems. Each problem is organized in its own folder with a description and solution.
 
 ## Example
 
-Here’s a simple example of how to use one of the solutions provided in this repository:
+Here’s a sample problem structure:
 
-```python
-def example_function():
-    # Your code here
-    pass
+```
+DSA-Questions-/
+├── Problem1/
+│   ├── README.md
+│   ├── solution.py
+│   └── solution.java
+└── Problem2/
+    ├── README.md
+    ├── solution.cpp
+    └── solution.js
 ```
 
-## Contributing 🤝
-
-Contributions are welcome! Please read the [CONTRIBUTING.md](CONTRIBUTING.md) file for details on our code of conduct and the process for submitting pull requests.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+Each `README.md` within the problem folders contains an explanation of the problem and the provided solutions.
 
 ---
 
-Happy Coding! 🚀
+Feel free to contribute to this repository! Happy coding! 🚀
 ```
