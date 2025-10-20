@@ -7,34 +7,41 @@ Welcome to the **DSA Questions** repository! This repository contains a comprehe
 
 ## Features
 - ✅ Comprehensive set of DSA questions
-- 📖 Structured guidance for each question
-- 🌐 Easy access and contribution guidelines
+- 🛠️ Easy to navigate and contribute
+- 🌍 Community-driven enhancements
 
 ## Summary of the Changes
-In the latest update, the `README.md` has been auto-updated to improve clarity and provide additional resources:
-- Added a link to the GitHub repository for easy access.
-- Enhanced installation instructions for better user experience.
+In this recent update, the README.md has been auto-updated to enhance its presentation and clarity. Notable changes include:
+- Added badges for the last commit, license, repository size, stars, and forks to improve visibility and engagement.
+- Improved formatting and structure for better readability.
+
+### Snippet of the Changes
+Here are the key changes made in the README.md file:
+
+```markdown
+![Last Commit](https://img.shields.io/github/last-commit/Shivanilarokar/DSA-Questions-) ![License](https://img.shields.io/badge/license-MIT-blue) ![GitHub Repo size](https://img.shields.io/github/repo-size/Shivanilarokar/DSA-Questions-) ![GitHub stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-?style=social) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-?style=social)
+```
 
 ## Installation
-To get started with the DSA Questions repository, clone the repository to your local machine:
+To get started with the DSA Questions repository, clone the repository using:
 
 ```bash
-git clone https://github.com/Shivanilarokar/DSA-Questions.git
+git clone https://github.com/Shivanilarokar/DSA-Questions-
 ```
 
 ## Usage
-To effectively structure your DSA questions, please follow the template below:
-
-```markdown
-# Question Title
-
-## Description
-Provide a brief description of the problem.
+Explore the various DSA questions available in the repository. You can also contribute by adding new questions or improving existing ones.
 
 ## Example
-Input: 
-Output: 
+Here's a simple example of how to use the questions provided in the repository:
+
+```python
+# Example of a DSA question usage
+def example_function():
+    # Your code here
+    pass
 ```
 
 Feel free to contribute by adding new questions or improving existing ones. Your contributions are greatly appreciated! 🚀
+
 ```
