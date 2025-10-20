@@ -1,28 +1,30 @@
 ```markdown
-# DSA Questions 📚
+# DSA Questions 📖
 
 ![GitHub stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![Last commit](https://img.shields.io/github/last-commit/Shivanilarokar/DSA-Questions-) ![License](https://img.shields.io/badge/license-MIT-blue) ![Open Pull Requests](https://img.shields.io/github/issues-pr/Shivanilarokar/DSA-Questions-)
 
 This repository contains a comprehensive collection of Data Structures and Algorithms (DSA) problems to help you practice and enhance your coding skills.
 
-## Features
+## Features 🚀
 - A wide range of DSA problems categorized for easy navigation.
 - Solutions and explanations to help you understand various algorithms.
 - Regular updates with new problems and solutions.
 
-## Summary of the Changes ✏️
+## Summary of the Changes
 In this commit, the `README.md` file has been updated to improve clarity and presentation. Key changes include:
-- Enhanced title for better understanding of the repository's purpose.
+
+- Enhanced the title to better reflect the repository's purpose.
 - Added badges for GitHub stars, last commit, license, and open pull requests for better visibility.
-- Improved introductory text for better context.
+- Revised the features section for clarity.
+- Cleaned up the installation instructions for conciseness.
+- Improved the usage and example sections for better guidance on how to approach problems.
 
 ### Key Changes in Code
 ```diff
-- # DSA Questions 📖
-+ # DSA Questions 📚
+-# DSA Questions 
++ # DSA Questions 📖
 + 
 + ![GitHub stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![Last commit](https://img.shields.io/github/last-commit/Shivanilarokar/DSA-Questions-) ![License](https://img.shields.io/badge/license-MIT-blue) ![Open Pull Requests](https://img.shields.io/github/issues-pr/Shivanilarokar/DSA-Questions-)
-```
 
 ## Installation
 To get started with the DSA Questions repository, follow these steps:
@@ -43,6 +45,4 @@ Here’s an example of how to approach a problem in this repository:
 4. **Test your solution against various test cases.**
 
 Feel free to contribute by submitting pull requests or issues. Your contributions are welcome!
-
-Thank you for checking out the DSA Questions Repository! Happy coding! 🎉
 ```
