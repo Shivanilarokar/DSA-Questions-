@@ -16,7 +16,6 @@ In the latest commit, the following changes were made to the `README.md` file:
 - Updated the badge for the last commit to provide more relevant information.
 - Improved the language and flow in the instructions for cloning and exploring the repository.
 - Enhanced the example section title for better clarity.
-- Minor grammatical adjustments to improve readability.
 
 ## Installation
 To get started with this repository, simply clone it to your local machine:
@@ -25,11 +24,13 @@ To get started with this repository, simply clone it to your local machine:
 git clone https://github.com/Shivanilarokar/DSA-Questions-
 ```
 
+Once cloned, navigate to the desired directory and explore the DSA questions and their solutions.
+
 ## Usage
 Explore the various DSA problems and their solutions available in this repository. You can contribute by adding more solutions or improving existing ones.
 
 ### Example
-Here is an example of the Fibonacci function implemented in Python:
+Here’s a simple example of a Fibonacci function:
 
 ```python
 def fibonacci(n):
@@ -39,12 +40,11 @@ def fibonacci(n):
         return [0]
     elif n == 2:
         return [0, 1]
-    
-    fib_sequence = [0, 1]
-    for i in range(2, n):
-        fib_sequence.append(fib_sequence[-1] + fib_sequence[-2])
-    
-    return fib_sequence
+    else:
+        fib_seq = [0, 1]
+        for i in range(2, n):
+            fib_seq.append(fib_seq[i-1] + fib_seq[i-2])
+        return fib_seq
 
 print(fibonacci(10))  # Output: [0, 1, 1, 2, 3, 5, 8, 13, 21, 34]
 ```
@@ -53,4 +53,8 @@ Feel free to modify and enhance this function based on your understanding!
 
 ## Contributing
 We welcome contributions! Please feel free to open issues or submit pull requests to help improve this repository.
+
+---
+
+Thank you for checking out the DSA Questions Repository! Happy coding! 🚀
 ```
