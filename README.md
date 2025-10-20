@@ -8,6 +8,7 @@ The DSA Questions repository is a collection of data structure and algorithm pro
 
 ## Features
 - Comprehensive collection of DSA problems
+- Solutions in multiple programming languages
 - Well-commented code snippets
 - Easy to navigate structure
 - Community contributions are welcomed!
@@ -20,18 +21,14 @@ In the latest update, the `README.md` file has been refined to enhance clarity a
 
 ### Code Snippets Changed
 ```markdown
--## Overview
--The DSA Questions repository is a collection of data structure and algorithm problems designed to help developers enhance their coding skills and prepare for technical interviews.
-+The DSA Questions repository is a collection of data structure and algorithm problems designed to enhance your coding skills through practice and exploration.
+## Overview
+The DSA Questions repository is a collection of data structure and algorithm problems designed to enhance your coding skills through practice and exploration.
 
 ## Features
--- A wide variety of DSA questions
--- Solutions in multiple programming languages
--- Code snippets with detailed explanations
-+- Comprehensive collection of DSA problems
-+- Well-commented code snippets
-+- Easy to navigate structure
-+- Community contributions are welcomed!
+- Comprehensive collection of DSA problems
+- Well-commented code snippets
+- Easy to navigate structure
+- Community contributions are welcomed!
 ```
 
 ## Installation
