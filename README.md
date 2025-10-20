@@ -1,7 +1,6 @@
 ```markdown
-# DSA Questions 🚀
+# DSA Questions
 
-![Contributors](https://img.shields.io/github/contributors/Shivanilarokar/DSA-Questions-) 
 ![Open Issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
 
 ## Overview
@@ -22,8 +21,8 @@ In the latest update, the `README.md` file has been refined to enhance clarity a
 - Updated the repository title from `# DSA Questions Repository` to `# DSA Questions`.
 - Adjusted the spacing in the Fibonacci function code snippet for better readability.
 
-## Installation 🛠️
-To get started with the DSA Questions repository, clone the repository using the following command:
+## Installation
+To get started, clone the repository using the following command:
 
 ```bash
 git clone https://github.com/Shivanilarokar/DSA-Questions-
@@ -37,6 +36,7 @@ Here’s an example of a Fibonacci function included in the repository:
 
 ```python
 def fibonacci(n):
+    """Returns the nth Fibonacci number."""
     if n <= 0:
         return 0
     elif n == 1:
