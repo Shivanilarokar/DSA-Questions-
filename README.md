@@ -1,5 +1,5 @@
 ```markdown
-# DSA Questions Repository
+# DSA Questions Repository 📚
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/Shivanilarokar/DSA-Questions-) ![GitHub contributors](https://img.shields.io/github/contributors/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
 
@@ -44,22 +44,19 @@ def example_algorithm(data):
     return sorted(data)
 ```
 
-## Installation 🔧
+## Installation 🚀
 
 To get started with the DSA Questions repository, clone the repository using the following command:
 
 ```bash
 git clone https://github.com/Shivanilarokar/DSA-Questions-.git
-cd DSA-Questions-
 ```
-
-## Usage 🚀
 
 This section will include usage examples and guidelines for running the algorithms present in this repository.
 
 Feel free to contribute by submitting your own DSA problems and solutions!
 
-## Example 📚
+## Example 📖
 
 Here’s an example of how to implement a simple algorithm:
 
