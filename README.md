@@ -1,5 +1,5 @@
 ```markdown
-# DSA Questions Repository 📚
+# DSA Questions Repository 📖
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/Shivanilarokar/DSA-Questions-) ![GitHub contributors](https://img.shields.io/github/contributors/Shivanilarokar/DSA-Questions-) ![GitHub stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-)
 
@@ -13,12 +13,16 @@ This repository provides a comprehensive collection of data structures and algor
 
 ## Summary of the Changes ⚡
 In the latest update, the `README.md` file has been auto-updated to enhance clarity and usability. Key changes include:
-
-- Updated the title to "DSA Questions Repository" for better context.
-- Added a badge for the last commit and contributors for improved repository insights.
-- Enhanced the overview section for better understanding of the repository's purpose.
-- Added a new feature highlighting user-friendly documentation.
-- Improved the clone command clarity by including the `.git` suffix.
+- Updated the title to **"DSA Questions Repository"** for better context.
+- Added badges for the last commit and contributors for improved repository insights.
+- Enhanced the overview section for a clearer understanding of the repository's purpose.
+- Highlighted user-friendly documentation as a new feature.
+- Improved the clone command clarity by including the `.git` suffix:
+    ```bash
+    git clone https://github.com/Shivanilarokar/DSA-Questions-.git
+    ```
+- Updated usage instructions to provide clearer context:
+    > Once you have cloned the repository, navigate to the directory and explore the DSA questions available. You can run the solutions in your preferred programming language. Navigate through the categorized problems and select any question to practice. Each problem includes an explanation and sample solutions.
 
 ## Installation 🔧
 To get started, clone the repository using the following command:
