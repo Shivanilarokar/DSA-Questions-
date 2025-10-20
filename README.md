@@ -3,12 +3,14 @@
 
 Welcome to the DSA Questions repository! This project is designed to help you practice and enhance your Data Structures and Algorithms (DSA) skills through a variety of problems.
 
+![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
+
 ## ✨ Features
 - **Wide Range of Problems**: Explore various DSA problems categorized for easy navigation.
 - **Easy Navigation**: Clear structure to help you find problems quickly.
 - **Helpful Examples**: Code snippets and explanations for better understanding.
 
-## 📋 Summary of the Changes
+## 📜 Summary of the Changes
 In this update, the following changes were made to the `README.md` file:
 
 - Enhanced the repository title with an emoji for better visual appeal.
@@ -32,8 +34,9 @@ Here’s a simple example of how you can implement an algorithm:
 
 ```python
 def example_algorithm(data):
+    # Your algorithm implementation here
     pass
 ```
 
-Feel free to contribute by adding more problems or improving existing ones. Happy coding! 🎉
+Feel free to contribute to this repository by submitting pull requests or opening issues. Happy coding! 😊
 ```
