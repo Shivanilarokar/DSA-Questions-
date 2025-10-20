@@ -11,14 +11,14 @@ This repository aims to provide a comprehensive collection of Data Structures an
 - Detailed explanations for each solution.
 - Code examples demonstrating different DSA concepts.
 
-## Summary of the Changes 📝
-In this recent update, the following changes were made to the README.md file:
+## Summary of the Changes 📜
+In this recent update, the following changes were made to the `README.md` file:
 - Added an **Overview** section to better explain the purpose of the repository.
 - Removed redundant text in the **Usage** section for clarity.
 - Adjusted the **License** section formatting for consistency.
 - Added a concluding note to encourage exploration and contributions to the repository.
 
-## Installation
+## Installation ⚙️
 To get a local copy of this repository, clone it using the following command:
 
 ```bash
@@ -42,10 +42,6 @@ def fibonacci(n):
 This function calculates the Fibonacci number for a given `n`, demonstrating recursion.
 
 ## Contributing 🤝
-Contributions are welcome! Please feel free to submit a pull request or open an issue.
+We welcome contributions to enhance this repository further. Feel free to submit issues or pull requests to improve the content and solutions provided!
 
-## License 📜
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-Feel free to explore the repository, contribute, and improve your coding skills! Happy coding! 😎
 ```
