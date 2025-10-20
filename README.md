@@ -1,11 +1,14 @@
 ```markdown
 # DSA Questions 📖
 
-![Repository Size](https://img.shields.io/github/repo-size/Shivanilarokar/DSA-Questions-) 
-![Last Commit](https://img.shields.io/github/last-commit/Shivanilarokar/DSA-Questions-) 
+![Repository Size](https://img.shields.io/github/repo-size/Shivanilarokar/DSA-Questions-)
+![Last Commit](https://img.shields.io/github/last-commit/Shivanilarokar/DSA-Questions-)
+![License](https://img.shields.io/github/license/Shivanilarokar/DSA-Questions-)
+
+Welcome to the **DSA Questions** repository! This repository contains a collection of Data Structures and Algorithms (DSA) problems, solutions, and resources aimed at helping developers enhance their coding skills.
 
 ## Overview
-Welcome to the DSA Questions repository! This repository contains a collection of Data Structures and Algorithms (DSA) problems, solutions, and resources aimed at helping developers enhance their coding skills.
+This repository provides a variety of data structure and algorithm problems designed to help you enhance your coding skills and problem-solving abilities.
 
 ## Features
 - A wide variety of DSA problems categorized for easy navigation.
@@ -24,21 +27,28 @@ To get started with the DSA Questions repository, simply clone the repository to
 
 ```bash
 git clone https://github.com/Shivanilarokar/DSA-Questions-
-cd DSA-Questions-
 ```
 
 ## Usage
-Explore the various problems and contribute your solutions! Feel free to check out the repository and start contributing! Your contributions are welcome and appreciated. Happy coding! 🎉
+Once you have cloned the repository, navigate to the folder and explore the various DSA problems and their solutions. You can also contribute by adding your solutions or improving existing ones.
 
 ## Example
-Here’s a simple example of a function that demonstrates DSA principles:
+Here's a simple example demonstrating a common DSA problem:
 
 ```python
-def example_function(data):
-    # A simple example function that prints each element
-    for item in data:
-        print(item)
+def fibonacci(n):
+    if n <= 0:
+        return 0
+    elif n == 1:
+        return 1
+    else:
+        return fibonacci(n-1) + fibonacci(n-2)
+
+print(fibonacci(10))  # Output: 55
 ```
 
-Feel free to modify and enhance this repository with your own solutions and examples!
+Feel free to explore, contribute, and enhance the collection of DSA questions and solutions!
+
+---
+Thank you for visiting the DSA Questions repository! We hope you find it helpful in your coding journey. 😊
 ```
