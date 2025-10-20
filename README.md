@@ -1,9 +1,9 @@
 ```markdown
 # DSA Questions Repository 🤖
 
-![GitHub stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-.svg?style=social) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-.svg?style=social)
-
 The DSA Questions repository is designed to help you practice and improve your coding skills through a comprehensive collection of Data Structures and Algorithms (DSA) problems.
+
+![GitHub stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-.svg?style=social) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-.svg?style=social)
 
 ## Features ✨
 - **Diverse Questions**: Explore a wide range of DSA problems.
@@ -13,6 +13,10 @@ The DSA Questions repository is designed to help you practice and improve your c
 ## Summary of Changes
 In the latest update, the README has been enhanced to include a dedicated **Features** section, highlighting the core advantages of the repository. Minor formatting adjustments were also made for improved readability.
 
+### Key Changes:
+- Added a **Features** section to emphasize repository strengths.
+- Minor formatting changes for clarity and presentation.
+
 ## Installation
 To get started, clone the repository using the following command:
 
@@ -21,24 +25,19 @@ git clone https://github.com/Shivanilarokar/DSA-Questions-
 ```
 
 ## Usage
-After cloning the repository, navigate to the directory and start exploring the DSA problems!
+Once cloned, navigate to the directory and start exploring the DSA problems. Each problem will have clear instructions and examples to help you understand the concepts.
 
 ## Example
-Here's a sample problem you might encounter:
+Here is an example of how to solve a problem in Python:
 
 ```python
-def fibonacci(n):
-    if n <= 0:
-        return 0
-    elif n == 1:
-        return 1
-    else:
-        return fibonacci(n-1) + fibonacci(n-2)
+def example_function():
+    # Your code here
+    pass
 ```
 
-Feel free to contribute by adding more problems or solutions to this repository!
+Feel free to contribute by submitting your own solutions and improvements to the repository!
 
 ---
-
-For more details, please refer to the [repository](https://github.com/Shivanilarokar/DSA-Questions-).
+Happy coding! 🚀
 ```
