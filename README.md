@@ -33,7 +33,7 @@ Here's a sample structure of how a problem solution can be organized:
 
 ```python
 def example_problem():
-    # Your solution code here
+    # Your solution here
     pass
 ```
 
@@ -41,7 +41,7 @@ Feel free to explore, contribute, and enjoy coding! Happy problem-solving! 🎉
 
 ## Contributions
 Contributions are welcome! Please feel free to submit pull requests or open issues.
-
+ 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 ```
