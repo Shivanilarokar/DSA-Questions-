@@ -1,7 +1,7 @@
 ```markdown
-# DSA Questions Repository 📚
+# DSA Questions Repository 📖
 
-[![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)](https://github.com/Shivanilarokar/DSA-Questions-/issues)
+![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
 [![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-)](https://github.com/Shivanilarokar/DSA-Questions-/network)
 [![GitHub stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-)](https://github.com/Shivanilarokar/DSA-Questions-/stargazers)
 
@@ -9,18 +9,19 @@
 
 Welcome to the DSA Questions repository! This repository contains a collection of data structures and algorithms (DSA) problems, along with their solutions and explanations. It's a great resource for anyone looking to improve their coding skills and prepare for technical interviews.
 
-## Features 🛠️
+## Features ⚙️
 
 - A variety of DSA problems categorized by topics.
 - Detailed code snippets and explanations for each problem.
 - Structured navigation through different algorithms.
 
-## Summary of the Changes 📡
+## Summary of the Changes 📜
 
 In the latest update, the `README.md` file was modified to enhance clarity and structure. Key changes include:
 
-- Improved introduction to the repository.
-- Enhanced clarity in the installation and usage instructions.
+- Improved introductory section to provide better context.
+- Added badges for GitHub issues, forks, and stars.
+- Enhanced feature descriptions for clarity.
 - Minor updates for better readability.
 
 ### Code Changes
@@ -28,8 +29,8 @@ In the latest update, the `README.md` file was modified to enhance clarity and s
 Here are some of the notable changes made in the README:
 
 ```diff
-- Navigate through the various DSA problems in the repository and utilize the code snippets provided.
-+ Navigate through a variety of DSA problems in the repository and utilize the code snippets provided.
+--- Navigate through a variety of DSA problems in the repository.
++++ Navigate through a variety of DSA problems in the repository and utilize the code snippets provided.
 ```
 
 ## Installation 💻
@@ -64,9 +65,7 @@ def example_function():
 
 Feel free to contribute to this repository by submitting issues or pull requests. Your contributions are welcome!
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
 Thank you for checking out the DSA Questions repository! Happy coding! 🎉
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 ```
