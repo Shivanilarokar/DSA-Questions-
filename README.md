@@ -12,7 +12,7 @@ Welcome to the DSA Questions repository! This repository is a collection of Data
 - Easy to navigate and contribute to.
 
 ## Summary of the Changes
-Recent updates have enhanced the README.md file with clearer instructions and an improved example for the Fibonacci sequence function. Key changes include:
+Recent updates have enhanced the `README.md` file with clearer instructions and an improved example for the Fibonacci sequence function. Key changes include:
 - Revised the example usage of the Fibonacci function to provide better clarity.
 - Updated the implementation of the Fibonacci function for better efficiency.
 
@@ -21,7 +21,6 @@ To get started with the DSA Questions repository, clone the repo to your local m
 
 ```bash
 git clone https://github.com/Shivanilarokar/DSA-Questions-
-cd DSA-Questions-
 ```
 
 ## Usage
@@ -32,10 +31,12 @@ Here’s a simple example of how to use the Fibonacci function included in this 
 
 ```python
 def fibonacci(n):
-    if n <= 1:
-        return n
+    if n <= 0:
+        return 0
+    elif n == 1:
+        return 1
     else:
-        return fibonacci(n - 1) + fibonacci(n - 2)
+        return fibonacci(n-1) + fibonacci(n-2)
 
 print(fibonacci(10))  # Output: 55
 ```
