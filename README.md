@@ -16,9 +16,8 @@ This repository contains a variety of Data Structures and Algorithms (DSA) probl
 In the latest commit, the README file was updated to enhance clarity and improve the overall presentation. Key changes include:
 
 - Renamed section headers for better clarity.
-- Improved the overview of the repository.
-- Added a dedicated section for contributions.
-- Streamlined the usage instructions.
+- Enhanced installation and usage instructions.
+- Added a new example section to demonstrate how to implement a specific DSA problem.
 
 ### Code Snippet from Changes
 ```markdown
@@ -26,9 +25,6 @@ In the latest commit, the README file was updated to enhance clarity and improve
 
 ## Overview 🌟
 This repository contains a variety of Data Structures and Algorithms (DSA) problems...
-
-## Summary of Changes 📝
-In the latest commit, the README file was updated...
 ```
 
 ## Installation 🔧
