@@ -1,9 +1,7 @@
 ```markdown
 # DSA Questions 📚
 
-![GitHub repo size](https://img.shields.io/github/repo-size/Shivanilarokar/DSA-Questions-) 
-![GitHub contributors](https://img.shields.io/github/contributors/Shivanilarokar/DSA-Questions-)
-![GitHub last commit](https://img.shields.io/github/last-commit/Shivanilarokar/DSA-Questions-)
+![GitHub stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-) ![GitHub repo size](https://img.shields.io/github/repo-size/Shivanilarokar/DSA-Questions-) ![GitHub contributors](https://img.shields.io/github/contributors/Shivanilarokar/DSA-Questions-) ![GitHub last commit](https://img.shields.io/github/last-commit/Shivanilarokar/DSA-Questions-)
 
 ## Overview
 Welcome to the DSA Questions repository! This repository contains a collection of Data Structures and Algorithms (DSA) problems, complete with solutions and explanations. It is designed to help developers and students improve their problem-solving skills and understanding of DSA concepts.
@@ -31,19 +29,9 @@ The README file has been updated to enhance clarity and organization. Key change
 + ```
 ```
 
-```plaintext
-DSA-Questions-/
-    ├── Problem1/
-    │   ├── README.md
-    │   └── solution.ext
-    ├── Problem2/
-    │   ├── README.md
-    │   └── solution.ext
-    └── ...
-```
-
 ## Installation
 To get started with this repository, clone it using the following command:
+
 ```bash
 # Clone the repository
 git clone https://github.com/Shivanilarokar/DSA-Questions-.git
