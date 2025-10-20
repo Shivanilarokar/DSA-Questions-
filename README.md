@@ -34,8 +34,8 @@ Here is a simple function that demonstrates usage:
 
 ```python
 def example_function():
-    print("Hello, DSA!")
+    print("Hello, DSA World!")
 ```
 
-Feel free to contribute to the repository by adding your own questions and solutions. Happy coding! 🚀
+Feel free to modify and enhance the examples as you practice your skills!
 ```
