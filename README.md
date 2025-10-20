@@ -1,5 +1,5 @@
 ```markdown
-# DSA Questions 📖
+# DSA Questions Repository
 
 ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-?style=social) ![GitHub stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-?style=social)
 
@@ -42,34 +42,7 @@ def binary_search(arr, target):
 To get started with this repository, clone it to your local machine using:
 
 ```bash
-git clone https://github.com/Shivanilarokar/DSA-Questions-.git
-```
-
-After cloning, navigate to the project directory:
-
-```bash
-cd DSA-Questions-
-```
-
-## Usage
-Explore the various folders for different DSA problems and their respective solutions. Each problem includes sample inputs and outputs, along with the implementation details.
-
-## Example
-Here's a simple example of a binary search algorithm:
-
-```python
-def binary_search(arr, target):
-    low = 0
-    high = len(arr) - 1
-    while low <= high:
-        mid = (low + high) // 2
-        if arr[mid] < target:
-            low = mid + 1
-        elif arr[mid] > target:
-            high = mid - 1
-        else:
-            return mid
-    return -1
+git clone https://github.com/Shivanilarokar/DSA-Questions-
 ```
 
 Feel free to contribute by submitting issues or pull requests! Your input can help improve the collection of DSA problems and solutions for everyone.
