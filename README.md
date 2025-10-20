@@ -9,8 +9,8 @@ The DSA Questions repository aims to provide a variety of coding challenges that
 
 ## Features
 - **Diverse Questions**: Explore a wide range of DSA problems.
-- **Clear Explanations**: Each solution includes detailed explanations for better understanding.
 - **Multiple Languages**: Solutions provided in various programming languages.
+- **Clear Explanations**: Each solution includes detailed explanations for better understanding.
 
 ## Summary of Changes
 In the latest commit, the `README.md` file has been updated to improve clarity and conciseness. The following changes were made:
@@ -23,7 +23,6 @@ To get started with the DSA Questions repository, clone the repository and insta
 ```bash
 git clone https://github.com/Shivanilarokar/DSA-Questions-
 cd DSA-Questions-
-# Install dependencies if any
 ```
 
 ## Usage
