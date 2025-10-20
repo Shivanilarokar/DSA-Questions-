@@ -14,6 +14,7 @@ Welcome to the DSA Questions repository! This project aims to provide a comprehe
 ## Summary of the Changes 📝
 In the latest update, the README.md file has been refined to improve clarity and enhance user engagement. Key modifications include:
 
+- Consolidated badge display for better aesthetics.
 - Updated the **Usage** section to better describe the repository's purpose.
 - Minor formatting adjustments for improved readability.
 
@@ -37,9 +38,9 @@ Explore the various folders and files within this repository to find DSA problem
 Here's a glimpse of how the README.md looks after the latest changes:
 
 ```markdown
-## Usage 📖
-Explore the various folders and files within this repository to find DSA problems that you can solve and learn from.
+# DSA Questions 🤖
+...
 ```
 
-Feel free to contribute by submitting issues or pull requests. Happy coding! 🚀
+Feel free to explore, contribute, and enhance your DSA skills!
 ```
