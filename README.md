@@ -25,11 +25,10 @@ To clone this repository, run:
 ```bash
 git clone https://github.com/Shivanilarokar/DSA-Questions-
 ```
-
-## Usage 📖
 Explore the various folders and files within this repository to find DSA problems that you can solve and learn from.
 
 ## Example
+Here's an example of a DSA problem solution:
 ```python
 # Example of a DSA problem solution
 def fibonacci(n):
