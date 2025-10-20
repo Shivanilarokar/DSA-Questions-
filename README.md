@@ -1,5 +1,5 @@
 ```markdown
-# DSA Questions Repository 📚
+# DSA Questions Repository
 
 ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-?style=social) ![GitHub stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-?style=social)
 
@@ -10,32 +10,17 @@ This repository contains a collection of Data Structures and Algorithms (DSA) pr
 
 ## Features
 - A wide variety of DSA problems.
-- Detailed solutions with sample inputs and outputs.
-- Easy navigation through different folders for each problem.
+- Clear and concise code implementations.
+- Easy to navigate and contribute to.
 
 ## Summary of the Changes
-In the latest commit, the README.md file has been updated to improve clarity and presentation. The following changes were made:
-- Updated the title from "DSA Questions" to "DSA Questions Repository".
-- Removed some outdated instructions to streamline the setup process.
+Recent updates have been made to improve the clarity and quality of the README file and the example code snippet. The following changes were made:
 
-### Key Changes
-```markdown
-- Updated title for clarity
-- Streamlined cloning instructions
-```
+- **Enhanced Overview**: The project description has been updated to emphasize the categorization of problems and the clarity of implementations.
+- **Code Improvement**: The binary search algorithm example has been refactored for better readability and efficiency.
 
-## Installation
-To get started with this repository, clone it to your local machine using:
-
-```bash
-git clone https://github.com/Shivanilarokar/DSA-Questions-
-```
-
-## Usage
-Explore the various folders for different DSA problems and their respective solutions. Each problem includes sample inputs and outputs, along with the implementation details.
-
-## Example
-Here's a simple example of a binary search algorithm:
+### Code Snippet Changes
+Here’s the updated binary search algorithm:
 
 ```python
 def binary_search(arr, target):
@@ -49,6 +34,30 @@ def binary_search(arr, target):
         else:
             right = mid - 1
     return -1
+```
+
+## Installation
+To get started with this project, clone the repository to your local machine:
+
+```bash
+git clone https://github.com/Shivanilarokar/DSA-Questions-
+cd DSA-Questions-
+```
+
+## Usage
+You can run the Python scripts directly or integrate them into your own projects. Each script is designed to be self-contained and easy to understand.
+
+## Example
+Here's how to use the binary search function:
+
+```python
+arr = [1, 2, 3, 4, 5, 6, 7, 8, 9]
+target = 5
+result = binary_search(arr, target)
+if result != -1:
+    print(f"Element found at index {result}")
+else:
+    print("Element not found")
 ```
 
 Feel free to contribute by submitting issues or pull requests! Your input can help improve the collection of DSA problems and solutions for everyone.
