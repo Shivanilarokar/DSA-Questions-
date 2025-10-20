@@ -1,7 +1,12 @@
 ```markdown
-# DSA Questions 📚
+# DSA Questions 📖
+
+![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
 
 This repository is dedicated to solving various Data Structures and Algorithms (DSA) problems. Enhance your coding skills and dive into the world of algorithms!
+
+## Overview
+This repository serves as a learning platform to enhance your algorithmic skills through practical examples and challenges.
 
 ## Features 🌟
 - A collection of DSA problems with solutions in Python.
@@ -10,16 +15,10 @@ This repository is dedicated to solving various Data Structures and Algorithms (
 
 ## Summary of the Changes 📝
 In the latest update, the `README.md` file has been modified to enhance clarity and improve the overall presentation. The following changes were made:
-- Updated the title emoji from 🤖 to 📖 for a more relevant representation.
-- Enhanced the description for better understanding.
-- Minor formatting adjustments for improved readability.
-- Removed the mention of adding a `.git` extension to the clone URL for consistency.
-
-### Key Code Changes
-```diff
--# DSA Questions 🤖
-+# DSA Questions 📖
-```
+- Updated the project description for better engagement.
+- Enhanced feature descriptions for clarity.
+- Reworded installation and usage instructions for improved readability.
+- Added an example of a binary search implementation for better illustration.
 
 ## Installation 📦
 To clone this repository, use the following command:
