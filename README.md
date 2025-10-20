@@ -1,9 +1,9 @@
 ```markdown
 # DSA Questions Repository
 
-Welcome to the **DSA Questions** repository! This repository contains a collection of Data Structures and Algorithms (DSA) problems designed to help you enhance your coding skills.
-
 ![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
+
+Welcome to the **DSA Questions** repository! This repository contains a collection of Data Structures and Algorithms (DSA) problems designed to help you enhance your coding skills.
 
 ## Features
 - 📚 A comprehensive collection of DSA problems.
@@ -25,18 +25,11 @@ To get started with the DSA Questions repository, clone the repository using the
 git clone https://github.com/Shivanilarokar/DSA-Questions-.git
 ```
 
-Once cloned, navigate to the repository directory and explore the DSA problems provided. Each problem includes a detailed explanation and solution.
-
 ## Usage
-Explore the different DSA problems and their solutions. You can also contribute to the repository by adding new problems or improving existing ones.
-
-## Example
-Here’s a simple example of how you might use the repository:
+Explore the various problems and solutions available in the repository. Each problem includes a detailed explanation to help you understand the concepts better.
 
 ```python
-# Example of a DSA problem solution
 def example_problem():
-    # Your code logic here
     pass
 ```
 
