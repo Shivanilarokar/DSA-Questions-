@@ -9,8 +9,8 @@
 The DSA Questions repository is designed for learners and enthusiasts to practice and enhance their Data Structures and Algorithms skills. This collection features a variety of engaging problems that cater to different levels of expertise.
 
 ## Features ✨
-- A wide range of DSA problems for practice.
-- Clear instructions and solutions for each problem.
+- A wide range of problems covering various data structures and algorithms.
+- Detailed solutions to help you understand the concepts better.
 - Community contributions are encouraged!
 
 ## Summary of Changes 📝
@@ -21,17 +21,11 @@ In this update, the **README.md** has been modified to improve clarity and visua
 
 ### Example Changes
 ```markdown
-## Overview 🎉
-The DSA Questions repository is designed for learners and enthusiasts to practice and enhance their Data Structures and Algorithms skills. This collection features a variety of engaging problems that cater to different levels of expertise.
-
-## Features ✨
-- A wide range of DSA problems for practice.
-- Clear instructions and solutions for each problem.
-- Community contributions are encouraged!
+# DSA Questions 🤖
 ```
 
-## Installation 🔧
-To get started with this repository, clone it using:
+## Installation 🚀
+To get started with this repository, clone it using the following command:
 ```bash
 git clone https://github.com/Shivanilarokar/DSA-Questions-
 ```
@@ -45,4 +39,5 @@ We welcome contributions! Feel free to submit a pull request or open an issue to
 ---
 
 This README provides a clear and professional overview of the DSA Questions repository, highlighting its features and recent changes in a well-structured format. The use of emojis and badges adds a visually appealing touch without compromising professionalism.
+
 ```
