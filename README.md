@@ -1,9 +1,9 @@
 ```markdown
 # DSA Questions Repository 🤖
 
-The DSA Questions repository is designed to help you practice and improve your coding skills through a comprehensive collection of Data Structures and Algorithms (DSA) problems.
-
 ![GitHub stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-.svg?style=social) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-.svg?style=social)
+
+The DSA Questions repository is designed to help you practice and improve your coding skills through a comprehensive collection of Data Structures and Algorithms (DSA) problems.
 
 ## Features ✨
 - **Diverse Questions**: Explore a wide range of DSA problems.
@@ -12,7 +12,6 @@ The DSA Questions repository is designed to help you practice and improve your c
 
 ## Summary of Changes 💖
 In the latest commit, the `README.md` file has been updated to improve clarity and conciseness. The following changes were made:
-
 - **Title Update**: Changed from **"DSA Questions"** to **"DSA Questions Repository"** for better context.
 - **Enhanced Introduction**: Improved readability of the repository description.
 - **Added Badges**: Included badges for GitHub stars and forks to enhance visibility and engagement.
@@ -45,7 +44,7 @@ cd DSA-Questions-
 ## Usage 📖
 To use the repository, follow the instructions specific to the problems and solutions provided within. Examples and usage patterns will be included in the new section.
 
-```
-
 This README.md file reflects the recent changes and presents them in a clear and professional manner suitable for developers interested in contributing to the DSA Questions repository.
+
+Feel free to explore the repository, contribute, and enhance your DSA skills! 🎉
 ```
