@@ -1,20 +1,21 @@
 ```markdown
-# DSA Questions 📚
+# DSA Questions 📖
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/Shivanilarokar/DSA-Questions-) ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
+This repository contains a collection of Data Structures and Algorithms (DSA) questions along with their solutions, aimed at helping developers enhance their coding skills and understanding of DSA concepts.
+
 ## Overview
-This repository contains a collection of Data Structures and Algorithms (DSA) questions aimed at helping developers and students strengthen their problem-solving skills. The questions are categorized and include solutions in various programming languages.
+This repository serves as a comprehensive resource for practicing DSA problems, which are crucial for technical interviews and competitive programming. The solutions provided are in Python and cover various data structures and algorithms.
 
 ## Features
-- Comprehensive question bank on Data Structures and Algorithms.
-- Solutions provided in multiple programming languages.
-- Easy to navigate and contribute to.
-- Well-documented with code snippets and examples.
+- A wide range of DSA questions and solutions.
+- Clear and concise code snippets for easy understanding.
+- Regular updates to enhance content and usability.
 
 ## Summary of the Changes
 The recent updates to the `README.md` file include:
-- Updated the title emoji from 📜 to 📖 for better relevance.
+- Updated the title emoji from 📜 to 📚 for better relevance.
 - Revised the installation instructions for clarity.
 - Enhanced the usage section with clearer instructions.
 - Added code snippets for better demonstration of solutions.
@@ -29,7 +30,7 @@ git clone https://github.com/Shivanilarokar/DSA-Questions-
 Explore the various folders and files to find DSA questions and their corresponding solutions. You can run the solutions in your preferred environment.
 
 ## Example
-Here’s a quick code snippet demonstrating a sample DSA problem solution:
+Here’s a simple example of a Fibonacci function:
 ```python
 def fibonacci(n):
     if n <= 0:
