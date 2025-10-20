@@ -1,5 +1,5 @@
 ```markdown
-# DSA Questions Repository
+# DSA Questions Repository 📚
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
 
@@ -21,7 +21,12 @@ The DSA Questions repository is designed to provide a comprehensive collection o
 In the latest commit, the `README.md` file has been updated to improve clarity and usability. Key enhancements include:
 
 - Improved descriptions for better understanding of the repository's purpose.
-- Enhanced clarity in code snippets.
+- Enhanced clarity in the overview and features sections.
+- Improved formatting of code snippets for better readability.
+- Modified installation and usage instructions for clarity.
+- Added contribution guidelines for easy navigation.
+
+### Code Snippet Changes
 
 Here's an example of how the code snippets were modified for clarity:
 
@@ -30,7 +35,7 @@ Here's an example of how the code snippets were modified for clarity:
 ----------- Here's a sample Python code for a DSA problem:
 ------------
 def example_function():
-    # Your implementation here
+-    # Your code here
     pass
 ------------
 example_function()
@@ -43,7 +48,6 @@ example_function()
 def example_function():
     # Your code here
     pass
------------
 example_function()
 ```
 
