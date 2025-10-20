@@ -1,9 +1,9 @@
 ```markdown
 # DSA Questions 🚀
 
-![GitHub stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-?style=social) ![Forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-?style=social)
-
 Welcome to the DSA Questions repository! This project serves as a platform for developers and learners to practice and enhance their skills in Data Structures and Algorithms (DSA). This repository is designed to help you improve your understanding of various data structures and algorithms through a collection of questions and solutions.
+
+![GitHub stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-?style=social) ![Forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-?style=social)
 
 ## Features
 - Comprehensive collection of DSA questions
@@ -11,18 +11,32 @@ Welcome to the DSA Questions repository! This project serves as a platform for d
 - Regular updates and improvements
 
 ## Summary of the Changes
-In this update, the README.md file has been auto-updated to improve clarity and provide a better structure for users. The following sections have been added or modified:
+In this update, the README.md file has been auto-updated to improve clarity and structure. The following changes have been made:
 
-- Added a **Features** section to highlight the repository's main offerings.
-- Enhanced the **Installation** instructions for clarity.
+- Added a **Features** section to highlight key aspects of the repository.
 - Updated **Usage** guidelines to encourage contributions.
-- Changed the **Example** section to illustrate how to add a new question.
+- Revised the **Example** section to illustrate how to add a new question.
+
+### Code Changes
+```diff
+- Welcome to the DSA Questions repository! This project serves as a platform for developers and learners to practice and enhance their skills in Data Structures and Algorithms (DSA). This repository is designed to help you improve your understanding of various data structures and algorithms through a collection of questions and solutions.
++ ## Features
++ - Comprehensive collection of DSA questions
++ - Detailed solutions and explanations
++ - Regular updates and improvements
+```
 
 ## Installation
 To get started with the DSA Questions repository, clone the repository using the following command:
 
 ```bash
 git clone https://github.com/Shivanilarokar/DSA-Questions-.git
+```
+
+Navigate to the project directory:
+
+```bash
+cd DSA-Questions-
 ```
 
 ## Usage
