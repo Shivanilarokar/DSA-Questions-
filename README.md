@@ -1,9 +1,9 @@
 ```markdown
 # DSA Questions 🚀
 
-Welcome to the **DSA Questions** repository! This project serves as a platform for developers and learners to practice and enhance their skills in Data Structures and Algorithms (DSA). This repository is designed to help you improve your understanding of various data structures and algorithms through a collection of questions and solutions.
-
 ![GitHub stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-?style=social) ![Forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-?style=social)
+
+Welcome to the **DSA Questions** repository! This project serves as a platform for developers and learners to practice and enhance their skills in Data Structures and Algorithms (DSA). This repository is designed to help you improve your understanding of various data structures and algorithms through a collection of questions and solutions.
 
 ## Features
 - 📚 **Comprehensive collection of DSA questions**
@@ -14,7 +14,7 @@ Welcome to the **DSA Questions** repository! This project serves as a platform f
 In the latest commit, the README.md file has been updated to enhance clarity and user experience. Key changes include:
 - Added a dedicated section for **Features** to highlight the repository's strengths.
 - Revised installation instructions for clarity:
-
+  
   ```bash
   git clone https://github.com/Shivanilarokar/DSA-Questions-.git
   ```
@@ -34,7 +34,7 @@ In the latest commit, the README.md file has been updated to enhance clarity and
 - Minor formatting adjustments for consistency.
 
 ## Installation
-To get started with the DSA Questions repository, clone the repository to your local machine:
+To get started, clone this repository:
 
 ```bash
 git clone https://github.com/Shivanilarokar/DSA-Questions-.git
@@ -53,5 +53,5 @@ def example_algorithm(data):
     return processed_data
 ```
 
-Feel free to contribute and enhance this repository further!
+Feel free to contribute and enhance this repository further! For any questions or suggestions, open an issue or submit a pull request. Happy coding! 💻
 ```
