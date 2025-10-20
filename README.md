@@ -1,4 +1,3 @@
-```markdown
 # DSA Questions 🤖
 
 ![GitHub stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-?style=social) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-?style=social) ![License](https://img.shields.io/badge/license-MIT-blue.svg)
@@ -53,10 +52,10 @@ To get started with the DSA Questions repository, follow these steps:
 
 ## Usage
 
-Once you have the repository cloned and the dependencies installed, you can run the examples provided in the repository. 
+Once you have the repository cloned and the dependencies installed, you can run the examples provided in the repository.
 
 Feel free to explore and contribute to enhance this collection of DSA questions!
 
 ---
-For more information, visit the [repository](https://github.com/Shivanilarokar/DSA-Questions-).
-```
+
+For more information, visit the [repository](https://github.com/Shivanilarokar/DSA-Questions-). Happy coding! 💻
