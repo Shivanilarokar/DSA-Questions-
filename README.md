@@ -19,16 +19,15 @@ The recent updates to the `README.md` file include enhancements in the introduct
 - Enhanced the usage section with clear instructions.
 - Added code snippets for better demonstration of solutions.
 
-## Installation ⚙️
+## Installation 🔧
 To get started with this repository, clone it using the following command:
 ```bash
 git clone https://github.com/Shivanilarokar/DSA-Questions-
 ```
 
 ## Usage 💻
-To solve a DSA question, navigate to the specific directory and run the code as follows:
+To solve a DSA question, navigate to the specific directory and run the code as needed.
 
-### Example
 Here is a quick example of how to utilize one of the DSA solutions provided in this repository:
 
 ```python
