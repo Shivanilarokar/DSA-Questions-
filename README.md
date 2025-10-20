@@ -1,7 +1,10 @@
-# DSA Questions Repository
+```markdown
+# DSA Questions Repository 🚀
 
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg) 
 ![Issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-.svg)
+
+Welcome to the **DSA Questions** repository! This repository contains a variety of DSA problems categorized by difficulty level, aimed at helping developers enhance their data structures and algorithms skills.
 
 ## Overview
 This repository serves as a comprehensive resource for anyone looking to improve their understanding of data structures and algorithms. It includes a variety of DSA problems, complete with explanations and sample solutions.
@@ -10,6 +13,7 @@ This repository serves as a comprehensive resource for anyone looking to improve
 - Comprehensive collection of DSA problems
 - Problems categorized by difficulty levels
 - Detailed explanations and sample solutions for each problem
+- Contribution guidelines for collaborative development
 
 ## Summary of the Changes
 In the latest update, the README file has been modified to enhance clarity and provide a more welcoming introduction to the repository. Key changes include:
@@ -19,9 +23,8 @@ In the latest update, the README file has been modified to enhance clarity and p
 
 ### Code Snippet of Changes
 ```diff
--## Overview
--Welcome to the **DSA Questions** repository! This repository contains a variety of DSA problems categorized by difficulty level, aimed at helping developers enhance their data structures and algorithms skills.
-+## Overview
+## Overview
+-Welcome to the **DSA Questions** repository! This repository serves as a comprehensive resource for anyone looking to improve their understanding of data structures and algorithms.
 +This repository serves as a comprehensive resource for anyone looking to improve their understanding of data structures and algorithms. It includes a variety of DSA problems, complete with explanations and sample solutions.
 ```
 
@@ -38,6 +41,8 @@ Once you have cloned the repository, navigate to the folder and start exploring 
 ## Example
 To get a quick start, you can look at the provided sample problems and their solutions. For instance, you might find problems like "Two Sum" or "Merge Intervals" with detailed explanations and code implementations.
 
----
-
 Feel free to contribute by adding more problems or improving existing solutions! Happy coding! 🚀
+
+---
+For more information, check the [Contributing Guidelines](CONTRIBUTING.md) and [License](LICENSE).
+```
