@@ -1,35 +1,27 @@
 ```markdown
 # DSA Questions 🤖
 
-![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
-
 A comprehensive collection of Data Structures and Algorithms (DSA) problems to help developers and learners practice and enhance their coding skills through a variety of algorithmic challenges.
+
+![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
 
 ## Features
 - 🚀 **Categorized DSA problems** for easy navigation
 - 📚 **Clear explanations and solutions** for each problem
 
-## Summary of the Changes
-In the latest commit, the README.md file has been auto-updated to enhance clarity and usability. The following changes were made:
-- Added a more descriptive section header for features.
-- Updated the wording for clarity in the features section.
-- Corrected the Git clone command to include `.git` at the end for proper cloning.
-- Enhanced the closing statement to encourage contribution with a celebratory emoji. 🎉
+## Summary of Changes
+In the latest update, the README.md file has been modified to enhance clarity and structure. The following changes were made:
+- Added a new **Features** section to highlight key aspects of the repository.
+- Minor edits to improve readability and overall presentation.
 
 ## Installation
-To get started with this repository, simply clone it using the following command:
-
+To get started with this repository, clone it using the following command:
 ```bash
-git clone https://github.com/Shivanilarokar/DSA-Questions-.git
-cd DSA-Questions-
+git clone https://github.com/Shivanilarokar/DSA-Questions-
 ```
 
 ## Usage
-Explore the repository for a variety of DSA problems categorized for easy navigation. Each problem includes clear explanations and solutions to help you understand the concepts better.
-
-## Example
-Here’s a brief example of how you might use a function from this repository:
-
+You can explore the various DSA problems categorized in this repository. Here’s a brief example of how you might use a function from this repository:
 ```python
 def example_function():
     # Example code here
