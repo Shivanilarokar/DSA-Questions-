@@ -35,13 +35,13 @@ git clone https://github.com/Shivanilarokar/DSA-Questions-.git
 Explore the problems and solutions within this repository to practice and improve your coding skills.
 
 ## Example Problem 💡
-Here is a simple example problem to illustrate how to solve a DSA problem:
+Here’s an example of how to approach a DSA problem:
 
 ```python
-# Your solution logic here
-def example_problem():
+def example_problem(input):
+    # Your solution here
     pass
 ```
 
-Feel free to explore the repository, contribute, and enhance your DSA knowledge!
+Feel free to explore the repository and contribute!
 ```
