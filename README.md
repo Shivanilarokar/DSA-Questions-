@@ -17,24 +17,9 @@ The DSA Questions repository serves as a comprehensive resource for anyone looki
 In the latest update, the README has been enhanced to provide clearer information and better organization:
 - Improved the repository title for clarity.
 - Enhanced the description for a more engaging welcome message.
-- Added an **Overview** section for better clarity.
-- Updated the example of the Fibonacci function for clarity.
+- Added badges for GitHub stars, forks, and issues for better visibility.
 
-### Updated Fibonacci Function Example
-Here's an updated example of a Fibonacci function included in the repository:
-
-```python
-# Updated Example of a Fibonacci function
-def fibonacci(n):
-    if n <= 0:
-        return 0
-    elif n == 1:
-        return 1
-    else:
-        return fibonacci(n-1) + fibonacci(n-2)
-```
-
-## Installation 🚀
+## Installation
 To get started with this repository, clone it using the following command:
 
 ```bash
@@ -46,6 +31,4 @@ cd DSA-Questions-
 After cloning the repository, you can navigate through the questions and begin solving them using the provided solutions as a guide.
 
 Feel free to contribute by adding more questions or improving existing solutions!
-
-Happy coding! 🎉
 ```
