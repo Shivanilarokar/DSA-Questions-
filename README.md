@@ -7,11 +7,12 @@
 
 This repository serves as a learning platform to enhance your algorithmic skills and improve your understanding of Data Structures and Algorithms (DSA). It includes a variety of algorithm problems categorized for easy navigation and understanding.
 
-## Features 🚀
+## Features ✨
 
-- A comprehensive collection of DSA problems
+- Collection of algorithm problems
 - Categorized for easy navigation
-- Python implementations for practical understanding
+- Python implementations for each problem
+- Community contributions are welcome!
 
 ## Summary of the Changes 📝
 
@@ -26,9 +27,10 @@ Here are the key snippets of the changes made:
 
 ```diff
 -# DSA Questions 🤖
-+This repository serves as a learning platform to enhance your algorithmic skills and improve your understanding of Data Structures and Algorithms (DSA).
---- Enhanced the project description for better engagement and clarity.
-+++ Enhanced the project description for better engagement and clarity.
++# DSA Questions 🤖
+ This repository serves as a learning platform to enhance your algorithmic skills and improve your understanding of Data Structures and Algorithms (DSA).
+-- Enhanced the project description for better engagement and clarity.
+-+ Enhanced the project description for better engagement and clarity.
 ```
 
 ## Installation 💻
@@ -36,14 +38,14 @@ Here are the key snippets of the changes made:
 To get started, clone the repository using the following command:
 
 ```bash
-git clone https://github.com/Shivanilarokar/DSA-Questions-
+git clone https://github.com/Shivanilarokar/DSA-Questions-.git
 ```
 
-## Usage 📚
+## Usage 📖
 
 Once cloned, navigate to the repository's directory and start exploring the DSA problems. Each problem is categorized for your convenience.
 
-## Example 🔍
+## Example 🧪
 
 Here's an example of how to use the DSA problems in Python:
 
@@ -53,5 +55,5 @@ def example_problem():
     pass
 ```
 
-Feel free to explore, contribute, and enhance your skills with this repository!
+Feel free to explore, contribute, and enhance your skills with this repository! Happy coding! 💻
 ```
