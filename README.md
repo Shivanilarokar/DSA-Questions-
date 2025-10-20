@@ -1,8 +1,8 @@
 ```markdown
-# DSA Questions Repository 📚
+# DSA Questions Repository
 
 [![GitHub stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-)](https://github.com/Shivanilarokar/DSA-Questions-/stargazers) 
-[![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-)](https://github.com/Shivanilarokar/DSA-Questions-/network/members) 
+[![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-)](https://github.com/Shivanilarokar/DSA-Questions-/network) 
 [![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)](https://github.com/Shivanilarokar/DSA-Questions-/issues)
 
 ## Overview
@@ -25,9 +25,9 @@ To get started with this repository, follow these simple steps:
 
 ```bash
 # Clone the repository
-git clone https://github.com/Shivanilarokar/DSA-Questions-
+git clone https://github.com/Shivanilarokar/DSA-Questions-.git
 
-# Navigate into the directory
+# Change directory to the repository
 cd DSA-Questions-
 ```
 
