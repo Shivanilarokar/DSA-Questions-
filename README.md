@@ -1,35 +1,26 @@
 ```markdown
 # DSA Questions 🤖
 
-![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
-
 A comprehensive collection of Data Structures and Algorithms (DSA) problems to help developers and learners practice and enhance their coding skills through a variety of algorithmic challenges.
+
+![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
 
 ## Features
 - Categorized DSA problems for easy navigation
 - Clear explanations and solutions for each problem
-- Community contributions are welcome! 🌍
+- Improved instructions for getting started with the repository
+- Included an **Example** section demonstrating usage with a sample code snippet
 
 ## Summary of the Changes
-In the latest update, the README.md file has been modified to enhance clarity and provide better instructions for users. The changes include:
+In the latest update, the README.md file has been modified to enhance clarity and usability. Here are the key changes made:
 
-- Added a new **Features** section to highlight the benefits of the repository.
-- Improved instructions for getting started with the repository.
-- Included an **Example** section demonstrating usage with a sample code snippet.
+- Added a clear installation section to guide users on how to clone the repository and navigate into it.
+- Updated the example section to provide a more descriptive approach to solving DSA problems.
 
+### Code Changes
 Here are some snippets that illustrate the changes made:
 
 ```diff
-- To get started with this repository, follow these steps:
-- 1. Clone the repository:
--    ```bash
--    git clone https://github.com/Shivanilarokar/DSA-Questions-
--    ```
-- 2. Navigate into the directory:
--    ```bash
--    cd DSA-Questions-
--    ```
-
 + To get started with this repository, follow these steps:
 + 1. Clone the repository:
 +    ```bash
