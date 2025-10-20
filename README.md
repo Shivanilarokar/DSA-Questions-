@@ -1,5 +1,5 @@
 ```markdown
-# DSA Questions 📊
+# DSA Questions 📚
 
 [![GitHub stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-?style=social)](https://github.com/Shivanilarokar/DSA-Questions-) 
 [![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-?style=social)](https://github.com/Shivanilarokar/DSA-Questions-)
@@ -21,6 +21,7 @@ In the latest update, the `README.md` file has been refined with the following c
 
 ## Installation ⚙️
 To get started with this repository, clone it to your local machine:
+
 ```bash
 git clone https://github.com/Shivanilarokar/DSA-Questions-.git
 ```
