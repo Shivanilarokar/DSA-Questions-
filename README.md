@@ -16,16 +16,17 @@ In the latest update, the `README.md` file was modified to enhance clarity and s
 - Detailed code snippets for each problem.
 - Structured navigation through different algorithms.
 
-## Summary of the Changes 📜
+## Summary of the Changes 📰
 
 In the latest update, the `README.md` file was modified to enhance clarity and structure. Key changes include:
 
-- **Enhanced README**: Added badges for better visibility of repository metrics.
-- **Clarity Improvements**: Updated descriptions for a better understanding of the repository's content.
+- Improved introduction to the repository.
+- Enhanced clarity in the installation and usage instructions.
+- Minor updates for better readability.
 
 ### Code Changes
 ```diff
---- Navigate through the various DSA problems in the repository and utilize the code snippets provided.
+-- Navigate through a variety of DSA problems in the repository.
 +++ Navigate through a variety of DSA problems in the repository and utilize the code snippets provided.
 ```
 
@@ -46,6 +47,5 @@ To use the code snippets, navigate through the various DSA problems in the repos
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
-
-Thank you for checking out the DSA Questions repository! Happy coding! 🎉
+Feel free to contribute to this repository by submitting issues or pull requests. Your contributions are welcome!
 ```
