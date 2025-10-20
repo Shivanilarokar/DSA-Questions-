@@ -10,18 +10,16 @@ The DSA Questions repository contains a comprehensive collection of Data Structu
 - Extensive collection of DSA problems
 - Solutions with detailed explanations
 - Easy navigation through problem sets
-- Community contributions welcome! 🤝
 
-## Summary of the Changes 📝
-In this latest update, the README.md file has been enhanced for better readability and clarity. Key modifications include:
-- Improved title for clarity
+## Summary of the Changes
+In this latest update, the README.md file has been enhanced for better readability and usability:
 - Updated badges for better visibility
 - Enhanced description of the repository's purpose
 - Refined list of features for conciseness
 - Clarified installation instructions with a code snippet for cloning the repository
 - Code example updated to illustrate a simple problem solution
 
-## Installation 🛠️
+## Installation 🔧
 To get started with this repository, clone it to your local machine:
 
 ```bash
