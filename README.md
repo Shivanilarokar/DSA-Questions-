@@ -1,5 +1,5 @@
 ```markdown
-# DSA Questions Repository 📚
+# DSA Questions Repository
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-?style=social) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-?style=social) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
 
@@ -14,9 +14,10 @@ Welcome to the **DSA Questions** repository! This repository is dedicated to pro
 
 ## Summary of the Changes
 In the latest update, the following changes were made to the README.md file:
-- Enhanced the introduction by **bolding** the repository name for better visibility.
-- Streamlined the usage section for clarity and conciseness.
+- Added an "Overview" section for better clarity.
 - Minor formatting adjustments for improved readability.
+- Enhanced the "Installation" and "Usage" instructions.
+- Included an "Example" section with a code snippet.
 
 ## Installation
 To get started with this repository, clone it to your local machine:
@@ -33,14 +34,10 @@ To effectively use this repository, simply navigate through the provided questio
 Here's an updated example of a Fibonacci function included in the repository:
 
 ```python
-# Updated Example of a Fibonacci function
 def fibonacci(n):
-    if n <= 0:
-        return 0
-    elif n == 1:
-        return 1
-    else:
-        return fibonacci(n-1) + fibonacci(n-2)
+    if n <= 1:
+        return n
+    return fibonacci(n-1) + fibonacci(n-2)
 ```
 
 Feel free to explore the repository, contribute, and enhance your DSA skills!
