@@ -1,5 +1,5 @@
 ```markdown
-# DSA Questions 📖
+# DSA Questions 📚
 
 ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
 
@@ -16,13 +16,6 @@ In the latest update, the `README.md` file has been modified to enhance clarity 
 - Enhanced description for better understanding.
 - Updated the title emoji for a more relevant representation.
 - Minor formatting adjustments for improved readability.
-- Added a `.git` extension to the clone URL for consistency.
-
-### Key Code Changes
-```diff
--# DSA Questions 🤖
-+# DSA Questions 📖
-```
 
 ## Installation 📦
 To clone the repository, run the following command:
@@ -50,5 +43,5 @@ def binary_search(arr, target):
     return -1
 ```
 
-Feel free to explore, contribute, and enhance your algorithmic skills with this repository!
+Feel free to explore, contribute, and enhance your algorithmic skills with this repository! Happy coding! 🚀
 ```
