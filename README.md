@@ -1,5 +1,5 @@
 ```markdown
-# DSA Questions 📚
+# DSA Questions 📖
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-)
 
@@ -20,13 +20,14 @@ Recent updates to the `README.md` file include:
 - Added a dedicated **Contributing** section to encourage community contributions.
 - Separated License information into its own section for better clarity.
 
-## Installation 🛠️
+## Installation 🔧
 To get started with this repository, clone it to your local machine using the following command:
 
 ```bash
 git clone https://github.com/Shivanilarokar/DSA-Questions-
 ```
 
+## Usage 📝
 Navigate through the problems and start solving them in your preferred programming language. Each problem includes example code snippets and explanations.
 
 ## Example 💻
@@ -38,5 +39,5 @@ def example_function():
     pass
 ```
 
-Feel free to explore, contribute, and enhance this repository! Happy coding! 🎉
+Feel free to explore, contribute, and enhance your coding skills with these DSA challenges!
 ```
