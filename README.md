@@ -21,7 +21,7 @@ In the recent update, the `README.md` file has been modified to enhance clarity 
   ```
 
 - **Revised Usage Instructions**: Clarified usage steps for better understanding.
-  
+
 - **Updated Example Code**: Provided a more illustrative example of an algorithm implementation.
 
 ## Installation
@@ -29,16 +29,10 @@ To get started with this repository, clone it using the following command:
 
 ```bash
 git clone https://github.com/Shivanilarokar/DSA-Questions-
-cd DSA-Questions-
 ```
 
 ## Usage
-Once you have the repository cloned, you can explore the various algorithms and contribute to the project.
-
-## Contributing
-We welcome contributions! Please fork the repository and submit a pull request for any enhancements or bug fixes.
-
----
+After cloning the repository, you can navigate to the specific algorithm or data structure you wish to explore. Each section contains detailed instructions and examples to help you understand the implementation.
 
 Feel free to check out the repository and start enhancing your coding skills with data structures and algorithms! 🚀
 ```
