@@ -1,19 +1,16 @@
 ```markdown
 # DSA Questions 🤖
 
-![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
-
 A comprehensive collection of Data Structures and Algorithms (DSA) problems to help developers and learners practice and enhance their coding skills through a variety of algorithmic challenges.
+
+![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
 
 ## Features
 - 🚀 **Categorized DSA problems** for easy navigation
 - 📚 **Clear explanations and solutions** for each problem
-- 🙏 **Thank you for checking out this repository!**
 
-## Summary of the Changes
-In this recent update, the README.md file has been auto-updated with the following changes:
-- Added a **Features** section to highlight key aspects of the repository.
-- Enhanced the usage instructions for clarity.
+## Summary of the changes
+In this recent update, the README.md file has been auto-updated with the following enhancements:
 - Improved the overall structure and formatting of the document.
 
 ## Installation
@@ -30,18 +27,12 @@ After cloning, navigate to the repository directory and start exploring the vari
 Here’s how you might typically use the repository to find a problem:
 
 ```python
-# Example code snippet to demonstrate usage
+# Example of how to access a specific DSA problem
 import dsa_problems
 
-problem = dsa_problems.get_problem('Two Sum')
+problem = dsa_problems.get_problem("two_sum")
 print(problem)
 ```
 
-Feel free to contribute by opening issues or submitting pull requests!
-
----
-
-For more information, visit the [repository](https://github.com/Shivanilarokar/DSA-Questions-). 
-
-Thank you for checking out the DSA Questions repository! Happy coding! 🤖
+Feel free to explore and contribute to the repository! Your contributions are welcome! 🚀
 ```
