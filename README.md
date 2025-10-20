@@ -10,10 +10,9 @@ This repository provides a comprehensive collection of DSA problems accompanied 
 
 ## Features
 - A wide array of DSA problems with detailed implementations.
-- Enhanced clarity in the overview and features sections.
-- Improved formatting of code snippets for better readability.
-- Modified installation and usage instructions for clarity.
-- Added contribution guidelines for easy navigation.
+- Clear explanations and structured code snippets.
+- Easy-to-follow installation and usage instructions.
+- Contribution guidelines for easy navigation.
 
 ## Summary of the Changes
 In the latest commit, the `README.md` file has been updated to improve clarity and usability:
@@ -26,11 +25,14 @@ In the latest commit, the `README.md` file has been updated to improve clarity a
 Here's an example of how the code snippets were modified for clarity:
 
 **Before:**
-```python
-def example_function():
-    # Your code here
-    pass
-example_function()
+```diff
+--------- Here's a sample Python code for a DSA problem:
+---------- ```python
+------------def example_function():
+------------    # Your code here
+------------    pass
+----------+-    example_function()
+-----------```
 ```
 
 **After:**
@@ -53,10 +55,7 @@ cd DSA-Questions-
 ```
 
 ## Usage
-To use the repository, navigate to the specific problem directory and run the associated script.
-
-## Example
-Here's a simple example of how to define a function for a DSA problem:
+To use the repository, navigate to the specific problem directory and run the associated code. Here's a simple example of how to define a function for a DSA problem:
 ```python
 def example_function():
     # Your implementation here
