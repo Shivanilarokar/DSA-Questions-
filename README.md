@@ -1,5 +1,5 @@
 ```markdown
-# DSA Questions 📚
+# DSA Questions Repository
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-?style=social) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-?style=social) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
 
@@ -22,11 +22,8 @@ To get started with the repository, clone it using the following command:
 
 ```bash
 git clone https://github.com/Shivanilarokar/DSA-Questions-
+cd DSA-Questions-
 ```
-
-After cloning the repository, you can navigate through the questions and begin solving them!
-
-Feel free to contribute by adding more questions or improving existing solutions!
 
 ## Usage 💻
 To effectively use this repository, simply navigate through the provided questions and refer to the solutions for guidance. Each question is designed to enhance your understanding of Data Structures and Algorithms.
@@ -35,15 +32,14 @@ To effectively use this repository, simply navigate through the provided questio
 Here's an updated example of a Fibonacci function included in the repository:
 
 ```python
-# Updated Example of a Fibonacci function
 def fibonacci(n):
-    if n <= 1:
-        return n
+    if n <= 0:
+        return 0
+    elif n == 1:
+        return 1
     else:
         return fibonacci(n-1) + fibonacci(n-2)
 ```
-
----
 
 Thank you for visiting the DSA Questions repository! We hope you find it helpful in your coding journey. Happy coding! 🎉
 ```
