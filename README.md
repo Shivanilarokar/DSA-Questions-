@@ -1,6 +1,8 @@
 ```markdown
 # DSA Questions 🚀
 
+![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![GitHub stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-)
+
 Welcome to the **DSA Questions** repository! This project aims to provide a comprehensive collection of data structure and algorithm challenges to enhance your understanding and skills in this crucial area of computer science.
 
 ## Overview 🌟
@@ -46,13 +48,12 @@ Once you have cloned the repository, you can explore the problems and solutions.
 
 Here’s a simple example of how you can navigate the repository:
 
-```markdown
-# Example Problem: Two Sum
+### Example Problem: Two Sum
 
-## Problem Statement
-Given an array of integers, return indices of the two numbers such that they add up to a specific target.
+**Problem Statement**: Given an array of integers, return indices of the two numbers such that they add up to a specific target.
 
-## Example Solution
+**Example Solution**:
+
 ```python
 def two_sum(nums, target):
     num_map = {}
@@ -61,7 +62,6 @@ def two_sum(nums, target):
         if complement in num_map:
             return [num_map[complement], i]
         num_map[num] = i
-```
 ```
 
 ---
