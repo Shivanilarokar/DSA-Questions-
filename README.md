@@ -1,5 +1,5 @@
 ```markdown
-# DSA Questions 📊
+# DSA Questions 📖
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
 
@@ -27,6 +27,8 @@ git clone https://github.com/Shivanilarokar/DSA-Questions-.git
 ## Installation 🔧
 To clone this repository, use the command provided in the Cloning section above.
 
-## Usage
+## Usage 📚
 Explore the various algorithmic challenges available in this repository. We encourage contributions from all developers to enhance the repository further! 🚀
+
+Happy coding! 💻
 ```
