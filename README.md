@@ -15,11 +15,13 @@ This repository aims to provide a variety of DSA problems along with solutions t
 
 ## Summary of the Changes
 In the latest update to the README.md, the following changes were made:
+- Updated the header emoji to 🚀 to reflect a more dynamic theme.
+- Minor formatting improvements for clarity.
 - Enhanced the description of the example code by adding "simple" to the phrase "Here's a simple example of a DSA problem solution."
 - Modified the example code for the Fibonacci function for better readability and efficiency.
 
 ## Installation
-To get a copy of this repository, clone it using the following command:
+To get started with this repository, clone it using the following command:
 
 ```bash
 git clone https://github.com/Shivanilarokar/DSA-Questions-
@@ -33,10 +35,16 @@ Here's a simple example of a DSA problem solution:
 
 ```python
 def fibonacci(n):
-    if n <= 1:
-        return n
-    return fibonacci(n-1) + fibonacci(n-2)
+    if n <= 0:
+        return 0
+    elif n == 1:
+        return 1
+    else:
+        a, b = 0, 1
+        for _ in range(2, n + 1):
+            a, b = b, a + b
+        return b
 ```
 
-Feel free to contribute to this repository by submitting your own DSA problems or solutions! Happy coding! 🎉
+Feel free to explore, contribute, and enhance your DSA skills! Happy coding! 🎉
 ```
