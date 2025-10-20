@@ -1,7 +1,6 @@
 ```markdown
-# DSA Questions Repository 🚀
+# DSA Questions Repository
 
-![GitHub repo size](https://img.shields.io/github/repo-size/Shivanilarokar/DSA-Questions-) 
 ![GitHub contributors](https://img.shields.io/github/contributors/Shivanilarokar/DSA-Questions-)
 ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
 
@@ -11,19 +10,19 @@ Welcome to the **DSA Questions** repository! This repository contains a collecti
 The DSA Questions repository aims to provide a comprehensive set of Data Structures and Algorithms (DSA) problems for practice and learning.
 
 ## Features ✨
-- A wide variety of DSA problems
-- Code solutions in multiple programming languages
-- Clear and concise explanations for each problem
-- Easy setup and usage instructions
+- A wide range of DSA problems for various skill levels.
+- Detailed solutions to each problem for enhanced learning.
+- Code examples to illustrate problem-solving techniques.
 
 ## Summary of the Changes 📝
 In the latest update, the README.md file has been enhanced to improve clarity and usability. Key changes include:
-- Addition of a new **Features** section for improved organization.
-- Improved code snippet for a simple DSA question solution using the Fibonacci sequence for better clarity and performance.
+- Addition of a new **Overview** section for better context.
 - Updated the **Installation** section to facilitate easier setup.
+- Improved code snippet for a simple DSA question solution using the Fibonacci sequence for better clarity and performance.
 
 ### Example Code Snippet
 Here's an improved example of a Fibonacci function:
+
 ```python
 def fibonacci(n):
     if n <= 1:
@@ -36,25 +35,24 @@ print(fibonacci(10))  # Output: 55
 ```
 
 ## Installation ⚙️
-To set up the DSA Questions repository locally, follow these steps:
-
+To set up this repository, follow these steps:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Shivanilarokar/DSA-Questions-.git
+   git clone https://github.com/Shivanilarokar/DSA-Questions-
    ```
-2. Navigate into the project directory:
+2. Navigate into the cloned directory:
    ```bash
    cd DSA-Questions-
    ```
-3. Install dependencies (if any):
-   ```bash
-   # Install commands here
-   ```
+3. Install any necessary dependencies (if applicable).
 
-## Usage 💻
-After installation, you can navigate through the problems and start solving them. Feel free to contribute and enhance the repository!
+## Usage
+Explore the various DSA problems and their solutions. Feel free to contribute by adding new questions or improving existing ones!
 
-For more information, visit our [GitHub page](https://github.com/Shivanilarokar/DSA-Questions-).
+## Contributing
+We welcome contributions! Please feel free to open issues or submit pull requests.
 
-Thank you for visiting the DSA Questions repository! Happy coding! 🎉
+---
+
+Thank you for checking out the DSA Questions repository! Happy coding! 🚀
 ```
