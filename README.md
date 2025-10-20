@@ -39,9 +39,6 @@ git clone https://github.com/Shivanilarokar/DSA-Questions-.git
 cd DSA-Questions-
 ```
 
-## Usage
-Feel free to explore, contribute, and enhance the collection of DSA questions and solutions!
-
 ## Example: Fibonacci Sequence
 Here’s a simple example of how to use the Fibonacci function included in this repository:
 ```python
@@ -56,15 +53,9 @@ def fibonacci(n):
 print(fibonacci(10))  # Output: 55
 ```
 
-## Contributing
-We welcome contributions! Please feel free to fork the repository and submit a pull request.
+We welcome contributions! Please feel free to fork the repository and submit a pull request. 
 
-## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-This README.md provides a structured overview of the repository, highlights recent changes, and offers clear instructions and examples for users and contributors.
 
 Happy coding! 🎉
 ```
