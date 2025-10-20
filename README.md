@@ -11,22 +11,20 @@ This repository aims to improve your understanding of DSA by providing a wide ra
 
 ## Features 🌟
 - Comprehensive collection of DSA problems.
-- Detailed examples and code snippets.
-- Community engagement for contributions and feedback.
-- Easy navigation and follow-along instructions.
+- Detailed examples and code snippets for each problem.
+- Suitable for all skill levels.
 
-## Summary of Changes 📝
-In the latest commit, the **README.md** file has been updated to enhance clarity and improve the overall presentation. Key updates include:
-- Improved introduction to the repository's purpose and offerings.
-- Enhanced feature list for better readability.
-- Enhanced instructions for getting started with the repository.
-- Streamlined the contributing section for better engagement with the community.
+## Summary of Changes
+- Enhanced the introductory text for clarity and engagement.
+- Added an "Overview" section to provide a better understanding of the repository's purpose.
+- Included an "Example" section with a simple code snippet to illustrate usage.
 
-## Installation 🚀
+## Installation
 To get started, clone the repository to your local machine:
 
 ```bash
 git clone https://github.com/Shivanilarokar/DSA-Questions-
+cd DSA-Questions-
 ```
 
 Once cloned, navigate into the repository directory and follow the instructions provided.
