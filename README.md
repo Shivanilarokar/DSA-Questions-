@@ -16,8 +16,17 @@ Welcome to the DSA Questions repository! This repository serves as a resource fo
 ## Summary of the Changes
 
 In the latest update, the `README.md` file has been refined with the following changes:
+
 - Removed the emoji from the repository title for improved readability.
 - Updated the closing statement to encourage exploration and contributions without unnecessary embellishment.
+
+```diff
+-# DSA Questions Repository 🤖
++# DSA Questions Repository
+
+-Feel free to explore the repository and contribute to enhancing the solutions! Happy coding! 🚀
++Feel free to explore and contribute to the repository!
+```
 
 ## Installation
 
