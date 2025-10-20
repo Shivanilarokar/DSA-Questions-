@@ -10,13 +10,23 @@ Welcome to the **DSA Questions** repository! This repository features a comprehe
 This repository is designed to help developers enhance their problem-solving skills through:
 
 - A wide array of DSA questions covering various topics.
-- Solutions and explanations for each question.
-- Structured learning path for developers.
-- Community contributions are welcome! 🎉
+- Detailed solutions and explanations for each problem.
+
+## Features
+
+- Collection of DSA problems ranging from beginner to advanced levels.
+- In-depth explanations and solutions for each question.
+- Engaging content with the use of emojis to enhance readability.
 
 ## Summary of the Changes
 
 In the latest update, the `README.md` file has been auto-updated to include:
+
+- Updated repository description to reflect the current focus on DSA questions.
+- Minor formatting adjustments for improved readability.
+- Enhanced text with additional emojis for better engagement.
+
+### Key Changes:
 
 ```diff
 - Welcome to the **DSA Questions** repository! This repository contains a collection of Data Structures and Algorithms (DSA) problems designed to enhance your programming skills.
@@ -44,6 +54,4 @@ Feel free to explore the repository and contribute to the growing collection of 
 Contributions are welcome! Please feel free to submit a pull request or open an issue.
 
 ---
-
-Thank you for visiting the DSA Questions repository! Happy coding! 💻
 ```
