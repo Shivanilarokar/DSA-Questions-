@@ -3,7 +3,10 @@
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
 
-The DSA Questions repository is designed to provide a comprehensive set of data structures and algorithms questions along with their solutions and explanations. Whether you are a beginner or an experienced developer, this repository aims to enhance your understanding of core concepts.
+Welcome to the **DSA Questions** repository! This repository is designed to provide a comprehensive set of data structures and algorithms questions along with their solutions and explanations. Whether you are a beginner or an experienced developer, this repository aims to enhance your understanding of core concepts.
+
+## Overview
+The DSA Questions repository offers a wide array of data structures and algorithms problems, catering to both beginners and experienced developers. Each problem is accompanied by solutions and detailed explanations to enhance your learning experience.
 
 ## Features ✨
 - A wide range of data structure and algorithm questions.
@@ -12,13 +15,14 @@ The DSA Questions repository is designed to provide a comprehensive set of data 
 
 ## Summary of the Changes 📝
 In the latest update, the `README.md` file has been auto-updated with the following improvements:
-- Enhanced clarity in the description of features.
-- Updated the usage section for better user guidance.
-- Introduced an example usage snippet to demonstrate how to use the functions in the repository.
-
-### Key Modifications:
 - **Improved Description**: The features section now emphasizes both beginners and experienced developers.
 - **Usage Section**: Enhanced for clarity and user guidance.
+- **Example Usage Snippet**: Demonstrates how to use the functions in the repository.
+
+### Key Modifications:
+- Changed the title emoji to 🤖 for better relevance.
+- Improved clarity and structure in the features list.
+- Revised the example code snippet for better clarity.
 
 ## Installation ⚙️
 To get started, clone the repository and install the necessary dependencies:
@@ -52,5 +56,6 @@ print(example_function(5))  # Output: 10
 Feel free to explore the repository and contribute to enhancing the collection of data structures and algorithms problems!
 
 ---
+
 For more details, visit our [GitHub Repository](https://github.com/Shivanilarokar/DSA-Questions-).
 ```
