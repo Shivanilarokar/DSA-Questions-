@@ -1,11 +1,13 @@
 ```markdown
-# DSA Questions 📚
+# DSA Questions 🚀
 
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/Shivanilarokar/DSA-Questions-/blob/master/LICENSE) 
-[![Issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-.svg)](https://github.com/Shivanilarokar/DSA-Questions-/issues)
+![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg) 
+![Issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-.svg)
+
+Welcome to the **DSA Questions** repository! This repository is designed to provide a comprehensive collection of Data Structures and Algorithms (DSA) problems and solutions. It serves as a valuable resource for students and developers looking to enhance their understanding of DSA concepts.
 
 ## Overview
-Welcome to the **DSA Questions** repository! This repository is designed to provide a comprehensive collection of Data Structures and Algorithms (DSA) problems and solutions. It serves as a valuable resource for students and developers looking to enhance their understanding of DSA concepts.
+This repository contains a variety of DSA problems categorized by difficulty level, complete with explanations and sample solutions. It serves as a comprehensive resource for anyone looking to enhance their understanding of data structures and algorithms.
 
 ## Features
 - A wide variety of DSA problems.
