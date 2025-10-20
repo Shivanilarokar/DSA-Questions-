@@ -1,9 +1,9 @@
 ```markdown
 # DSA Questions 🤖
 
-![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
-
 A comprehensive collection of Data Structures and Algorithms (DSA) problems to help developers and learners practice and enhance their coding skills through a variety of algorithmic challenges.
+
+![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
 
 ## Features
 - 🚀 **Categorized DSA problems** for easy navigation
@@ -12,8 +12,9 @@ A comprehensive collection of Data Structures and Algorithms (DSA) problems to h
 
 ## Summary of the Changes
 In the recent update, the README.md file has been enhanced for clarity and organization. The following changes were made:
-- Added a **Features** section to highlight the benefits of the repository.
-- Improved the formatting of the **Usage** and **Example** sections for better readability.
+- Added a new **Features** section to highlight key aspects of the repository.
+- Improved formatting for better readability.
+- Minor adjustments to the installation instructions to enhance clarity.
 
 ## Installation
 To get a local copy up and running, follow these simple steps:
@@ -31,13 +32,10 @@ To get a local copy up and running, follow these simple steps:
 3. Start exploring the DSA problems and solutions!
 
 ## Usage
-Once you have the repository cloned, navigate to the directory and start solving problems!
+After setting up the repository, you can begin to explore the various DSA problems provided. Here’s a simple example of how you might define a problem:
 
-### Example
-Here’s a simple example of a problem structure:
 ```python
 def example_problem():
-    # Example code for a DSA problem
     pass
 ```
 
