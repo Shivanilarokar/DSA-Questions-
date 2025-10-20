@@ -13,23 +13,22 @@ The **DSA Questions** repository is designed to help learners practice and maste
 
 - Comprehensive collection of DSA problems.
 - Categorized problems for easier exploration.
-- Examples and code snippets for practical understanding.
-- Contributions are welcome!
 
-## Summary of the Changes 📝
+## Summary of the Changes 🔄
 
 In the latest commit, the following changes were made to the README.md file:
 
+- Updated the overview section to provide a clearer description.
 - Enhanced the project description for better engagement and clarity.
-- Updated the example section to reflect a more modern emoji.
 - Minor formatting adjustments to improve readability.
 
 ### Key Snippets of the Changes
 
 ```diff
 -# DSA Questions 🤖
++# DSA Questions 🤖
+ This repository serves as a learning platform to enhance your algorithmic skills and improve your understanding of Data Structures and Algorithms (DSA).
 +This repository serves as a learning platform to enhance your algorithmic skills and improve your understanding of Data Structures and Algorithms (DSA).
-+Enhanced the project description for better engagement and clarity.
 ```
 
 ## Installation 💻
