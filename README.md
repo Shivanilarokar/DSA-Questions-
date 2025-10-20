@@ -18,26 +18,14 @@ In the latest update, the README file has been modified to enhance clarity and p
 
 ### Code Snippet of Changes
 ```diff
--## Overview
---Welcome to the **DSA Questions** repository! This repository serves as a comprehensive resource for anyone looking to improve their understanding of data structures and algorithms.
-+## Overview
-+Welcome to the **DSA Questions** repository! This repository contains a variety of DSA problems categorized by difficulty level, aimed at helping developers enhance their data structures and algorithms skills.
+---## Overview
+---Welcome to the **DSA Questions** repository! This repository contains a variety of DSA problems categorized by difficulty level, aimed at helping developers enhance their data structures and algorithms skills.
+-+## Overview
++-Welcome to the **DSA Questions** repository! This repository serves as a comprehensive resource for anyone looking to improve their understanding of data structures and algorithms.
 ```
 
 ## Installation
-To get started, clone this repository to your local machine:
-```bash
-git clone https://github.com/Shivanilarokar/DSA-Questions-
-```
-Once you have cloned the repository, navigate to the folder and start exploring the problems!
-
-## Usage
-You can start solving problems right away! Each problem comes with its own set of explanations and sample solutions to help you grasp the concepts better.
-
-## Example
-To get a quick start, you can look at the provided sample problems and their solutions. For instance, you might find problems like "Two Sum" or "Merge Intervals" with detailed explanations and code implementations.
-
----
+To get started, clone the repository and explore the provided sample problems and their solutions. 
 
 Feel free to contribute by adding more problems or improving existing solutions! Happy coding! 🎉
 
