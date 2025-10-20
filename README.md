@@ -9,10 +9,10 @@ Welcome to the DSA Questions repository! This project provides a collection of D
 
 ## Features
 
-- Comprehensive collection of DSA questions.
-- Clear and concise code examples.
-- Easy to understand explanations.
-- Community-driven contributions.
+- 🔥 Comprehensive collection of DSA questions.
+- 📜 Clear and concise code examples.
+- 🧠 Easy to understand explanations.
+- 🤝 Community-driven contributions.
 
 ## Summary of the Changes
 
@@ -32,14 +32,7 @@ def example_function(param):
     return param * 2
 
 result = example_function(5)
-```
-
-```python
-from dsa_module import example_function
-
-# Using the function
-result = example_function(10)
-print(result)  # This will print the result of the function
+print(result)  # Outputs: 10
 ```
 
 ## Installation
