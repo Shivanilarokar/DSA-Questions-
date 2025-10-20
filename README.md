@@ -5,12 +5,12 @@
 ![Open Issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
 
 ## Overview
-Welcome to the DSA Questions repository! This repository is a collection of Data Structures and Algorithms (DSA) problems, ideal for practice and interview preparation.
+Welcome to the DSA Questions repository! This repository is a collection of Data Structures and Algorithms (DSA) problems designed to enhance your coding skills. It includes a variety of challenges ranging from easy to hard, aimed at helping you prepare for technical interviews and improve your problem-solving abilities.
 
 ## Features
-- A wide range of DSA problems categorized by difficulty.
-- Code implementations in various programming languages.
-- Contributions from the community to enhance the problem set.
+- Comprehensive collection of DSA problems.
+- Community contributions to enhance the problem set.
+- Detailed explanations and solutions for each problem.
 
 ## Summary of the Changes
 In the latest update, the `README.md` file has been refined to enhance clarity and aesthetics. Key changes include:
@@ -18,7 +18,7 @@ In the latest update, the `README.md` file has been refined to enhance clarity a
 - Minor formatting adjustments for better readability.
 - Code snippet optimization for enhanced performance.
 
-### Changes Made:
+### Detailed Changes:
 - Updated the repository title from `# DSA Questions Repository` to `# DSA Questions`.
 - Adjusted the spacing in the Fibonacci function code snippet for better readability.
 
@@ -30,14 +30,13 @@ git clone https://github.com/Shivanilarokar/DSA-Questions-
 ```
 
 ## Usage
-Explore the various algorithms and data structures by navigating through the folders in the repository. Each problem includes a description, constraints, and sample inputs/outputs.
+After cloning the repository, navigate to the directory and explore the various DSA problems. You can run the code snippets provided in your preferred coding environment.
 
 ## Example
-Here’s a simple example of a function from the repository:
+Here’s an example of a Fibonacci function included in the repository:
 
 ```python
 def fibonacci(n):
-    """Returns the nth Fibonacci number."""
     if n <= 0:
         return 0
     elif n == 1:
@@ -46,7 +45,9 @@ def fibonacci(n):
         return fibonacci(n-1) + fibonacci(n-2)
 ```
 
-This function computes the Fibonacci number for a given input `n`.
+Feel free to contribute to the repository by submitting your own DSA questions or improving existing ones!
 
-Feel free to explore the repository and contribute to enhancing the collection of DSA problems! 🚀
+---
+
+Happy Coding! 🎉
 ```
