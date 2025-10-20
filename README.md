@@ -1,14 +1,15 @@
 ```markdown
 # DSA Questions 📚
 
+![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![License](https://img.shields.io/badge/license-MIT-blue.svg)
+
 ## Overview
 Welcome to the **DSA Questions** repository! This repository contains a variety of DSA problems categorized by difficulty level, aimed at helping developers enhance their data structures and algorithms skills.
-
-![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ## Features
 - Comprehensive collection of DSA questions
 - Problems categorized by difficulty
+- Solutions and explanations provided for each problem
 
 ## Summary of the Changes
 In the latest update, the README file has been modified to enhance clarity and presentation. Key changes include:
@@ -18,25 +19,25 @@ In the latest update, the README file has been modified to enhance clarity and p
 - Updated the "Example" section to better demonstrate problem structuring.
 
 ## Installation
-To get started with the DSA Questions repository, simply clone the repo and install any required dependencies.
+To get started with the DSA Questions repository, simply clone the repo and install any required dependencies:
 
 ```bash
 git clone https://github.com/Shivanilarokar/DSA-Questions-
 cd DSA-Questions-
-# Install dependencies if applicable
+# Install dependencies if necessary
 ```
 
 ## Usage
-Feel free to explore the repository and enhance your DSA skills! Happy coding! 🎉
+Once you have cloned the repository, you can explore various DSA problems categorized by difficulty. Each problem contains explanations and solutions to help you understand the concepts better.
 
 ## Example
-Here's a simple example of a problem structure:
+Here’s a quick example of how to structure your code:
 
 ```python
-def example_problem():
-    # Your code here
-    pass
+def example_problem(input):
+    # Your solution logic here
+    return output
 ```
 
-Feel free to contribute and share your solutions!
+Feel free to dive into the problems and start enhancing your DSA skills!
 ```
