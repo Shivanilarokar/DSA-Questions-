@@ -10,11 +10,9 @@ The DSA Questions repository offers a comprehensive collection of data structure
 
 ## Features ✨
 - A wide range of data structure and algorithm questions.
-- Solutions with detailed explanations.
-- Test cases for each problem to validate your solutions.
-- Suitable for both beginners and experienced developers.
-- Regular updates and contributions from the community.
-
+- Solutions and explanations for each problem.
+- Easy to navigate and contribute to.
+  
 ## Summary of the Changes 📝
 In the latest update, the `README.md` file has been auto-updated with the following improvements:
 
@@ -27,26 +25,31 @@ In the latest update, the `README.md` file has been auto-updated with the follow
 - Improved clarity and structure in the features list.
 - Revised the example code snippet for better clarity.
 
-## Installation 🛠️
+## Installation 🔧
 To clone the repository, run the following command:
 
 ```bash
 git clone https://github.com/Shivanilarokar/DSA-Questions-
-cd DSA-Questions-
 ```
 
-## Usage 📖
-To use the functions in this repository, you can import them into your Python scripts. Here’s an example usage snippet:
+## Usage
+Once you have cloned the repository, navigate to the project directory and follow the instructions to run the examples.
+
+### Example Usage Snippet
+Here's a simple example demonstrating how to use the functions available in this repository:
 
 ```python
-from dsa_questions import example_function
-
-print(example_function(5))  # Output: 10
+# Example function call
+result = some_function(input_data)
+print(result)
 ```
 
-Feel free to explore the repository and contribute to enhancing the collection of data structures and algorithms problems!
+Feel free to explore the repository and contribute by adding more questions or improving existing ones!
+
+## Contributing
+We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING.md) for more information.
 
 ---
 
-For more details, visit our [GitHub Repository](https://github.com/Shivanilarokar/DSA-Questions-).
+Thank you for visiting the DSA Questions repository! Happy coding! 🚀
 ```
