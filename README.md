@@ -3,6 +3,7 @@
 
 ![GitHub stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-?style=social) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-?style=social)
 
+## Overview 🌟
 Welcome to the DSA Questions repository! This repository contains a curated collection of data structure and algorithm problems, complete with explanations and solutions. It's an ideal resource for students and professionals looking to sharpen their coding skills.
 
 ## Features ✨
@@ -12,9 +13,9 @@ Welcome to the DSA Questions repository! This repository contains a curated coll
 
 ## Summary of the Changes ✨
 In the latest update, the README.md file has been enhanced for clarity and structure. Here are the key changes:
-- Improved the overall layout and readability of the document.
 - Added badges for GitHub stars and forks to enhance visibility and social proof of the repository.
 - Streamlined the content by removing redundant text and updating section headers.
+- Improved the overall layout and readability of the document.
 
 ## Installation 💻
 To clone this repository, use the following command:
@@ -26,11 +27,7 @@ git clone https://github.com/Shivanilarokar/DSA-Questions-
 After cloning, navigate into the directory and explore the various problems and solutions provided in the repository.
 
 ## Example 🧑‍💻
-Here's a simple example of how you can contribute to the repository:
-1. Fork the repository.
-2. Create a new branch for your feature or fix.
-3. Make your changes and commit them.
-4. Push to your branch and submit a pull request.
+You can start solving problems by visiting the directory structure and selecting your problem of interest!
 
-Feel free to dive in, practice, and contribute to the DSA Questions repository! Happy coding! 🎉
+Feel free to contribute and enhance the repository further! Happy coding! 🚀
 ```
