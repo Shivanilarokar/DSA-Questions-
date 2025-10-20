@@ -1,5 +1,5 @@
 ```markdown
-# DSA Questions Repository 🚀
+# DSA Questions Repository
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
 
@@ -11,9 +11,9 @@ The DSA Questions repository is designed to provide a comprehensive collection o
 
 ## Features
 
-- Diverse set of DSA problems and solutions.
-- Clear and concise documentation to guide users.
-- A collaborative platform for contributors to improve their skills.
+- 🌟 Diverse set of DSA problems and solutions.
+- 📚 Clear and concise documentation to guide users.
+- 🤝 A collaborative platform for contributors to improve their skills.
 
 ## Summary of Changes
 
@@ -52,7 +52,7 @@ sample_problem_solution()
 To set up the repository locally, clone the repository and install the necessary dependencies:
 
 ```bash
-git clone https://github.com/Shivanilarokar/DSA-Questions-.git
+git clone https://github.com/Shivanilarokar/DSA-Questions-
 cd DSA-Questions-
 ```
 
@@ -63,6 +63,7 @@ To use the code snippets in this repository, simply navigate to the relevant pro
 Here's a sample Python code for a DSA problem:
 
 ```python
+# This is a placeholder for your DSA problem solution
 def sample_problem_solution():
     # Your code here
     pass
