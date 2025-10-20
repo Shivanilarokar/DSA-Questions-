@@ -5,6 +5,9 @@
 
 Welcome to the DSA Questions repository! This repository is dedicated to providing a collection of Data Structures and Algorithms questions, solutions, and resources to aid in your learning journey.
 
+## Overview
+This repository contains a variety of DSA problems, their solutions, and explanations to help you enhance your understanding of data structures and algorithms.
+
 ## Features
 - A curated list of DSA questions.
 - Solutions and explanations for each question.
@@ -23,20 +26,35 @@ In the recent commit, the README.md file has been auto-updated to reflect the fo
 -# DSA Questions 📖
 +# DSA Questions 📚
 
+-## Pull Requests
+-![GitHub Pull Requests](https://img.shields.io/github/issues-pr/Shivanilarokar/DSA-Questions-)
++## Pull Requests
++![GitHub Pull Requests](https://img.shields.io/github/issues-pr/Shivanilarokar/DSA-Questions-)
+
 -Updated the example function output to be more engaging.
 -    print("Hello, DSA!")
 +    print("Hello, DSA World!")
 ```
 
 ## Installation
-To get started with this repository, clone it to your local machine using the following command:
+To get started with the DSA Questions repository, clone the repository using the following command:
+
 ```bash
 git clone https://github.com/Shivanilarokar/DSA-Questions-
-cd DSA-Questions-
 ```
 
 ## Usage
-You can explore various DSA problems and their solutions in this repository. Each problem is designed to enhance your understanding and application of algorithms and data structures.
+Once you have cloned the repository, you can navigate through the various questions and their solutions. Feel free to modify and enhance the examples as needed!
 
-Feel free to contribute by creating pull requests or opening issues. Happy coding! 🚀
+## Example
+Here’s a simple example to illustrate usage:
+
+```python
+def greet():
+    print("Hello, DSA World!")
+
+greet()
+```
+
+We encourage you to explore the repository, contribute, and enhance the existing solutions. Happy coding! 🚀
 ```
