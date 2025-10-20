@@ -1,9 +1,13 @@
 ```markdown
 # DSA Questions Repository
 
-![GitHub stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-?style=social) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-?style=social)
+![GitHub stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-?style=social) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-?style=social) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
 
 Welcome to the **DSA Questions** repository! This repository contains a collection of programming challenges designed to help developers practice and improve their Data Structures and Algorithms skills.
+
+## Overview
+
+The DSA Questions repository offers a variety of problems that help you sharpen your coding skills through hands-on practice. Whether you are a beginner or an experienced developer, this repository has something for everyone.
 
 ## Features
 
@@ -16,16 +20,18 @@ Welcome to the **DSA Questions** repository! This repository contains a collecti
 
 In the latest update, the `README.md` file has undergone some enhancements to improve clarity and visual appeal. The following changes were made:
 
+### Notable Changes:
 - Updated the GitHub badges to use a social style for better aesthetics.
 - Corrected a minor formatting inconsistency in the features section.
 
 ### Changes Made:
 ```diff
+- Each problem includes a statement and corresponding solutions.
++ Each problem includes a statement and corresponding solutions.
 - ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
 + ![GitHub stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-?style=social) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-?style=social)
-
-- 📝 Each problem includes a statement and corresponding solutions.
-+ 📝 Each problem includes a statement and corresponding solutions.
+- Step-by-step guidance to improve your coding proficiency.
++ Step-by-step guidance to improve your coding proficiency.
 ```
 
 ## Installation
