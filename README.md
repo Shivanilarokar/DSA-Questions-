@@ -1,13 +1,7 @@
 ```markdown
-# DSA Questions Repository 📖
+# DSA Questions Repository 🚀
 
-![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
-
-Welcome to the **DSA Questions** repository! This repository is a collection of data structure and algorithm problems, designed to help you enhance your problem-solving skills and coding techniques.
-
-## Overview
-
-The DSA Questions repository offers a comprehensive collection of data structure and algorithm problems, designed to help you enhance your problem-solving skills and coding techniques.
+Welcome to the DSA Questions Repository! This repository offers a comprehensive collection of data structure and algorithm problems designed to enhance your coding skills and problem-solving abilities.
 
 ## Features ✨
 
@@ -29,20 +23,14 @@ In this update, the README.md has been enhanced for clarity and readability. Key
 To get started with the DSA Questions repository, clone the repository using the following command:
 
 ```bash
-git clone https://github.com/Shivanilarokar/DSA-Questions-
-cd DSA-Questions-
+git clone https://github.com/Shivanilarokar/DSA-Questions-.git
 ```
 
-Navigate to the directory to explore the various DSA problems available. You can run the solutions in a Python environment.
+## Usage 📚
 
-## Usage 📝
-
-To utilize the algorithms and data structures provided in this repository, navigate to the specific problem folder and refer to the solution files. Below is an example of how to implement a bubble sort algorithm:
-
-### Example: Bubble Sort Implementation
+Here’s how you can use the bubble sort function from this repository:
 
 ```python
-# Example usage of a sorting algorithm
 def bubble_sort(arr):
     n = len(arr)
     for i in range(n):
@@ -50,7 +38,12 @@ def bubble_sort(arr):
             if arr[j] > arr[j+1]:
                 arr[j], arr[j+1] = arr[j+1], arr[j]
     return arr
+
+# Example usage
+example_array = [64, 34, 25, 12, 22, 11, 90]
+sorted_array = bubble_sort(example_array)
+print("Sorted array:", sorted_array)
 ```
 
-Feel free to explore and contribute to the repository! Happy coding! 🚀
+Feel free to explore and contribute to the repository! Happy coding! 🎉
 ```
