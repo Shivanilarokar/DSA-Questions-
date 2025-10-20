@@ -17,18 +17,16 @@ The DSA Questions repository aims to provide a comprehensive set of DSA problems
 ## Summary of the Changes 📝
 In the latest update, the README.md file has been enhanced to improve clarity and usability. Key changes include:
 - Addition of a new **Features** section for improved organization.
-- Updated the **Installation** section to facilitate easier setup.
 - Improved code snippet for a simple DSA question solution using the Fibonacci sequence for better clarity and performance.
+- Updated the **Installation** section to facilitate easier setup.
 
 ### Example Code Snippet
 Here's an improved example of a Fibonacci function:
 
 ```python
 def fibonacci(n):
-    if n <= 0:
-        return 0
-    elif n == 1:
-        return 1
+    if n <= 1:
+        return n
     else:
         return fibonacci(n-1) + fibonacci(n-2)
 
@@ -45,12 +43,5 @@ cd DSA-Questions-
 # Install dependencies (if any)
 ```
 
-## Usage
-After installation, you can navigate through the problems and start solving them. Feel free to contribute by adding more questions or improving existing solutions!
-
----
-
-For more information, visit our [GitHub page](https://github.com/Shivanilarokar/DSA-Questions-).
-
-Thank you for visiting the DSA Questions repository! Happy coding! 🚀
+Feel free to contribute and enhance the repository!
 ```
