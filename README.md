@@ -1,8 +1,8 @@
 ```markdown
 # DSA Questions Repository 🤖
 
-[![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)](https://github.com/Shivanilarokar/DSA-Questions-/issues)
-[![GitHub stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-.svg?style=social)](https://github.com/Shivanilarokar/DSA-Questions-/stargazers)
+[![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)](https://github.com/Shivanilarokar/DSA-Questions-/issues) 
+[![GitHub stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-.svg?style=social)](https://github.com/Shivanilarokar/DSA-Questions-/stargazers) 
 [![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-.svg?style=social)](https://github.com/Shivanilarokar/DSA-Questions-/network/members)
 
 ## Overview
@@ -11,9 +11,10 @@ The DSA Questions repository offers a variety of problems that help you sharpen 
 
 ## Features
 
-- Each problem includes a statement and corresponding solutions.
-- Step-by-step guidance to improve your coding proficiency.
-- Enhanced community engagement by encouraging contributions.
+- 📚 A collection of diverse DSA problems.
+- 📜 Each problem includes a statement and corresponding solutions.
+- 🚀 Step-by-step guidance to improve your coding proficiency.
+- 🤝 Enhanced community engagement by encouraging contributions.
 
 ## Summary of Changes
 
@@ -21,9 +22,14 @@ In the latest update, the `README.md` file has undergone some enhancements to im
 
 ### Changes Made:
 ```diff
-- Improved readability of the overview and features sections.
+- Each problem includes a statement and corresponding solutions.
++ Each problem includes a statement and corresponding solutions.
+- Step-by-step guidance to improve your coding proficiency.
++ Step-by-step guidance to improve your coding proficiency.
++ Improved readability of the overview and features sections.
 + Added a welcoming emoji to the repository title.
 + Enhanced community engagement by encouraging contributions.
++ Added social badges for GitHub stars and forks.
 ```
 
 ## Installation
@@ -54,4 +60,3 @@ Feel free to dive in, explore the problems, and contribute your solutions! Happy
 
 Thank you for visiting the DSA Questions repository! We hope you find the problems engaging and beneficial for your coding journey. 🌟
 ```
-This README provides a clear overview of the repository, summarizes the recent changes, and maintains a professional tone, making it an attractive resource for developers.
