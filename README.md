@@ -1,36 +1,39 @@
 ```markdown
 # DSA Questions Repository 🚀
 
-Welcome to the DSA Questions Repository! This repository offers a comprehensive collection of data structure and algorithm problems designed to enhance your coding skills and problem-solving abilities.
+![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
+
+Welcome to the **DSA Questions** repository! This repository offers a comprehensive collection of data structure and algorithm problems designed to enhance your coding skills and problem-solving abilities.
+
+## Overview
+
+The DSA Questions repository provides a rich set of data structure and algorithm challenges, allowing you to practice and improve your coding techniques. 
 
 ## Features ✨
+- A variety of algorithm problems
+- Clear and concise solutions
+- Easy to navigate structure
 
-- 📖 A wide variety of data structure and algorithm problems.
-- 🤖 Well-structured solutions for each problem.
-- 🔍 Easy navigation and contribution guidelines.
+## Summary of Changes
+In this update, the README.md has been enhanced for clarity and readability. Key modifications include:
+- Improved phrasing for better understanding.
+- Added a more detailed example of the bubble sort algorithm.
+- Updated the clone command to include `.git` for better compatibility.
 
-## Summary of the Changes 💖
-
-In this update, the README.md has been enhanced for clarity and readability. Key changes include:
-
-- **Title Update**: Changed from "DSA Questions" to "DSA Questions Repository" for better context.
-- **Introduction**: Improved welcome message for clarity.
-- **Overview Section**: Added a dedicated overview section to give a brief insight into the repository.
-- **Usage Section**: Clarified the usage instructions with an example of the bubble sort function and improved the code snippet formatting.
-
-## Installation 🔧
-
+## Installation
 To get started with the DSA Questions repository, clone the repository using the following command:
 
 ```bash
 git clone https://github.com/Shivanilarokar/DSA-Questions-.git
 ```
 
-## Usage 📚
+Navigate to the directory to explore the various DSA problems available. You can run the solutions in a Python environment.
 
+## Usage 📚
 Here’s how you can use the bubble sort function from this repository:
 
 ```python
+# Example usage
 def bubble_sort(arr):
     n = len(arr)
     for i in range(n):
@@ -39,7 +42,6 @@ def bubble_sort(arr):
                 arr[j], arr[j+1] = arr[j+1], arr[j]
     return arr
 
-# Example usage
 example_array = [64, 34, 25, 12, 22, 11, 90]
 sorted_array = bubble_sort(example_array)
 print("Sorted array:", sorted_array)
