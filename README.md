@@ -8,6 +8,7 @@ Welcome to the DSA Questions repository! This project serves as a platform for d
 ## Features
 - Comprehensive collection of DSA questions
 - Solutions and explanations to enhance learning
+- Community-driven contributions
 
 ## Summary of the Changes
 In this latest update, the `README.md` file has been modified to enhance clarity and provide better guidance for users. Key changes include:
@@ -18,11 +19,10 @@ In this latest update, the `README.md` file has been modified to enhance clarity
 
 ### Code Snippet of Changes
 ```diff
---- # DSA Questions 🌍
-+++ # DSA Questions 🌐
+-# DSA Questions 🌍
++# DSA Questions 🌏
++
 +Welcome to the DSA Questions repository! This project serves as a platform for developers and learners to practice and enhance their skills in Data Structures and Algorithms (DSA).
--This repository is designed to help you improve your understanding of various data structures and algorithms through a collection of questions and solutions.
-+This repository is designed to help you improve your understanding of various data structures and algorithms through a collection of questions and solutions.
 +Make sure to follow the setup instructions in the respective sections to ensure everything runs smoothly.
 ```
 
