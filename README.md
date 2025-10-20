@@ -1,14 +1,14 @@
 ```markdown
-# DSA Questions 🌐
-
-![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-?style=social) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-?style=social)
+# DSA Questions 🚀
 
 Welcome to the DSA Questions repository! This project serves as a platform for developers and learners to practice and enhance their skills in Data Structures and Algorithms (DSA). This repository is designed to help you improve your understanding of various data structures and algorithms through a collection of questions and solutions.
+
+![GitHub stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-?style=social) ![Forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-?style=social)
 
 ## Features
 - Comprehensive collection of DSA questions
 - Detailed solutions and explanations
-- Contribution guidelines for community collaboration
+- Contribution guidelines for community collaboration 🤝
 
 ## Summary of the Changes
 In this latest update, the `README.md` file has been modified to enhance clarity and improve the overall presentation of the repository. The following changes were made:
@@ -17,12 +17,10 @@ In this latest update, the `README.md` file has been modified to enhance clarity
 
 ### Code Snippet of Changes
 ```diff
--# DSA Questions 🌍
-+# DSA Questions 🌐
-+--# DSA Questions 🚀
-++# DSA Questions 🌐
- Welcome to the DSA Questions repository! This project serves as a platform for developers and learners to practice and enhance their skills in Data Structures and Algorithms (DSA).
- This repository is designed to help you improve your understanding of various data structures and algorithms through a collection of questions and solutions.
+--- # DSA Questions 🚀
++++ # DSA Questions 🌍
++ Welcome to the DSA Questions repository! This project serves as a platform for developers and learners to practice and enhance their skills in Data Structures and Algorithms (DSA).
++ This repository is designed to help you improve your understanding of various data structures and algorithms through a collection of questions and solutions.
 ```
 
 ## Installation
@@ -34,6 +32,9 @@ cd DSA-Questions-
 ```
 
 ## Usage
+Once you have cloned the repository, you can navigate through the questions and solutions available. Feel free to contribute by adding more questions or improving existing solutions!
+
+## Example
 Here’s a quick example of how to navigate the repository:
 1. Explore the `questions` directory for various DSA questions.
 2. Check the `solutions` directory for corresponding solutions.
@@ -41,5 +42,5 @@ Here’s a quick example of how to navigate the repository:
 
 ---
 
-Thank you for checking out the DSA Questions repository! Happy coding! 🚀
+Thank you for checking out the DSA Questions repository! Happy coding! 🎉
 ```
