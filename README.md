@@ -16,7 +16,7 @@ Welcome to the DSA Questions repository! This repository contains a collection o
 
 ## Summary of Changes
 
-In the latest update, the README has been enhanced for better clarity and user engagement:
+In the latest update, the README has been enhanced for better clarity and user engagement. Here are the key changes:
 
 - Updated the introduction for improved clarity.
 - Revised the Features section to include emojis for a more engaging presentation.
@@ -33,25 +33,14 @@ To get started with this repository, clone it using the following command:
 git clone https://github.com/Shivanilarokar/DSA-Questions-
 ```
 
-## 📊 Usage
+## 📜 Usage
 
 1. Navigate into the cloned directory.
 2. Explore the various DSA problems available.
-3. Implement your solutions based on the provided examples.
-
-## Code Snippet Example
-
-Here is a simple example of how you can implement a solution for a DSA problem:
-
-```python
-def example_function(data):
-    # Process the data here
-    pass
-```
 
 ## Contributing
 
-We welcome contributions from the community! Please feel free to submit a pull request or open an issue to discuss potential improvements.
+We welcome contributions from the community! If you would like to contribute, please fork the repository and submit a pull request.
 
-Thank you for checking out the DSA Questions repository! Happy coding! 🚀
+Thank you for your interest in enhancing your DSA skills with us! Happy coding! 💻
 ```
