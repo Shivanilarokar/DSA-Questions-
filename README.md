@@ -1,13 +1,14 @@
 ```markdown
 # DSA Questions 🚀
 
-Welcome to the **DSA Questions** repository! This project serves as a platform for developers and learners to practice and enhance their skills in Data Structures and Algorithms (DSA). This repository is designed to help you improve your understanding of various data structures and algorithms through a collection of questions and solutions.
-
 ![GitHub stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-?style=social) ![Forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-?style=social)
 
+Welcome to the **DSA Questions** repository! This project serves as a platform for developers and learners to practice and enhance their skills in Data Structures and Algorithms (DSA). This repository is designed to help you improve your understanding of various data structures and algorithms through a collection of questions and solutions.
+
 ## Features
-- 📝 **Comprehensive collection of DSA questions**
-- ✍️ **Detailed solutions and explanations**
+- 📚 **Comprehensive collection of DSA questions**
+- 📝 **Detailed solutions and explanations**
+- 🤝 **Encouragement for community contributions**
 
 ## Summary of the Changes
 In the latest update, the `README.md` file has been auto-updated to enhance clarity and user engagement:
@@ -26,12 +27,11 @@ cd DSA-Questions-
 ```
 
 ## Usage
-To utilize the repository, you can call the functions provided in the code. Here's a simple example:
+To use the repository, you can explore the various questions and their solutions. Here’s an example of how to call a function from the repository:
 
 ```python
-# Your implementation here
 def example_function():
-    pass
+    print("Hello, DSA!")
 
 example_function()
 ```
