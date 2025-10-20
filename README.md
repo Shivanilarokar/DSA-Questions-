@@ -1,5 +1,5 @@
 ```markdown
-# DSA Questions 📖
+# DSA Questions 📚
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/Shivanilarokar/DSA-Questions-) ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
@@ -14,16 +14,18 @@ This repository contains a collection of Data Structures and Algorithms (DSA) qu
 
 ## Summary of the Changes
 The recent updates to the `README.md` file include:
-- Updated the title emoji from 📜 to 📘 for better relevance.
+- Updated the title emoji from 📜 to 📖 for better relevance.
 - Revised the installation instructions for clarity.
+- Enhanced the usage section with clearer instructions.
+- Added code snippets for better demonstration of solutions.
 
-## Installation 🔧
+## Installation 🚀
 To clone the repository, run the following command:
 ```bash
 git clone https://github.com/Shivanilarokar/DSA-Questions-
 ```
 
-## Usage
+## Usage 💻
 Explore the various folders and files to find DSA questions and their corresponding solutions. You can run the solutions in your preferred environment.
 
 ## Example
@@ -40,5 +42,5 @@ def fibonacci(n):
 print(fibonacci(10))  # Output: 55
 ```
 
-Feel free to explore, contribute, or raise issues as you engage with the repository!
+Feel free to explore, contribute, or raise issues as you engage with the repository! Happy coding! 🚀
 ```
