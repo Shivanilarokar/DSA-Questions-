@@ -16,23 +16,23 @@ This repository is aimed at providing a wide range of questions and solutions re
 
 ## Summary of the Changes
 In the latest update, the README.md file underwent significant modifications to enhance clarity and engagement:
-- Updated the title emoji for better representation 🎆.
+
+- Updated the title emoji for better representation 🎈.
 - Added badges to showcase repository statistics (stars, forks, issues, etc.).
 - Improved phrasing in the introductory text for clarity and engagement.
 - Streamlined content for better organization.
 
-### Code Snippet Changes
 Here are some of the key changes made in the README:
 
 ```diff
--# DSA Questions Repository
-+# DSA Questions Repository 🎆
- 
+-# DSA Questions Repository 📖
++# DSA Questions Repository 🎈
+
 -Welcome to the DSA Questions repository! This project contains a collection of Data Structure and Algorithm questions designed to help you improve your coding skills.
 +Welcome to the DSA Questions repository! This repository contains a collection of data structure and algorithm questions to help you master coding interviews and improve your problem-solving skills.
 
--To get started with this repository, simply clone it using:
-+To get started, clone the repository using the following command:
+-To get started, clone the repository using the following command:
++To get started with this repository, simply clone it using the following command:
 ```
 
 ## Installation
