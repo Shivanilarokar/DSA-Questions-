@@ -12,8 +12,6 @@ This repository includes a comprehensive collection of DSA problems, complete wi
 - A comprehensive collection of DSA problems.
 - Interactive solutions that enhance learning.
 - Clear installation and usage instructions for ease of access.
-- Well-structured directories for easy navigation.
-- User-friendly examples to illustrate problem-solving techniques.
 
 ## Summary of the Changes 📝
 In the latest update to the `README.md`, the following changes were made:
@@ -24,7 +22,7 @@ In the latest update to the `README.md`, the following changes were made:
 - Included a note on user-friendly examples to illustrate problem-solving techniques.
 - Minor adjustments to the wording for improved clarity and engagement.
 
-## Installation ⚙️
+## Installation
 To get started with the DSA Questions repository, clone the repository using the following command:
 
 ```bash
@@ -43,5 +41,5 @@ def example_function():
     return "Hello, DSA!"
 ```
 
-Feel free to explore the repository and contribute to the growing collection of DSA problems and solutions! Happy coding! 🎉
+Feel free to explore the repository and contribute to the growing collection of DSA problems!
 ```
