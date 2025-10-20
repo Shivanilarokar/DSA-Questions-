@@ -5,6 +5,7 @@
 ![GitHub contributors](https://img.shields.io/github/contributors/Shivanilarokar/DSA-Questions-)
 ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
 
+## Overview
 This repository contains a collection of Data Structure and Algorithm (DSA) questions aimed at helping you prepare for technical interviews. Whether you're a beginner or an experienced developer, you'll find a variety of problems to practice and enhance your skills.
 
 ## Features ✨
@@ -27,16 +28,31 @@ To get started with this repository, simply clone it to your local machine:
 git clone https://github.com/Shivanilarokar/DSA-Questions-.git
 ```
 
-## Usage 🚀
-Once you have cloned the repository, navigate to the directory and start exploring the DSA questions. You can run the solutions in your preferred programming environment.
-
-### Example
-Here’s a quick example of how to navigate through the repository:
+## Usage
+After cloning the repository, navigate to the directory and start exploring the DSA questions. 
 
 ```bash
 cd DSA-Questions-
-ls
 ```
 
-Feel free to contribute to this repository by submitting your own DSA questions or solutions! Happy coding! 💻
+## Example
+Here’s a brief example of how you might use the solutions provided in this repository:
+
+```python
+# Example of a DSA solution in Python
+def fibonacci(n):
+    if n <= 0:
+        return 0
+    elif n == 1:
+        return 1
+    else:
+        return fibonacci(n-1) + fibonacci(n-2)
+
+print(fibonacci(10))  # Output: 55
+```
+
+## Contributing
+Contributions are welcome! If you would like to contribute, please create a pull request or open an issue to discuss your ideas.
+
+Happy coding! 🚀
 ```
