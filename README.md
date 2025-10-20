@@ -1,8 +1,7 @@
 ```markdown
-# DSA Questions Repository 📚
+# DSA Questions Repository
 
-![GitHub contributors](https://img.shields.io/github/contributors/Shivanilarokar/DSA-Questions-)
-![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
+![GitHub repo size](https://img.shields.io/github/repo-size/Shivanilarokar/DSA-Questions-) ![GitHub stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-)
 
 Welcome to the **DSA Questions** repository! This repository contains a collection of Data Structures and Algorithms (DSA) problems and solutions to help developers enhance their problem-solving skills.
 
@@ -16,12 +15,12 @@ The DSA Questions repository aims to provide a comprehensive set of DSA problems
 
 ## Summary of the Changes 📝
 In the latest update, the README.md file has been enhanced to improve clarity and usability. Key changes include:
-- Improved introduction for better engagement.
-- Added an **Overview** section to summarize repository purpose.
-- Introduced a **Features** section to highlight repository capabilities.
-- Enhanced code snippet for a simple DSA question solution using the Fibonacci sequence for better clarity and performance.
+- Updated the **Overview** section to clarify the repository's purpose.
+- Improved the **Features** section to better reflect the repository's offerings.
+- Enhanced code examples for better readability and understanding.
+- Streamlined installation and usage instructions for user-friendliness.
 
-### Example Code Snippet
+### Code Example Changes
 Here's an improved example of a Fibonacci function:
 
 ```python
