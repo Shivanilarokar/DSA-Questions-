@@ -37,9 +37,10 @@ Feel free to explore the repository and contribute to enhancing the DSA learning
 Here’s a simple example function for demonstration:
 
 ```python
+# Example code snippet
 def example_function():
     print("This is an example function.")
 ```
 
-Feel free to dive into the questions and solutions provided in this repository. Your contributions are always welcome! 🤗
+Feel free to dive into the questions and solutions provided in this repository. Your contributions are always welcome! 🤝
 ```
