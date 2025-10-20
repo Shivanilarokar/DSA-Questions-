@@ -11,7 +11,7 @@ This repository aims to provide a comprehensive collection of Data Structures an
 ## Features
 - Comprehensive collection of DSA problems
 - Clear and structured solutions
-- Examples for better understanding
+- Examples demonstrating various algorithms and techniques
 
 ## Summary of the Changes
 In this update, the README.md file has been enhanced to improve visibility and structure. Key changes include:
@@ -30,13 +30,12 @@ git clone https://github.com/Shivanilarokar/DSA-Questions-
 You can explore various DSA questions and their solutions within this repository.
 
 ### Example of Fibonacci Function Implementation
+Here’s an example implementation of a Fibonacci function:
+
 ```python
 def fibonacci(n):
-    """This function calculates the Fibonacci number for a given `n`, demonstrating recursion."""
-    if n <= 0:
-        return 0
-    elif n == 1:
-        return 1
+    if n <= 1:
+        return n
     else:
         return fibonacci(n - 1) + fibonacci(n - 2)
 ```
