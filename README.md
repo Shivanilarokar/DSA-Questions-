@@ -11,8 +11,8 @@ The DSA Questions repository aims to provide a wide range of algorithmic challen
 
 ## Features
 - A wide range of DSA problems categorized by difficulty.
-- Solutions provided in multiple programming languages.
-- Clear and concise documentation for each problem.
+- Solutions available in multiple programming languages.
+- Regular updates and improvements based on community feedback.
 
 ## Summary of the Changes
 In the latest commit, the `README.md` file has been updated to improve clarity and organization. Notable changes include:
@@ -22,16 +22,13 @@ In the latest commit, the `README.md` file has been updated to improve clarity a
 
 ### Code Snippet of Changes
 ```diff
---# DSA Questions Repository 🚀
--+# DSA Questions Repository
--+![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
-++-# DSA Questions Repository 🚀
-+++# DSA Questions Repository
+-# DSA Questions Repository 🚀
++# DSA Questions Repository 🚀
++![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
 ```
 
 ## Installation
-To get started with the DSA Questions repository, clone the repository using the following command:
-
+To get started, clone the repository using the following command:
 ```bash
 git clone https://github.com/Shivanilarokar/DSA-Questions-.git
 ```
