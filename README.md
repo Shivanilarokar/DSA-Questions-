@@ -1,5 +1,5 @@
 ```markdown
-# DSA Questions 🤖
+# DSA Questions Repository
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/Shivanilarokar/DSA-Questions-) 
 ![Contributors](https://img.shields.io/github/contributors/Shivanilarokar/DSA-Questions-) 
@@ -17,6 +17,8 @@ The **DSA Questions** repository provides a structured approach to mastering Dat
 In this update, the following changes were made to the `README.md` file:
 - **Badges** were added to display repository size, contributors, and open issues.
 - An **Overview** section was introduced to provide better context about the repository.
+- The **Installation** and **Usage** sections were refined for clarity.
+- An **Example Code Snippet** section was added to showcase a sample function from the repository.
 
 ## Installation 🛠️
 To get started with the DSA Questions repository, clone the repository using:
@@ -37,5 +39,5 @@ def fibonacci(n):
 ```
 This function computes the Fibonacci number for a given input `n`.
 
-Feel free to explore and contribute to the repository. Happy coding! 🚀
+Feel free to explore and contribute to the repository. Happy coding! 🎉
 ```
