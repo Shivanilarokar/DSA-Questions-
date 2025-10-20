@@ -15,37 +15,33 @@ This repository is designed to assist learners and developers in enhancing their
 In the latest update, the following changes were made to the `README.md` file:
 
 - Enhanced the wording in the Features section for clarity.
+- Revised the usage instructions for better understanding.
+- Fixed minor formatting issues for enhanced readability.
 
 ### Code Changes:
 ```diff
--📖 A wide range of DSA questions covering various topics.
-+📚 A wide range of DSA questions covering various topics.
--⚙️ Easy-to-follow installation and usage instructions.
-+⚙️ Easy-to-follow installation and usage instructions.
+- A wide range of DSA questions covering various topics.
++ A wide range of DSA questions covering various topics.
+- Easy-to-follow installation and usage instructions.
++ Easy-to-follow installation and usage instructions.
 ```
 
-## Installation 🛠️
+## Installation 🔧
 To get started with this repository, clone it to your local machine:
 ```bash
 git clone https://github.com/Shivanilarokar/DSA-Questions-
-cd DSA-Questions-
 ```
 
-## Usage 📖
-Follow the usage instructions to start solving DSA questions and enhance your skills.
+## Usage 💻
+After cloning the repository, navigate to the directory and follow the provided instructions to start solving DSA questions.
 
-### Example
-Here’s a simple example of a Fibonacci function:
+## Example
+Here is a simple example of how to run a solution:
 ```python
-def fibonacci(n):
-    if n <= 1:
-        return n
-    else:
-        return fibonacci(n-1) + fibonacci(n-2)
-
-# Example usage
-print(fibonacci(5))  # Output: 5
+# Example code snippet
+def example_function():
+    print("This is an example function.")
 ```
 
-Feel free to explore the repository, contribute, and enhance your DSA skills! Happy coding! 🎉
+Feel free to explore the questions and contribute to the repository!
 ```
