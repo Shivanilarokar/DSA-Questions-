@@ -1,26 +1,29 @@
 ```markdown
 # DSA Questions 🚀
 
-![GitHub stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-?style=social) ![Forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-?style=social)
-
 Welcome to the **DSA Questions** repository! This project serves as a platform for developers and learners to practice and enhance their skills in Data Structures and Algorithms (DSA). This repository is designed to help you improve your understanding of various data structures and algorithms through a collection of questions and solutions.
 
+![GitHub stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-?style=social) ![Forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-?style=social)
+
 ## Features
 - 📚 **Comprehensive collection of DSA questions**
 - ✍️ **Detailed solutions and explanations**
-- 🤝 **Community-driven contributions**
 
 ## Summary of the Changes
-In the latest update, the `README.md` file underwent some modifications to improve clarity and usability. Key changes include:
+In the latest update, the `README.md` file underwent some modifications to improve clarity and formatting. Key changes include:
 
-- Added a new section header for **Features** to highlight the repository's capabilities.
-- Streamlined the **Installation** instructions for a more straightforward approach.
+- Enhanced code snippets for cloning and navigating the repository.
+- Improved readability by ensuring consistent formatting.
 
-### Here are some snippets showing the changes made:
-```markdown
-## Features
-- 📚 **Comprehensive collection of DSA questions**
-- ✍️ **Detailed solutions and explanations**
+### Code Snippets
+Here are the updated code snippets for cloning the repository and navigating into the project directory:
+
+```bash
+git clone https://github.com/Shivanilarokar/DSA-Questions-.git
+```
+
+```bash
+cd DSA-Questions-
 ```
 
 ## Installation
@@ -37,16 +40,11 @@ To get started with the DSA Questions repository, follow these simple steps:
 3. Follow any additional setup instructions provided in the repository.
 
 ## Usage
-Once you have the repository cloned, you can navigate through the various DSA questions and solutions to practice and improve your skills.
+Once you have cloned the repository and navigated into the project directory, you can start exploring the DSA questions and their solutions.
 
-## Example
-Here’s a quick example of how to approach a DSA question:
+Feel free to contribute by adding more questions or improving existing solutions!
 
-```python
-def example_function():
-    # Sample code for a DSA question
-    pass
-```
+---
 
-Feel free to explore, contribute, and enhance this repository with your own questions and solutions. Happy coding! 🎉
+Thank you for checking out the DSA Questions repository! Happy coding! 🎉
 ```
