@@ -1,5 +1,5 @@
 ```markdown
-# DSA Questions 📚
+# DSA Questions 📖
 
 ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-?style=social) ![GitHub stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-?style=social)
 
@@ -14,39 +14,15 @@ Welcome to the DSA Questions repository! This project aims to provide a comprehe
 
 ## Summary of the Changes 🔧
 Recent updates to the README.md include enhancements to clarify the project purpose and improve the code examples. Key modifications are as follows:
-
 - Consolidated badges for GitHub stars and forks.
-- Added a detailed implementation of the `binary_search` function.
-- Updated the example usage section for better clarity and usability.
+- Added an Overview section to better describe the project.
+- Improved formatting and clarity throughout the document.
 
-### Updated Binary Search Example
-Here’s a quick look at the modified code snippet in the README:
-
-```python
-def binary_search(arr, target):
-    left, right = 0, len(arr) - 1
-    
-    while left <= right:
-        mid = left + (right - left) // 2
-        
-        # Check if target is present at mid
-        if arr[mid] == target:
-            return mid
-        # If target is greater, ignore left half
-        elif arr[mid] < target:
-            left = mid + 1
-        # If target is smaller, ignore right half
-        else:
-            right = mid - 1
-            
-    return -1  # Target not found
-```
-
-## Installation 🔧
+## Installation
 To get started with this repository, clone it to your local machine using:
 
 ```bash
-git clone https://github.com/Shivanilarokar/DSA-Questions-
+git clone https://github.com/Shivanilarokar/DSA-Questions-.git
 ```
 
 After cloning, navigate to the project directory:
@@ -55,11 +31,26 @@ After cloning, navigate to the project directory:
 cd DSA-Questions-
 ```
 
-## Usage 🚀
-You can explore the various DSA problems and their solutions in the respective folders. To see the binary search in action, you can use the updated example provided above. Feel free to modify the input array or target value to test different scenarios.
+## Usage
+Explore the various folders for different DSA problems and their respective solutions. Each problem includes sample inputs and outputs, along with the implementation details.
 
-## Contributing 🤝
-We welcome contributions! Feel free to explore and contribute to the repository. Your input can help improve the collection of DSA problems and solutions for everyone.
+## Example
+Here's a simple example of a binary search algorithm:
 
-Thank you for checking out the DSA Questions repository! Happy coding! 🎉
+```python
+def binary_search(arr, target):
+    low = 0
+    high = len(arr) - 1
+    while low <= high:
+        mid = (low + high) // 2
+        if arr[mid] < target:
+            low = mid + 1
+        elif arr[mid] > target:
+            high = mid - 1
+        else:
+            return mid
+    return -1
+```
+
+Feel free to contribute by submitting issues or pull requests!
 ```
