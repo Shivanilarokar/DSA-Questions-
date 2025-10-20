@@ -1,5 +1,5 @@
 ```markdown
-# 📚 DSA Questions 📖✍️
+# 📚 DSA Questions ✏️
 
 ![GitHub Repo size](https://img.shields.io/github/repo-size/Shivanilarokar/DSA-Questions-?style=flat-square) 
 ![Contributors](https://img.shields.io/github/contributors/Shivanilarokar/DSA-Questions-?style=flat-square)
@@ -40,15 +40,13 @@ def binary_search(arr, target):
         # Check if target is present at mid
         if arr[mid] == target:
             return mid
-        # If target is greater, ignore left half
-        elif arr[mid] < target:
-            left = mid + 1
-        # If target is smaller, ignore right half
-        else:
-            right = mid - 1
             
     return -1
 ```
 
-Feel free to explore the code, contribute, and enhance your understanding of Data Structures and Algorithms!
+Feel free to explore the code, contribute, and enhance your understanding of Data Structures and Algorithms! 🚀
+
+```
+Happy coding! ✨
+```
 ```
