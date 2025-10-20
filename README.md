@@ -1,8 +1,7 @@
 ```markdown
 # DSA-Questions- 🤖
 
-![GitHub contributors](https://img.shields.io/github/contributors/Shivanilarokar/DSA-Questions-)
-![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
+![GitHub last commit](https://img.shields.io/github/last-commit/Shivanilarokar/DSA-Questions-) ![GitHub contributors](https://img.shields.io/github/contributors/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
 
 ## Overview
 This repository contains a collection of Data Structure and Algorithm (DSA) questions along with their solutions in multiple programming languages. It is designed to be easy to navigate and contribute to.
@@ -26,13 +25,11 @@ To get started with this repository, simply clone it to your local machine:
 git clone https://github.com/Shivanilarokar/DSA-Questions-
 ```
 
-After cloning the repository, navigate to the directory and start exploring the solutions.
-
 ## Usage
-Explore the various DSA problems and their solutions available in this repository. You can contribute by adding more solutions or improving existing ones.
+Once cloned, navigate to the desired directory and explore the DSA questions and their solutions.
 
-## Example
-Here's a simple example of a Fibonacci function implemented in Python:
+### Example
+Here is an example of the Fibonacci function implemented in Python:
 
 ```python
 def fibonacci(n):
@@ -51,7 +48,8 @@ print(fibonacci(10))  # Output: [0, 1, 1, 2, 3, 5, 8, 13, 21, 34]
 Feel free to modify and enhance this function based on your understanding!
 
 ## Contributing
-We welcome contributions from the community! Please feel free to open issues or submit pull requests for any improvements or additional solutions.
+We welcome contributions from the community! Please feel free to open issues or submit pull requests for any improvements or additional questions.
 
-Happy coding! 💻
+---
+Thank you for checking out the DSA-Questions- repository! Happy coding! 🚀
 ```
