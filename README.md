@@ -16,7 +16,7 @@ The DSA Questions repository offers a wide range of DSA questions categorized by
 - Example solutions to help you understand the concepts better.
 - Contribution guidelines for community involvement.
 
-## Summary of Changes 📜
+## Summary of Changes 📰
 
 In the latest update, the `README.md` file has been auto-updated with the following changes:
 
@@ -43,7 +43,7 @@ example_function()
 To get started with this repository, clone it to your local machine:
 
 ```bash
-git clone https://github.com/Shivanilarokar/DSA-Questions-
+git clone https://github.com/Shivanilarokar/DSA-Questions-.git
 cd DSA-Questions-
 ```
 
