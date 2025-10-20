@@ -1,5 +1,5 @@
 ```markdown
-# DSA Questions Repository 📖
+# DSA Questions Repository
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
 
@@ -54,9 +54,8 @@ example_function()
 To set up the repository locally, clone the repository and install the necessary dependencies:
 
 ```bash
-git clone https://github.com/Shivanilarokar/DSA-Questions-
+git clone https://github.com/Shivanilarokar/DSA-Questions-.git
 cd DSA-Questions-
-# Install dependencies (if any)
 ```
 
 ## Usage
@@ -64,6 +63,7 @@ cd DSA-Questions-
 To use the code snippets in this repository, simply navigate to the relevant problem file and run the code. For example:
 
 ```python
+# Here's a sample Python code for a DSA problem:
 def example_function():
     # Your code here
     pass
@@ -76,12 +76,13 @@ example_function()
 Here's a sample Python code for a DSA problem:
 
 ```python
-def example_function():
-    # Your code here
+# Sample Code Here
+def sample_problem():
+    # Implementation of the problem
     pass
 
-example_function()
+sample_problem()
 ```
 
-Feel free to explore the repository and contribute your own solutions and improvements! Happy coding! 🚀
+Feel free to explore the repository and contribute by solving problems or improving documentation!
 ```
