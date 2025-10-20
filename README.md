@@ -1,18 +1,19 @@
 ```markdown
-# DSA Questions 📖
+# DSA Questions Repository 🤖
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
 
+## Overview
 Welcome to the DSA Questions repository! This repository is a collection of algorithmic problems and solutions aimed at helping developers enhance their problem-solving skills.
 
-## Features
+## Features ✨
 - Comprehensive collection of DSA questions.
 - Community contributions are highly encouraged.
 - Detailed explanations and solutions for each problem.
 
 ## Summary of Changes ⚡
 In the latest update, the README file has been enhanced to improve clarity and engagement. Notable changes include:
-- Updated the title emoji from 📜 to 📖 to better reflect the content.
+- Updated the title emoji to 📖 to better reflect the content.
 - Added a friendly message encouraging developers to contribute and enjoy coding.
 - Minor formatting adjustments for better readability.
 
