@@ -24,22 +24,8 @@ In the latest update, the `README.md` file has been auto-updated with the follow
 ### Notable Code Changes
 
 ```diff
-## Overview
--Welcome to the **DSA Questions** repository! This repository is designed to help developers enhance their problem-solving skills by providing a structured set of DSA problems, solutions, and explanations. 🤖
-+Welcome to the **DSA Questions** repository! This repository features a comprehensive set of DSA questions 🤖, solutions, and explanations aimed at providing a structured learning path for developers. 🚀
-
-## Usage
--You can navigate through the various DSA questions and their corresponding solutions. Here's a simple example of how to define a problem:
-```python
--def example_problem(input_data):
--    # Your solution logic here
--    return result
-+You can navigate through the various DSA questions and their corresponding solutions. Here's a simple example of how to define a problem:
-```python
-+def example_problem(input_data):
-+    # Your implementation here
-+    pass
-```
+-- Welcome to the **DSA Questions** repository! This repository contains a collection of Data Structures and Algorithms (DSA) problems designed to enhance your programming skills.
+++ Welcome to the **DSA Questions** repository! This repository features a comprehensive set of DSA questions 🤖, solutions, and explanations aimed at providing a structured learning path for developers. 🚀
 ```
 
 ## Installation
@@ -65,10 +51,4 @@ Feel free to explore and contribute!
 ## Contributing
 
 Contributions are welcome! Please submit a pull request or open an issue for any suggestions or improvements.
-
----
-
-This README has been designed to provide a clear and concise overview of the repository, its features, and the latest changes, while maintaining a professional and inviting tone for potential contributors.
-
-Happy coding! 🚀
 ```
