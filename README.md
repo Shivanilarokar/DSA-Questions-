@@ -7,15 +7,42 @@
 Welcome to the DSA Questions repository! This project contains a comprehensive collection of Data Structures and Algorithms (DSA) questions along with their solutions. It aims to help developers and learners practice and enhance their problem-solving skills.
 
 ## Features
-- Comprehensive collection of DSA questions and solutions.
-- Easy to navigate and contribute to.
-- Examples provided for better understanding of concepts.
+- A wide range of DSA questions categorized by topics.
+- Clear and concise solutions with explanations.
+- User-friendly setup for easy contribution and exploration.
 
 ## Summary of the Changes
 In this update, several modifications were made to enhance the `README.md` file:
 - Consolidated badge display for better aesthetics.
 - Removed redundant instructions regarding exploring the directory.
 - Updated the Fibonacci function example to improve clarity and functionality.
+- Revised the contribution section for a more concise message.
+
+### Code Changes
+Here are some snippets showcasing the changes made:
+
+1. **Badge Consolidation**:
+   ```markdown
+   ![Last Commit](https://img.shields.io/github/last-commit/Shivanilarokar/DSA-Questions-) ![License](https://img.shields.io/badge/license-MIT-blue)
+   ```
+
+2. **Updated Fibonacci Function**:
+   ```python
+   def fibonacci(n):
+       if n <= 0:
+           return []
+       elif n == 1:
+           return [0]
+       elif n == 2:
+           return [0, 1]
+       else:
+           fib_sequence = [0, 1]
+           for i in range(2, n):
+               fib_sequence.append(fib_sequence[-1] + fib_sequence[-2])
+           return fib_sequence
+
+   print(fibonacci(10))  # Output: [0, 1, 1, 2, 3, 5, 8, 13, 21, 34]
+   ```
 
 ## Installation
 To get started with the DSA Questions repository, clone the repository and navigate into the directory:
@@ -55,4 +82,6 @@ We welcome contributions! Please read our contribution guidelines before submitt
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+Thank you for checking out the DSA Questions Repository! Happy coding! 🎉
 ```
