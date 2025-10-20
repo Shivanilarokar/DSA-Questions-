@@ -36,30 +36,13 @@ print(result)  # This will print the result of the function
 
 ## Installation
 
-To set up this project locally, follow these steps:
+To get started with the DSA Questions repository, clone the repository using the command below:
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Shivanilarokar/DSA-Questions-.git
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd DSA-Questions-
-   ```
-
-## Usage
-
-You can start exploring the DSA questions by utilizing the provided functions in the code. For example:
-
-```python
-from dsa_module import example_function
-
-# Using the function
-result = example_function(10)
-print(result)  # This will print the result of the function
+```bash
+git clone https://github.com/Shivanilarokar/DSA-Questions-.git
 ```
 
-## Example
+## Usage
 
 Here's a quick example to demonstrate the functionality:
 
