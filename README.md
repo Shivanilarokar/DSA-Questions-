@@ -17,8 +17,8 @@ In the latest update, the `README.md` file was modified to improve clarity and s
 
 ### Code Changes
 ```diff
-- Navigate through the various DSA problems in the repository and utilize the code snippets provided.
-+ Navigate through a variety of DSA problems in the repository.
+-- Navigate through a variety of DSA problems in the repository.
+++ Navigate through the various DSA problems in the repository and utilize the code snippets provided.
 ```
 
 ## Installation
@@ -28,13 +28,12 @@ git clone https://github.com/Shivanilarokar/DSA-Questions-
 ```
 
 ## Usage
-Feel free to explore the repository, contribute, and enhance your coding skills! 
+Feel free to explore the repository, contribute, and enhance your coding skills!
 
 ## Example
 Here’s a simple function example to illustrate how you might structure your code:
 
 ```python
-# Example code snippet for a DSA problem
 def example_function():
     # Your code here
     pass
