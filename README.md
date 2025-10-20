@@ -1,9 +1,8 @@
 ```markdown
-# DSA Questions 📚
+# DSA Questions Repository 📚
 
-![GitHub repo size](https://img.shields.io/github/repo-size/Shivanilarokar/DSA-Questions-) 
 ![GitHub contributors](https://img.shields.io/github/contributors/Shivanilarokar/DSA-Questions-) 
-![GitHub stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-?style=social) 
+![GitHub stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-?style=social)
 
 The DSA Questions repository is designed for learners and enthusiasts to practice and enhance their skills in data structures and algorithms. This project is designed to enhance your coding skills through practice and exploration.
 
@@ -12,12 +11,12 @@ This repository contains a wide range of problems that cover essential concepts 
 
 ## Features ✨
 - A variety of data structure and algorithm problems to enhance your coding skills.
-- Structured sections for easy navigation.
 - Solutions and explanations to help understand the concepts better.
-- Community contributions are encouraged! 🤖
+- Structured sections for easier navigation.
 
-## Summary of the Changes ✨
+## Summary of the Changes 🔄
 In this update, we made the following changes to the `README.md` file:
+- Updated the project description for clarity.
 - Added a structured section for easier navigation.
 - Updated the **Usage** section to reflect the new format for better clarity.
 - Enhanced the **Features** section with a new highlight: **"Solutions and explanations to help understand the concepts better."**
@@ -25,42 +24,22 @@ In this update, we made the following changes to the `README.md` file:
 
 ## Installation 🔧
 To get started with this repository, clone it using the following command:
-
 ```bash
-git clone https://github.com/Shivanilarokar/DSA-Questions-.git
+git clone https://github.com/Shivanilarokar/DSA-Questions-
 ```
 
-## Usage 📖
-Once cloned, navigate to the repository folder and explore the various problems organized in structured sections:
+## Usage 💻
+Follow the instructions in the repository to explore various problems and solutions. Each problem is designed to help you practice and understand key concepts in DSA.
 
-```plaintext
-DSA-Questions/
-├── Arrays/
-│   ├── problem1.md
-│   └── problem2.md
-├── LinkedLists/
-│   ├── problem1.md
-│   └── problem2.md
-└── Trees/
-    ├── problem1.md
-    └── problem2.md
+## Example 📖
+Here’s a snippet of code that you might encounter in this repository:
+```python
+def example_function():
+    # This function demonstrates a simple algorithm
+    return "Hello, DSA!"
+
+print(example_function())
 ```
 
-## Example
-Here's a quick example of how to navigate through the repository:
-
-```plaintext
-DSA-Questions/
-├── Arrays/
-│   ├── problem1.md
-│   └── problem2.md
-├── LinkedLists/
-│   ├── problem1.md
-│   └── problem2.md
-└── Trees/
-    ├── problem1.md
-    └── problem2.md
-```
-
-Feel free to explore the problems, contribute, and improve your DSA skills! 🚀
+Happy Coding! 🚀
 ```
