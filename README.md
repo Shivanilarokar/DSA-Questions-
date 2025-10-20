@@ -11,7 +11,7 @@ Welcome to the DSA Questions repository! This repository contains a collection o
 - **Structured Solutions**: Each question is accompanied by a structured solution to facilitate learning.
 - **Community Contributions**: A platform for developers to contribute their own questions and solutions.
 
-## Summary of the Changes 📜
+## Summary of the Changes 📰
 In this update, the `README.md` has been improved with the following changes:
 - Enhanced readability of the overview and features sections.
 - Updated feature list to reflect a more comprehensive description.
@@ -25,7 +25,7 @@ git clone https://github.com/Shivanilarokar/DSA-Questions-
 cd DSA-Questions-
 ```
 
-## Usage 📚
+## Usage 📖
 You can explore the various DSA questions and solutions available in this repository. Each question is structured to facilitate your learning process.
 
 ## Example 💡
