@@ -45,11 +45,26 @@ git clone https://github.com/Shivanilarokar/DSA-Questions-
 Navigate to the directory of the cloned repository and run any of the provided algorithms in your preferred Python environment.
 
 ## Example
+Here’s an updated example of the binary search algorithm:
+```python
+def binary_search(arr, target):
+    left, right = 0, len(arr) - 1
+    
+    while left <= right:
+        mid = left + (right - left) // 2
+        
+        # Check if target is present at mid
+        if arr[mid] == target:
+            return mid
+            
+    return -1
+```
+
 Feel free to explore the code, contribute, and enhance your understanding of Data Structures and Algorithms! 🚀
 
-```
+```markdown
 Happy coding! ✨
 ```
 ```
-
 This README provides a structured and professional overview of the DSA Questions repository, highlighting the recent changes and maintaining clarity for users and potential contributors.
+```
