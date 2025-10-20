@@ -1,13 +1,14 @@
 ```markdown
 # DSA Questions 🤖
 
-A comprehensive collection of Data Structures and Algorithms (DSA) problems to help developers and learners practice and enhance their coding skills through a variety of algorithmic challenges.
-
 ![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
+
+A comprehensive collection of Data Structures and Algorithms (DSA) problems to help developers and learners practice and enhance their coding skills through a variety of algorithmic challenges.
 
 ## Features
 - 🚀 **Categorized DSA problems** for easy navigation
 - 📚 **Clear explanations and solutions** for each problem
+- 💻 **Example Code Snippets** to demonstrate usage in practice
 
 ## Summary of Changes
 - Updated the README.md file to enhance the overall presentation and information structure.
@@ -41,11 +42,5 @@ def example_problem(input_data):
     return result
 ```
 
-Feel free to contribute by adding more problems, solutions, or improvements to the documentation!
-
----
-
-For more information, visit the [repository](https://github.com/Shivanilarokar/DSA-Questions-).
-
-Thank you for checking out the DSA Questions repository! Happy coding! 🤖
+Thank you for checking out the DSA Questions repository! Happy coding! 🎉
 ```
