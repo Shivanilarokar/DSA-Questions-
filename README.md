@@ -1,5 +1,5 @@
 ```markdown
-# DSA Questions Repository
+# DSA Questions Repository 📚
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-)
 
@@ -11,13 +11,24 @@ Welcome to the DSA Questions repository! This project aims to provide a comprehe
 - Code examples provided for better understanding.
 - Easy to navigate and contribute to.
 
-## Summary of Changes
+## Summary of Changes ✨
 In this update, the `README.md` file has been refined for clarity and consistency. The following changes were made:
 - Enhanced the language for better readability.
 - Improved the example section with a more relevant code snippet demonstrating a DSA problem.
 
-### Code Changes:
-Here’s an updated code snippet demonstrating a simple DSA problem solution:
+## Installation
+To get started with the DSA Questions repository, clone the repository to your local machine:
+
+```bash
+git clone https://github.com/Shivanilarokar/DSA-Questions-
+cd DSA-Questions-
+```
+
+## Usage
+Once cloned, you can navigate through the various DSA problems and their solutions. Feel free to explore and contribute!
+
+## Example
+Here is a sample code snippet demonstrating a simple DSA problem solution:
 
 ```python
 def fibonacci(n):
@@ -37,18 +48,5 @@ def fibonacci(n):
 print(fibonacci(10))  # Output: [0, 1, 1, 2, 3, 5, 8, 13, 21, 34]
 ```
 
-## Installation ⚙️
-To get started with this repository, clone it to your local machine using the following command:
-
-```bash
-git clone https://github.com/Shivanilarokar/DSA-Questions-
-cd DSA-Questions-
-```
-
-## Usage
-Once cloned, you can navigate through the various DSA problems and their solutions. Feel free to explore and contribute!
-
----
-
-Thank you for checking out the DSA Questions repository! For any issues or suggestions, please open an issue or submit a pull request.
+Thank you for checking out the DSA Questions repository! For any issues or suggestions, please open an issue or submit a pull request. Happy coding! 🚀
 ```
