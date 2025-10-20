@@ -3,13 +3,16 @@
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub last commit](https://img.shields.io/github/last-commit/Shivanilarokar/DSA-Questions-) ![License](https://img.shields.io/badge/license-MIT-blue)
 
+Welcome to the DSA Questions repository! This repository is dedicated to providing a collection of Data Structures and Algorithms questions, solutions, and resources to aid in your learning journey.
+
 ## Overview
-Welcome to the DSA Questions repository! This repository is dedicated to providing a collection of Data Structures and Algorithms (DSA) questions, solutions, and examples for learners and developers to enhance their problem-solving skills.
+This repository contains a variety of DSA problems, their solutions, and explanations. It is designed to help you practice and enhance your skills in data structures and algorithms.
 
 ## Features
-- A variety of DSA questions categorized by difficulty.
-- Code examples in Python demonstrating solutions.
-- Open for contributions to expand the collection.
+- Comprehensive collection of DSA questions
+- Solutions provided in Python
+- Engaging examples to illustrate concepts
+- Encouragement for community contributions
 
 ## Summary of the Changes
 In the recent commit, the README.md file has been auto-updated to reflect the following changes:
@@ -20,12 +23,13 @@ In the recent commit, the README.md file has been auto-updated to reflect the fo
 
 ### Changes Made:
 ```diff
--    print("Hello, DSA!")
-+    print("Hello, DSA World!")
-```
-```diff
--Feel free to contribute to the repository by adding your own questions and solutions. Happy coding! 🚀
-+Feel free to modify and enhance the examples as you practice your skills!
+-# DSA Questions 📖
++# DSA Questions 📖
+
++## Pull Requests
++![GitHub Pull Requests](https://img.shields.io/github/issues-pr/Shivanilarokar/DSA-Questions-)
+
+- Updated the example function output to be more engaging.
 ```
 
 ## Installation
@@ -45,8 +49,5 @@ def example_function():
     print("Hello, DSA World!")
 ```
 
-## Contributing
-We welcome contributions! If you have a question or a solution to add, please feel free to fork the repository and submit a pull request.
-
-Happy coding! 🚀
+Feel free to explore the repository and contribute by adding more questions and solutions. Your contributions are welcome!
 ```
