@@ -17,6 +17,7 @@ This repository contains a wide array of DSA problems, each with structured code
 In the latest commit, the `README.md` file has been updated to improve clarity and usability. Key enhancements include:
 
 - Enhanced clarity in the overview and features sections.
+- Improved formatting of code snippets for better readability.
 - Modified installation and usage instructions for clarity.
 - Added contribution guidelines for easy navigation.
 
@@ -24,10 +25,13 @@ In the latest commit, the `README.md` file has been updated to improve clarity a
 Here's an example of how the code snippets were modified for clarity:
 
 **Before:**
-```python
+```diff
+---------- Here's a sample Python code for a DSA problem:
+-----------
 def example_function():
     # Your code here
     pass
+-----------
 example_function()
 ```
 
@@ -40,15 +44,14 @@ def example_function():
 ```
 
 ## Installation
-To set up the project, clone the repository and navigate into the directory:
+To install the project, clone the repository and navigate to the project directory:
 ```bash
 git clone https://github.com/Shivanilarokar/DSA-Questions-
 cd DSA-Questions-
 ```
 
 ## Usage
-To use the repository, navigate to the specific problem directory and run the associated code.
-
+To use the repository, navigate to the specific problem directory and run the associated code. Here's a simple example of how to define a function for a DSA problem:
 ```python
 def example_function():
     # Your implementation here
@@ -56,9 +59,9 @@ def example_function():
 ```
 
 ## Contribution
-We welcome contributions! Please refer to the contribution guidelines for more information on how to get involved.
+We welcome contributions! Please follow the contribution guidelines outlined in the repository to help us make this project better.
 
 ---
 
-Feel free to explore the repository, and happy coding! 🚀
+Thank you for checking out the DSA Questions repository! Happy coding! 🚀
 ```
