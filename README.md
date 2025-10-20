@@ -11,11 +11,12 @@ The DSA Questions repository is designed to assist learners and developers in un
 ## Features
 - A wide range of DSA problems.
 - Detailed explanations and solutions.
+- Easy to follow installation and usage instructions.
 - Community contributions are welcome!
 
 ## Summary of the Changes
 In the latest update, the README.md file has been enhanced to provide a clearer and more engaging introduction to the repository. Key changes include:
-- Updated the repository title emoji from 🤖 to 🚀 for a more dynamic feel.
+- Updated the repository title emoji for a more dynamic feel.
 - Enhanced the welcome message for better clarity.
 - Adjusted the order of badges for improved visibility.
 
@@ -35,6 +36,8 @@ To get started with the DSA Questions repository, clone this repository to your 
 
 ```bash
 git clone https://github.com/Shivanilarokar/DSA-Questions-
+cd DSA-Questions-
+# Install dependencies (if any)
 ```
 
 ## Usage
@@ -52,7 +55,6 @@ class Node:
 class LinkedList:
     def __init__(self):
         self.head = None
-
     # Add more methods as necessary
 ```
 
