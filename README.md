@@ -55,7 +55,6 @@ To set up the repository locally, clone the repository and install the necessary
 ```bash
 git clone https://github.com/Shivanilarokar/DSA-Questions-.git
 cd DSA-Questions-
-# Install dependencies (if any)
 ```
 
 ## Usage
@@ -76,14 +75,11 @@ example_function()
 Here's a sample Python code for a DSA problem:
 
 ```python
-def sample_problem():
-    # Implementation of the problem
+# This is a placeholder for your DSA problem solution
+def sample_problem_solution():
+    # Add your code logic here
     pass
-
-sample_problem()
 ```
 
-Feel free to explore the repository and contribute by solving problems or improving documentation!
-
-Happy coding! 🚀
+Feel free to explore the repository, contribute, and improve your DSA skills! Happy coding! 🚀
 ```
