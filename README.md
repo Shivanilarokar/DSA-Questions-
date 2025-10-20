@@ -28,6 +28,8 @@ In this latest update, the README.md file has been auto-updated to better reflec
 ```diff
 - # DSA Questions Repository 🤖
 + # DSA Questions 🤖
+-- A comprehensive collection of Data Structures and Algorithms (DSA) problems, categorized by type...
++- This repository provides a comprehensive collection of Data Structures and Algorithms (DSA) problems...
 ```
 
 ## Installation
@@ -35,17 +37,9 @@ In this latest update, the README.md file has been auto-updated to better reflec
 To install the necessary dependencies and get started with the repository, follow these simple steps:
 
 1. Clone the repository:
-    ```bash
-    git clone https://github.com/Shivanilarokar/DSA-Questions-
-    ```
-2. Navigate to the project directory:
-    ```bash
-    cd DSA-Questions-
-    ```
-3. Install any required dependencies (if applicable):
-    ```bash
-    # Run your installation commands here
-    ```
+   ```bash
+   git clone https://github.com/Shivanilarokar/DSA-Questions-.git
+   ```
 
 ## Usage
 
