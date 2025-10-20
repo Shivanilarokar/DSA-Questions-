@@ -7,10 +7,10 @@
 Welcome to the DSA Questions repository! This repository contains a collection of Data Structures and Algorithms (DSA) questions along with their solutions in Python. Enhance your coding skills and deepen your understanding of DSA concepts through practical examples.
 
 ## Features
-- 📖 Comprehensive set of DSA questions.
+- 📚 Comprehensive set of DSA questions.
 - 🐍 Solutions provided in Python.
 - ⚡ Clear and concise explanations of algorithms.
-- 🔄 Easy to navigate and contribute to.
+- 🔍 Easy to navigate and contribute to.
 - 🚀 Continuous updates and improvements.
 
 ## Summary of the Changes
@@ -23,6 +23,7 @@ In the latest update, the README has been enhanced to provide clearer informatio
 Here's a snippet of the updated code:
 
 ```python
+# Example of a Fibonacci function
 def fibonacci(n):
     if n <= 1:
         return n
@@ -31,30 +32,22 @@ def fibonacci(n):
 ```
 
 ## Installation
-To get started with this repository, clone it using the following command:
+To get started with the DSA Questions repository, clone the repo and navigate to the directory:
 
 ```bash
 git clone https://github.com/Shivanilarokar/DSA-Questions-
-```
-
-Then navigate to the directory:
-
-```bash
 cd DSA-Questions-
 ```
 
 ## Usage
-Navigate to the desired folder and run the Python script as follows:
+You can explore the various DSA questions and their solutions by navigating through the files in the repository. Each question is accompanied by a solution and an explanation to help you understand the concepts better.
 
-```bash
-python your_script.py
+## Example
+To use the Fibonacci function, simply call it with a desired number:
+
+```python
+print(fibonacci(5))  # Output: 5
 ```
 
-Feel free to explore the repository and contribute to it!
-
----
-
-This README provides a clear overview of the repository, highlights the recent changes, and offers concise usage instructions, all while maintaining a professional and engaging tone.
-
-Happy coding! 🚀
+Feel free to contribute by submitting your own solutions or improvements to the existing ones. Happy coding! 💻
 ```
