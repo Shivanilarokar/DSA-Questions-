@@ -1,22 +1,23 @@
 ```markdown
-# DSA Questions 📊
+# DSA Questions 📖
 
 [![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-.svg)](https://github.com/Shivanilarokar/DSA-Questions-/network) 
 [![GitHub stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-.svg)](https://github.com/Shivanilarokar/DSA-Questions-/stargazers)
 
 ## Overview
-Welcome to the **DSA Questions** repository! This project aims to provide a collection of data structures and algorithms problems with clear solutions and explanations. This repository is designed for developers and learners who are interested in improving their understanding of data structures and algorithms. It contains various problems explained in a clear and concise manner.
+This repository contains a collection of Data Structures and Algorithms (DSA) problems and their solutions. It aims to help developers and students to practice and enhance their coding skills.
 
 ## Features
-- A wide variety of DSA problems.
-- Clear and concise solutions.
-- Improved readability for code examples.
+- Comprehensive list of DSA problems.
+- Clear and concise solutions with explanations.
+- Organized structure for easy navigation.
 
 ## Summary of the Changes
-In the latest update, we have made significant improvements to the `README.md` file to enhance clarity and provide a better example of the binary search algorithm. Here are the key changes:
-- Updated the header emoji from 📈 to 📖 for better representation.
+In the latest update, we have made significant improvements to the `README.md` file, including:
+
 - Enhanced the descriptions under the **Features** section for improved clarity.
 - Refined the example code for the binary search algorithm for better readability.
+- Added an example of how to use the binary search function.
 
 ### Updated Binary Search Example
 ```python
