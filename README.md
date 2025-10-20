@@ -13,11 +13,10 @@ The DSA Questions repository is designed to provide a comprehensive set of data 
 - Solutions and explanations for each problem.
 - Regular updates and contributions from the community.
 
-## Summary of the Changes 📝
+## Summary of the Changes
 In the latest update, the `README.md` file has been auto-updated with the following improvements:
-- Enhanced description emphasizing both beginners and experienced developers.
-- Added details about solutions and explanations for each problem.
-- Updated the usage section for clarity and better user guidance.
+- Enhanced clarity in the description of features.
+- Updated the usage section for better user guidance.
 - Introduced an example usage snippet to demonstrate how to use the functions in the repository.
 
 ### Key Modifications:
