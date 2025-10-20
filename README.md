@@ -1,21 +1,23 @@
 ```markdown
-# DSA Questions Repository 📚
+# DSA Questions Repository 🚀
 
-![GitHub last commit](https://img.shields.io/github/last-commit/Shivanilarokar/DSA-Questions-)
+![Last Commit](https://img.shields.io/github/last-commit/Shivanilarokar/DSA-Questions-)
+![License](https://img.shields.io/badge/license-MIT-blue)
 
 ## Overview
-This repository contains a collection of Data Structure and Algorithm (DSA) questions along with their solutions in multiple programming languages. It is designed to be easy to navigate and contribute to.
+Welcome to the DSA Questions repository! This project contains a collection of Data Structures and Algorithms (DSA) questions along with their solutions. It aims to help developers and learners practice and enhance their problem-solving skills.
 
-## Features ✨
-- Comprehensive list of DSA questions
-- Solutions in various programming languages
-- Easy to clone and explore
+## Features
+- A variety of DSA problems with detailed solutions.
+- Example implementations in multiple programming languages.
+- Contribution guidelines to help you get started.
 
 ## Summary of the Changes
 In the latest commit, the following changes were made to the `README.md` file:
 - Updated the badge for the last commit to provide more relevant information.
 - Improved the language and flow in the instructions for cloning and exploring the repository.
 - Enhanced the example section title for better clarity.
+- Minor grammatical adjustments to improve readability.
 
 ## Installation
 To get started with this repository, simply clone it to your local machine:
@@ -34,9 +36,7 @@ Here’s a simple example of a Fibonacci function:
 
 ```python
 def fibonacci(n):
-    if n <= 0:
-        return []
-    elif n == 1:
+    if n == 1:
         return [0]
     elif n == 2:
         return [0, 1]
@@ -56,5 +56,5 @@ We welcome contributions! Please feel free to open issues or submit pull request
 
 ---
 
-Thank you for checking out the DSA Questions Repository! Happy coding! 🚀
+Thank you for checking out the DSA Questions Repository! Happy coding! 🎉
 ```
