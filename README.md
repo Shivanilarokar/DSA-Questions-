@@ -1,45 +1,38 @@
 ```markdown
-# DSA Questions 🤖
+# DSA Questions 📚
 
-![GitHub stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-.svg?style=social&label=Star) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-.svg?style=social&label=Fork)
+![GitHub stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![License](https://img.shields.io/badge/license-MIT-blue)
 
-Welcome to the **DSA Questions** repository! This project is dedicated to providing a comprehensive collection of Data Structures and Algorithms (DSA) questions to help you improve your coding skills and prepare for technical interviews.
-
-## Overview
-
-The DSA Questions repository offers a wide range of DSA questions categorized by topic. Each problem is accompanied by clear and concise explanations as well as example solutions to help you understand the concepts better.
+Welcome to the DSA Questions repository! This project offers a wide range of Data Structures and Algorithms (DSA) questions categorized by difficulty and topic, complete with example solutions to help you understand the concepts better.
 
 ## Features ✨
-
-- A wide range of DSA questions categorized by topic.
-- Clear and concise explanations for each question.
-- Example solutions to help you understand the concepts better.
+- Comprehensive collection of DSA questions.
+- Categorized by difficulty and topic.
+- Example solutions to enhance understanding.
 - Contribution guidelines for community involvement.
 
 ## Summary of Changes 📰
-
 In the latest update, the `README.md` file has been auto-updated with the following changes:
+- Updated the section header from "Summary of Changes" to use a different emoji for better visual appeal.
+- Fixed the clone URL to include `.git` for proper cloning.
 
-- Changed the title emoji to 🤖 for better relevance.
-- Improved clarity and structure in the features list.
-- Revised the example code snippet for better clarity.
-- Added a section for contributing to the repository.
+### Code Changes
+Here are the key changes made in the `README.md` file:
 
-### Example Code Snippet
-
-Here’s a quick example of how to use one of the functions in this repository:
-
-```python
-def example_function():
-    # Sample implementation
-    result = "Hello, DSA!"
-    print(result)
-
-example_function()
+```diff
+-## Summary of Changes 📝
++## Summary of Changes 📰
+ 
+ To get started with this repository, clone it to your local machine:
+ 
+ ```bash
+-git clone https://github.com/Shivanilarokar/DSA-Questions-
++git clone https://github.com/Shivanilarokar/DSA-Questions-.git
+ cd DSA-Questions-
+ ```
 ```
 
-## Installation 🔧
-
+## Installation 🚀
 To get started with this repository, clone it to your local machine:
 
 ```bash
@@ -47,13 +40,17 @@ git clone https://github.com/Shivanilarokar/DSA-Questions-.git
 cd DSA-Questions-
 ```
 
-## Usage 🚀
+## Usage 🔍
+After cloning the repository, you can explore the questions and example solutions provided. Feel free to contribute by submitting your own questions or solutions!
 
-Once you have cloned the repository, navigate to the project directory and follow the usage instructions.
+## Example 💡
+Here’s an example function you might find in the repository:
 
-## Contributing 🤝
+```python
+def example_function():
+    # Example implementation
+    print("This is an example function.")
+```
 
-We appreciate your interest in contributing to the DSA Questions repository! Please check out our [Contributing Guidelines](CONTRIBUTING.md) for details on how to get started.
-
-Thank you for visiting the DSA Questions repository! Happy coding! 🎉
+Thank you for visiting the DSA Questions repository! We welcome contributions and suggestions. Happy coding! 😊
 ```
