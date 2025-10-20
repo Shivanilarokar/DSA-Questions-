@@ -1,9 +1,9 @@
 ```markdown
 # DSA Questions 🚀
 
-![GitHub stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-?style=social) ![Forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-?style=social)
-
 Welcome to the **DSA Questions** repository! This project serves as a platform for developers and learners to practice and enhance their skills in Data Structures and Algorithms (DSA). This repository is designed to help you improve your understanding of various data structures and algorithms through a collection of questions and solutions.
+
+![GitHub stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-?style=social) ![Forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-?style=social)
 
 ## Features
 - 📚 **Comprehensive collection of DSA questions**
@@ -26,15 +26,14 @@ git clone https://github.com/Shivanilarokar/DSA-Questions-
 ```
 
 ## Usage
-Once you have cloned the repository, you can navigate through the various folders to find questions and their respective solutions. Each question is accompanied by a detailed explanation to help you understand the concepts better.
+After cloning the repository, you can navigate to the folder and start practicing with the provided questions and solutions.
 
 ### Example
-Here is an example of a simple Fibonacci function:
+Here’s a simple example of a recursive function to calculate Fibonacci numbers:
 
 ```python
-# Example of a simple DSA question
 def fibonacci(n):
-    if n <= 0:
+    if n == 0:
         return 0
     elif n == 1:
         return 1
