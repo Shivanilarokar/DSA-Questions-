@@ -21,6 +21,7 @@ Recent updates to the README.md include the following:
 ### Code Snippet Changes
 Here’s a quick look at the modified code snippet in the README:
 
+### Updated Binary Search Example
 ```python
 arr = [1, 2, 3, 4, 5]
 target = 3
@@ -48,5 +49,5 @@ result = binary_search(arr, target)
 print(f'Target found at index: {result}')  # Output: Target found at index: 2
 ```
 
-Feel free to explore the repository and contribute to enhancing the collection of DSA problems! Happy coding! 😊
+Feel free to explore the repository and contribute to enhancing the collection of DSA problems! Happy coding! 😃
 ```
