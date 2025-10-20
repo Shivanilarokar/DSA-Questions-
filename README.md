@@ -1,5 +1,5 @@
 ```markdown
-# DSA Questions Repository 📚
+# DSA Questions Repository 📖
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-?style=social) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-?style=social) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
 
@@ -12,6 +12,7 @@ This repository contains various questions and solutions related to Data Structu
 - A wide range of DSA questions categorized by difficulty.
 - Clear and concise solutions with code examples.
 - Easy navigation to quickly find relevant questions.
+- Community contributions are welcome! 🤝
 
 ## Summary of the Changes
 In the latest update, the following changes were made to the README.md file:
@@ -26,10 +27,11 @@ To get started with this repository, clone it to your local machine:
 
 ```bash
 git clone https://github.com/Shivanilarokar/DSA-Questions-
+cd DSA-Questions-
 ```
 
 ## Usage
-To effectively use this repository, simply navigate through the provided questions and their respective solutions. 
+To effectively use this repository, simply navigate through the provided questions and their respective solutions.
 
 ## Example
 Here's an updated example of a Fibonacci function included in the repository:
@@ -39,8 +41,9 @@ Here's an updated example of a Fibonacci function included in the repository:
 def fibonacci(n):
     if n <= 1:
         return n
-    return fibonacci(n-1) + fibonacci(n-2)
+    else:
+        return fibonacci(n-1) + fibonacci(n-2)
 ```
 
-Feel free to explore the repository, contribute, and enhance your DSA skills!
+Feel free to explore, contribute, and enhance your understanding of Data Structures and Algorithms!
 ```
