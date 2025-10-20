@@ -19,22 +19,21 @@ In the latest update, the following changes were made to the `README.md` file:
 - Added badges for GitHub stars, forks, and issues to enhance visibility and engagement.
 - Minor wording adjustments for clarity and professionalism.
 
-### Code Snippets of Changes
-
-#### Updated Introduction
-```markdown
-Welcome to the DSA Questions repository! This repository contains a comprehensive collection of Data Structures and Algorithms problems along with their solutions.
-```
-
 ## Installation ⚙️
 To get started with this repository, follow these simple steps:
 ```bash
 # Clone the repository
 git clone https://github.com/Shivanilarokar/DSA-Questions-
-
 # Navigate into the directory
 cd DSA-Questions-
+```
 
+## Usage 💻
+After cloning the repository, navigate to the directory and explore the DSA problems and solutions. Each problem is well-documented with its corresponding solution.
+
+## Example 📂
+To view the available problem folders, use the following command:
+```bash
 # Check for available problem folders
 ls
 ```
