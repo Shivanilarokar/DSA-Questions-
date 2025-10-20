@@ -42,13 +42,10 @@ Explore the collection of DSA problems and solutions. You can navigate through v
 Here's a simple example of how to define a problem in Python:
 
 ```python
-# Sample DSA problem solution
 def example_problem():
     # Your code here
     pass
 ```
 
-Feel free to dive in and start solving problems! Contributions to add more questions and solutions are highly encouraged.
-
-Thank you for visiting the DSA Questions repository! We hope you find it helpful in your journey to mastering data structures and algorithms. Happy coding! 🚀
+Feel free to contribute and help improve this repository! We appreciate your input and suggestions. Happy coding! 🎉
 ```
