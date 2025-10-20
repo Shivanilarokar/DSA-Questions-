@@ -10,9 +10,8 @@ This repository aims to provide a variety of DSA problems along with solutions t
 
 ## Features
 - A collection of DSA problems to practice
-- Detailed solutions and explanations
-- Code examples in Python for better understanding
-- Open for contributions to enhance the repository
+- Solutions and explanations for each problem
+- Easy to follow examples to demonstrate problem-solving techniques
 
 ## Summary of the Changes
 In the latest update to the README.md, the following changes were made:
@@ -34,7 +33,6 @@ This repository contains various DSA problems and their solutions. You can explo
 Here's a simple example of a DSA problem solution:
 
 ```python
-# Example of a simple DSA problem solution
 def example_problem():
     # Your solution code here
     pass
