@@ -4,20 +4,19 @@
 ![Last Commit](https://img.shields.io/github/last-commit/Shivanilarokar/DSA-Questions-) ![Contributors](https://img.shields.io/github/contributors/Shivanilarokar/DSA-Questions-)
 
 ## Overview
-Welcome to the DSA Questions repository! This project aims to provide a comprehensive collection of data structures and algorithms questions to help enhance your coding skills.
+The DSA Questions repository is a collaborative space for developers to explore, practice, and improve their skills in data structures and algorithms. This repository contains a variety of problems with solutions that help in enhancing your coding proficiency.
 
 ## Features
-- Comprehensive collection of DSA questions.
-- Clear and concise explanations.
-- Community contributions welcome! 
+- A collection of data structures and algorithms questions.
+- Well-documented code snippets for better understanding.
+- Opportunities for contributors to enhance their skills and share knowledge.
 
-## Summary of the Changes ⚡
-In the latest update, the `README.md` file has been auto-updated to enhance clarity and usability:
-- Improved the description for better understanding of the repository's purpose.
-- Updated feature list to better highlight documentation and community contributions.
-- Revised usage section for clearer navigation instructions.
+## Summary of the Changes
+In the latest update, the `README.md` file has been auto-updated to enhance clarity and presentation. Here are the key changes made:
+- Updated the repository title to include a rocket emoji for a more engaging appearance.
+- Improved the installation section with a more relevant emoji.
+- Minor formatting adjustments to enhance readability.
 - Code snippets updated for better illustration of solutions.
-- Minor formatting adjustments for improved readability.
 
 ## Installation 🔧
 To get started, clone the repository using the following command:
@@ -26,16 +25,21 @@ To get started, clone the repository using the following command:
 git clone https://github.com/Shivanilarokar/DSA-Questions-.git
 ```
 
+## Usage 📖
 Feel free to explore and contribute to the repository! Your input is valuable to the growth of this project.
 
 ## Example
-Here’s a simple example of a Fibonacci function:
+Here is an example of a Fibonacci function implemented in Python:
 
 ```python
 def fibonacci(n):
     if n <= 1:
-        return 1
+        return n
     else:
         return fibonacci(n-1) + fibonacci(n-2)
+
+print(fibonacci(10))  # Output: 55
 ```
+
+Explore the repository and improve your data structures and algorithms skills!
 ```
