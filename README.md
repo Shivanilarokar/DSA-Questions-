@@ -18,10 +18,10 @@ In the latest commit, the README.md file has been updated to enhance clarity and
 - Enhanced the overview to include explanations of solutions.
 - Updated feature descriptions to reflect contribution guidelines and sample solutions.
 - Improved the usage instructions for better clarity.
-- Added an example of how to structure a simple problem solution.
 
 ## Installation
-To clone this repository, run the following command:
+To clone the repository, execute the following command:
+
 ```bash
 git clone https://github.com/Shivanilarokar/DSA-Questions-
 ```
@@ -34,6 +34,7 @@ To use this repository effectively:
 
 ## Example
 Here’s a simple structure for a problem solution:
+
 ```python
 def example_problem(input_data):
     # Your solution logic here
