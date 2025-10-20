@@ -12,7 +12,7 @@ This repository contains various data structures and algorithm questions designe
 ## Features
 
 - 📚 A comprehensive collection of DSA questions
-- 🧠 Solutions and explanations for each problem
+- 🤖 Solutions and explanations for each problem
 - 🔄 Regular updates with new challenges
 - 🌍 Community contributions are welcome!
 
@@ -20,8 +20,9 @@ This repository contains various data structures and algorithm questions designe
 
 In the latest commit, minor adjustments were made to the `README.md` file to enhance clarity and presentation. Specifically, the following changes were made:
 
-- Removed an extra blank line for better formatting.
 - Simplified the initial greeting for a cleaner look.
+- Improved formatting for better readability.
+- Updated the features list to present solutions more clearly.
 
 ## Installation
 
@@ -45,8 +46,6 @@ def example_problem():
     # Your solution logic here
     pass
 ```
-
----
 
 Thank you for visiting the DSA Questions repository! We hope you find it helpful in your journey to mastering data structures and algorithms. Happy coding! 🚀
 ```
