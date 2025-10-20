@@ -22,32 +22,26 @@ In the latest update, the `README.md` file has been auto-updated to enhance clar
 To get started with the DSA Questions repository, follow these steps:
 
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/Shivanilarokar/DSA-Questions-.git
-   ```
+    ```bash
+    git clone https://github.com/Shivanilarokar/DSA-Questions-.git
+    ```
 
 2. Navigate into the project directory:
-   ```bash
-   cd DSA-Questions-
-   ```
+    ```bash
+    cd DSA-Questions-
+    ```
 
 3. Install any necessary dependencies (if applicable):
-   ```bash
-   # Example command for installing dependencies
-   npm install
-   ```
+    ```bash
+    # Example command for installing dependencies
+    ```
 
 ## Usage
-To start solving problems, simply navigate to the corresponding problem directory and follow the instructions provided in the solution files. Each problem is designed to help you improve your coding skills step-by-step.
+To start solving problems, navigate through the directories for each problem set. Each directory contains the problem statement and corresponding solutions.
 
 ### Example
-Here’s a quick example of how to solve a simple problem:
-
+Here’s a simple example of how to use one of the solution functions:
 ```python
-def example_problem(input):
-    # This is a simple example function
-    return input * 2
-
 result = example_problem(5)
 print(result)  # Output: 10
 ```
