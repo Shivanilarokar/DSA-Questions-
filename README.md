@@ -9,14 +9,17 @@
 The **DSA Questions** repository provides a structured approach to mastering Data Structures and Algorithms (DSA). It is designed for learners who want to enhance their problem-solving skills through practical examples and challenges.
 
 ## Features ✨
+- Comprehensive collection of DSA problems and solutions.
+- Solutions provided in multiple programming languages.
 - Clear explanations and structured learning paths.
 - Regular updates with new problems and solutions.
 - Community contributions are welcome!
 
-## Summary of the Changes 📝
+## Summary of the Changes 📜
 In this update, the following changes were made to the `README.md` file:
 - **Badges** were added to display repository size, contributors, and open issues.
 - An **Overview** section was introduced to provide better context about the repository.
+- The **Example Code** section was enhanced with an updated Fibonacci function that improves the handling of edge cases.
 
 ## Installation 💻
 To get started with the DSA Questions repository, clone it to your local machine:
@@ -28,7 +31,7 @@ git clone https://github.com/Shivanilarokar/DSA-Questions-.git
 ## Usage 📖
 You can explore various DSA problems and their solutions by navigating through the repository structure.
 
-## Example Code 🧑‍💻
+## Example Code 🤖💻
 Here is the updated Fibonacci function:
 
 ```python
