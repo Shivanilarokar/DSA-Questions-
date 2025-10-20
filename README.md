@@ -10,6 +10,7 @@ This repository is designed to assist learners and developers in enhancing their
 
 ## Features
 - A wide range of DSA questions categorized by difficulty.
+- Solutions provided for each question.
 - Easy navigation through the repository.
 - Community contributions are encouraged! 🤝
 
@@ -21,25 +22,22 @@ In the latest update, the following changes were made to the `README.md` file:
 - Revised the example section to include a practical implementation of a Fibonacci function.
 
 ## Installation
-To get a local copy up and running, follow these simple steps:
+To get started with the DSA Questions repository, clone the repository to your local machine:
 
 ```bash
 git clone https://github.com/Shivanilarokar/DSA-Questions-
-cd DSA-Questions-
 ```
 
 ## Usage
-Once you have cloned the repository, you can explore various DSA questions and solutions. You can also contribute by adding new questions or improving existing solutions.
+To use the provided solutions or contribute your own, navigate through the categorized questions and implement the solutions in your development environment.
 
 ### Example
-Here is a simple example demonstrating a Fibonacci function:
+Here is a simple implementation of a Fibonacci function:
 
 ```python
 def fibonacci(n):
-    if n <= 0:
-        return 0
-    elif n == 1:
-        return 1
+    if n <= 1:
+        return n
     else:
         return fibonacci(n-1) + fibonacci(n-2)
 
@@ -48,4 +46,5 @@ print(fibonacci(5))  # Output: 5
 ```
 
 Feel free to explore and contribute to this repository! 🎉
+
 ```
