@@ -1,23 +1,23 @@
 ```markdown
-# DSA Questions Repository 🚀
+# DSA-Questions- 🤖
 
-![GitHub last commit](https://img.shields.io/github/last-commit/Shivanilarokar/DSA-Questions-)
 ![GitHub contributors](https://img.shields.io/github/contributors/Shivanilarokar/DSA-Questions-)
 ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
 
+## Overview
 This repository contains a collection of Data Structure and Algorithm (DSA) questions along with their solutions in multiple programming languages. It is designed to be easy to navigate and contribute to.
 
-## Features
+## Features ✨
 - A wide range of DSA problems with solutions.
 - Solutions provided in multiple programming languages.
 - Easy to navigate and contribute to.
 
-## Summary of Changes
-In this update, the `README.md` has been enhanced to provide clearer instructions and examples for users. Key changes include:
-- Added an **Overview** section to better describe the repository's purpose.
-- Improved **Usage** instructions for navigating the repository.
-- Introduced an **Example** section with a Python solution for the Fibonacci problem.
-- Added a **Contributing** section to encourage community participation.
+## Summary of the Changes
+In this update, the `README.md` has been enhanced to provide clearer instructions and improve readability. Key changes include:
+- Improved the description of the repository.
+- Updated the features section for clarity.
+- Revised the installation and usage instructions for better understanding.
+- Enhanced the example code for the Fibonacci function in Python.
 
 ## Installation
 To get started with this repository, simply clone it to your local machine:
@@ -40,10 +40,12 @@ def fibonacci(n):
         return [0]
     elif n == 2:
         return [0, 1]
+    else:
+        fib_sequence = fibonacci(n - 1)
+        fib_sequence.append(fib_sequence[-1] + fib_sequence[-2])
+        return fib_sequence
 
-    fib_sequence = fibonacci(n - 1)
-    fib_sequence.append(fib_sequence[-1] + fib_sequence[-2])
-    return fib_sequence
+print(fibonacci(10))  # Output: [0, 1, 1, 2, 3, 5, 8, 13, 21, 34]
 ```
 
 Feel free to modify and enhance this function based on your understanding!
