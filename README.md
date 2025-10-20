@@ -6,12 +6,19 @@
 ## Overview
 This repository is designed to assist learners and developers in enhancing their understanding of Data Structures and Algorithms (DSA) through a collection of questions and solutions.
 
+## Features
+- Comprehensive collection of DSA questions and solutions.
+- Easy navigation through various topics.
+- Contribution-friendly environment for developers.
+
 ## Summary of the Changes
 In the latest update, the following changes were made to the `README.md` file:
 - Updated the title emoji from 📚 to 📖 for better representation.
 - Enhanced the badges section to include GitHub issues.
 - Modified the text in the overview for clarity and conciseness.
 - Improved the features list for better readability.
+- Revised installation and usage sections for clarity.
+- Added a more specific example of the Fibonacci function.
 
 ## Installation
 To get started with the DSA Questions repository, clone the repository to your local machine:
