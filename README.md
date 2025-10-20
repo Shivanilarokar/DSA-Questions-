@@ -10,30 +10,25 @@ This repository contains a variety of data structure and algorithm problems. Whe
 
 ## Features ✨
 - A variety of data structure and algorithm problems.
-- Practical solutions to enhance understanding.
-- Community contributions are welcome! 🤝
+- Clear explanations and examples for each problem.
+- Easy to contribute and enhance with your own solutions.
 
-## Summary of the Changes 📝
+## Summary of Changes
 In the latest commit, the README file has been updated to enhance its clarity and engagement. The following changes were made:
 - Enhanced the welcome message for better engagement.
 - Improved the overview section for clarity.
-- Added a problem statement and example solution to the usage section.
-- Included badges for GitHub issues, forks, and stars for better visibility.
+- Added badges for GitHub issues, forks, and stars for better visibility.
+- Updated code examples for better readability.
 
 ## Installation
 To get started, clone the repository to your local machine using the following command:
 
 ```bash
 git clone https://github.com/Shivanilarokar/DSA-Questions-
-cd DSA-Questions-
 ```
 
 ## Usage
 Here's a code snippet for a common problem, the "Two Sum":
-
-**Problem Statement**: Given an array of integers, return indices of the two numbers such that they add up to a specific target.
-
-**Example Solution**:
 
 ```python
 def two_sum(nums, target):
