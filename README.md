@@ -3,10 +3,7 @@
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-?style=social) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-?style=social)
 
-The DSA Questions repository is designed to help developers improve their coding skills and problem-solving abilities. This repository provides a wide variety of DSA problems with well-commented code snippets for easy understanding and reference. Community-driven contributions and improvements are welcome!
-
-## Overview
-The DSA Questions repository is a collection of data structure and algorithm problems designed to enhance your coding skills and understanding of fundamental concepts.
+The DSA Questions repository is a collection of data structure and algorithm problems designed to enhance your coding skills and problem-solving capabilities.
 
 ## Features
 - Comprehensive collection of DSA problems.
@@ -23,6 +20,7 @@ In the latest update, the `README.md` file has been enhanced to improve clarity 
 - Rephrased the **Contributing** section to encourage community contributions without previous formalities.
 
 ### Code Snippet Changes
+To clone the repository and navigate into it, use the following commands:
 ```bash
 git clone https://github.com/Shivanilarokar/DSA-Questions-
 cd DSA-Questions-
@@ -38,6 +36,8 @@ Here's a sample Python code for a DSA problem:
 def example_function():
     # Your code here
     pass
+
+example_function()
 ```
 
 ## Contributing
