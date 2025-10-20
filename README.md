@@ -1,19 +1,14 @@
 ```markdown
-# DSA Questions Repository
+# DSA Questions Repository 🚀
 
-![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![GitHub stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-)
+This repository is dedicated to providing a collection of data structures and algorithm problems. Whether you're preparing for coding interviews or just looking to enhance your problem-solving skills, this repository has something for everyone!
 
-Welcome to the DSA Questions repository! This repository is dedicated to providing a collection of data structure and algorithm questions along with their solutions. This repository aims to help developers enhance their problem-solving skills in data structures and algorithms through practical examples and solutions.
-
-## Overview
-This repository is dedicated to providing a collection of data structures and algorithms problems along with their solutions to help you enhance your coding skills and prepare for technical interviews.
-
-## Features
+## Features ✨
 - A variety of data structure and algorithm problems.
 - Practical solutions to enhance problem-solving skills.
 - Community-driven contributions and discussions.
 
-## Summary of the Changes
+## Summary of the Changes 📝
 In the latest commit, the README file has been updated to enhance its clarity and engagement. The following changes were made:
 - Enhanced the welcome message for better engagement.
 - Improved the overview section for clarity.
@@ -29,11 +24,12 @@ git clone https://github.com/Shivanilarokar/DSA-Questions-
 cd DSA-Questions-
 ```
 
-## Usage 📖
+## Usage 📚
 Here's a code snippet for a common problem, the "Two Sum":
 
 **Problem Statement**: Given an array of integers, return indices of the two numbers such that they add up to a specific target.
 
+**Example Solution**:
 ```python
 def two_sum(nums, target):
     num_map = {}
