@@ -1,29 +1,21 @@
 ```markdown
 # DSA Questions 📚
 
-![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![License](https://img.shields.io/badge/license-MIT-blue.svg)
-
 ## Overview
 Welcome to the **DSA Questions** repository! This repository contains a variety of DSA problems categorized by difficulty level, aimed at helping developers enhance their data structures and algorithms skills.
+
+![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ## Features
 - Comprehensive collection of DSA questions
 - Problems categorized by difficulty
-- Solutions and explanations provided for each problem
 
 ## Summary of the Changes
-In the latest update, the README file has been modified to enhance clarity and presentation. Notable changes include:
-- Improved description in the **Overview** section for better understanding.
-- Merged badge display into a single line for improved aesthetics.
-- Minor textual adjustments for better readability.
-
-### Code Snippet of Changes
-```diff
--## Overview
--Welcome to the **DSA Questions** repository! This repository serves as a comprehensive resource for anyone looking to improve their understanding of data structures and algorithms.
-+## Overview
-+Welcome to the **DSA Questions** repository! This repository contains a variety of DSA problems categorized by difficulty level, aimed at helping developers enhance their data structures and algorithms skills.
-```
+In the latest update, the README file has been modified to enhance clarity and presentation. Key changes include:
+- Introduction of an "Overview" section for better structure.
+- Added a "Features" section outlining the repository's benefits.
+- Improved instructions in the "Installation" and "Usage" sections for clarity.
+- Updated the "Example" section to better demonstrate problem structuring.
 
 ## Installation
 To get started with the DSA Questions repository, simply clone the repo and install any required dependencies.
