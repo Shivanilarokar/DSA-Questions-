@@ -26,15 +26,6 @@ git clone https://github.com/Shivanilarokar/DSA-Questions-
 cd DSA-Questions-
 ```
 
-Here's a sample Python code for a DSA problem:
-```python
-def example_function():
-    # Your code here
-    pass
-
-example_function()
-```
-
 ## Installation
 To get started with this repository, clone it using the command:
 ```bash
