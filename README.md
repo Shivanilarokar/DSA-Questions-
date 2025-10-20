@@ -24,23 +24,27 @@ In this update, the `README.md` file has been streamlined to enhance clarity and
 ### Code Snippet Changes
 Here's an example of how the code snippets were modified for clarity:
 
-Before:
+**Before:**
 ```diff
--Here's a sample Python code for a DSA problem:
--```python
---    def example_function():
---        # Your code here
---        pass
---    
---    example_function()
+- Here's a sample Python code for a DSA problem:
+- ```python
+---def example_function():
+---    # Your code here
+---    pass
+-+-    def example_function():
+-+-        # Your code here
+-+-        pass
+---example_function()
+-+-    example_function()
+--```
 ```
 
-After:
+**After:**
 ```diff
--    def example_function():
--        # Your code here
--        pass
-+    example_function()
++-    def example_function():
++-        # Your code here
++-        pass
+++    example_function()
 ```
 
 ## Installation
@@ -48,12 +52,12 @@ To get started with this repository, clone it using the command:
 ```bash
 git clone https://github.com/Shivanilarokar/DSA-Questions-
 ```
+
 Then navigate into the directory:
 ```bash
 cd DSA-Questions-
 ```
 
-## Usage
 Feel free to explore the various DSA problems available in this repository. Each problem file contains detailed implementations to help you understand the concepts better.
 
 ## Example
@@ -61,5 +65,5 @@ While specific code examples have been removed from the README for conciseness, 
 
 ---
 
-Feel free to contribute by submitting your DSA problems or enhancing existing solutions! Happy coding! 🚀
+We welcome contributions! Feel free to open issues or submit pull requests to help improve this repository. Happy coding! 🚀
 ```
