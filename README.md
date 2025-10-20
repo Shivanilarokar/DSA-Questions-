@@ -29,8 +29,7 @@ Here are the key snippets of the changes made:
 
 ```diff
 -# DSA Questions 🤖
-+# DSA Questions 🤖
- This repository serves as a learning platform to enhance your algorithmic skills and improve your understanding of Data Structures and Algorithms (DSA).
++This repository serves as a learning platform to enhance your algorithmic skills and improve your understanding of Data Structures and Algorithms (DSA).
 +Enhanced the project description for better engagement and clarity.
 ```
 
@@ -46,7 +45,7 @@ git clone https://github.com/Shivanilarokar/DSA-Questions-.git
 
 Once cloned, navigate to the repository's directory and start exploring the DSA problems. Each problem is categorized for your convenience.
 
-## Example 🤹
+## Example 🔍
 
 Here's an example of how to use the DSA problems in Python:
 
@@ -56,5 +55,5 @@ def example_problem():
     pass
 ```
 
-Feel free to explore, contribute, and enhance your DSA skills with this repository!
+Feel free to explore, contribute, and enhance your DSA skills with this repository! Happy coding! 💻
 ```
