@@ -1,5 +1,5 @@
 ```markdown
-# DSA Questions 📚
+# DSA Questions Repository
 
 ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-.svg) 
 ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-.svg) 
@@ -30,12 +30,11 @@ cd DSA-Questions-
 To get started with this repository, clone it to your local machine using the command above.
 
 ## Usage
-Refer to the individual question files for usage instructions and code implementations.
+Refer to the individual question files for usage instructions and code implementations. You can explore the various DSA questions and their solutions in the repository. Feel free to run the code snippets and modify them as you learn!
 
 ## Contributing
 We welcome contributions! Feel free to submit a pull request or open an issue if you have suggestions or questions.
 
+---
 This README.md provides a structured overview of the repository, highlights recent changes, and offers clear instructions and examples for users and contributors.
-
-Happy coding! 🎉
 ```
