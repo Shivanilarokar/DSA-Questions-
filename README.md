@@ -1,24 +1,31 @@
 ```markdown
-# DSA Questions Repository 📖
+# DSA Questions Repository 📚
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/Shivanilarokar/DSA-Questions-) 
 ![GitHub contributors](https://img.shields.io/github/contributors/Shivanilarokar/DSA-Questions-)
 
+## Overview
 Welcome to the DSA Questions repository! This repository contains a collection of data structures and algorithms designed to enhance your understanding and skills in programming.
 
 ## Features
 - Comprehensive collection of data structures and algorithms.
 - Clear explanations and code examples for each algorithm.
-- Easy navigation for quick reference and learning.
-- Open for contributions to enhance the repository further.
+- Encouragement for community contributions.
 
-## Summary of the Changes ✨
-In the recent update, the `README.md` file has been modified to enhance clarity and user engagement.
+## Summary of the Changes
+In the recent update, the `README.md` file has been modified to enhance clarity and engagement. 
 
 ### Key Changes:
 - **Improved Introductory Text**: Enhanced the welcome message for better engagement.
+  ```diff
+  - Welcome to the DSA Questions repository! This repository contains a collection of data structures and algorithms designed to help you master coding interviews and improve your problem-solving skills.
+  + Welcome to the DSA Questions repository! This repository contains a collection of data structures and algorithms designed to enhance your understanding and skills in programming.
+  ```
+
 - **Added Contribution Note**: Encouraged users to contribute to the repository.
+  
 - **Revised Usage Instructions**: Clarified usage steps for better understanding.
+  
 - **Updated Example Code**: Provided a more illustrative example of an algorithm implementation.
 
 ## Installation
@@ -49,5 +56,5 @@ def bubble_sort(arr):
     return arr
 ```
 
-Feel free to explore, contribute, and help enhance this repository! 🎉
+Feel free to explore and contribute to the repository!
 ```
