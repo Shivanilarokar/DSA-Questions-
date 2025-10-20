@@ -1,9 +1,9 @@
 ```markdown
 # DSA Questions 🚀
 
-![GitHub stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-?style=social) ![Forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-?style=social)
-
 Welcome to the **DSA Questions** repository! This project serves as a platform for developers and learners to practice and enhance their skills in Data Structures and Algorithms (DSA). This repository is designed to help you improve your understanding of various data structures and algorithms through a collection of questions and solutions.
+
+![GitHub stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-?style=social) ![Forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-?style=social)
 
 ## Features
 - Comprehensive collection of DSA questions
@@ -13,29 +13,14 @@ Welcome to the **DSA Questions** repository! This project serves as a platform f
 ## Summary of the Changes
 In the latest update, several enhancements and formatting improvements were made to the README file:
 
-- Added a new **Features** section to highlight key aspects of the repository.
-- Improved formatting for installation instructions for better clarity.
-- Introduced an **Example** section to provide users with a code snippet demonstrating usage.
+- Added an **Installation Steps** section for ease of setup.
+- Updated the **Example** section with a code snippet demonstrating usage.
+- Improved the structure and clarity of the document.
 
 ### Code Snippets
 Here are some of the updated sections in the README:
 
 ```markdown
-## Installation Steps
-```bash
-1. Clone the repository:
-   git clone https://github.com/Shivanilarokar/DSA-Questions-.git
-```
-
-```python
-## Example
-Here’s an example of how to utilize this repository:
-```python
-# Example code snippet
-def example_function():
-    print("Welcome to DSA Questions!")
-```
-
 ## Installation Steps
 1. Clone the repository:
    ```bash
@@ -51,7 +36,17 @@ def example_function():
    ```bash
    pip install -r requirements.txt
    ```
+```
 
+```python
+## Example
+Here’s an example of how to utilize this repository:
+```python
+# Example code snippet
+def example_function():
+    print("Welcome to DSA Questions!")
+```
+  
 ## Usage
 Once you have cloned the repository, you can navigate through the collection of DSA questions and start practicing.
 
