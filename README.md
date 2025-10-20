@@ -6,10 +6,9 @@
 This repository contains a collection of Data Structures and Algorithms (DSA) questions and solutions aimed at helping developers enhance their problem-solving skills.
 
 ## Features ✨
-- Comprehensive collection of DSA problems.
-- Clear and concise code solutions.
-- Easy-to-follow usage instructions.
-- Contribution guidelines for aspiring developers.
+- Comprehensive collection of DSA questions.
+- Clear and concise solutions.
+- Easy navigation through folders and files.
 
 ## Summary of the Changes 📝
 The recent updates to the `README.md` file include:
@@ -25,9 +24,9 @@ To get started, clone the repository to your local machine using the following c
 git clone https://github.com/Shivanilarokar/DSA-Questions-
 ```
 
+## Usage 💻
 Explore the various folders and files to find DSA questions and their corresponding solutions. You can run the solutions in your preferred environment.
 
-## Usage 💻
 Feel free to explore and contribute to this repository as you enhance your DSA skills!
 
 ## Example 📚
@@ -41,9 +40,7 @@ def fibonacci(n):
         return 1
     else:
         return fibonacci(n-1) + fibonacci(n-2)
-
-print(fibonacci(10))  # Output: 55
 ```
 
-Thank you for visiting the DSA Questions repository! We encourage contributions and feedback. Happy coding! 🚀
+Happy coding! 🚀
 ```
