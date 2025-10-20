@@ -25,6 +25,14 @@ In the latest update, the `README.md` file has been refined with the following c
 - Revised the installation and usage instructions for improved guidance.
 - Added a contributing section to encourage community involvement.
 
+```diff
+--# DSA Questions Repository 🤖
+-+# DSA Questions Repository
+- 
+--Feel free to explore the repository and contribute to enhancing the solutions! Happy coding! 🚀
+-+Feel free to explore and contribute to the repository!
+```
+
 ## Installation
 
 To get started with the DSA Questions repository, clone the repository using the following command:
@@ -43,7 +51,8 @@ Here’s a simple example of how you could implement a basic algorithm:
 
 ```python
 def example_function():
-    print("This is a sample function.")
+    # Your code here
+    pass
 ```
 
 Feel free to modify and enhance the solutions provided in this repository!
@@ -51,8 +60,4 @@ Feel free to modify and enhance the solutions provided in this repository!
 ## Contributing
 
 We welcome contributions! If you have suggestions or improvements, please feel free to submit a pull request.
-
----
-
-Happy coding! 🎉
 ```
