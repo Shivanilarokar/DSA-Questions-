@@ -43,12 +43,5 @@ def example_function():
     pass
 ```
 
-Feel free to explore and enhance the repository with your own contributions!
-
-## Contributing 🤝
-We welcome contributions from the community! Please read our [Contributing Guidelines](CONTRIBUTING.md) for more information.
-
----
-
-Thank you for checking out the DSA Questions repository! Happy coding! 🚀
+Feel free to explore, contribute, and enhance your DSA skills with this repository!
 ```
