@@ -1,23 +1,23 @@
 ```markdown
 # DSA Questions Repository 🚀
 
+[![GitHub stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-?style=social)](https://github.com/Shivanilarokar/DSA-Questions-/stargazers) 
+[![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-?style=social)](https://github.com/Shivanilarokar/DSA-Questions-/network)
+
 The DSA Questions repository is designed to help you practice and improve your coding skills in Data Structures and Algorithms (DSA).
 
 ## Features ✨
 - **Diverse Questions**: Explore a wide range of DSA problems.
-- **Clear Explanations**: Each solution includes detailed explanations for better understanding.
 - **Multiple Languages**: Solutions provided in various programming languages.
+- **Clear Explanations**: Each solution includes detailed explanations for better understanding.
 
 ## Summary of Changes 💔
 In the latest commit, the `README.md` file has been updated to improve clarity and conciseness. The following changes were made:
-- Updated the title from "DSA Questions" to "DSA Questions Repository" for better context.
-- Revised the introductory paragraph for better clarity.
-- Added badges for GitHub stars and forks to enhance visibility.
-- Clarified the instructions for cloning the repository.
-- Enhanced the example section for better readability.
+- Enhanced the description for better readability.
+- Slight rephrasing for clarity in the usage section.
 
-## Installation 🛠️
-To get started with the DSA Questions repository, clone the repository and navigate into it:
+## Installation ⚙️
+To get started with the DSA Questions repository, clone the repository and navigate into the directory:
 
 ```bash
 git clone https://github.com/Shivanilarokar/DSA-Questions-.git
@@ -35,14 +35,11 @@ Once you have cloned the repository, you can explore the various DSA problems an
 Here’s a basic example of how you might call a solution:
 
 ```python
+# Example solution function
 def example_solution():
-    # Your solution code here
+    # Your code here
     pass
 ```
 
-Feel free to contribute by adding more problems and solutions or improving existing ones!
-
----
-
-For more details, check the documentation or feel free to reach out with any questions!
+Feel free to contribute to the repository by submitting issues or pull requests. Happy coding! 🎉
 ```
