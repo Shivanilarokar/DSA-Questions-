@@ -10,13 +10,11 @@ The **DSA Questions** repository provides a structured approach to mastering Dat
 
 ## Features ✨
 - Comprehensive collection of DSA problems and solutions.
-- User-friendly structure for easy navigation.
-- Code snippets available in multiple programming languages.
-- Regular updates with new problems and solutions.
+- Solutions provided in multiple programming languages.
+- Clear explanations and structured learning paths.
 
 ## Summary of the Changes 📝
 In this update, the following changes were made to the `README.md` file:
-- **Badges** were added to display repository size, contributors, and open issues.
 - An **Overview** section was introduced to provide better context about the repository.
 - The **Example Code** section was enhanced with an updated Fibonacci function that improves the handling of edge cases.
 
@@ -25,12 +23,9 @@ Here is the updated Fibonacci function:
 
 ```python
 def fibonacci(n):
-    if n <= 0:
-        return 0
-    elif n == 1:
-        return 1
-    else:
-        return fibonacci(n-1) + fibonacci(n-2)
+    if n <= 1:
+        return n
+    return fibonacci(n-1) + fibonacci(n-2)
 ```
 
 ## Installation 🚀
