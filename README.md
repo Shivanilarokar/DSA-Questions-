@@ -1,12 +1,7 @@
 ```markdown
-# DSA Questions Repository 📚
+# DSA Questions Repository 🤖
 
-![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) 
-![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-) 
-![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-)
-
-## Overview
-Welcome to the DSA Questions repository! This project aims to provide a comprehensive collection of Data Structures and Algorithms (DSA) problems along with their solutions, helping you enhance your problem-solving skills.
+Welcome to the DSA Questions repository! This project aims to provide a comprehensive collection of data structures and algorithms (DSA) problems, along with well-documented solutions to aid understanding.
 
 ## Features
 - A wide range of DSA problems.
@@ -20,6 +15,17 @@ In the latest update, the README.md file has been enhanced for better clarity an
 - Updated the installation instructions for clarity.
 - Provided an example usage of the Fibonacci function, including expected output.
 
+### Code Changes
+Here's a snippet of the updated code reflecting the changes made:
+
+```python
+def fibonacci(n):
+    fib_seq = [0, 1]
+    for i in range(2, n):
+        fib_seq.append(fib_seq[i-1] + fib_seq[i-2])
+    return fib_seq
+```
+
 ## Installation
 To get started with this repository, clone it to your local machine:
 
@@ -27,14 +33,16 @@ To get started with this repository, clone it to your local machine:
 git clone https://github.com/Shivanilarokar/DSA-Questions-
 ```
 
+## Usage
 Navigate through the different folders to explore various DSA problems and their solutions.
 
 ## Example Usage
 Here's an example of how to use the Fibonacci function defined in this repository:
 
 ```python
-print(fibonacci(10))  # Output: [0, 1, 1, 2, 3, 5, 8, 13, 21, 34]
+result = fibonacci(10)
+print(result)  # Expected Output: [0, 1, 1, 2, 3, 5, 8, 13, 21, 34]
 ```
 
-Feel free to explore and contribute to the repository! 🚀
+Feel free to contribute and enhance this repository! 🌟
 ```
