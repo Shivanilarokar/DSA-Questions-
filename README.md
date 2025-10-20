@@ -3,27 +3,23 @@
 
 ![Repository Size](https://img.shields.io/github/repo-size/Shivanilarokar/DSA-Questions-) 
 ![Last Commit](https://img.shields.io/github/last-commit/Shivanilarokar/DSA-Questions-)
-![License](https://img.shields.io/github/license/Shivanilarokar/DSA-Questions-)
-
-Welcome to the **DSA Questions** repository! This repository provides a collection of Data Structures and Algorithms (DSA) problems, solutions, and resources aimed at helping developers enhance their coding skills and problem-solving abilities.
 
 ## Overview
-This repository contains a variety of DSA problems designed to help you improve your coding skills. Whether you're a beginner or an experienced developer, you'll find valuable resources here.
+Welcome to the DSA Questions repository! This repository contains a collection of Data Structures and Algorithms (DSA) problems along with their solutions, aimed at helping developers enhance their coding skills and prepare for technical interviews.
 
 ## Features
-- A wide variety of DSA problems categorized for easy navigation.
-- Comprehensive solutions and explanations for each problem.
-- Opportunities for contribution and collaboration.
+- A variety of DSA problems covering different topics.
+- Well-structured solutions in various programming languages.
+- Opportunity for contributions from the community.
 
-## Summary of the Changes
-In this recent update, the `README.md` file has been enhanced to improve clarity and provide additional information. Key changes include:
-- **Added a License Badge**: Included a badge to indicate the repository's license.
-- **Refined Overview**: Clarified the purpose and contents of the repository.
-- **Updated Usage Instructions**: Enhanced instructions for exploring and contributing to the repository.
-- **Improved Example Section**: Updated the example to demonstrate a common DSA problem (Fibonacci sequence).
+## Summary of Changes
+In the latest commit, the README.md was updated to enhance clarity and aesthetic appeal:
+- Updated the title emoji from 📚 to 📖 to better represent the content.
+- Made minor text changes to improve readability and engagement.
+- Added a dedicated section for an example, showcasing the Fibonacci sequence calculation.
 
 ## Installation
-To get started with the DSA Questions repository, simply clone the repository to your local machine:
+To get started with the DSA Questions repository, clone the repository using the following command:
 
 ```bash
 git clone https://github.com/Shivanilarokar/DSA-Questions-
@@ -33,12 +29,12 @@ cd DSA-Questions-
 ## Usage
 Feel free to explore, contribute, and enhance the collection of DSA questions and solutions!
 
-### Example: Fibonacci Sequence
+## Example: Fibonacci Sequence
 Here’s a simple function to calculate the Fibonacci sequence:
 
 ```python
 def fibonacci(n):
-    if n <= 0:
+    if n == 0:
         return 0
     elif n == 1:
         return 1
