@@ -8,19 +8,18 @@ Welcome to the DSA Questions repository! This repository is dedicated to providi
 
 ## Features
 - A wide range of DSA problems categorized by topic.
-- Code snippets and explanations for practical understanding.
-- Community contributions to enhance the collection. 🎉
+- Navigate through a variety of DSA problems in the repository and utilize the code snippets provided.
 
 ## Summary of the Changes
-In the latest update, the `README.md` file was modified to enhance clarity and structure. Notable changes include:
-- Improved descriptions for better readability.
-- Adjustments to feature listings for concise communication.
-- Refinement in the installation instructions for clarity.
+In the latest update, the `README.md` file was modified to enhance clarity and structure. The following changes were made:
+- Added an "Overview" section for better organization.
+- Updated the description of the features for improved readability.
+- Adjusted the wording in various sections to provide clearer instructions.
 
 ### Code Changes
 ```diff
-- Navigate through the various DSA problems in the repository and utilize the code snippets provided.
-+ Navigate through a variety of DSA problems in the repository.
+- Navigate through a variety of DSA problems in the repository.
++ Navigate through the various DSA problems in the repository and utilize the code snippets provided.
 ```
 
 ## Installation
@@ -36,9 +35,9 @@ You can run the code snippets provided in your local development environment.
 ## Example
 Here’s a simple example of how to use one of the algorithm implementations:
 ```python
-# Sample code here
+# Your code here
 def example_function():
-    # Your code here
+    # Sample code here
     pass
 ```
 
