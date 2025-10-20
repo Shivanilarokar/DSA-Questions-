@@ -28,13 +28,13 @@ git clone https://github.com/Shivanilarokar/DSA-Questions-
 cd DSA-Questions-
 ```
 
+## Usage 📖
 You can explore the various DSA questions and solutions available in this repository. Each question is structured to facilitate your learning process.
 
-## Example 💡
-Here’s a quick example of how you can utilize the questions and their solutions:
+## Example ⚡
+Here’s a simple example of how to use one of the functions:
 
 ```python
-# Sample code snippet for a DSA question
 def fibonacci(n):
     if n <= 0:
         return 0
