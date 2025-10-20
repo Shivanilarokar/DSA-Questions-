@@ -15,19 +15,14 @@ Welcome to the DSA Questions repository! This repository contains a collection o
 
 ## Summary of Changes
 In the latest update, the README.md file has been enhanced to provide a clearer and more structured overview of the repository. Key changes include:
-- Updated the repository title for clarity.
-- Improved the usage instructions to encourage exploration and learning.
-- Added a new section at the end to summarize the purpose of the README.
+- **Updated Title:** Improved clarity of the repository title.
+- **Enhanced Usage Instructions:** Encouraged exploration and learning.
+- **New Summary Section:** Summarizes the purpose and updates of the README.
 
 ### Code Snippet of Changes
 ```markdown
 -# DSA Questions 🤖
 +# DSA Questions Repository
-
-...
-
--Refer to the individual question files for usage instructions and code implementations.
-+Refer to the individual question files for usage instructions and code implementations. You can explore the various DSA questions and their solutions in the repository. Feel free to run the code snippets and modify them as you learn!
 ```
 
 ## Installation
