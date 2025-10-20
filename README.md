@@ -3,12 +3,13 @@
 
 Welcome to the **DSA Questions** repository! This repository is dedicated to providing a comprehensive collection of Data Structures and Algorithms (DSA) problems to enhance your coding skills.
 
+![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![GitHub stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-)
+
 ## Features ✨
 - A wide range of DSA problems to enhance your coding skills.
 - Detailed explanations and code snippets for each problem.
-- User-friendly navigation to easily explore different topics.
 
-## Summary of Changes 📝
+## Summary of Recent Changes 📝
 Recent updates to the README.md include:
 - Enhanced introduction text to provide more clarity about the repository's purpose.
 - Improved formatting of badges for better visibility.
@@ -35,8 +36,4 @@ After cloning the repository, navigate to the folder and explore the various DSA
 
 ## Contributing 🤝
 We welcome contributions to enhance this repository. Please feel free to open issues or submit pull requests!
-
----
-
-Happy coding! 🚀
 ```
