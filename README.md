@@ -1,9 +1,9 @@
 ```markdown
 # DSA Questions Repository 🤖
 
-The DSA Questions repository is designed to help you practice and improve your coding skills through a comprehensive collection of Data Structures and Algorithms (DSA) problems.
-
 ![GitHub stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-.svg?style=social) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-.svg?style=social)
+
+The DSA Questions repository is designed to help you practice and improve your coding skills through a comprehensive collection of Data Structures and Algorithms (DSA) problems.
 
 ## Features ✨
 - **Diverse Questions**: Explore a wide range of DSA problems.
@@ -13,25 +13,28 @@ The DSA Questions repository is designed to help you practice and improve your c
 ## Summary of Changes
 In the latest update, the README has been enhanced to include a dedicated **Features** section, highlighting the core advantages of the repository. Minor formatting adjustments were also made for improved readability.
 
+### Key Changes:
+- Added a **Features** section to emphasize repository strengths.
+- Minor formatting changes for clarity and presentation.
+
 ## Installation
 To clone this repository, run the following command:
+
 ```bash
 git clone https://github.com/Shivanilarokar/DSA-Questions-
 ```
 
-After cloning the repository, navigate to the project directory and explore the specific problem folders.
-
 ## Usage
-Navigate to the desired problem directory and open the solution file in your preferred programming language.
+Once cloned, navigate into the repository and explore the various DSA problems available. Each problem is well-documented to guide you through the solution process.
 
 ## Example
-Here’s a quick example of how you might structure your code for a specific DSA problem:
+Here’s a simple example of how to approach a typical DSA problem:
 
 ```python
-def example_function():
-    # Your logic here
-    pass
+def example_problem():
+    # Sample problem solution
+    pass  # Replace with actual implementation
 ```
 
-Feel free to contribute or explore the repository to enhance your DSA skills! 🚀
+Feel free to contribute by adding more problems or enhancing existing ones! Happy coding! 🚀
 ```
