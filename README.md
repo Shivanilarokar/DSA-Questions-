@@ -1,15 +1,15 @@
 ```markdown
 # DSA Questions Repository 🤖
 
-![GitHub stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-.svg?style=social) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-.svg?style=social)
-
 The DSA Questions repository is designed to help you practice and improve your coding skills through a comprehensive collection of Data Structures and Algorithms (DSA) problems.
+
+![GitHub stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-.svg?style=social) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-.svg?style=social)
 
 ## Features ✨
 - **Diverse Questions**: Explore a wide range of DSA problems.
 - **Multiple Languages**: Solutions provided in various programming languages.
 
-## Summary of the Changes
+## Summary of the Changes 📜
 In this update, the README.md file has been modified to enhance the clarity and organization of the content:
 - Added a **Features** section to highlight the repository's capabilities.
 - Improved the overall formatting for better readability.
@@ -45,6 +45,5 @@ def example_function():
 
 ## Contributions
 Contributions are welcome! If you would like to help improve this repository, feel free to submit a pull request.
-
-Feel free to contribute to this repository by submitting issues or pull requests. Happy coding! 😄
 ```
+This README.md file captures the essence of the recent changes and presents the information in a structured and professional manner, making it easy for developers to understand the purpose and usage of the repository.
