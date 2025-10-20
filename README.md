@@ -33,19 +33,16 @@ cd DSA-Questions-
 ```
 
 ## Usage
-Feel free to explore, contribute, and enhance the collection of DSA questions and solutions!
-
-## Example: Fibonacci Sequence
-Here’s a simple function to calculate the Fibonacci sequence:
+Here’s a simple example of how to use the Fibonacci function included in this repository:
 
 ```python
 def fibonacci(n):
-    if n == 0:
-        return 0
-    elif n == 1:
-        return 1
+    if n <= 1:
+        return n
     else:
         return fibonacci(n - 1) + fibonacci(n - 2)
+
+print(fibonacci(10))  # Output: 55
 ```
 
 Explore the repository and improve your DSA skills! Happy coding! 🚀
