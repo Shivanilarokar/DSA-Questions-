@@ -7,7 +7,7 @@ Welcome to the **DSA Questions** repository! This repository features a comprehe
 
 ## Overview
 
-This repository is designed to help developers enhance their problem-solving skills by providing a structured set of DSA problems, solutions, and explanations. 🧠
+This repository is designed to help developers enhance their problem-solving skills by providing a structured set of DSA problems, solutions, and explanations. 🤖
 
 ## Features
 
@@ -41,16 +41,11 @@ cd DSA-Questions-
 
 ## Usage
 
-Explore the various DSA problems available in the repository. Feel free to use the provided solutions as a reference for your own implementations.
-
-### Example
-
-Here's a simple function that demonstrates how to approach a DSA problem:
+You can navigate through the various DSA questions and their corresponding solutions. Here's a simple example of how to define a problem:
 
 ```python
 def example_problem(input_data):
-    # Process the input data
-    result = process(input_data)  # Example operation
+    # Your solution logic here
     return result
 ```
 
