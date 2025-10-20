@@ -15,10 +15,17 @@ This repository serves as a learning platform to enhance your algorithmic skills
 
 ## Summary of the Changes 📝
 In the latest update, the `README.md` file has been modified to enhance clarity and improve the overall presentation. The following changes were made:
-- Updated the project description for better engagement.
-- Enhanced feature descriptions for clarity.
+- Updated the title emoji from 🤖 to 📖 for a more relevant representation.
+- Enhanced the project description for better engagement.
+- Improved feature descriptions for clarity.
 - Reworded installation and usage instructions for improved readability.
 - Added an example of a binary search implementation for better illustration.
+
+### Key Code Changes
+```diff
+-# DSA Questions 🤖
++# DSA Questions 📖
+```
 
 ## Installation 📦
 To clone this repository, use the following command:
@@ -26,21 +33,24 @@ To clone this repository, use the following command:
 git clone https://github.com/Shivanilarokar/DSA-Questions-
 ```
 
-## Usage 🚀
-Here's a simple example of a binary search implementation:
+## Usage 💻
+Navigate to the cloned directory and run the desired Python scripts to start solving DSA problems.
+
+## Example 🔍
+Here is an example of a binary search implementation:
 ```python
 def binary_search(arr, target):
-    left, right = 0, len(arr) - 1
-    while left <= right:
-        mid = (left + right) // 2
+    low, high = 0, len(arr) - 1
+    while low <= high:
+        mid = (low + high) // 2
         if arr[mid] == target:
             return mid
         elif arr[mid] < target:
-            left = mid + 1
+            low = mid + 1
         else:
-            right = mid - 1
+            high = mid - 1
     return -1
 ```
 
-Feel free to explore and contribute to the repository! Happy coding! 🎉
+Feel free to contribute to this repository and enhance the collection of DSA problems! 😊
 ```
