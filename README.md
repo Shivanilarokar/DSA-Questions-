@@ -1,10 +1,9 @@
 ```markdown
-# DSA Questions Repository 🚀
+# 🚀 DSA Questions Repository
 
-![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
-
-## Overview
 Welcome to the DSA Questions repository! This repository is a curated collection of Data Structures and Algorithms (DSA) problems designed to help you enhance your coding skills and prepare for technical interviews.
+
+![GitHub Actions](https://img.shields.io/badge/build-passing-brightgreen.svg) ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ## Features
 - A variety of DSA problems for practice
@@ -13,7 +12,7 @@ Welcome to the DSA Questions repository! This repository is a curated collection
 
 ## Summary of the Changes
 In the latest update to the README.md, the following changes were made:
-- Updated the header emoji from 🤖 to 🚀 to reflect a more dynamic theme.
+- Updated the header emoji to 🚀 to reflect a more dynamic theme.
 - Minor formatting improvements for clarity.
 - Enhanced the description of the example code by adding "simple" to the phrase "Here's a simple example of a DSA problem solution."
 - Modified the example code for the Fibonacci function for better readability and efficiency.
@@ -50,7 +49,7 @@ git clone https://github.com/Shivanilarokar/DSA-Questions-
 ```
 
 ## Usage
-Explore the various folders and files within this repository to find DSA problems that you can solve and learn from.
+Explore the various folders and files within this repository to find DSA problems categorized by difficulty and type.
 
 ## Example
 Here's a simple example of a DSA problem solution:
@@ -62,5 +61,5 @@ def fibonacci(n):
         return fibonacci(n-1) + fibonacci(n-2)
 ```
 
-Feel free to contribute to this repository by submitting your own DSA problems or solutions!
+Feel free to contribute to this repository by submitting your own DSA problems or solutions! Happy coding! 🎉
 ```
