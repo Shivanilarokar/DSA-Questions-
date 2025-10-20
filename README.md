@@ -1,5 +1,5 @@
 ```markdown
-# DSA Questions 📚
+# DSA Questions 📖
 
 ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
 
@@ -11,19 +11,21 @@ In the latest update, the `README.md` file has been modified to enhance clarity 
 - Enhanced description for better understanding.
 - Updated the title emoji for a more relevant representation.
 - Minor formatting adjustments for improved readability.
+- Added a `.git` extension to the clone URL for consistency.
 
+### Key Code Changes
 ```diff
 -# DSA Questions 🤖
-+# DSA Questions 📚
++# DSA Questions 📖
 ```
 
 ## Features
-- A variety of algorithm and data structure questions.
-- Clear guidelines for contributing.
-- Sample implementations to help you get started.
+- A comprehensive collection of data structure and algorithm questions.
+- Solutions and explanations for each question.
+- Easy navigation and contribution guidelines.
 
-## Installation 📦
-To clone the repository, run the following command in your terminal:
+## Installation
+To clone the repository, run the following command:
 ```bash
 git clone https://github.com/Shivanilarokar/DSA-Questions-.git
 ```
