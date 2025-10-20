@@ -1,5 +1,5 @@
 ```markdown
-# DSA Questions - 📊
+# DSA Questions - 📜
 
 [![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-.svg)](https://github.com/Shivanilarokar/DSA-Questions-/network) 
 [![GitHub stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-.svg)](https://github.com/Shivanilarokar/DSA-Questions-/stargazers) 
@@ -10,9 +10,8 @@ Welcome to the **DSA Questions** repository! This project aims to provide a coll
 
 ## Features
 - A wide variety of DSA problems.
-- Clear and structured solutions.
-- Code examples that are easy to follow.
-- Regular updates to enhance content clarity and usability.
+- Clear and concise explanations of algorithms.
+- Improved code readability with structured examples.
 
 ## Summary of the Changes
 In the latest update, we have made significant improvements to the `README.md` file to enhance clarity and provide a better example of the binary search algorithm. Here are the key changes:
@@ -27,14 +26,15 @@ def binary_search(arr, target):
 
     while low <= high:
         mid = (low + high) // 2
-
+        
         if arr[mid] == target:
             return mid
         elif arr[mid] < target:
             low = mid + 1
         else:
             high = mid - 1
-    return -1  # Target not found
+    
+    return -1
 ```
 
 ## Installation
@@ -43,20 +43,18 @@ To get started with this repository, clone it using the following command:
 git clone https://github.com/Shivanilarokar/DSA-Questions-.git
 ```
 
-After cloning the repository, navigate to the directory and start exploring the problems and solutions. Each problem is documented with its corresponding solution.
-
 ## Usage
 Once you have cloned the repository, you can run the algorithms directly in your Python environment. Each algorithm is organized in separate files for ease of access and understanding.
 
 ## Example
 Here’s a quick example of how to use the binary search function:
 ```python
-arr = [1, 2, 3, 4, 5, 6, 7, 8, 9]
-target = 5
+arr = [1, 2, 3, 4, 5]
+target = 3
 result = binary_search(arr, target)
 
 if result != -1:
-    print(f"Element found at index: {result}")
+    print(f"Element found at index {result}.")
 else:
     print("Element not found in array.")
 ```
