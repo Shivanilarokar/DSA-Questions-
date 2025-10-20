@@ -10,6 +10,7 @@ The DSA Questions repository offers a comprehensive collection of data structure
 
 ## Features ✨
 - Extensive collection of algorithmic challenges.
+- Solutions available in multiple programming languages.
 - Community-driven contributions are welcome!
 
 ## Summary of the Changes
@@ -26,7 +27,7 @@ git clone https://github.com/Shivanilarokar/DSA-Questions-
 ```
 
 ## Usage 📖
-Explore the various algorithmic challenges available in this repository. We encourage you to solve them and submit your solutions. 
+Explore the various algorithmic challenges available in this repository. We encourage you to solve them and submit your solutions.
 
 ## Example 💡
 Here’s a simple example problem to get you started:
@@ -43,8 +44,6 @@ def fibonacci(n):
 ```
 
 Feel free to contribute by solving problems and submitting pull requests!
-
----
 
 Thank you for checking out the DSA Questions repository! Happy coding! 🎉
 ```
