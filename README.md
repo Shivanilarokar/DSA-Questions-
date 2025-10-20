@@ -1,5 +1,5 @@
 ```markdown
-# DSA Questions Repository
+# DSA Questions Repository 🚀
 
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg) 
 ![Issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-.svg)
@@ -13,9 +13,11 @@ This repository contains a variety of DSA problems categorized by difficulty lev
 - A wide range of DSA problems
 - Solutions with explanations
 - Categorization by difficulty level
+- Contribution guidelines for collaborative development
 
 ## Summary of the Changes
 In the recent update, the following changes have been made to the README.md file:
+
 - Enhanced the introduction to provide a clearer overview of the repository's purpose.
 - Improved the description of the repository's content and structure.
 - Added a section at the end of the README for contributing guidelines and license information.
@@ -23,7 +25,7 @@ In the recent update, the following changes have been made to the README.md file
 ### Notable Changes:
 ```markdown
 + Welcome to the **DSA Questions** repository! This repository contains a variety of DSA problems categorized by difficulty level, aimed at helping developers enhance their data structures and algorithms skills.
-+
+
 + This repository serves as a comprehensive resource for anyone looking to improve their understanding of data structures and algorithms. It includes a variety of DSA problems, complete with explanations and sample solutions.
 ```
 
@@ -47,13 +49,11 @@ Here’s a snippet of a sample solution:
 
 ```python
 def example_solution(problem_input):
-    # Your solution logic here
+    # Sample solution logic here
     pass
 ```
 
 Feel free to contribute by adding new problems or improving existing solutions!
-
----
 
 For more information, check the [Contributing Guidelines](CONTRIBUTING.md) and [License](LICENSE).
 ```
