@@ -3,6 +3,7 @@
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
+## Overview
 This repository aims to provide a comprehensive collection of Data Structures and Algorithms (DSA) problems along with clear solutions to enhance understanding and improve coding skills.
 
 ## Features 🌟
@@ -22,8 +23,6 @@ To get a local copy of this repository, clone it using the following command:
 git clone https://github.com/Shivanilarokar/DSA-Questions-
 ```
 
-You can explore various DSA questions and their solutions within this repository.
-
 ## Usage 💻
 To use the solutions provided, simply navigate to the respective files and follow the instructions outlined within.
 
@@ -37,12 +36,13 @@ def fibonacci(n):
     else:
         return fibonacci(n - 1) + fibonacci(n - 2)
 ```
-
 This function calculates the Fibonacci number for a given `n`, demonstrating recursion.
 
 ## Contributing 🤝
 Contributions are welcome! Please feel free to submit a pull request or open an issue.
 
-## License 📄
+## License 📜
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+Feel free to explore the repository, contribute, and improve your coding skills! Happy coding! 😎
 ```
