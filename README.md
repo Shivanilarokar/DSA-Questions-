@@ -7,7 +7,7 @@ This repository contains a collection of Data Structures and Algorithms (DSA) qu
 
 ## Features
 - ✅ Comprehensive set of DSA questions
-- 🔍 Detailed explanations and solutions
+- 🧠 Detailed explanations and solutions
 - 💻 Code snippets for practical understanding
 - 🤝 Contribution guidelines for community involvement
 
@@ -17,21 +17,21 @@ In the latest update, the following changes were made to the `README.md` file:
 - **Title Update**: Changed the book emoji from 📚 to 📖 for better representation.
 - **Code Snippet Update**: Improved the clarity of the Fibonacci function by refining the base case checks.
 - **Enhanced Contributor Message**: Added a more engaging message for contributors.
-- **Badges Added**: Included badges for the last commit and license for better visibility.
-- **Overview Revision**: Revised the overview section for clarity.
-- **New Usage Section**: Included a new Usage section to guide users on how to navigate and use the repository effectively.
 
 ## Installation
-To clone the repository, use the following command:
+To clone this repository, run the following command in your terminal:
 
 ```bash
-git clone https://github.com/Shivanilarokar/DSA-Questions-.git
+git clone https://github.com/Shivanilarokar/DSA-Questions-
 ```
 
 Once cloned, navigate to the project directory and start exploring the various DSA questions.
 
 ## Usage
 To calculate Fibonacci numbers, you can use the `fibonacci` function as shown in the code snippet below:
+
+### Example of Code Snippet
+Here is a sample function from the repository:
 
 ```python
 def fibonacci(n):
@@ -43,8 +43,8 @@ def fibonacci(n):
         return fibonacci(n-1) + fibonacci(n-2)
 ```
 
-### Example of Code Snippet
-Here is a sample function from the repository:
+### Additional Example
+Here is another sample function from the repository:
 
 ```python
 def sample_function():
