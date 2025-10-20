@@ -7,15 +7,17 @@
 The DSA Questions repository is a collaborative space for developers to explore, practice, and enhance their Data Structures and Algorithms skills. This repository contains a variety of problems with solutions that help in improving your coding proficiency.
 
 ## Features
-- A wide range of DSA problems to solve.
-- Solutions provided for each problem to aid learning.
-- Community-driven contributions welcome. 🤝
+- A wide range of DSA problems with well-structured solutions.
+- Contribution guidelines for collaborative development.
+- Easy navigation and clear code examples.
 
 ## Summary of the Changes
 In the latest update, the `README.md` file has been auto-updated to enhance clarity and presentation. Here are the key changes made:
-
+- Updated the repository title to include a rocket emoji for a more engaging appearance.
 - Improved formatting for installation instructions.
+- Enhanced the usage section to guide users more effectively on how to start solving problems.
 - Minor textual enhancements for better readability.
+- Code snippets updated for better illustration of solutions.
 
 ## Installation
 To get started with the DSA Questions repository, follow these steps:
