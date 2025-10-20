@@ -16,7 +16,13 @@ This repository is focused on providing a structured set of DSA challenges along
 
 ## Summary of the Changes 📝
 In this recent update, the README.md file has been modified to enhance clarity and presentation:
+- Changed the title emoji from 📖 to 📚.
+- Added an "Overview" section to provide a clearer introduction to the repository.
+- Enhanced the description of the repository's purpose.
+- Clarified installation instructions with a code snippet for cloning the repository.
+- Updated the code example to illustrate a simple problem solution.
 
+### Changes Made:
 - Updated the overview section to better describe the purpose of the repository.
 - Revised the usage instructions to provide clearer guidance on exploring the problems.
 - Improved the example section to showcase a simple problem solution format.
