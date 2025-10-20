@@ -6,19 +6,17 @@
 Welcome to the **DSA Questions** repository! This repository provides a collection of algorithmic challenges to help you practice and improve your understanding of data structures and algorithms.
 
 ## Overview
-
 This repository contains various data structures and algorithm questions designed to enhance problem-solving skills and coding proficiency. It's suitable for learners at all levels, from beginners to advanced programmers.
 
 ## Features
-
-- A comprehensive collection of DSA questions
-- Solutions and explanations for each problem
-- Regular updates with new challenges
-- Community contributions are welcome!
+- 📚 A comprehensive collection of DSA questions
+- 💡 Solutions and explanations for each problem
+- 🔄 Regular updates with new challenges
+- 🌟 Community contributions are welcome!
 
 ## Summary of Changes
 
-In the latest commit, minor adjustments were made to the README.md file to enhance clarity and presentation. Specifically, two lines were removed to streamline the content. 
+In the latest commit, minor adjustments were made to the README.md file to enhance clarity and presentation. Specifically, two lines were removed to streamline the content.
 
 ### Changes:
 - Removed the extra blank line for better formatting.
