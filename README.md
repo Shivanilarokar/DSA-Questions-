@@ -1,10 +1,9 @@
 ```markdown
-# DSA Questions Repository 🚀
+# DSA Questions Repository 📚
+
+Welcome to the DSA Questions repository! This project contains a comprehensive collection of Data Structures and Algorithms (DSA) questions aimed at helping developers enhance their problem-solving skills.
 
 ![Last Commit](https://img.shields.io/github/last-commit/Shivanilarokar/DSA-Questions-) ![License](https://img.shields.io/badge/license-MIT-blue)
-
-## Overview
-Welcome to the DSA Questions repository! This project contains a comprehensive collection of Data Structures and Algorithms (DSA) questions along with their solutions. It aims to help developers and learners practice and enhance their problem-solving skills.
 
 ## Features
 - A wide range of DSA questions categorized by topics.
@@ -15,8 +14,8 @@ Welcome to the DSA Questions repository! This project contains a comprehensive c
 In this update, several modifications were made to enhance the `README.md` file:
 - Consolidated badge display for better aesthetics.
 - Removed redundant instructions regarding exploring the directory.
-- Revised the contribution section for a more concise message.
 - Updated the Fibonacci function example to improve clarity and functionality.
+- Revised the contribution section for a more concise message.
 
 ### Code Changes
 Here are some snippets showcasing the changes made:
@@ -46,11 +45,16 @@ Here are some snippets showcasing the changes made:
 
 ## Installation
 To get started with the DSA Questions repository, clone the repository and navigate into the directory:
-
 ```bash
 git clone https://github.com/Shivanilarokar/DSA-Questions-
 cd DSA-Questions-
 ```
+
+## Usage
+You can explore the various DSA questions and their solutions. Feel free to run the code snippets in your local environment to test and modify them as needed.
+
+## Contribution
+We welcome contributions! Please read our contribution guidelines before submitting pull requests.
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
