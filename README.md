@@ -19,7 +19,7 @@ Welcome to the DSA Questions repository! This project is dedicated to providing 
 In the recent update, the `README.md` file has been modified to enhance clarity and provide better guidance for users. The key changes include:
 
 - **Enhanced Overview**: Updated the introduction to better reflect the purpose of the repository.
-  
+
   ```diff
   - Welcome to the DSA Questions repository! This repository contains a collection of data structures and algorithms designed to help you master coding interviews and improve your problem-solving skills.
   + Welcome to the DSA Questions repository! This project is dedicated to providing a comprehensive collection of Data Structures and Algorithms (DSA) problems and their solutions. Whether you are a beginner or an experienced developer, this repository will help you enhance your coding skills.
@@ -34,7 +34,7 @@ In the recent update, the `README.md` file has been modified to enhance clarity 
 To get started with this repository, clone it using the following command:
 
 ```bash
-git clone https://github.com/Shivanilarokar/DSA-Questions-
+git clone https://github.com/Shivanilarokar/DSA-Questions-.git
 cd DSA-Questions-
 ```
 
@@ -50,15 +50,11 @@ Here’s a brief example of how you might implement a basic algorithm:
 
 ```python
 def example_algorithm(data):
-    # Example implementation of an algorithm
-    return sorted(data)
+    # Your algorithm implementation here
+    pass
 ```
 
 ## Contributing
 
 We welcome contributions! Please fork the repository and submit a pull request for any enhancements or bug fixes.
-
----
-
-Thank you for checking out the DSA Questions repository! We hope you find it useful and engaging. Happy coding! 🎉
 ```
