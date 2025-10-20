@@ -13,21 +13,14 @@ The DSA Questions repository provides a collection of algorithmic challenges tha
 - Detailed solutions with explanations to facilitate learning.
 - Interactive examples to help solidify understanding.
 
-## Summary of the Changes 📰
+## Summary of the Changes 📡
 In the latest commit, the README.md file has been updated with the following enhancements:
 - Added badges for repository size, stars, and forks for better visibility.
 - Updated the title emoji for improved visual appeal.
-- Restructured the features section for enhanced readability.
-
-Here are some snippets of the code that were modified:
-
-#### Title Update
-```markdown
-# DSA Questions 🤖
-```
 
 ## Installation
-To get started with this repository, clone it to your local machine using:
+To get started with this repository, clone it using the following command:
+
 ```bash
 git clone https://github.com/Shivanilarokar/DSA-Questions-
 ```
