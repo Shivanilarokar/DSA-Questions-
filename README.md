@@ -8,12 +8,15 @@ The DSA Questions repository is a comprehensive collection of Data Structures an
 ## Overview
 This repository offers a wide range of DSA problems that are essential for mastering coding interviews and enhancing problem-solving capabilities.
 
+## Features ✨
+- A wide range of DSA problems.
+- Easy-to-follow solutions with code examples.
+- Contribution guidelines to encourage community involvement.
+
 ## Summary of the Changes 📝
 In the latest update, the README.md file has been modified to enhance clarity and aesthetics:
 - Improved section headings for better readability.
-- Added emojis to improve visual appeal.
-- Updated the installation and example sections for better user guidance.
-- Installation section emoji changed from 🚧 to 🚀.
+- Updated the overview section to provide a clearer description of the repository.
 - Example section emoji changed from 📚 to 📖.
 
 ## Installation 🚀
