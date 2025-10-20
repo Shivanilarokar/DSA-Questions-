@@ -1,11 +1,12 @@
 ```markdown
 # DSA Questions 📚
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
+![License](https://img.shields.io/badge/license-MIT-blue.svg) ![GitHub stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-?style=social)
 
-This repository contains a variety of Data Structures and Algorithms (DSA) problems designed to enhance your coding skills and understanding of DSA concepts.
+## Overview 🌟
+This repository contains a variety of Data Structures and Algorithms (DSA) problems designed to enhance your coding skills and understanding of DSA concepts. It serves as a resource for both beginners and experienced developers looking to practice and improve their algorithmic thinking.
 
-## Features 🌟
+## Features 🌠
 - A collection of DSA problems with varying difficulty levels.
 - Code snippets in multiple programming languages.
 - Contribution guidelines for community involvement.
@@ -34,11 +35,11 @@ def example_function():
     pass
 ```
 
-This README.md file now provides a comprehensive overview of the repository, highlights the latest changes made, and maintains a professional and aesthetic format that encourages community engagement.
-
+## Contributing 🙌
 We welcome contributions from the community! If you would like to contribute, please follow the contribution guidelines in this repository.
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 Feel free to explore the repository and enhance your coding skills with our DSA problems! 🎉
+
+## License 📜
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 ```
