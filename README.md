@@ -1,21 +1,21 @@
 ```markdown
 # DSA Questions 📚
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
-![Contributors](https://img.shields.io/badge/contributors-1-orange.svg)
+![License](https://img.shields.io/badge/license-MIT-blue.svg) ![Contributors](https://img.shields.io/badge/contributors-1-orange.svg)
 
 Welcome to the DSA Questions repository! This project is dedicated to providing a comprehensive collection of Data Structures and Algorithms (DSA) problems and their solutions. Whether you are a beginner or an experienced developer, this repository will help you enhance your coding skills.
 
 ## Overview
 
-This repository contains an extensive collection of data structures and algorithms designed to help you master coding interviews and improve your problem-solving skills. 
+This repository contains an extensive collection of data structures and algorithms designed to help you master coding interviews and improve your problem-solving skills.
 
 ## Features ✨
+
 - A wide variety of DSA problems and solutions.
 - Clear explanations and code examples.
 - Easy to navigate and contribute to.
 
-## Summary of the Changes 🛠️
+## Summary of the Changes 🔧
 
 In the recent update, the `README.md` file has been modified to enhance clarity and improve the overall presentation of the repository:
 
@@ -40,17 +40,17 @@ Here are some snippets showcasing the recent changes made:
 ```python
 def example_algorithm(data):
     # Example implementation of an algorithm
-    return sorted(data)
-+    # Your algorithm implementation here
-+    pass
+-    pass
++    return sorted(data)
 ```
 
-## Installation 🛠️
+## Installation 🔧
 
 To get started with the DSA Questions repository, clone it using the following command:
 
 ```bash
 git clone https://github.com/Shivanilarokar/DSA-Questions-.git
+cd DSA-Questions-
 ```
 
 ## Usage 🚀
