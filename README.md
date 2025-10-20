@@ -8,7 +8,7 @@ Welcome to the DSA Questions repository! This project aims to provide a comprehe
 ## Overview
 This repository contains a collection of DSA questions, solutions, and resources to help you sharpen your problem-solving skills and enhance your understanding of algorithms and data structures.
 
-## Features
+## Features 🚀
 - A wide variety of DSA problems categorized by topics.
 - Solutions provided in multiple programming languages.
 - Easy to navigate folder structure for efficient learning.
@@ -20,13 +20,13 @@ In the latest update, the README.md file has been refined to improve clarity and
 - Updated the **Usage** section to better describe the repository's purpose.
 - Minor formatting adjustments for improved readability.
 
-## Installation
+## Installation ⚙️
 To clone this repository, run:
 ```bash
 git clone https://github.com/Shivanilarokar/DSA-Questions-
 ```
 
-## Usage 📚
+## Usage 📖
 Explore the various folders and files within this repository to find DSA problems that you can solve and learn from.
 
 ## Example
