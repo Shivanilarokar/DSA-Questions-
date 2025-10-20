@@ -1,28 +1,17 @@
-```markdown
-# DSA Questions Repository 🚀
+# DSA Questions Repository
 
-![GitHub last commit](https://img.shields.io/github/last-commit/Shivanilarokar/DSA-Questions-)  
-![License](https://img.shields.io/badge/license-MIT-blue.svg)  
-![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)  
+![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
 
-## Overview
-The DSA Questions repository is a curated collection of data structures and algorithms problems designed to help you enhance your coding skills and prepare for technical interviews. This repository contains a variety of problems, solutions, and resources to aid your learning journey.
+The DSA Questions repository is a curated collection of data structures and algorithms questions designed to help you improve your coding skills and prepare for technical interviews. 
 
 ## Features
-- **Diverse Problem Set**: A wide range of problems covering various data structures and algorithms.
-- **Well-documented Solutions**: Each solution is accompanied by clear explanations to foster understanding.
+- **Comprehensive Collection**: A wide range of DSA questions categorized by difficulty.
 - **Community Contributions**: Open for contributions to expand the repository and improve resources.
 
 ## Summary of Changes
 In the latest update, the `README.md` file has been modified to enhance clarity and engagement. The following changes were made:
 - Removed redundant lines to streamline the text.
 - Updated the concluding statement to encourage exploration and contribution.
-
-### Code Changes
-```diff
-- Feel free to explore and enhance the repository with your own contributions!
-+ Feel free to explore, contribute, and enhance your DSA skills with this repository!
-```
 
 ## Installation ⚙️
 To get started with the DSA Questions repository, clone it to your local machine:
@@ -31,7 +20,7 @@ git clone https://github.com/Shivanilarokar/DSA-Questions-
 ```
 
 ## Usage
-Navigate to the desired problem folder and run the solutions in your preferred programming language. Each solution is designed to be easily understandable and adaptable.
+Navigate to the desired problem folder and run the solutions in your preferred programming language. 
 
 ## Example
 Here’s a simple example function included in the repository:
@@ -42,7 +31,8 @@ def example_function():
     pass
 ```
 
+Feel free to explore, contribute, and enhance your DSA skills with this repository! 
+
 ---
 
 Thank you for checking out the DSA Questions repository! Happy coding! 🎉
-```
