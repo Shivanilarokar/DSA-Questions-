@@ -1,25 +1,22 @@
 ```markdown
 # DSA Questions Repository 📚
 
-Welcome to the **DSA Questions** repository! This repository contains a comprehensive collection of Data Structures and Algorithms (DSA) questions aimed at helping you enhance your coding skills.
-
-![Last Commit](https://img.shields.io/github/last-commit/Shivanilarokar/DSA-Questions-) ![License](https://img.shields.io/badge/license-MIT-blue.svg) ![Repository Size](https://img.shields.io/github/repo-size/Shivanilarokar/DSA-Questions-) ![Stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![Forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-)
+![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-) 
 
 ## Overview
-This repository serves as a valuable resource for developers seeking to master their knowledge of data structures and algorithms through practical problem-solving.
+Welcome to the DSA Questions repository! This repository is a collection of Data Structures and Algorithms (DSA) questions designed to help you practice and enhance your coding skills. 
 
 ## Features
-- A wide variety of DSA questions categorized by topics.
-- Community-driven enhancements and contributions.
-- Clear and concise examples and explanations.
+- A variety of DSA questions categorized by different topics.
+- Community-driven enhancements and contributions are encouraged.
+- Easy to navigate and clone for local practice.
 
-## Summary of the Changes
-In this recent update, the `README.md` has been auto-updated to enhance its presentation and usability:
-- Added badges for the last commit, license, repository size, stars, and forks to improve visibility and engagement.
-- Improved formatting and structure for better readability.
+## Summary of Changes
+In this recent update, the `README.md` has been auto-updated to enhance its presentation and clarity. Here are the key changes made:
 - Minor wording adjustments for clarity.
 - Added a community-driven enhancements feature.
 - Updated the usage section to specify categorization by different topics.
+- Closing remarks were revised to foster community engagement.
 
 ## Installation
 To get started with the DSA Questions repository, clone the repository to your local machine:
