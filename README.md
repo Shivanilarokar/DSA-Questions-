@@ -1,24 +1,30 @@
 ```markdown
-# DSA Questions 🚀
+# DSA Questions 📚
 
-![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
+![GitHub repo size](https://img.shields.io/github/repo-size/Shivanilarokar/DSA-Questions-) ![GitHub contributors](https://img.shields.io/github/contributors/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-) ![GitHub stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-?style=social)
 
 ## Overview
-Welcome to the DSA Questions repository! This repository is designed to help you practice and enhance your Data Structures and Algorithms (DSA) skills. It includes a variety of questions along with their solutions to aid in your learning journey.
+The DSA Questions repository is designed to help developers and learners enhance their understanding of Data Structures and Algorithms (DSA) through a collection of coding questions and solutions. This repository is an excellent resource for interview preparation and improving coding skills.
 
 ## Features
-- A comprehensive collection of DSA questions and solutions.
-- User-friendly code examples for better understanding.
-- Regular updates to enhance learning materials.
+- A wide range of DSA questions categorized by difficulty.
+- Solutions provided in Python, with clear explanations.
+- Easy to navigate and contribute to.
 
-## Summary of Changes
-In this update, the README.md file has been modified to improve clarity and organization. The changes include:
-- Minor formatting adjustments to the title.
-- Added a command to navigate into the cloned directory.
-- Enhanced the closing statement with an emoji for a more inviting tone.
+## Summary of the Changes
+The README.md file has been updated to include an example function demonstrating the coding style used in this repository. The following changes were made:
+
+- Added an **Example** section to showcase a simple function.
+- Removed redundant text to streamline the document.
+
+### Example of Recent Change
+```python
+def example_function():
+    print("This is an example function.")
+```
 
 ## Installation
-To get started with the DSA Questions repository, clone it to your local machine:
+To get started with the DSA Questions repository, clone it using the following command:
 
 ```bash
 git clone https://github.com/Shivanilarokar/DSA-Questions-
