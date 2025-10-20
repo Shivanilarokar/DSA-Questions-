@@ -1,9 +1,9 @@
 ```markdown
 # DSA Questions 🚈
 
-![GitHub stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-?style=social) ![Forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-?style=social)
-
 Welcome to the **DSA Questions** repository! This project serves as a platform for developers and learners to practice and enhance their skills in Data Structures and Algorithms (DSA). This repository is designed to help you improve your understanding of various data structures and algorithms through a collection of questions and solutions.
+
+![GitHub stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-?style=social) ![Forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-?style=social)
 
 ## Features
 - 📚 **Comprehensive collection of DSA questions**
@@ -13,8 +13,8 @@ Welcome to the **DSA Questions** repository! This project serves as a platform f
 ## Summary of the Changes
 In the latest update, the README.md file has been enhanced to improve clarity and usability. Key changes include:
 - Addition of a new **Features** section for improved organization.
-- Updated the **Installation** section to facilitate easier setup.
 - Updated the code snippet for a simple DSA question solution using the Fibonacci sequence for better clarity and performance.
+- Updated the **Installation** section to facilitate easier setup.
 
 ### Example Code Snippet
 Here's an improved example of a Fibonacci function:
@@ -27,21 +27,30 @@ def fibonacci(n):
         return 1
     else:
         return fibonacci(n-1) + fibonacci(n-2)
+
+print(fibonacci(10))  # Output: 55
 ```
 
 ## Installation
-To get started, clone the repository using the following command:
+To get started with this repository, follow these steps:
 
-```bash
-git clone https://github.com/Shivanilarokar/DSA-Questions-.git
-```
-
-Then, navigate to the project directory and follow any additional setup instructions provided.
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/Shivanilarokar/DSA-Questions-
+   ```
+2. **Navigate to the directory:**
+   ```bash
+   cd DSA-Questions-
+   ```
+3. **Install the necessary dependencies:**
+   ```bash
+   pip install -r requirements.txt
+   ```
 
 ## Usage
-After cloning the repository, you can explore the various DSA questions and their solutions. Feel free to explore, contribute, and enhance your understanding of DSA!
+You can explore various DSA questions and their solutions in the repository. Feel free to contribute by adding your own questions or improving existing solutions!
 
 ---
 
-Thank you for checking out the DSA Questions repository! Happy coding! 🎉
+We appreciate your interest in the DSA Questions repository! If you have any questions or suggestions, feel free to open an issue or submit a pull request. Happy coding! 🚀
 ```
