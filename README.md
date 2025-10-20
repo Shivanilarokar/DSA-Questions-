@@ -1,7 +1,12 @@
 ```markdown
 # DSA Questions 🤖
 
-This repository contains a collection of Data Structures and Algorithms (DSA) problems and their solutions, aimed at helping developers enhance their coding skills and prepare for technical interviews.
+![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-?style=social) ![GitHub stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-?style=social)
+
+Welcome to the DSA Questions repository! This repository is dedicated to providing a collection of Data Structures and Algorithms (DSA) problems and their solutions, aimed at helping developers enhance their coding skills and prepare for technical interviews.
+
+## Overview
+This repository contains a collection of Data Structures and Algorithms (DSA) problems categorized by type, with clear implementations in Python. It serves as a learning resource for those looking to enhance their understanding of algorithms.
 
 ## Features
 - A wide range of DSA questions categorized by difficulty.
@@ -11,21 +16,20 @@ This repository contains a collection of Data Structures and Algorithms (DSA) pr
 
 ## Summary of the Changes
 In this latest update, the README.md file has been auto-updated to reflect the following changes:
-- The title was simplified from **"DSA Questions Repository"** to **"DSA Questions"** for brevity and clarity.
-- The emoji associated with the title was updated to better represent the repository's focus.
-- Improved clarity in the description of the repository.
-- Minor adjustments in the installation and usage instructions.
-- Added an example of a DSA question in Python to demonstrate functionality.
+
+- Enhanced description of the repository's purpose.
+- Updated features list for clarity and inclusivity.
+- Streamlined code snippets for better readability.
 
 ### Changed Code Snippet
 ```diff
----# DSA Questions 🤖
--+-# DSA Questions Repository 🤖
-+-# DSA Questions 🤖
+-# DSA Questions Repository 🤓
++# DSA Questions 🤖
 ```
 
 ## Installation
 To set up the project locally, follow these steps:
+
 1. Clone the repository:
    ```bash
    git clone https://github.com/Shivanilarokar/DSA-Questions-
