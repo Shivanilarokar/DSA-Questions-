@@ -1,5 +1,5 @@
 ```markdown
-# DSA Questions Repository 👩‍💻💻👨‍💻
+# DSA Questions Repository 🤖💻👩‍💻
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
 
@@ -8,14 +8,19 @@ Welcome to the DSA Questions repository! This repository contains a collection o
 
 ## Features
 - 📚 Comprehensive set of DSA questions.
-- 🛠️ Solutions provided in Python for better understanding.
+- 🐍 Solutions provided in Python for better understanding.
+- ⚡ Clear and concise explanations of algorithms.
+- 🖥️ Easy to navigate and contribute to.
 - 🚀 Regular updates with new questions and solutions.
 
 ## Summary of the Changes
 In the latest update, the README has been enhanced to provide clearer information about the repository. Notable changes include:
 - Improved clarity in the installation instructions.
+- Added an **Overview** section for better clarity.
+- Updated the **Features** section to include a more descriptive list.
 - Added a specific example of a Fibonacci function for better illustration.
 
+### Code Snippet Example
 Here’s an example of a Fibonacci function included in the repository:
 
 ```python
@@ -31,6 +36,7 @@ To get started with the DSA Questions repository, clone the repository to your l
 
 ```bash
 git clone https://github.com/Shivanilarokar/DSA-Questions-
+cd DSA-Questions-
 ```
 
 ## Usage
