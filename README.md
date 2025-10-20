@@ -11,7 +11,7 @@ The **DSA Questions** repository provides a structured approach to mastering Dat
 - Clear explanations and structured learning paths.
 - Regular updates with new problems and solutions.
 
-## Summary of the Changes 📝
+## Summary of the Changes 📜
 In this update, the following changes were made to the `README.md` file:
 - **Badges** were added to display repository size, contributors, and open issues.
 - An **Overview** section was introduced to provide better context about the repository.
@@ -24,10 +24,10 @@ To get started with the DSA Questions repository, clone it to your local machine
 git clone https://github.com/Shivanilarokar/DSA-Questions-.git
 ```
 
-## Usage 📦
+## Usage 📖
 You can explore various DSA problems and their solutions by navigating through the repository structure.
 
-## Example Code 🖥️
+## Example Code 🧩
 Here is the updated Fibonacci function:
 
 ```python
@@ -38,8 +38,6 @@ def fibonacci(n):
 ```
 
 This updated function improves the handling of edge cases, ensuring that it returns the correct Fibonacci number for inputs of 0 and 1.
-
----
 
 Feel free to contribute to this repository by submitting issues or pull requests. Happy coding! 🚀
 ```
