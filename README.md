@@ -1,23 +1,27 @@
 ```markdown
-# DSA Questions 📚
+# DSA Questions Repository
+
+![GitHub Repo size](https://img.shields.io/github/repo-size/Shivanilarokar/DSA-Questions-) ![Contributors](https://img.shields.io/github/contributors/Shivanilarokar/DSA-Questions-) ![Last Commit](https://img.shields.io/github/last-commit/Shivanilarokar/DSA-Questions-)
 
 Welcome to the **DSA Questions** repository! This repository contains a collection of Data Structures and Algorithms (DSA) problems designed to enhance your coding skills. It serves as a comprehensive resource for anyone looking to practice DSA, featuring a variety of problems ranging from basic to advanced levels, along with detailed solutions.
 
-## Features 🌟
-- 📖 A wide range of DSA problems categorized by difficulty.
+## Overview
+This repository serves as a comprehensive resource for anyone looking to practice DSA. It includes a variety of problems ranging from basic to advanced levels, along with detailed solutions.
+
+## Features 🚀
+- 📚 A wide range of DSA problems categorized by difficulty.
 - ⚡ Comprehensive solutions for each problem.
 - 💻 Code snippets in multiple programming languages.
 - 🙌 Community contributions are welcome!
 
-## Summary of the Changes 📝
+## Summary of the Changes 📜
 Recent updates to the `README.md` include:
 - **Updated Features Section**: Enhanced to better highlight the repository's offerings.
 - **Updated Installation Instructions**: Modified to provide clearer guidance on how to clone the repository.
 - **Added Example Problem Section**: Introduced to illustrate how to solve a DSA problem effectively.
 
-## Installation 🔧
+## Installation 🚀
 To get started with this repository, clone it to your local machine:
-
 ```bash
 git clone https://github.com/Shivanilarokar/DSA-Questions-.git
 ```
@@ -29,13 +33,10 @@ Explore the problems and solutions within this repository to practice and improv
 Here is a simple example problem to illustrate how to solve a DSA problem:
 
 ```python
-# Example solution logic here
 def example_problem():
-    # Example solution logic here
+    # Your solution logic here
     pass
 ```
-
----
 
 Feel free to contribute by submitting issues or pull requests. Happy coding! 🎉
 ```
