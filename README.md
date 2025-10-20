@@ -1,12 +1,15 @@
 ```markdown
 # DSA Questions Repository 🤖
 
+[![GitHub stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-.svg?style=social)](https://github.com/Shivanilarokar/DSA-Questions-/stargazers) 
+[![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-.svg?style=social)](https://github.com/Shivanilarokar/DSA-Questions-/network)
+
 The DSA Questions repository is designed to help you practice and improve your coding skills through a variety of Data Structures and Algorithms (DSA) problems.
 
 ## Features ✨
 - **Diverse Questions**: Explore a wide range of DSA problems.
-- **Multiple Languages**: Solutions provided in various programming languages.
 - **Clear Explanations**: Each solution includes detailed explanations for better understanding.
+- **Multiple Languages**: Solutions provided in various programming languages.
 
 ## Summary of Changes 💖
 In the latest commit, the `README.md` file has been updated to improve clarity and conciseness. The following changes were made:
@@ -26,16 +29,14 @@ cd DSA-Questions-
 ```
 
 ## Usage
-Here's a simple example of how to use the solutions provided:
+Feel free to explore the repository and contribute to the solutions! 
 
 ```python
-# Sample implementation
 def example_problem(input):
-    output = input * 2
+    # Example implementation
+    output = process(input)
     return output
 ```
-
-Feel free to explore the repository and contribute to the solutions! 
 
 ## Badges
 ![GitHub stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-.svg?style=social)
