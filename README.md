@@ -7,7 +7,7 @@ Welcome to the **DSA Questions** repository! This repository contains a comprehe
 
 ## Features
 - ✅ Comprehensive set of DSA questions
-- 📝 Structured guidance for each question
+- 📖 Structured guidance for each question
 - 🌐 Easy access and contribution guidelines
 
 ## Summary of the Changes
@@ -19,7 +19,7 @@ In the latest update, the `README.md` has been auto-updated to improve clarity a
 - Added a link to the GitHub repository for easy access.
 
 ## Installation
-This section provides guidance on how to navigate and use the repository effectively.
+To get started with the DSA Questions repository, clone the repository to your local machine:
 
 ```bash
 git clone https://github.com/Shivanilarokar/DSA-Questions.git
@@ -37,6 +37,8 @@ To effectively structure your DSA questions, please follow the template below:
 ```
 
 Feel free to contribute by adding new questions or improving existing ones. Your contributions are greatly appreciated! 🚀
+
+----
 
 For more information, visit the [GitHub Repository](https://github.com/Shivanilarokar/DSA-Questions-).
 ```
