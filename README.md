@@ -1,24 +1,26 @@
 ```markdown
-# DSA Questions Repository
+# DSA Questions Repository 📚
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
 
-This repository provides a comprehensive collection of Data Structures and Algorithms (DSA) problems accompanied by detailed implementations.
+Welcome to the **DSA Questions** repository! This repository provides a comprehensive collection of Data Structures and Algorithms (DSA) problems accompanied by detailed implementations.
+
+## Overview
+This repository contains a wide array of DSA problems, each with structured code snippets and clear explanations to enhance your problem-solving skills.
 
 ## Features
 - A wide array of DSA problems with detailed implementations.
-- Clear explanations and structured code snippets.
-- Easy-to-follow installation and usage instructions.
+- Structured code snippets for better understanding.
 - Contribution guidelines for easy navigation.
 
 ## Summary of the Changes
 In the latest commit, the `README.md` file has been updated to improve clarity and usability. Key enhancements include:
 
 - Enhanced clarity in the overview and features sections.
-- Improved formatting of code snippets for better readability.
 - Modified installation and usage instructions for clarity.
 - Added contribution guidelines for easy navigation.
 
+### Code Snippet Changes
 Here's an example of how the code snippets were modified for clarity:
 
 **Before:**
@@ -30,14 +32,11 @@ example_function()
 ```
 
 **After:**
-```diff
---------- Here's a sample Python code for a DSA problem:
----------- ```python
-------------def example_function():
-------------    # Your code here
-------------    pass
-----------+-    example_function()
------------```
+```python
+# Here's a sample Python code for a DSA problem:
+def example_function():
+    # Your implementation here
+    pass
 ```
 
 ## Installation
@@ -48,10 +47,12 @@ cd DSA-Questions-
 ```
 
 ## Usage
-To use the repository, navigate to the specific problem directory and run the associated code. Here's a simple example of how to define a function for a DSA problem:
+To use the repository, navigate to the specific problem directory and run the associated code.
+
 ```python
 def example_function():
     # Your implementation here
+    pass
 ```
 
 ## Contribution
