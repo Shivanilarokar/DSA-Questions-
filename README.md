@@ -12,7 +12,6 @@ This repository provides a comprehensive resource for practicing various data st
 - **Comprehensive Collection**: A wide range of DSA questions categorized by difficulty.
 - **Multi-language Support**: Solutions available in various programming languages.
 - **Community Contributions**: Open for contributions to enhance the question bank.
-- **User-Friendly Documentation**: Clear instructions and examples to facilitate learning.
 
 ## Summary of the Changes
 In the latest update, the `README.md` file has been auto-updated to enhance clarity and structure. Notable changes include:
@@ -27,15 +26,12 @@ git clone https://github.com/Shivanilarokar/DSA-Questions-
 ```
 
 ## Usage
-You can browse through the various DSA questions and their solutions. Follow the documentation provided in the repository to understand how to utilize the resources effectively.
-
-## Example
-Here’s how you can navigate through a sample problem in the repository:
+Explore the repository to find various DSA problems and solutions. You can contribute by adding new questions or improving existing solutions.
 
 ```python
 def example_problem_solution():
-    # Sample code to demonstrate usage
-    print("This is an example solution for a DSA problem.")
+    # Example solution code here
+    pass
 ```
 
 Feel free to explore and contribute to the repository to help build a more comprehensive collection of DSA questions!
