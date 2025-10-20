@@ -23,7 +23,6 @@ Here's an example of using a function from the repository:
 ```python
 # Example of using a function from the repository
 def example_function(param):
-    # Function implementation
     return param * 2
 
 result = example_function(5)
@@ -43,17 +42,10 @@ To utilize the functions provided in this repository, you can import them into y
 
 ```python
 from dsa_module import example_function
-
-# Using the function
-result = example_function(10)
-print(result)  # This will print the result of the function
 ```
 
 ## Contributing
-Contributions are welcome! Please feel free to submit a pull request or open an issue for any improvements or suggestions.
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+We welcome contributions! Please feel free to open issues or submit pull requests to enhance the repository.
 
 ---
 
