@@ -1,20 +1,18 @@
 ```markdown
 # DSA Questions 🚀
 
-Welcome to the DSA Questions repository! This project serves as a platform for developers and learners to practice and enhance their skills in Data Structures and Algorithms (DSA). This repository is designed to help you improve your understanding of various data structures and algorithms through a collection of questions and solutions.
-
 ![GitHub stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-?style=social) ![Forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-?style=social)
+
+Welcome to the DSA Questions repository! This project serves as a platform for developers and learners to practice and enhance their skills in Data Structures and Algorithms (DSA). This repository is designed to help you improve your understanding of various data structures and algorithms through a collection of questions and solutions.
 
 ## Features
 - Comprehensive collection of DSA questions
 - Detailed solutions and explanations
-- User-friendly structure for easy navigation
 
 ## Summary of the Changes
-In the latest update, the README.md file has been auto-updated to enhance clarity and usability:
-- Added a section for **Features** to highlight key aspects of the repository.
-- Improved instructions for cloning the repository, including the command to navigate into the cloned repository.
-- Enhanced the structure for presenting questions with a new format for description and output.
+In the latest update, the README.md file has been auto-updated to enhance clarity and structure. Key modifications include:
+- Added a **Features** section to highlight the repository's offerings.
+- Minor adjustments to code snippets and formatting for improved readability.
 
 ## Installation
 To get started, clone the repository to your local machine:
@@ -31,6 +29,10 @@ Explore the various DSA questions and solutions provided in the repository. Cont
 Here’s a brief example of how you might structure a question in the repository:
 
 ### Question Title
+**Description:** Briefly describe the problem statement.
+
+**Output:** Describe the output format.
+
 **Example:** Provide an example input and output.
 
 ```python
@@ -39,6 +41,4 @@ def example_function():
     # Your implementation here
     pass
 ```
-
-Feel free to dive in and start practicing your DSA skills! Happy coding! 🎉
 ```
