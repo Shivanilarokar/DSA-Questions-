@@ -11,8 +11,8 @@ This repository contains a wide range of problems that cover essential concepts 
 
 ## Features ✨
 - A variety of data structure and algorithm problems to enhance your coding skills.
-- Solutions and explanations to help understand the concepts better.
 - Structured sections for easier navigation.
+- Solutions and explanations to help understand the concepts better.
 - Community contributions are encouraged! 🤖
 
 ## Summary of the Changes ⚡
@@ -22,13 +22,14 @@ In this update, we made the following changes to the `README.md` file:
 - Updated the **Features** section to highlight: **"Solutions and explanations to help understand the concepts better."**
 - Updated the closing statement to include a more expressive emoji for a friendly touch.
 
-## Installation 🔧
+## Installation 🛠️
 To get started with this repository, clone it using the following command:
 
 ```bash
 git clone https://github.com/Shivanilarokar/DSA-Questions-
 ```
 
+## Usage 💻
 Follow the instructions in the repository to explore various problems and solutions.
 
 ## Example 📖
