@@ -14,6 +14,12 @@ This repository provides a comprehensive collection of Data Structures and Algor
 In this update, the **README.md** file has been slightly modified to improve clarity and conciseness. The following changes were made:
 - The introductory text was refined for better readability.
 - Unnecessary installation instructions were removed to streamline the content.
+- The closing remarks were simplified for a more professional presentation.
+
+### Code Snippet of Changes
+```markdown
+- This repository serves as a valuable resource for both beginners and experienced developers looking to improve their understanding of data structures and algorithms through practical questions and solutions.
+```
 
 ## Installation 🚀
 To get started with this repository, simply clone it using the following command:
@@ -35,4 +41,6 @@ Here’s an example of how to contribute a new solution:
 5. Create a pull request.
 
 Thank you for contributing to the DSA Questions repository! 🎉
+
+Happy coding! 🎈
 ```
