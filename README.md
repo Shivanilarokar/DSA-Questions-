@@ -1,9 +1,9 @@
 ```markdown
 # DSA Questions 🚀
 
-Welcome to the **DSA Questions** repository! This project serves as a platform for developers and learners to practice and enhance their skills in Data Structures and Algorithms (DSA). This repository is designed to help you improve your understanding of various data structures and algorithms through a collection of questions and solutions.
-
 ![GitHub stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-?style=social) ![Forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-?style=social)
+
+Welcome to the **DSA Questions** repository! This project serves as a platform for developers and learners to practice and enhance their skills in Data Structures and Algorithms (DSA). This repository is designed to help you improve your understanding of various data structures and algorithms through a collection of questions and solutions.
 
 ## Features
 - Comprehensive collection of DSA questions
@@ -11,7 +11,7 @@ Welcome to the **DSA Questions** repository! This project serves as a platform f
 - User-friendly format for easy understanding
 
 ## Summary of the Changes
-In the latest commit, the `README.md` file has been auto-updated to enhance clarity and appeal for potential contributors and users. 
+In the latest commit, the `README.md` file has been auto-updated to enhance clarity and appeal for potential contributors and users.
 
 ### Changes Made:
 - **Added a Features section**: Highlighting key aspects of the repository.
@@ -25,16 +25,16 @@ git clone https://github.com/Shivanilarokar/DSA-Questions-
 ```
 
 ## Usage
-Once you have cloned the repository, navigate to the project directory and explore the various DSA questions and their solutions.
+After cloning the repository, navigate to the directory and start exploring the questions and solutions provided.
 
 ## Example
-Here’s a simple example of how to use one of the DSA solutions provided in this repository:
+Here’s an example of how to structure a solution:
 
 ```python
-def example_function():
-    # Example code demonstrating a DSA concept
-    pass
+def example_function(data):
+    # Your code here
+    return modified_data
 ```
 
-Feel free to contribute and enhance this repository further! Happy coding! ✨
+Feel free to contribute by adding more questions or improving existing solutions. Happy coding! 💻
 ```
