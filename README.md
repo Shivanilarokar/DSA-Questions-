@@ -23,12 +23,11 @@ In this latest update, the `README.md` file has been modified to enhance clarity
 
 ### Code Snippet of Changes
 ```diff
--# DSA Questions 🌍
-+# DSA Questions 🌐
- 
--Welcome to the DSA Questions repository! This project serves as a platform for developers and learners to practice and enhance their skills in Data Structures and Algorithms (DSA).
+---# DSA Questions 🌏
+++# DSA Questions 🌐
+
 +Welcome to the DSA Questions repository! This project serves as a platform for developers and learners to practice and enhance their skills in Data Structures and Algorithms (DSA).
- This repository is designed to help you improve your understanding of various data structures and algorithms through a collection of questions and solutions.
++This repository is designed to help you improve your understanding of various data structures and algorithms through a collection of questions and solutions.
 ```
 
 ## Installation
@@ -38,6 +37,7 @@ git clone https://github.com/Shivanilarokar/DSA-Questions-
 cd DSA-Questions-
 # Add installation commands if applicable
 ```
+Make sure to follow the setup instructions in the respective sections to ensure everything runs smoothly.
 
 ## Usage
 Once installed, navigate through the questions and solutions provided in the repository. Feel free to explore and practice!
@@ -45,5 +45,6 @@ Once installed, navigate through the questions and solutions provided in the rep
 ## Contribution
 We welcome contributions from the community! If you have suggestions or improvements, please fork the repository and make a pull request. Together, we can enhance this resource for everyone.
 
+---
 Thank you for visiting the DSA Questions repository! Happy coding! 🚀
 ```
