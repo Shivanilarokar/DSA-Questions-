@@ -12,7 +12,7 @@ This repository contains a variety of Data Structures and Algorithms (DSA) probl
 - Contribution guidelines for community involvement.
 
 ## Summary of the Changes 📝
-Recent updates to the README.md file include:
+Recent updates to the `README.md` file include:
 - Improved organization with a new Overview section.
 - Enhanced Features section with updated emojis.
 - Added a dedicated Contributing section to encourage community contributions.
@@ -48,6 +48,8 @@ git clone https://github.com/Shivanilarokar/DSA-Questions-
 Navigate through the problems and start solving them in your preferred programming language. Each problem includes example code snippets and explanations.
 
 ## Example 💻
+Here is an example demonstrating how to solve a DSA problem:
+
 ```python
 def example_function():
     # This is an example function that does nothing
