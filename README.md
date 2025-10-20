@@ -3,14 +3,13 @@
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
 
-## Overview
-Welcome to the DSA Questions repository! This repository contains a collection of Data Structures and Algorithms (DSA) questions along with their solutions in Python. Enhance your coding skills and deepen your understanding of DSA concepts through practical examples.
+Welcome to the DSA Questions repository! This repository contains a collection of Data Structures and Algorithms (DSA) questions along with their solutions.
 
 ## Features
 - 📚 Comprehensive set of DSA questions.
 - 🐍 Solutions provided in Python for better understanding.
 - ⚡ Clear and concise explanations of algorithms.
-- 🖥️ Easy to navigate and contribute to.
+- 📝 Easy to navigate and contribute to.
 - 🚀 Regular updates with new questions and solutions.
 
 ## Summary of the Changes
@@ -24,11 +23,13 @@ In the latest update, the README has been enhanced to provide clearer informatio
 Here’s an example of a Fibonacci function included in the repository:
 
 ```python
-# Example of a Fibonacci function
 def fibonacci(n):
-    if n <= 1:
-        return n
-    return fibonacci(n-1) + fibonacci(n-2)
+    if n <= 0:
+        return 0
+    elif n == 1:
+        return 1
+    else:
+        return fibonacci(n - 1) + fibonacci(n - 2)
 ```
 
 ## Installation
@@ -40,12 +41,7 @@ cd DSA-Questions-
 ```
 
 ## Usage
-After cloning the repository, navigate into the directory and start exploring the DSA questions and their solutions. You can run the Python scripts directly or modify them as needed to suit your learning preferences.
+After cloning the repository, you can navigate through the questions and begin solving them using the provided solutions as a guide.
 
-## Contribution
-We welcome contributions! Feel free to submit a pull request or open an issue if you have suggestions for improvements or new questions to add.
-
----
-
-Happy coding! 🚀
+Feel free to contribute by adding more questions or improving existing solutions!
 ```
