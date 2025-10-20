@@ -1,9 +1,9 @@
 ```markdown
 # DSA Questions 🚀
 
-![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![License](https://img.shields.io/badge/license-MIT-blue.svg)
-
 Welcome to the **DSA Questions** repository! This repository features a comprehensive set of DSA questions 🤖, solutions, and explanations aimed at providing a structured learning path for developers. 
+
+![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ## Overview
 
@@ -29,14 +29,12 @@ In the latest update, the `README.md` file has been auto-updated with the follow
 
 ```diff
 --- Welcome to the **DSA Questions** repository! This repository contains a collection of Data Structures and Algorithms (DSA) problems designed to enhance your programming skills.
-++ Welcome to the **DSA Questions** repository! This repository features a comprehensive set of DSA questions 🤖, solutions, and explanations aimed at providing a structured learning path for developers. 🚀
-- Welcome to the **DSA Questions** repository! This repository is designed to help developers enhance their problem-solving skills by providing a structured set of DSA problems, solutions, and explanations. 🤖
-++ Welcome to the **DSA Questions** repository! This repository features a comprehensive set of DSA questions 🤖, solutions, and explanations aimed at providing a structured learning path for developers. 🚀
++++ Welcome to the **DSA Questions** repository! This repository features a comprehensive set of DSA questions 🤖, solutions, and explanations aimed at providing a structured learning path for developers. 🚀
 ```
 
 ## Installation
 
-To get started with the DSA Questions repository, clone it to your local machine:
+To get started, clone the repository:
 
 ```bash
 git clone https://github.com/Shivanilarokar/DSA-Questions-
@@ -53,6 +51,4 @@ Contributions are welcome! Please submit a pull request or open an issue for any
 ---
 
 This README has been designed to provide a clear and concise overview of the repository, its features, and the latest changes, while maintaining a professional and inviting tone for potential contributors.
-
-Happy coding! 🎉
 ```
