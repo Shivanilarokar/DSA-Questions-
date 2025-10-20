@@ -1,9 +1,9 @@
 ```markdown
 # DSA Questions Repository 🤖
 
-![GitHub stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-.svg?style=social) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-.svg?style=social)
-
 The DSA Questions repository is designed to help you practice and improve your coding skills through a comprehensive collection of Data Structures and Algorithms (DSA) problems.
+
+![GitHub stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-.svg?style=social) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-.svg?style=social)
 
 ## Features ✨
 - **Diverse Questions**: Explore a wide range of DSA problems.
@@ -13,27 +13,23 @@ The DSA Questions repository is designed to help you practice and improve your c
 ## Summary of Changes
 In the latest update, the README has been enhanced to include a dedicated **Features** section, highlighting the core advantages of the repository. Minor formatting adjustments were made for improved readability.
 
-### Key Changes:
-- Added a **Features** section to outline the repository's benefits.
-- Minor formatting changes for clarity and presentation.
-
 ## Installation
-To get started with the DSA Questions repository, clone the repository to your local machine:
+To get started with the DSA Questions repository, clone the repository to your local machine using the following command:
 
 ```bash
 git clone https://github.com/Shivanilarokar/DSA-Questions-
 ```
 
 ## Usage
-Explore the various DSA problems available in the repository. Each problem typically includes a description, constraints, and example test cases.
+After cloning the repository, navigate to the desired problem folder and follow the instructions provided in the respective README files for each problem.
 
-### Example Code
-Here’s a simple example function to illustrate usage:
+### Example
+Here’s a simple example to illustrate the usage of a function within the repository:
 
 ```python
 def example_function():
-    # Your code here
-    pass
+    # Sample code to demonstrate functionality
+    return "Hello, DSA World!"
 ```
 
 Feel free to explore and contribute to the repository!
