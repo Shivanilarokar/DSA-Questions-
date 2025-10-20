@@ -1,5 +1,5 @@
 ```markdown
-# DSA Questions Repository
+# DSA Questions Repository 🚀
 
 ![Last Commit](https://img.shields.io/github/last-commit/Shivanilarokar/DSA-Questions-) ![Contributors](https://img.shields.io/github/contributors/Shivanilarokar/DSA-Questions-)
 
@@ -19,18 +19,15 @@ In the latest update, the `README.md` file has been auto-updated to enhance clar
 - Updated feature list to highlight documentation and community contributions.
 - Revised usage section for clearer navigation instructions.
 - Code snippets updated for better illustration of solutions.
-- Improved description for better understanding of the repository's purpose.
-- Added a new feature highlighting clear navigation for users.
 - Minor formatting adjustments for improved readability.
 
-## Installation 🚇
+## Installation 🛠️
 To get started, clone the repository using the following command:
 
 ```bash
 git clone https://github.com/Shivanilarokar/DSA-Questions-.git
 ```
 
-## Usage 📖
 Navigate through the documentation to find questions, solutions, and examples. Engage with the community and contribute to the repository to help expand the collection of DSA questions.
 
 ### Example Code Snippet
