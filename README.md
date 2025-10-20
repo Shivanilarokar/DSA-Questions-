@@ -1,5 +1,5 @@
 ```markdown
-# DSA Questions 📚
+# DSA Questions 📖
 
 ![Repository Size](https://img.shields.io/github/repo-size/Shivanilarokar/DSA-Questions-) 
 ![Last Commit](https://img.shields.io/github/last-commit/Shivanilarokar/DSA-Questions-)
@@ -31,10 +31,10 @@ cd DSA-Questions-
 ```
 
 ## Usage
-Once you have cloned the repository, navigate to the folder and explore the various DSA problems and their solutions. You can also contribute by adding your solutions or improving existing ones.
+Feel free to explore, contribute, and enhance the collection of DSA questions and solutions!
 
-## Example
-Here's a simple example demonstrating a common DSA problem:
+### Example: Fibonacci Sequence
+Here’s a simple function to calculate the Fibonacci sequence:
 
 ```python
 def fibonacci(n):
@@ -43,14 +43,10 @@ def fibonacci(n):
     elif n == 1:
         return 1
     else:
-        return fibonacci(n-1) + fibonacci(n-2)
+        return fibonacci(n - 1) + fibonacci(n - 2)
 
 print(fibonacci(10))  # Output: 55
 ```
-
-Feel free to explore, contribute, and enhance the collection of DSA questions and solutions!
-
----
 
 Thank you for visiting the DSA Questions repository! We hope you find it helpful in your coding journey. 😊
 ```
