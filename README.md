@@ -1,9 +1,9 @@
 ```markdown
 # DSA Questions 🚀
 
-Welcome to the **DSA Questions** repository! This project serves as a platform for developers and learners to practice and enhance their skills in Data Structures and Algorithms (DSA). This repository is designed to help you improve your understanding of various data structures and algorithms through a collection of questions and solutions.
-
 ![GitHub stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-?style=social) ![Forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-?style=social)
+
+Welcome to the **DSA Questions** repository! This project serves as a platform for developers and learners to practice and enhance their skills in Data Structures and Algorithms (DSA). This repository is designed to help you improve your understanding of various data structures and algorithms through a collection of questions and solutions.
 
 ## Features
 - 📚 **Comprehensive collection of DSA questions**
@@ -28,10 +28,10 @@ def fibonacci(n):
     elif n == 2:
         return [0, 1]
     
-    seq = [0, 1]
+    fib_sequence = [0, 1]
     for i in range(2, n):
-        seq.append(seq[-1] + seq[-2])
-    return seq
+        fib_sequence.append(fib_sequence[i - 1] + fib_sequence[i - 2])
+    return fib_sequence
 
 print(fibonacci(10))  # Output: [0, 1, 1, 2, 3, 5, 8, 13, 21, 34]
 ```
