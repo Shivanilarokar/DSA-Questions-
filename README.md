@@ -1,8 +1,6 @@
 ```markdown
 # DSA Questions 🤖
 
-![GitHub stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-?style=social) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-?style=social)
-
 Welcome to the **DSA Questions** repository! This repository provides a collection of algorithmic challenges to help you practice and improve your understanding of data structures and algorithms.
 
 ## Overview
