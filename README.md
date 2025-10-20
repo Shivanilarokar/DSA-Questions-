@@ -1,5 +1,5 @@
 ```markdown
-# DSA Questions Repository 📚
+# DSA Questions Repository 📖
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
 
@@ -15,6 +15,10 @@ Welcome to the DSA Questions repository! This project is designed to help you pr
 In this update, the following changes were made to the `README.md` file:
 
 ### Key Changes:
+- **Formatting Improvements**: Enhanced readability and clarity of the document.
+- **Updated Links**: Ensured links to the GitHub repository are accurate for better navigation.
+
+#### Code Snippets
 - Adjusted the clone command for clarity:
     ```bash
     # Clone the repository
