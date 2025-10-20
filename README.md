@@ -16,13 +16,17 @@ Welcome to the DSA Questions repository! This project serves as a comprehensive 
 ## Summary of the Changes
 
 The recent updates to the `README.md` file include:
+
+- Changed the project title emoji from 📖 to 🚀 for a more dynamic representation.
 - Added a **Usage** section to provide clarity on how to engage with the repository.
 - Enhanced the concluding remarks to encourage skill enhancement through DSA challenges. 🎉
+- Included a **Contributing** section to welcome community contributions.
+- Added a **License** section to clarify the project's licensing details.
 
 ### Here’s a glimpse of the changes made in the `README.md` file:
 
 ```diff
--## Features 🚀
+-## Features 📖
 -- **Comprehensive guide** to various DSA problems.
 -- **Detailed explanations**, examples, and solutions.
 -- Designed for both beginners and experienced developers.
@@ -40,9 +44,7 @@ To get started with this repository, clone it using:
 git clone https://github.com/Shivanilarokar/DSA-Questions-
 ```
 
-## Usage 📖
-
-Once you have cloned the repository, navigate to the project directory and explore the various DSA problems available. You can contribute by adding new problems or improving existing solutions.
+Once you have cloned the repository, navigate to the project directory and explore the DSA problems available.
 
 ## Example
 
