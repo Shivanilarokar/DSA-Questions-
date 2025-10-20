@@ -18,6 +18,20 @@ In this update, the `README.md` file has been refined for clarity and consistenc
 - Enhanced the language for better readability.
 - Improved the example section with a more relevant code snippet demonstrating a DSA problem.
 
+### Code Changes:
+```python
+# Example of a DSA problem
+def fibonacci(n):
+    if n <= 0:
+        return 0
+    elif n == 1:
+        return 1
+    else:
+        return fibonacci(n-1) + fibonacci(n-2)
+
+print(fibonacci(10))  # Output: 55
+```
+
 ## Installation ⚙️
 To get started with this repository, clone it to your local machine using the following command:
 
@@ -25,8 +39,7 @@ To get started with this repository, clone it to your local machine using the fo
 git clone https://github.com/Shivanilarokar/DSA-Questions-
 ```
 
-## Usage 📚
-Once cloned, navigate to the repository directory and start practicing with the DSA questions.
+Once cloned, navigate to the repository directory and start practicing with the questions:
 
 ```bash
 cd DSA-Questions-
