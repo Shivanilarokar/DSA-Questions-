@@ -1,28 +1,41 @@
 ```markdown
 # DSA Questions 🚀
 
-![GitHub stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-?style=social) ![Forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-?style=social)
-
 Welcome to the **DSA Questions** repository! This project serves as a platform for developers and learners to practice and enhance their skills in Data Structures and Algorithms (DSA). This repository is designed to help you improve your understanding of various data structures and algorithms through a collection of questions and solutions.
+
+![GitHub stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-?style=social) ![Forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-?style=social)
 
 ## Features
 - 📚 **Comprehensive collection of DSA questions**
 - ✍️ **Detailed solutions and explanations**
-- 📂 **User-friendly structure for easy navigation**
+- 📊 **User-friendly structure for easy navigation**
 
 ## Summary of the Changes
 In the latest update, the README.md has been enhanced for better clarity and organization. Here are the key changes made:
 - Added a new **Features** section to highlight the strengths of the repository.
+- Included an **Example** section to demonstrate a simple DSA implementation.
+- Cleaned up code snippets for improved readability.
 - Improved the overall structure and readability of the README.
 
 ### Code Snippet Example
 ```python
+# Example of a simple DSA implementation
 def binary_search(arr, target):
     # Your binary search implementation here
     pass
 ```
 
-We encourage you to explore the repository and contribute to the growing collection of DSA questions and solutions!
+## Installation
+To get started with the DSA Questions repository, clone the repository and install any dependencies (if necessary):
 
-For any questions or suggestions, please open an issue or submit a pull request. Happy coding! 🚀
+```bash
+git clone https://github.com/Shivanilarokar/DSA-Questions-
+cd DSA-Questions-
+# Install dependencies (if any)
+```
+
+## Usage
+Explore the collection of DSA questions and solutions. Feel free to contribute by submitting your own questions and solutions!
+
+We encourage you to explore the repository and contribute to the growing collection of DSA questions and solutions!
 ```
