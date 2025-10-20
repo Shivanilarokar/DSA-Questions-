@@ -21,25 +21,22 @@ In this update, the following changes were made to the `README.md` file:
 
 ### Key Changes:
 - Adjusted the clone command for clarity:
-```bash
-# Clone the repository
-git clone https://github.com/Shivanilarokar/DSA-Questions-.git
-```
+   ```bash
+   # Clone the repository
+   git clone https://github.com/Shivanilarokar/DSA-Questions-.git
+   ```
 
 - Modified the directory navigation comment for precision:
-```bash
-# Change directory to the repository
-cd DSA-Questions-
-```
+   ```bash
+   # Change directory to the repository
+   cd DSA-Questions-
+   ```
 
 ## Installation
 To get started with this repository, follow these simple steps:
 
 ```bash
-# Clone the repository
 git clone https://github.com/Shivanilarokar/DSA-Questions-.git
-
-# Change directory to the repository
 cd DSA-Questions-
 ```
 
