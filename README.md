@@ -1,6 +1,11 @@
 ```markdown
-# DSA Questions 📖
+# DSA Questions 📚
 
+![GitHub repo size](https://img.shields.io/github/repo-size/Shivanilarokar/DSA-Questions-) ![GitHub stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-)
+
+Welcome to the **DSA Questions** repository! This repository contains various questions and solutions designed to assist learners and developers in enhancing their data structures and algorithms (DSA) skills through a comprehensive collection.
+
+## Overview
 This repository is designed to help learners and developers improve their data structures and algorithms (DSA) skills through a collection of questions and solutions.
 
 ## Features
@@ -10,7 +15,7 @@ This repository is designed to help learners and developers improve their data s
 
 ## Summary of the Changes
 In the latest update, the following changes were made to the `README.md` file:
-- Updated the title emoji to 📖.
+- Updated the title emoji to 📚.
 - Added an overview section to better explain the purpose of the repository.
 - Improved the overall structure and clarity of the README content.
 - Enhanced the example section to include a practical implementation of a Fibonacci function.
@@ -33,16 +38,16 @@ Here’s an example of how to use one of the solutions provided in this reposito
 
 ```python
 def fibonacci(n):
-    if n <= 1:
-        return n
+    if n <= 0:
+        return 0
+    elif n == 1:
+        return 1
     else:
-        return fibonacci(n-1) + fibonacci(n-2)
+        return fibonacci(n - 1) + fibonacci(n - 2)
 
-# Example usage:
-print(fibonacci(5))  # Output: 5
+# Example usage
+print(fibonacci(10))  # Output: 55
 ```
 
-This README provides an overview of the repository, highlights key features, summarizes recent changes, and includes installation and usage instructions, making it accessible and informative for developers.
-
-Feel free to explore the repository and contribute with your own solutions and questions! 🎉
+Feel free to explore, contribute, and enhance your DSA skills!
 ```
