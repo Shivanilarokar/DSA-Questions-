@@ -1,6 +1,8 @@
 ```markdown
 # DSA Questions 🤖
 
+![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
+
 Welcome to the **DSA Questions** repository! This repository is a collection of data structures and algorithms problems designed to help you improve your coding skills. It serves as a valuable resource for both beginners and experienced developers looking to practice their problem-solving abilities.
 
 ## Overview
@@ -10,15 +12,15 @@ The DSA Questions repository offers a comprehensive collection of data structure
 ## Features
 
 - 📚 A wide variety of DSA problems.
-- 🧑‍💻 Well-structured solutions in Python.
+- 👨‍💻 Well-structured solutions in Python.
 - 🤝 Easy to contribute and enhance the repository with your own solutions.
 
 ## Summary of the Changes
 
 Recent updates to the README.md include:
 
-- Enhanced the section on exploring the repository and contributing solutions.
 - Improved the title for better visual appeal.
+- Enhanced the section on exploring the repository and contributing solutions.
 - Included an example usage of a sorting algorithm with code snippets for clarity.
 
 ## Installation
@@ -36,6 +38,7 @@ Navigate to the directory and explore the various DSA problems available. You ca
 Here's an example of how to structure your solution:
 
 ```python
+# Example of a sample solution
 def example_solution():
     # Your solution code here
     pass
@@ -46,13 +49,13 @@ def example_solution():
 Here's how you might use one of the algorithms provided in this repository:
 
 ```python
+# Example usage of a sorting algorithm
 def bubble_sort(arr):
     for i in range(len(arr)):
         for j in range(0, len(arr)-i-1):
             if arr[j] > arr[j+1]:
                 arr[j], arr[j+1] = arr[j+1], arr[j]
 
-# Sample array
 sample_array = [64, 34, 25, 12, 22, 11, 90]
 bubble_sort(sample_array)
 print("Sorted array is:", sample_array)
@@ -60,7 +63,7 @@ print("Sorted array is:", sample_array)
 
 Feel free to explore the repository and contribute your solutions or improvements!
 
-----
+---
 
 Happy coding! 🎉
 ```
