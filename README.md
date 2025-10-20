@@ -1,12 +1,12 @@
 ```markdown
-# DSA Questions Repository 🧠
+# DSA Questions Repository 🤖
 
 The DSA Questions repository is designed to help you practice and improve your coding skills through a variety of Data Structures and Algorithms (DSA) problems.
 
 ## Features ✨
 - **Diverse Questions**: Explore a wide range of DSA problems.
-- **Clear Explanations**: Each solution includes detailed explanations for better understanding.
 - **Multiple Languages**: Solutions provided in various programming languages.
+- **Clear Explanations**: Each solution includes detailed explanations for better understanding.
 
 ## Summary of Changes 💖
 In the latest commit, the `README.md` file has been updated to improve clarity and conciseness. The following changes were made:
@@ -25,15 +25,9 @@ cd DSA-Questions-
 ```
 
 ## Usage
-Feel free to explore the repository and contribute to the solutions! 
-
-### Example
-Here's a simple example of how to implement a solution:
+You can use the provided solutions to practice your DSA skills. Here’s an example of how to process input:
 ```python
-# Example implementation
 def process(input):
-    # Sample logic
-    output = input * 2
     return output
 ```
 
