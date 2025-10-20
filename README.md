@@ -1,12 +1,10 @@
 ```markdown
-# DSA Questions Repository 🚀
+# DSA Questions Repository
 
-![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-) ![GitHub stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-)
+![Issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
+![Stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-)
 
-Welcome to the DSA Questions repository! This repository offers a comprehensive collection of data structure and algorithmic challenges designed to help developers improve their coding skills. We welcome community-driven contributions!
-
-## Overview
-The DSA Questions repository provides a wide range of algorithmic challenges aimed at enhancing your coding abilities. Whether you're preparing for interviews or simply looking to refine your skills, you'll find various problems to solve.
+The DSA Questions repository provides a wide range of algorithmic challenges aimed at enhancing your data structures and algorithms skills. Whether you are a beginner or an experienced programmer, you will find challenges that suit your learning needs. 
 
 ## Features ✨
 - Extensive collection of algorithmic challenges.
@@ -23,34 +21,29 @@ In the latest commit, the `README.md` file has been updated to improve clarity a
 
 ## Installation 🔧
 To get started with the DSA Questions repository, clone the repository using the following command:
-
 ```bash
 git clone https://github.com/Shivanilarokar/DSA-Questions-
 ```
 
-## Usage 📖
-Feel free to explore the problems, attempt to solve them, and submit your solutions. This repository is intended for both beginners and experienced developers looking to enhance their skills in data structures and algorithms.
+## Usage 📚
+Explore the various algorithmic challenges available in this repository. We encourage you to solve them and submit your solutions. 
 
-## Example 💡
-Here's a simple example problem to get you started:
+## Example 📝
+Here’s a simple example problem to get you started:
 
 ```python
-# Example Problem: Fibonacci Sequence
 def fibonacci(n):
     if n <= 0:
-        return []
+        return 0
     elif n == 1:
-        return [0]
-    elif n == 2:
-        return [0, 1]
+        return 1
     else:
-        fib_seq = [0, 1]
-        for i in range(2, n):
-            fib_seq.append(fib_seq[-1] + fib_seq[-2])
-        return fib_seq
-
-print(fibonacci(10))  # Outputs: [0, 1, 1, 2, 3, 5, 8, 13, 21, 34]
+        return fibonacci(n-1) + fibonacci(n-2)
 ```
 
-We hope this repository helps you in your coding journey! Happy coding! 🎉
+Feel free to contribute by solving problems and submitting pull requests!
+
+---
+
+Thank you for checking out the DSA Questions repository! Happy coding! 🚀
 ```
