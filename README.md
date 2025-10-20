@@ -6,9 +6,8 @@ Welcome to the **DSA Questions** repository! This project aims to provide a comp
 ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![GitHub stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-)
 
 ## Overview
-The DSA Questions repository is designed for easy navigation and understanding of various Data Structures and Algorithms (DSA) problems. Each problem is accompanied by detailed explanations and well-structured solutions to facilitate learning.
+The DSA Questions repository is designed for easy navigation and understanding of various data structures and algorithms. It includes:
 
-## Features
 - Comprehensive collection of DSA problems.
 - Detailed explanations and solutions.
 - Easy navigation through various topics.
@@ -16,6 +15,9 @@ The DSA Questions repository is designed for easy navigation and understanding o
 
 ## Summary of the Changes
 In this update, the README.md file was enhanced with the following changes:
+- Added badges for GitHub issues, forks, and stars to improve visibility.
+- Introduced an **Overview** section to provide context.
+- Improved the overall structure for clarity and readability.
 - Minor wording improvements for clarity.
 - Enhanced descriptions for features and usage sections.
 
@@ -25,15 +27,16 @@ To get started with the DSA Questions repository, clone it to your local machine
 ```bash
 git clone https://github.com/Shivanilarokar/DSA-Questions-
 cd DSA-Questions-
+# Install dependencies (if any)
 ```
 
 ## Usage
-Explore the repository to find various DSA problems. Below is an example code snippet demonstrating how to define a simple linked list in Python:
+Here's an example of how to use the linked list implementation:
 
 ```python
 class Node:
-    def __init__(self, value):
-        self.value = value
+    def __init__(self, data):
+        self.data = data
         self.next = None
 
 class LinkedList:
