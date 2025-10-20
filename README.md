@@ -10,9 +10,11 @@ Welcome to the DSA Questions repository! This repository contains a collection o
 - A variety of DSA problems categorized for easy navigation.
 - Each problem includes a statement and corresponding solutions.
 - Step-by-step guidance to improve your coding proficiency.
+- Community contributions are welcome!
 
 ## Summary of the Changes
 In the latest update, the `README.md` file has been auto-updated to enhance clarity and usability. Key changes include:
+
 - Improved formatting of code blocks for better readability.
 - Updated instructions for cloning the repository and navigating directories.
 - Clarified usage instructions for solving problems.
@@ -45,19 +47,13 @@ In the latest update, the `README.md` file has been auto-updated to enhance clar
 To get started with the DSA Questions repository, follow these steps:
 
 1. Clone the repository:
-    ```bash
-    git clone https://github.com/Shivanilarokar/DSA-Questions-.git
-    ```
-
+   ```bash
+   git clone https://github.com/Shivanilarokar/DSA-Questions-.git
+   ```
 2. Navigate into the project directory:
-    ```bash
-    cd DSA-Questions-
-    ```
-
-3. Install any necessary dependencies (if applicable):
-    ```bash
-    # Example command for installing dependencies
-    ```
+   ```bash
+   cd DSA-Questions-
+   ```
 
 ## Usage
 To start solving problems, navigate through the directories for each problem set. Each directory contains the problem statement and corresponding solutions.
