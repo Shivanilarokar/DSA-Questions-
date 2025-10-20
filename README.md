@@ -4,7 +4,7 @@
 ![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-?style=social) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-?style=social)
 
 ## Overview
-This repository provides a comprehensive collection of Data Structures and Algorithms (DSA) questions aimed at helping both beginners and experienced developers enhance their understanding through practical examples and solutions. 
+This repository provides a comprehensive collection of Data Structures and Algorithms (DSA) questions aimed at helping both beginners and experienced developers enhance their understanding through practical examples and solutions.
 
 ## Features
 - A wide range of DSA questions categorized for ease of access.
@@ -17,13 +17,9 @@ In the latest update, the **README.md** file has been refined to improve clarity
 - Unnecessary installation instructions were removed to streamline the content.
 - The closing remarks were simplified for a more professional presentation.
 
-### Code Snippet of Changes
-```markdown
-- This repository serves as a valuable resource for both beginners and experienced developers looking to improve their understanding of data structures and algorithms through practical questions and solutions.
-```
-
 ## Installation 🚀
 To get started with this repository, simply clone it using the following command:
+
 ```bash
 git clone https://github.com/Shivanilarokar/DSA-Questions-
 ```
@@ -37,6 +33,4 @@ Here's an example of how to contribute a new solution:
 5. Create a pull request.
 
 Thank you for contributing to the DSA Questions repository! 🎉
-
-Happy coding! 🎈
 ```
