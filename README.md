@@ -1,30 +1,29 @@
 ```markdown
-# DSA Questions Repository 🚀
+# DSA Questions Repository 🧠
 
-![GitHub repo size](https://img.shields.io/github/repo-size/Shivanilarokar/DSA-Questions-) 
-![GitHub contributors](https://img.shields.io/github/contributors/Shivanilarokar/DSA-Questions-) 
-![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-) 
+![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-) 
 
 ## Overview
-Welcome to the DSA Questions repository! This project aims to provide a comprehensive collection of Data Structures and Algorithms (DSA) questions, solutions, and resources to help you sharpen your problem-solving skills and enhance your understanding of algorithms and data structures.
+Welcome to the DSA Questions repository! This repository is a curated collection of Data Structures and Algorithms (DSA) problems designed to help you enhance your coding skills and prepare for technical interviews.
 
-## Features 🚀
-- A wide variety of DSA problems categorized by topics.
-- Solutions provided in multiple programming languages.
-- Easy to navigate folder structure for efficient learning.
+## Features
+- A comprehensive set of DSA problems
+- Well-structured folder organization
+- Code examples in multiple programming languages
+- Ongoing updates and contributions from the community
 
-## Summary of the Changes
-In the latest update, the README.md file has been refined to improve clarity and aesthetics. The following changes were made:
-- Enhanced the **Features** section header for better visibility.
-- Updated the **Installation** section with a more visually appealing header.
-- Revised the **Usage** section header to improve clarity.
-- Minor formatting adjustments for improved readability.
+## Summary of Changes
+In the latest commit, the README file has been updated to enhance clarity and provide a better user experience. Notable changes include:
+- Removal of redundant usage instructions.
+- Addition of an example section to illustrate a DSA problem solution.
 
-## Installation ⚙️
+## Installation
 To clone this repository, run:
 ```bash
 git clone https://github.com/Shivanilarokar/DSA-Questions-
 ```
+
+## Usage
 Explore the various folders and files within this repository to find DSA problems that you can solve and learn from.
 
 ## Example
@@ -40,5 +39,5 @@ def fibonacci(n):
         return fibonacci(n-1) + fibonacci(n-2)
 ```
 
-Feel free to contribute by opening issues or submitting pull requests. Happy coding! 🎉
+Feel free to explore, contribute, and enhance your DSA skills!
 ```
