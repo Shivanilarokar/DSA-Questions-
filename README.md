@@ -1,10 +1,9 @@
 ```markdown
-# DSA Questions Repository 🤖
+# DSA Questions 📚
 
-![GitHub repo size](https://img.shields.io/github/repo-size/Shivanilarokar/DSA-Questions-) ![GitHub stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-)
-
-## Overview
 Welcome to the **DSA Questions** repository! This repository contains a variety of DSA problems categorized by difficulty level, aimed at helping developers enhance their data structures and algorithms skills.
+
+![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ## Features
 - Comprehensive collection of DSA questions
@@ -13,19 +12,16 @@ Welcome to the **DSA Questions** repository! This repository contains a variety 
 
 ## Summary of the Changes
 In the latest update, the README file has been modified to enhance clarity and presentation. Notable changes include:
+- Improved description in the **Overview** section for better understanding.
 - Merged badge display into a single line for improved aesthetics.
 - Minor textual adjustments for better readability.
 
 ### Code Snippet of Changes
 ```diff
----## Overview
-----Welcome to the **DSA Questions** repository! This repository serves as a comprehensive resource for anyone looking to improve their understanding of data structures and algorithms.
---+## Overview
---+Welcome to the **DSA Questions** repository! This repository contains a variety of DSA problems categorized by difficulty level, aimed at helping developers enhance their data structures and algorithms skills.
-+-## Overview
-+-Welcome to the **DSA Questions** repository! This repository serves as a comprehensive resource for anyone looking to improve their understanding of data structures and algorithms.
-++## Overview
-++Welcome to the **DSA Questions** repository! This repository contains a variety of DSA problems categorized by difficulty level, aimed at helping developers enhance their data structures and algorithms skills.
+-## Overview
+-Welcome to the **DSA Questions** repository! This repository serves as a comprehensive resource for anyone looking to improve their understanding of data structures and algorithms.
++## Overview
++Welcome to the **DSA Questions** repository! This repository contains a variety of DSA problems categorized by difficulty level, aimed at helping developers enhance their data structures and algorithms skills.
 ```
 
 ## Installation
@@ -47,5 +43,5 @@ def example_problem():
     pass
 ```
 
-Feel free to explore the repository and enhance your DSA skills!
+Feel free to explore the repository and enhance your DSA skills! Happy coding! 🎉
 ```
