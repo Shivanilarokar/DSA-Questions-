@@ -15,26 +15,21 @@ The recent updates to the `README.md` file include enhancements in the introduct
 ```diff
 -## Features 🎮
 +## Features 🎉
--## Summary of the Changes
+-## Summary of the Changes 📍
 +## Summary of the Changes 📝
 ```
 
 These improvements aim to provide a more engaging and visually appealing experience for users.
 
-## Installation 💻
-To get started with the DSA Questions repository, follow these steps:
+## Installation 🚀
+To get started with this repository, clone it using the following command:
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Shivanilarokar/DSA-Questions-
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd DSA-Questions-
-   ```
+```bash
+git clone https://github.com/Shivanilarokar/DSA-Questions-
+```
 
-## Usage 🚀
-Once you have cloned the repository, you can explore the various DSA problems and their solutions. Here’s a simple example to illustrate how to use the solutions:
+## Usage 💻
+Once you have cloned the repository, you can explore the various DSA problems and solutions available.
 
 ```python
 def example_problem():
