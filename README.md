@@ -4,10 +4,8 @@
 [![GitHub stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-?style=social)](https://github.com/Shivanilarokar/DSA-Questions-/stargazers) 
 [![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-?style=social)](https://github.com/Shivanilarokar/DSA-Questions-/network)
 
-This repository provides a comprehensive collection of Data Structures and Algorithms (DSA) questions and solutions. It's designed to help you improve your understanding and coding skills in DSA.
-
 ## Overview
-The DSA Questions repository is aimed at providing a variety of coding challenges that cover fundamental concepts of data structures and algorithms. Each question is accompanied by clear solutions and coding examples in multiple programming languages.
+The DSA Questions repository aims to provide a variety of coding challenges that cover fundamental concepts of data structures and algorithms. Each question is accompanied by clear solutions and coding examples in multiple programming languages.
 
 ## Features
 - **Diverse Questions**: Explore a wide range of DSA problems.
@@ -40,6 +38,7 @@ Here’s a basic example of an algorithm provided in the repository:
 
 ```python
 def example_algorithm(data):
+    # Example implementation
     return sorted(data)
 
 print(example_algorithm([5, 2, 9, 1]))
@@ -48,6 +47,4 @@ print(example_algorithm([5, 2, 9, 1]))
 Explore the questions and solutions to improve your understanding of Data Structures and Algorithms. Each solution can be used as a reference for your own coding challenges.
 
 Feel free to explore, contribute, and enhance your DSA skills! 🚀
-
-This README.md file is designed to be professional, aesthetically pleasing, and easy to navigate, reflecting the recent changes made to the repository.
 ```
