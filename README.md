@@ -13,10 +13,6 @@ Welcome to the DSA Questions repository! This repository contains a comprehensiv
 ## Summary of Changes 📝
 In the latest commit, the `README.md` has been updated to improve clarity and enhance the user experience. Here are the key changes made:
 
-- **Introduction Update**: Enhanced the wording in the introduction to better convey the purpose of the repository.
-- **Usage Instructions**: Clarified the instructions for navigating the repository after cloning.
-- **Example Update**: Updated the example code for better comprehension and clarity.
-
 ### Code Snippets of Changes
 
 #### Updated Introduction
@@ -44,7 +40,7 @@ git clone https://github.com/Shivanilarokar/DSA-Questions-
 cd DSA-Questions-
 ```
 
-## Usage 🛠️
+## Usage 🖥️
 After cloning the repository, navigate to the directory and explore the DSA problems and solutions. Each problem is well-documented with its corresponding solution.
 
 ## Example 📚
@@ -55,10 +51,6 @@ cd DSA-Questions-
 ls
 # Check for available problem folders
 ```
-
-Feel free to explore the solutions provided and contribute to the repository!
-
----
 
 Thank you for checking out the DSA Questions repository! Happy coding! 🎉
 ```
