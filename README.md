@@ -22,7 +22,6 @@ In the recent update, the `README.md` file has been modified to enhance clarity 
 ```diff
 - Welcome to the DSA Questions repository! This repository contains a collection of data structures and algorithms designed to help you master coding interviews and improve your problem-solving skills.
 + Welcome to the DSA Questions repository! This project is dedicated to providing a comprehensive collection of Data Structures and Algorithms (DSA) problems and their solutions. Whether you are a beginner or an experienced developer, this repository will help you enhance your coding skills.
-
 ```
 ```diff
 -git clone https://github.com/Shivanilarokar/DSA-Questions-
@@ -30,8 +29,8 @@ In the recent update, the `README.md` file has been modified to enhance clarity 
 ```
 ```python
 def example_algorithm(data):
--    # Example implementation of an algorithm
--    return sorted(data)
+    # Example implementation of an algorithm
+    return sorted(data)
 +    # Your algorithm implementation here
 +    pass
 ```
