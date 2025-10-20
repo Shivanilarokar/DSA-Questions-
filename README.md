@@ -12,12 +12,12 @@ This repository aims to provide a comprehensive collection of Data Structures an
 - Code snippets in multiple programming languages.
 - User-friendly structure for easy navigation.
 
-## Summary of the Changes
+## Summary of the Changes 📡
 In this recent update, the following changes were made to the `README.md` file:
 - Added an **Overview** section to better explain the purpose of the repository.
 - Enhanced the **Features** section to highlight the structured approach to learning DSA.
-- Removed redundant text in the **Usage** section for clarity.
 - Updated the example code for the Fibonacci function to improve clarity and detail.
+- Removed redundant text in the **Usage** section for clarity.
 - Adjusted the **License** section formatting for consistency.
 - Added a concluding note to encourage exploration and contributions to the repository.
 
@@ -28,7 +28,6 @@ To get a local copy of this repository, clone it using the following command:
 git clone https://github.com/Shivanilarokar/DSA-Questions-
 ```
 
-## Usage
 Follow the instructions in the repository to explore various DSA problems and solutions.
 
 ### Example 💡
@@ -36,6 +35,7 @@ Here's an example of a Fibonacci function implementation:
 
 ```python
 def fibonacci(n):
+    """This function calculates the Fibonacci number for a given `n`, demonstrating recursion."""
     if n <= 0:
         return 0
     elif n == 1:
