@@ -1,19 +1,14 @@
 ```markdown
-# DSA Questions Repository 🚀
+# DSA Questions 📚
 
-![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![GitHub stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-)
-
-Welcome to the **DSA Questions** repository! This repository contains a variety of data structure and algorithm questions along with practical solutions to enhance your problem-solving skills.
-
-## Overview
-This repository is dedicated to providing a collection of data structures and algorithm problems. Whether you're preparing for coding interviews or just looking to enhance your problem-solving skills, this repository has something for everyone!
+This repository is dedicated to providing a collection of data structures and algorithm problems to enhance your coding skills and problem-solving abilities.
 
 ## Features ✨
 - A variety of data structure and algorithm problems.
 - Practical solutions to enhance understanding.
-- Community contributions are welcome!
+- Community contributions are welcome! 🤝
 
-## Summary of the Changes
+## Summary of the Changes 📝
 In the latest commit, the README file has been updated to enhance its clarity and engagement. The following changes were made:
 - Enhanced the welcome message for better engagement.
 - Improved the overview section for clarity.
@@ -31,6 +26,10 @@ cd DSA-Questions-
 ## Usage
 Here's a code snippet for a common problem, the "Two Sum":
 
+**Problem Statement**: Given an array of integers, return indices of the two numbers such that they add up to a specific target.
+
+**Example Solution**:
+
 ```python
 def two_sum(nums, target):
     num_map = {}
@@ -45,3 +44,14 @@ Feel free to contribute and enhance this repository with your own solutions and 
 
 Happy Coding! 💻
 ```
+
+### Badges
+You can add badges related to GitHub issues, forks, and stars at the top of the README file for better visibility. Here’s an example of how you can include them:
+
+```markdown
+![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
+![Forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-)
+![Stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-)
+```
+
+Include these badges right below the title to make your README visually appealing and informative!
