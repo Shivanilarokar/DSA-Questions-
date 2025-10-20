@@ -12,10 +12,10 @@ This repository provides a comprehensive collection of Data Structures and Algor
 - Contributions welcome from the community!
 
 ## Summary of the Changes
-In the latest update, the README.md file has been modified to enhance clarity and engagement. The following changes were made:
+In the latest update, the **README.md** file has been modified to enhance clarity and engagement. The following changes were made:
 - Added a rocket emoji to the repository title for a more engaging appearance.
 - Revised the overview section to emphasize learning effectiveness.
-  
+
 ### Code Changes
 Here are the specific changes made in the README.md file:
 
@@ -38,6 +38,8 @@ git clone https://github.com/Shivanilarokar/DSA-Questions-
 Navigate through the repository to find various DSA questions and their solutions. Feel free to contribute by adding new questions or improving existing solutions.
 
 ## Example
+Here's an example of a simple DSA question:
+
 ```python
 # Example of a simple DSA question
 def fibonacci(n):
