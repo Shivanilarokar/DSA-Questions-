@@ -4,19 +4,19 @@
 ![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
 
 ## Overview
-Welcome to the DSA Questions Repository! This repository is dedicated to providing a comprehensive collection of Data Structures and Algorithms (DSA) questions and solutions, aimed at helping developers and students improve their coding skills.
+This repository is dedicated to providing a collection of Data Structures and Algorithms (DSA) questions and their solutions. It serves as a resource for developers and students looking to enhance their understanding of DSA concepts through practical coding examples.
 
 ## Features
-- A wide variety of DSA questions.
-- Solutions in Python for easy understanding.
-- Community contributions are welcome!
+- Comprehensive collection of DSA questions
+- Clear and concise solutions in Python
+- Easy to navigate and contribute to
+- Continuous updates and improvements
 
 ## Summary of the Changes
-In the latest update, we have made a small yet significant enhancement to the Fibonacci function. The README file has been updated to reflect these changes and provide better clarity.
+In the latest update, we have made a small yet significant enhancement to the Fibonacci function. An `else` clause has been added for clarity in the recursive logic. This improvement enhances the readability and maintainability of the code.
 
-### Updated Code Snippet:
+### Code Changes
 ```python
-# Example of a Fibonacci function
 def fibonacci(n):
     if n <= 1:
         return n
@@ -28,7 +28,7 @@ print(f"The 10th Fibonacci number is: {result}")
 ```
 
 ## Installation
-To get started with the DSA Questions repository, clone the repository to your local machine:
+To get started with this repository, clone it using the following command:
 ```bash
 git clone https://github.com/Shivanilarokar/DSA-Questions-
 ```
@@ -38,13 +38,6 @@ Navigate to the folder containing the cloned repository and run the Python scrip
 ```bash
 cd DSA-Questions-
 python your_script.py
-```
-
-## Example
-Here’s a quick example of how to use the Fibonacci function:
-```python
-result = fibonacci(10)
-print(f"The 10th Fibonacci number is: {result}")
 ```
 
 Feel free to explore, contribute, and enhance your understanding of Data Structures and Algorithms with this repository!
