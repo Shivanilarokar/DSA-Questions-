@@ -14,6 +14,7 @@ The DSA Questions repository contains a comprehensive collection of Data Structu
 In this latest update, the README.md file has been enhanced for better readability and clarity. Key modifications include:
 - Improved description of the repository's purpose.
 - Streamlined features section by removing redundant points.
+- Clarified installation instructions with a code snippet for cloning the repository.
 
 ## Installation ⚙️
 To clone the repository, use the following command:
@@ -24,7 +25,7 @@ git clone https://github.com/Shivanilarokar/DSA-Questions-.git
 
 After cloning the repository, navigate to the directory and follow the instructions provided in the individual problem folders.
 
-## Usage 📖
+## Usage 📚
 Each problem is designed to help you understand the underlying concepts of Data Structures and Algorithms. You can explore the problems, attempt solutions, and check your answers against the provided examples.
 
 ## Example
