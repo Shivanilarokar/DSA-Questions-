@@ -8,13 +8,11 @@ The DSA Questions repository is designed to help you practice and improve your c
 
 ## Features ✨
 - **Diverse Questions**: Explore a wide range of DSA problems.
-- **Clear Explanations**: Each solution includes detailed explanations for better understanding.
 - **Multiple Languages**: Solutions provided in various programming languages.
+- **Clear Explanations**: Each solution includes detailed explanations for better understanding.
 
 ## Summary of Changes 💔
 In the latest commit, the `README.md` file has been updated to improve clarity and conciseness. The following changes were made:
-- Updated the title from **"DSA Questions"** to **"DSA Questions Repository"** for better context.
-- Enhanced the introduction for improved readability.
 - Improved the repository description for clarity.
 - Added badges for GitHub stars and forks to enhance visibility and engagement.
 - Updated the usage section to reflect a more engaging description.
@@ -25,28 +23,17 @@ To get started with the DSA Questions repository, clone the repository and insta
 ```bash
 git clone https://github.com/Shivanilarokar/DSA-Questions-.git
 cd DSA-Questions-
-# Install dependencies if any
 ```
 
-## Usage 📖
+## Usage 🛠️
 Here's a simple example of how to use the solutions provided:
 
 ```python
+# Sample Python solution for a DSA problem
 def example_problem(input):
     # Your implementation here
     return output
 ```
 
-Feel free to explore the various directories for solutions in multiple programming languages! Happy coding! 🚀
-
-## Contributing 🤝
-We welcome contributions! Please feel free to submit pull requests or open issues if you have suggestions for improvements.
-
-## Badges
-![GitHub stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-.svg?style=social)
-![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-.svg?style=social)
-
----
-
-Thank you for visiting the DSA Questions repository! If you have any questions or feedback, please reach out.
+Feel free to explore the various directories for solutions in multiple programming languages. Happy coding!
 ```
