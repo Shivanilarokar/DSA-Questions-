@@ -34,7 +34,9 @@ Navigate to the desired problem folder and run the solutions in your preferred p
 ## Example
 Here’s a simple example function included in the repository:
 ```python
+# Example code demonstrating a DSA problem
 def example_function():
+    # Your code here
     pass
 ```
 
