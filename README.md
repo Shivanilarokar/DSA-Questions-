@@ -4,8 +4,10 @@
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg) 
 ![Issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-.svg)
 
-## Overview
 Welcome to the **DSA Questions** repository! This repository contains a variety of DSA problems categorized by difficulty level, aimed at helping developers enhance their data structures and algorithms skills.
+
+## Overview
+This repository serves as a comprehensive resource for anyone looking to improve their understanding of data structures and algorithms. It includes a variety of DSA problems, complete with explanations and sample solutions.
 
 ## Features
 - Comprehensive collection of DSA problems
@@ -24,7 +26,6 @@ In the latest update, the README file has been modified to enhance clarity and p
 
 ## Installation
 To get started with the DSA Questions repository, clone the repository to your local machine:
-
 ```bash
 git clone https://github.com/Shivanilarokar/DSA-Questions-
 ```
