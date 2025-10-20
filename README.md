@@ -10,39 +10,39 @@ The DSA Questions repository aims to help developers improve their coding skills
 
 ## Features
 - A wide array of DSA problems with detailed implementations.
-- Clear and concise code snippets for better understanding.
-- Easy navigation and contribution guidelines.
+- Clear and concise explanations for each problem.
+- Code snippets showcasing various algorithms and data structures.
 
 ## Summary of the Changes
-In the latest update, the `README.md` file has been streamlined to enhance clarity and improve the presentation of code snippets. The following changes were made:
+In the latest commit, the README.md file has been updated to improve clarity and provide a better structure. Key modifications include:
 
-- Improved formatting of code snippets for better readability.
-- Added clearer distinctions between "Before" and "After" code examples.
-- Enhanced the installation and usage instructions for better user experience.
-- Updated the contribution section to encourage community involvement.
+- Enhanced introduction to the repository.
+- Improved formatting and clarity in code examples.
+- Minor adjustments to installation instructions for greater accuracy.
 
-### Code Snippet Changes
+### Changed Code Snippets
 Here's an example of how the code snippets were modified for clarity:
 
 **Before:**
 ```diff
--- Here's a sample Python code for a DSA problem:
--- ```python
-----def example_function():
-----    # Your code here
-----    pass
---+-    example_function()
----```
+--- Here's a sample Python code for a DSA problem:
+--- ```python
+----    def example_function():
+----        # Your code here
+----        pass
+----    example_function()
+--- ```
 ```
 
 **After:**
 ```diff
 -- Here's a sample Python code for a DSA problem:
 -- ```python
-++---def example_function():
-++---    # Your code here
-++---    pass
-++++    example_function()
++++---def example_function():
++++---    # Your code here
++++---    pass
++++++    example_function()
+--- ```
 ```
 
 ## Installation
@@ -58,10 +58,9 @@ Then navigate into the directory:
 cd DSA-Questions-
 ```
 
-## Usage
 Feel free to explore the various DSA problems available in this repository. Each problem file contains detailed implementations to help you understand the concepts better.
 
-## Example
+## Usage
 Here’s a simple example demonstrating how to use the repository:
 
 ```python
