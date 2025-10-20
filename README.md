@@ -1,17 +1,16 @@
 ```markdown
 # DSA Questions 🚀
 
-Welcome to the **DSA Questions** repository! This project serves as a platform for developers and learners to practice and enhance their skills in Data Structures and Algorithms (DSA). This repository is designed to help you improve your understanding of various data structures and algorithms through a collection of questions and solutions.
-
 ![GitHub stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-?style=social) ![Forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-?style=social)
+
+Welcome to the **DSA Questions** repository! This project serves as a platform for developers and learners to practice and enhance their skills in Data Structures and Algorithms (DSA). This repository is designed to help you improve your understanding of various data structures and algorithms through a collection of questions and solutions.
 
 ## Features
 - 📚 **Comprehensive collection of DSA questions**
 - ✍️ **Detailed solutions and explanations**
-- 🤖 **User-friendly structure for easy navigation**
 
 ## Summary of the Changes
-In the latest update, the README.md file has been improved for clarity and presentation. The changes include:
+In the latest update, the README.md file has been improved for clarity and presentation:
 - Added a new **Features** section to highlight key aspects of the repository.
 - Improved wording for clarity and engagement in various sections.
 - Minor formatting adjustments for improved readability.
@@ -25,10 +24,7 @@ git clone https://github.com/Shivanilarokar/DSA-Questions-
 ```
 
 ## Usage
-You can navigate through the various DSA questions and their solutions in this repository. Each question is designed to help you practice different concepts and improve your skills.
-
-### Example Code
-Here’s a simple example of a bubble sort implementation included in the repository:
+The repository contains various algorithms implemented in Python. Here’s an example of a simple bubble sort implementation:
 
 ```python
 def bubble_sort(arr):
@@ -38,6 +34,9 @@ def bubble_sort(arr):
             if arr[j] > arr[j+1]:
                 arr[j], arr[j+1] = arr[j+1], arr[j]
     return arr
+
+# Example usage
+print(bubble_sort([3, 1, 2]))  # Output: [1, 2, 3]
 ```
 
 Feel free to explore, contribute, and enhance your DSA skills! 🎉
