@@ -1,9 +1,9 @@
 ```markdown
 # DSA Questions 🚀
 
-Welcome to the **DSA Questions** repository! This project serves as a platform for developers and learners to practice and enhance their skills in Data Structures and Algorithms (DSA). This repository is designed to help you improve your understanding of various data structures and algorithms through a collection of questions and solutions.
-
 ![GitHub stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-?style=social) ![Forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-?style=social)
+
+Welcome to the **DSA Questions** repository! This project serves as a platform for developers and learners to practice and enhance their skills in Data Structures and Algorithms (DSA). This repository is designed to help you improve your understanding of various data structures and algorithms through a collection of questions and solutions.
 
 ## Features
 - 📚 **Comprehensive collection of DSA questions**
@@ -14,6 +14,7 @@ Welcome to the **DSA Questions** repository! This project serves as a platform f
 In the latest update, the README.md file has been enhanced to improve clarity and usability. Key changes include:
 - Added a **Features** section for better presentation of repository highlights.
 - Minor adjustments for improved readability and user engagement.
+- Improved the example code for the Fibonacci function, showcasing a more efficient iterative approach.
 
 ## Installation
 To get started with the DSA Questions repository, clone it to your local machine:
@@ -24,7 +25,10 @@ cd DSA-Questions-
 ```
 
 ## Usage
-Navigate to the directory and explore the various DSA questions and their solutions. Here is an enhanced example of a Fibonacci function:
+Navigate to the directory and explore the various DSA questions and their solutions.
+
+## Example
+Here’s an example of a simple DSA question solution using the Fibonacci sequence:
 
 ```python
 # Example of a simple DSA question solution
