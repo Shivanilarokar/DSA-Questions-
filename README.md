@@ -9,7 +9,7 @@ This repository provides a comprehensive collection of Data Structures and Algor
 
 ## Features ✨
 - 📖 User-friendly examples illustrating problem-solving techniques.
-- 🗂️ Well-structured documentation for easy navigation.
+- 🛠️ Well-structured documentation for easy navigation.
 
 ## Summary of the Changes 📝
 In the latest update to the `README.md`, the following changes were made:
@@ -27,15 +27,15 @@ To get started, clone the repository using the following command:
 git clone https://github.com/Shivanilarokar/DSA-Questions-
 ```
 
+## Usage 💻
 Once cloned, navigate to the repository directory and follow the instructions provided in the documentation for running the examples and solving the problems.
 
-## Usage 💻
 You can start working with the problems by navigating through the directories. Here’s a brief example of how you might structure a solution:
 
 ```python
 def example_problem(input):
-    # Your code logic here
-    return result
+    # Your solution logic here
+    return output
 ```
 
 Feel free to explore the repository and contribute to the collection of DSA problems!
@@ -43,4 +43,6 @@ Feel free to explore the repository and contribute to the collection of DSA prob
 ---
 
 Thank you for your interest! If you have any questions or suggestions, please feel free to reach out or submit an issue.
+
+Happy coding! 🎉
 ```
