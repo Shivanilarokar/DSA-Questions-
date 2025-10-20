@@ -9,6 +9,7 @@ The DSA Questions repository is designed for learners and enthusiasts to practic
 ## Features 🌟
 - A variety of data structure and algorithm problems to enhance your coding skills.
 - Structured sections for easy navigation.
+- Solutions and explanations to help understand the concepts better.
 - Community contributions are encouraged! 🤝
 
 ## Summary of Changes 📝
@@ -24,7 +25,7 @@ To get started with this repository, clone it using the following command:
 git clone https://github.com/Shivanilarokar/DSA-Questions-
 ```
 
-## Usage
+## Usage 📖
 To use the solutions in this repository, navigate through the structured sections to find problems and their corresponding solutions.
 
 ### Example
@@ -36,5 +37,5 @@ def example_algorithm(data):
     pass
 ```
 
-Feel free to explore, contribute, and improve your data structure and algorithm skills! Happy coding! 😊
+Feel free to explore, contribute, and improve your data structure and algorithm skills! Happy coding! 😄
 ```
