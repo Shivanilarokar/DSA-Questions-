@@ -29,21 +29,17 @@ To get started, clone the repository using the following command:
 git clone https://github.com/Shivanilarokar/DSA-Questions-
 ```
 
+## Usage 💻
 Follow the instructions in the repository to explore various problems and solutions.
 
-## Example 📝
+## Example 📖
 Here’s a simple example of how to use the repository:
 
 ```python
-# Example of a simple algorithm
-def fibonacci(n):
-    if n <= 0:
-        return 0
-    elif n == 1:
-        return 1
-    else:
-        return fibonacci(n-1) + fibonacci(n-2)
+# Example code snippet
+def example_function():
+    print("Welcome to DSA Questions!")
 ```
 
-Feel free to explore, contribute, and improve your coding skills! 🚀
+Feel free to explore and contribute to the repository. Happy coding! 🚀
 ```
