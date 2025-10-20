@@ -1,9 +1,7 @@
 ```markdown
-# DSA Questions 📚
+# DSA Questions Repository 📚
 
-![GitHub repo size](https://img.shields.io/github/repo-size/Shivanilarokar/DSA-Questions-) 
-![GitHub contributors](https://img.shields.io/github/contributors/Shivanilarokar/DSA-Questions-) 
-![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-) 
+![GitHub Repo Size](https://img.shields.io/github/repo-size/Shivanilarokar/DSA-Questions-) ![Contributors](https://img.shields.io/github/contributors/Shivanilarokar/DSA-Questions-) ![Open Issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
 
 ## Overview
 
@@ -36,29 +34,27 @@ git clone https://github.com/Shivanilarokar/DSA-Questions-
 
 ## Usage
 
-Navigate to the cloned repository and explore the various DSA questions and solutions provided. You can contribute by adding new questions or improving existing solutions.
+Feel free to explore the repository, solve the questions, and contribute your solutions. Your contributions are highly encouraged!
 
 ## Example
 
-Here is an example of how to use one of the solutions provided in the repository:
+Here is an example of how to use one of the solutions:
 
 ```python
-def example_solution():
-    # Example implementation of a DSA solution
-    pass
+def binary_search(arr, target):
+    low = 0
+    high = len(arr) - 1
+
+    while low <= high:
+        mid = (low + high) // 2
+        if arr[mid] < target:
+            low = mid + 1
+        elif arr[mid] > target:
+            high = mid - 1
+        else:
+            return mid
+    return -1
 ```
-
-Feel free to modify and adapt the examples to suit your learning needs!
-
-## Contributing
-
-We welcome contributions! Please feel free to submit a pull request or open an issue if you have suggestions or improvements.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
 
 Happy Coding! 🚀
 ```
