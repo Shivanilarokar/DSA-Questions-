@@ -12,20 +12,21 @@ The DSA Questions repository offers a comprehensive collection of data structure
 ## Features ✨
 
 - 📚 A wide variety of data structure and algorithm problems.
-- 🔧 Well-structured solutions for each problem.
-- 🧭 Easy navigation and contribution guidelines.
+- 🧩 Well-structured solutions for each problem.
+- 🤖 Easy navigation and contribution guidelines.
 
 ## Summary of the Changes 💖
 
-Recent updates to the `README.md` include:
+In this update, the README.md has been enhanced for clarity and readability. Key changes include:
 
-- Enhanced the introduction to provide a clearer purpose of the repository.
-- Improved the section on exploring the repository and contributing solutions.
-- Included an example usage of a sorting algorithm with clear code snippets.
+- **Title Update**: Changed from "DSA Questions" to "DSA Questions Repository" for better context.
+- **Introduction**: Improved welcome message for clarity.
+- **Overview Section**: Added a dedicated overview section to give a brief insight into the repository.
+- **Usage Section**: Clarified the usage instructions with an example of the bubble sort function and improved the code snippet formatting.
 
-## Installation ⚙️
+## Installation 🛠️
 
-To get started with this repository, clone it using the following command:
+To get started with the DSA Questions repository, clone the repository using the following command:
 
 ```bash
 git clone https://github.com/Shivanilarokar/DSA-Questions-
