@@ -1,4 +1,5 @@
-# DSA Questions
+```markdown
+# DSA Questions 🚀
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
 
@@ -18,6 +19,7 @@ The DSA Questions repository is designed to provide a comprehensive collection o
 ## Summary of the Changes
 
 In this update, the README.md file has been refined to improve clarity and presentation. Key changes include:
+
 - Enhanced the **Features** list for clarity with emojis for better readability.
 - Added a placeholder comment in the sample Python code to indicate where users should place their solutions.
 - Updated the example usage section to provide a clearer context for users.
@@ -38,7 +40,6 @@ Once you have cloned the repository, navigate to the appropriate directory and s
 Here is an example of how to structure your solution:
 
 ```python
-# Example solution placeholder
 def example_solution():
     # Place your solution here
     pass
@@ -49,3 +50,4 @@ example_solution()
 Feel free to explore the problems and contribute your solutions! 
 
 Happy coding! 🎉
+```
