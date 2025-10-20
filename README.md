@@ -1,5 +1,5 @@
 ```markdown
-# DSA Questions Repository 🚀
+# DSA Questions 🚀
 
 ![Last Commit](https://img.shields.io/github/last-commit/Shivanilarokar/DSA-Questions-) ![Contributors](https://img.shields.io/github/contributors/Shivanilarokar/DSA-Questions-)
 
@@ -7,11 +7,11 @@
 The DSA Questions repository is a collaborative space for developers to explore, practice, and improve their skills in data structures and algorithms. This repository contains a variety of problems with solutions that help in enhancing your coding proficiency.
 
 ## Features
-- A collection of data structures and algorithms questions.
+- A comprehensive collection of data structures and algorithms questions.
 - Well-documented code snippets for better understanding.
 - Opportunities for contributors to enhance their skills and share knowledge.
 
-## Summary of the Changes
+## Summary of the Changes ⚡
 In the latest update, the `README.md` file has been auto-updated to enhance clarity and presentation. Here are the key changes made:
 - Updated the repository title to include a rocket emoji for a more engaging appearance.
 - Improved the installation section with a more relevant emoji.
