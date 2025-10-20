@@ -1,5 +1,5 @@
 ```markdown
-# DSA Questions Repository 📚
+# DSA Questions 🤖
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
 
@@ -11,16 +11,15 @@ The DSA Questions repository offers a comprehensive collection of data structure
 
 ## Features ✨
 
-- 📖 A wide variety of data structure and algorithm problems.
+- 📚 A wide variety of data structure and algorithm problems.
 - 🛠️ Well-structured solutions for each problem.
-- 📋 Easy navigation and contribution guidelines.
+- 📑 Easy navigation and contribution guidelines.
 
 ## Summary of the Changes 💖
 
 Recent updates to the `README.md` include:
-
-- Improved the title for better visual appeal.
-- Enhanced the section on exploring the repository and contributing solutions.
+- Enhanced the introduction to provide a clearer purpose of the repository.
+- Improved the section on exploring the repository and contributing solutions.
 - Included an example usage of a sorting algorithm with clear code snippets.
 
 ## Installation 🛠️
@@ -32,9 +31,9 @@ git clone https://github.com/Shivanilarokar/DSA-Questions-
 cd DSA-Questions-
 ```
 
-## Usage 📦
-
 Navigate to the directory to explore the various DSA problems available. You can run the solutions in a Python environment.
+
+## Usage 📖
 
 Here’s an example of how to use the bubble sort function included in this repository:
 
@@ -47,7 +46,16 @@ def bubble_sort(arr):
             if arr[j] > arr[j+1]:
                 arr[j], arr[j+1] = arr[j+1], arr[j]
     return arr
+
+# Sample input
+example_array = [64, 34, 25, 12, 22, 11, 90]
+sorted_array = bubble_sort(example_array)
+print("Sorted array:", sorted_array)
 ```
 
 Feel free to explore the repository and contribute your own solutions!
+
+---
+
+Happy coding! 🎉
 ```
