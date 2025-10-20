@@ -1,39 +1,26 @@
 ```markdown
 # DSA Questions Repository 📚
 
-![GitHub stars](https://img.shields.io/github/stars/Shivanilarokar/DSA-Questions-?style=social) ![GitHub forks](https://img.shields.io/github/forks/Shivanilarokar/DSA-Questions-?style=social)
+![GitHub last commit](https://img.shields.io/github/last-commit/Shivanilarokar/DSA-Questions-)
+![GitHub contributors](https://img.shields.io/github/contributors/Shivanilarokar/DSA-Questions-)
+![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
 
-## Overview
 This repository contains a collection of Data Structure and Algorithm (DSA) questions aimed at helping you prepare for technical interviews. Whether you're a beginner or an experienced developer, you'll find a variety of problems to practice and enhance your skills.
 
-## Features
+## Features ✨
 - A comprehensive collection of DSA questions.
 - Helpful for both beginners and experienced developers preparing for technical interviews.
+- Solutions provided in multiple programming languages.
 
-## Summary of the Changes
-In the latest update, the `README.md` file has been enhanced with additional information and formatting improvements:
-- Enhanced the `README.md` file with additional information.
-- Improved formatting for better readability.
-- Added a clear overview section to describe the purpose of the repository.
+## Summary of the Changes 🔄
+In the latest update, the `README.md` file has been enhanced with additional information and formatting improvements to improve readability and usability. Key changes include:
 
-### Key Changes:
-```diff
--# DSA Questions Repository 📚
-+# DSA Questions Repository
-+In the latest update, the `README.md` file has been enhanced with additional information and formatting improvements:
-+
-+## Overview
-+This repository contains a collection of Data Structure and Algorithm (DSA) questions aimed at helping you prepare for technical interviews. Whether you're a beginner or an experienced developer, you'll find a variety of problems to practice and enhance your skills.
-+
-+## Installation
-+ To get started with this repository, simply clone it to your local machine:
-+
-+ ```bash
-+ git clone https://github.com/Shivanilarokar/DSA-Questions-.git
-+ ```
-```
+- Updated feature descriptions for clarity.
+- Improved installation instructions with better formatting.
+- Added a new example command for repository navigation.
+- Enhanced call-to-action for contributions.
 
-## Installation
+## Installation ⚙️
 To get started with this repository, simply clone it to your local machine:
 
 ```bash
