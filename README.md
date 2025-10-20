@@ -8,20 +8,18 @@ Welcome to the DSA Questions repository! This repository contains a collection o
 ## Features
 - ✅ Comprehensive set of DSA questions
 - 📈 Regular updates with new questions
-- 🛠️ Clear explanations and solutions
+- 🔍 Clear explanations and solutions
 - 🤝 Community-driven contributions
 
 ## Summary of the Changes
 In the latest update, the following changes were made to the `README.md` file:
-
 - **Title Update**: Changed the book emoji from 📖 to 📚 for better representation.
 - **Enhanced Contributor Message**: Added a more engaging message for contributors.
 - **Badges Added**: Included badges for the last commit and license for better visibility.
 - **Overview Revision**: Revised the overview section for clarity.
-- **New Usage Section**: Included a new Usage section to guide users on how to navigate and use the repository effectively.
 
 ## Installation
-To clone this repository, run the following command in your terminal:
+To get started with the DSA Questions repository, clone it using the following command:
 
 ```bash
 git clone https://github.com/Shivanilarokar/DSA-Questions-.git
@@ -30,8 +28,9 @@ git clone https://github.com/Shivanilarokar/DSA-Questions-.git
 Once cloned, navigate to the project directory and start exploring the various DSA questions.
 
 ## Usage
-To effectively utilize the repository, browse through the various folders and files containing DSA questions and their respective solutions. 
+To effectively utilize the repository, browse through the various folders and files containing DSA questions and their respective solutions.
 
+### Example of Code Snippet
 Here is a sample function from the repository:
 
 ```python
@@ -40,10 +39,5 @@ def sample_function():
     pass
 ```
 
-## Contributing
-We welcome contributions from the community! Please refer to our contribution guidelines to get started.
-
----
-
-Thank you for visiting the DSA Questions repository! Happy coding! 🚀
+Feel free to explore, contribute, and enhance your DSA skills!
 ```
