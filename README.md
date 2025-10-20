@@ -1,19 +1,19 @@
 ```markdown
 # DSA Questions Repository 📚
 
-Welcome to the **DSA Questions** repository! This repository contains a comprehensive collection of Data Structures and Algorithms (DSA) questions designed to enhance your coding skills.
-
 ![Last Commit](https://img.shields.io/github/last-commit/Shivanilarokar/DSA-Questions-) ![License](https://img.shields.io/badge/license-MIT-blue)
+
+Welcome to the **DSA Questions** repository! This repository contains a comprehensive collection of Data Structures and Algorithms (DSA) questions designed to enhance your coding skills.
 
 ## Features
 - ✅ Comprehensive set of DSA questions
 - 📈 Regular updates with new questions
-- 🧠 Clear explanations and solutions
+- 🤖 Clear explanations and solutions
 - 🤝 Community-driven contributions
 
 ## Summary of the Changes
 In the latest update, the following changes were made to the `README.md` file:
-- **Title Update**: Changed the book emoji from 📖 to 📜 for better representation.
+- **Title Update**: Changed the book emoji from 📖 to 📚 for better representation.
 - **Enhanced Contributor Message**: Added a more engaging message for contributors.
 - **Badges Added**: Included badges for the last commit and license for better visibility.
 - **Overview Revision**: Revised the overview section for clarity.
@@ -23,19 +23,17 @@ In the latest update, the following changes were made to the `README.md` file:
 To get started with the DSA Questions repository, clone it using the following command:
 
 ```bash
-git clone https://github.com/Shivanilarokar/DSA-Questions-.git
+git clone https://github.com/Shivanilarokar/DSA-Questions-
 ```
 
-Once cloned, navigate to the project directory and start exploring the various DSA questions.
-
 ## Usage
-To effectively utilize the repository, browse through the various folders and files containing DSA questions and their respective solutions.
+Explore the various DSA questions available in this repository. Each question is designed to help you improve your skills. Feel free to navigate through the folders and files to find the content that interests you.
 
-### Example of Code Snippet
 Here is a sample function from the repository:
 
 ```python
 def sample_function():
+    # Sample function implementation
     pass
 ```
 
