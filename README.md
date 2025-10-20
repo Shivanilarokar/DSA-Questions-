@@ -10,32 +10,17 @@ This repository contains a variety of DSA problems, their solutions, and explana
 
 ## Features
 - A curated list of DSA questions.
-- Solutions and explanations for each question.
-- Engaging examples to illustrate concepts.
-
-## Pull Requests
-![GitHub Pull Requests](https://img.shields.io/github/issues-pr/Shivanilarokar/DSA-Questions-)
+- Detailed solutions and explanations.
+- Resources to assist in learning.
 
 ## Summary of the Changes
-In the recent commit, the README.md file has been auto-updated to reflect the following changes:
-- Added an **Overview** section to provide clarity about the repository's purpose.
-- Enhanced the **Installation** instructions for better readability.
-- Updated the **Usage** section to encourage exploration and contribution.
-- Included a new **Example** section with an engaging code snippet.
-- Improved a printed message in the example function for better engagement.
-
-### Code Snippet Example
-Here's the updated example function to illustrate usage:
-
-```python
-def greet():
-    print("Hello, DSA World!")
-
-greet()
-```
+In the latest update, the README.md file has been enhanced with the following changes:
+- Added badges for repository stars, last commit, license type, and open pull requests for better visibility.
+- Improved the overview description for clarity.
+- Introduced an example code snippet demonstrating a simple function in Python.
 
 ## Installation
-To get started with the DSA Questions repository, clone the repository using the following command:
+To get started, clone the repository using the following command:
 
 ```bash
 git clone https://github.com/Shivanilarokar/DSA-Questions-
