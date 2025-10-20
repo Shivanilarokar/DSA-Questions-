@@ -1,5 +1,5 @@
 ```markdown
-# DSA Questions Repository 🌟
+# DSA Questions Repository
 
 ![GitHub top language](https://img.shields.io/github/languages/top/Shivanilarokar/DSA-Questions-) ![GitHub](https://img.shields.io/github/license/Shivanilarokar/DSA-Questions-) ![GitHub issues](https://img.shields.io/github/issues/Shivanilarokar/DSA-Questions-)
 
@@ -37,5 +37,5 @@ def example_function():
     pass
 ```
 
-Feel free to explore the repository and contribute to enhancing the solutions! Happy coding! 🚀
+Feel free to explore and contribute to the repository!
 ```
